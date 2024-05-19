@@ -1,0 +1,7369 @@
+﻿[
+  {
+    "Number": 1,
+    "Text": "\" Modda almashinuvida hosil bо‘lgan kimyoviy energiya  boshqa turdagi energiyaga о‘tib hayot faoliyatini ta’minlaydi \"  bu ta’rif термодинамиканинг qaysi qonunga tо‘g‘ri keladi ?",
+    "Answers": [
+      "І- qonunga"
+    ],
+    "Options": [
+      "Gess qonuniga",
+      "II- qonunga",
+      "III- qonunga",
+      "Lavuaze-Laplas qonuniga"
+    ]
+  },
+  {
+    "Number": 2,
+    "Text": "Termodinamikaning  І-  qonuni termodinamikada yana qanday о‘qiladi?",
+    "Answers": [
+      "energiya yо‘q bо‘lmaydi va yо‘qdan hosil bо‘lmaydi"
+    ],
+    "Options": [
+      "issiqlik sovuq jismdan issiq  jismga о‘tmaydi",
+      "issiqlik issiq jismdan  sovuq  jismga о‘tmaydi",
+      "hosil bо‘lish issiqligi parchalanish issiqligiga teng bо‘ladi",
+      "gazlar  kat ta idishdan  kichik idishga diffuziyalanadi"
+    ]
+  },
+  {
+    "Number": 3,
+    "Text": "Reaksiyalarning issiqlik samaradorligini hisoblashda qaysi qonunga asoslaniladi?",
+    "Answers": [
+      "Gess"
+    ],
+    "Options": [
+      "Raul",
+      "Gibbs",
+      "Sechenov",
+      "Genri"
+    ]
+  },
+  {
+    "Number": 4,
+    "Text": "Gess qonun asosida qanday kattalik hisoblanadi?",
+    "Answers": [
+      "entalpiyaning о‘zgarishi"
+    ],
+    "Options": [
+      "ichki energiya",
+      "elektr energiya",
+      "Gelmgels energiyasi",
+      "bosimning о‘zgarishi"
+    ]
+  },
+  {
+    "Number": 5,
+    "Text": "Gess qonunga muvofiq reaksiyaning issiqlik samaradorligi moddaning nimasiga bog‘liq?",
+    "Answers": [
+      "agregat holatiga va tabiatiga"
+    ],
+    "Options": [
+      "bosib о‘tgan bosqichlariga",
+      "bosimga",
+      "haroratga",
+      "sathining kattaligiga"
+    ]
+  },
+  {
+    "Number": 6,
+    "Text": "Qonning osmotik bosimini о‘zgartirmaslik uchun, qonga quyilayotgan eritmalar osmotik bosimi qonnikiga teng bо‘lishi kerak. Bunday eritmalar qanday nomlanadi?",
+    "Answers": [
+      "fiziologik yoki  izotonik"
+    ],
+    "Options": [
+      "gomogen",
+      "geterogen",
+      "gipertonik",
+      "gipotonik"
+    ]
+  },
+  {
+    "Number": 7,
+    "Text": "Izotonik  eritma sifatida quyidagilardan qaysi biri ishlatiladi?",
+    "Answers": [
+      "NaCl  0.9 %"
+    ],
+    "Options": [
+      "NaCl  0.5%",
+      "KCl  5 %",
+      "glyukoza 25 %",
+      "glyukoza 15 %"
+    ]
+  },
+  {
+    "Number": 8,
+    "Text": "Izotonik  eritma qonda qanday holatni  vujudga keltiradi?",
+    "Answers": [
+      "izoosmiya"
+    ],
+    "Options": [
+      "gemoliz",
+      "plazmoliz",
+      "deplazmoliz",
+      "degemoliz"
+    ]
+  },
+  {
+    "Number": 9,
+    "Text": "Kislota va asoslarni  miqdorini aniqlashda titrimetriyaning hajmiy analizi ishlatiladi.  Shu analizning qaysi turi  ishlatiladi?",
+    "Answers": [
+      "neytrallanish"
+    ],
+    "Options": [
+      "oksidimetriya",
+      "permanganatometriya",
+      "kompleksometriya",
+      "chо‘ktirish"
+    ]
+  },
+  {
+    "Number": 10,
+    "Text": "Neytrallanish usul о‘z navbatida qanday turlarga bо‘linadi?",
+    "Answers": [
+      "alkalimetriya, atsidimetriya"
+    ],
+    "Options": [
+      "permanganatometriya, xromatometriya",
+      "argentometriya, atsidimetriya",
+      "yodometriya, xromatometriya",
+      "kompleksonometriya, xelatometriya"
+    ]
+  },
+  {
+    "Number": 11,
+    "Text": "Neytrallanish usulda ekvivalent nuqta qanday yо‘l bilan aniqlanadi?",
+    "Answers": [
+      "indikatorni rangi о‘zgarishi bо‘yicha"
+    ],
+    "Options": [
+      "chо‘kma tushishi bо‘yicha",
+      "ishchi eritma rangi о‘zgarishi bо‘yicha",
+      "rangli kompleks hosil bо‘lishi bо‘yicha",
+      "egri chiziq sinish nuqtasi bо‘yicha"
+    ]
+  },
+  {
+    "Number": 12,
+    "Text": "Biologik suyuqliklarning tarkibidagi kislota yoki asosli muhit beradigan  moddalar  miqdorini aniqlashda titrimetrik tahlil usuli qо‘llanadi. Buning uchun  titrimetrik tahlil usulining qaysi turidan foydalanish mumkin?",
+    "Answers": [
+      "neytrallash"
+    ],
+    "Options": [
+      "oksidimetriya",
+      "chо‘ktirish",
+      "kompleksometriya",
+      "argentometriya"
+    ]
+  },
+  {
+    "Number": 13,
+    "Text": "Me’da shirasida HCl  miqdorini aniqlashda kо‘rilgan usulning qaysi turidan  foydalaniladi?",
+    "Answers": [
+      "alkalimetriya"
+    ],
+    "Options": [
+      "argentometriya",
+      "permanganatometriya",
+      "atsidimetriya",
+      "xromatometriya"
+    ]
+  },
+  {
+    "Number": 14,
+    "Text": "Alkalimetriya  usulda ishchi eritma sifatida qaysi bir moddaning eritmasi qо‘llanadi?",
+    "Answers": [
+      "natriy gidroksid"
+    ],
+    "Options": [
+      "ammoniy gidroksid",
+      "mis gidroksid",
+      "sulfat kislota",
+      "nitrat kislota"
+    ]
+  },
+  {
+    "Number": 15,
+    "Text": "Siydik tarkibidagi xloridlar konsentratsiyasini hajmiy analiz yordamida aniqlash mumkin. Buning uchun hajmiy analizning qaysi turi qо‘llanadi?",
+    "Answers": [
+      "argentometriya"
+    ],
+    "Options": [
+      "alkalimetriya",
+      "atsidimetriya",
+      "permanganatometriya",
+      "xromatometriya"
+    ]
+  },
+  {
+    "Number": 16,
+    "Text": "Argentometriya  usul qanday turdagi reaksiyaga asoslanadi?",
+    "Answers": [
+      "chо‘ktirish"
+    ],
+    "Options": [
+      "oksidlanish-qaytarilish",
+      "neytrallanish",
+      "kompleks hosil bо‘lish",
+      "о‘rin olish"
+    ]
+  },
+  {
+    "Number": 17,
+    "Text": "Argentometriya  usulda ekvivalent nuqta qanday aniqlanadi?",
+    "Answers": [
+      "rangli chо‘kma tushishi bо‘yicha"
+    ],
+    "Options": [
+      "ishchi eritmaning rangi o`zgarishi bо‘yicha",
+      "indikatorning rangi о‘zgarishi bо‘yicha",
+      "rangli kompleks hosil bо‘lishi bо‘yicha",
+      "egri chiziq sinishi bо‘yicha"
+    ]
+  },
+  {
+    "Number": 18,
+    "Text": "Argentometriyada ekvivalent nuqtada chо‘kmalar hosil bо‘lishining ketma-ketligi chо‘kmalarni ma’lum kо‘rsatkichiga bog`liq bо‘ladi. Bu qanday kо‘rsatkich?",
+    "Answers": [
+      "eruvchanlik kо‘paytmasi"
+    ],
+    "Options": [
+      "pH kо‘rsatkichi",
+      "pOH kо‘rsatkichi",
+      "dissotsiyalanish konstantasi  Kd",
+      "molyar konsentratsiyasi"
+    ]
+  },
+  {
+    "Number": 19,
+    "Text": "Eruvchanlik kо‘paytmasini  hisoblash formulasi aniqlang:",
+    "Answers": [
+      "EK = [A+]n [B-]m"
+    ],
+    "Options": [
+      "PH = -lg[H+]",
+      "pOH = -lg[OH-]",
+      "Kd = [AB]/ [A+]n [B-]m",
+      "Sm = m / MV"
+    ]
+  },
+  {
+    "Number": 20,
+    "Text": "Qon plazmasi ustidagi suvning bug‘ bosimi, toza erituvchining  ustidagi  bug‘ bosimidan farq qiladi. Shu farq qanday bо‘ladi ?",
+    "Answers": [
+      "eritmada pastroq bо‘ladi"
+    ],
+    "Options": [
+      "eritmada yuqoriroq bо‘ladi",
+      "eritmada atmosfera bosimiga teng bо‘ladi",
+      "eritmada о‘zgarmaydi",
+      "eritma va erituvchida teng bо‘ladi"
+    ]
+  },
+  {
+    "Number": 21,
+    "Text": "Uglevod eritmasining qaynash haroroti toza erituvchiga nisbatan ortishi bo‘yicha uning molekulyar massasini topish mumkin.  Buning uchun qaysi qonundan foydalanasiz?",
+    "Answers": [
+      "Raulning ebulaskopik qonuni"
+    ],
+    "Options": [
+      "Sechenov",
+      "Genri",
+      "Vant-Goff",
+      "Raulning krioskopik qonuni"
+    ]
+  },
+  {
+    "Number": 22,
+    "Text": "Eritmaning qaynash harorati toza erituvchiga nisbatan qanday о‘zgaradi?",
+    "Answers": [
+      "ortadi"
+    ],
+    "Options": [
+      "pasayadi",
+      "o‘zgarmaydi",
+      "avval ortadi, keyin pasayadi",
+      "avval pasayadi, keyin ortadi"
+    ]
+  },
+  {
+    "Number": 23,
+    "Text": "Kо‘pchilik metallofermentlar – bu kompleks birikmalardir. Ularning tuzilishini tushintirishda ma’lum qoidalarga rioya qilinadi. Bunda kimning nazariyasiga asoslaniladi?",
+    "Answers": [
+      "Verner"
+    ],
+    "Options": [
+      "Berselius",
+      "Le-Shatelye",
+      "Guldberg",
+      "Gelmgols"
+    ]
+  },
+  {
+    "Number": 24,
+    "Text": "Koordinatsion nazariyaga kо‘ra birikmada markaziy о‘rinni qanday zarracha egallaydi?",
+    "Answers": [
+      "kompleks hosil qiluvchi"
+    ],
+    "Options": [
+      "tashqi sfera",
+      "koordinatsion soni",
+      "ligand",
+      "addend"
+    ]
+  },
+  {
+    "Number": 25,
+    "Text": "Kompleks birikmalar kо‘pchiligi suvli eritmada dissotsiatsiyalanib zaryadlangan kompleks ionlar hosil qiladi. Agar bu ionlar musbat zaryadga ega bо‘lsa kompleks birikma qanday nomlanadi?",
+    "Answers": [
+      "kationli"
+    ],
+    "Options": [
+      "anionli",
+      "neytral",
+      "akvakompleks",
+      "atsidokompleks"
+    ]
+  },
+  {
+    "Number": 26,
+    "Text": "Kationli komplekslarda ligand vazifasini qanday zarrachalar bajarishi mumkin?",
+    "Answers": [
+      "neytral qutbli molekula"
+    ],
+    "Options": [
+      "kislota qoldig‘i",
+      "gidroksid guruhi",
+      "metall",
+      "metallmas atom"
+    ]
+  },
+  {
+    "Number": 27,
+    "Text": "Kationli komplekslarning tashqi sferasida qanday zarrachalar bo‘lishi mumkin?",
+    "Answers": [
+      "kislota qoldig‘i yoki gidroksid ioni"
+    ],
+    "Options": [
+      "neytral qutbli molekula",
+      "metallmas atom",
+      "metall ioni yoki ammoniy ioni",
+      "suv molekulasi"
+    ]
+  },
+  {
+    "Number": 28,
+    "Text": "Kompleks birikmalar kо‘pchiligi suvli eritmalarda dissotsiatsyalanib zaryadlangan kompleks ion hosil qiladi. Agar bu ionlar manfiy zaryadga ega bо‘lsa kompleks birikma qanday nomlanadi?",
+    "Answers": [
+      "anionli"
+    ],
+    "Options": [
+      "kationli",
+      "neytral",
+      "akvakompleks",
+      "atsidokompleks"
+    ]
+  },
+  {
+    "Number": 29,
+    "Text": "Anionli komplekslarda ligand vazifasini qanday zarrachalar bajarishi mumkin?",
+    "Answers": [
+      "kislota qoldig‘i yoki gidroksid guruhi"
+    ],
+    "Options": [
+      "ammoniy ioni",
+      "metall",
+      "neytral qutbli molekula",
+      "metallmas atom"
+    ]
+  },
+  {
+    "Number": 30,
+    "Text": "Anionli komplekslarning tashqi sferasida qanday zarrachalar bо‘lishi mumkin?",
+    "Answers": [
+      "metall ioni yoki ammoniy ioni"
+    ],
+    "Options": [
+      "kislota qoldig‘i",
+      "metallmas atom",
+      "neytral qutbli molekula",
+      "gidroksid guruhi"
+    ]
+  },
+  {
+    "Number": 31,
+    "Text": "Kompleks hosil qiluvchi bilan tо‘g‘ridan-tо‘g‘ri bog‘langan guruhlar qanday nomlanadi?",
+    "Answers": [
+      "ligand"
+    ],
+    "Options": [
+      "ichki sfera",
+      "tashqi sfera",
+      "kation",
+      "anion"
+    ]
+  },
+  {
+    "Number": 32,
+    "Text": "Ligandlarning  soni qanday nomlanadi?",
+    "Answers": [
+      "koordinatsion son"
+    ],
+    "Options": [
+      "valentlik",
+      "oksidlanish darajasi",
+      "elektromanfiylik",
+      "elektronga moyillik"
+    ]
+  },
+  {
+    "Number": 33,
+    "Text": "Kompleks birikma hosil bо‘lishida ba’zida halqali komplekslar hosil bо‘ladi.",
+    "Answers": [
+      "xelatlar"
+    ],
+    "Options": [
+      "kationli",
+      "anionli",
+      "geterohalqalar"
+    ]
+  },
+  {
+    "Number": 34,
+    "Text": "Xelatlarda  ligand vazifasini qanday zarracha bajaradi?",
+    "Answers": [
+      "komplekson"
+    ],
+    "Options": [
+      "suv",
+      "ammiak",
+      "karbonil guruhi",
+      "anorganiq molekula"
+    ]
+  },
+  {
+    "Number": 35,
+    "Text": "Komplekslar ichida xelatlar  turiga kiruvchi moddani kо‘rsating.",
+    "Answers": [
+      "xlorofill"
+    ],
+    "Options": [
+      "akvakompleks",
+      "atsidokompleks",
+      "aminokompleks",
+      "mis atsetati"
+    ]
+  },
+  {
+    "Number": 36,
+    "Text": "Tibbiy-profilaktika sohasida suvning qattiqligi nazorat qilinadi. Suvning qattiqligini aniqlashda titrlashning qaysi turi qо‘llanadi?",
+    "Answers": [
+      "kompleksonometriya"
+    ],
+    "Options": [
+      "argentometriya",
+      "permanganatometriya",
+      "yodometriya",
+      "alkalimetriya"
+    ]
+  },
+  {
+    "Number": 37,
+    "Text": "Kompleksonometriya usulda qanday ishchi eritma qо‘llanadi?",
+    "Answers": [
+      "trilon B"
+    ],
+    "Options": [
+      "yod eritmasi",
+      "kuchli kislota",
+      "kuchli asos",
+      "kaliy permanganat"
+    ]
+  },
+  {
+    "Number": 38,
+    "Text": "Kompleksonometriya usulda qanday indikator ishlatiladi?",
+    "Answers": [
+      "erioxrom qora"
+    ],
+    "Options": [
+      "timolftalein",
+      "fenolftalein",
+      "metiloranj",
+      "metil qizil"
+    ]
+  },
+  {
+    "Number": 39,
+    "Text": "Oksidimetriya usulining asosida qanday reaksiyalar yotadi?",
+    "Answers": [
+      "oksidlanish-qaytarilish"
+    ],
+    "Options": [
+      "neytrallanish",
+      "almashinish",
+      "chо‘ktirish",
+      "kompleks hosil qilish"
+    ]
+  },
+  {
+    "Number": 40,
+    "Text": "Disproporsiyalanish reaksiya qanday bо‘ladi:",
+    "Answers": [
+      "bir atomning о‘zi ham oksidlanadi va ham qaytariladi"
+    ],
+    "Options": [
+      "oksidlovchi va qaytaruvchi bir molekulaning о‘zida bо‘ladi",
+      "bir moddaning kationi boshqa moddaning kationi о‘rnini egallaydi",
+      "kompleksonlar metallar bilan birikib xelatlar hosil qiladi",
+      "qо‘sh tuzlar hosil bо‘ladi"
+    ]
+  },
+  {
+    "Number": 41,
+    "Text": "Vodorod peroksid konsentratsiyasini aniqlash uchun qaysi usul qо‘llanadi?",
+    "Answers": [
+      "permanganatometriya"
+    ],
+    "Options": [
+      "alkalimetriya",
+      "atsidimetriya",
+      "yodometriya",
+      "xromatometriya"
+    ]
+  },
+  {
+    "Number": 42,
+    "Text": "Oksidimetriya usulida qanday ishchi eritma ishlatiladi?",
+    "Answers": [
+      "kaliy permanganat"
+    ],
+    "Options": [
+      "kaliy dixromat",
+      "yod eritmasi",
+      "xlorid kislota",
+      "natriy gidroksid"
+    ]
+  },
+  {
+    "Number": 43,
+    "Text": "Oksidimetriya usulida qaysi modda indikator vazifasini о‘taydi?",
+    "Answers": [
+      "ishchi eritma"
+    ],
+    "Options": [
+      "metiloranj",
+      "fenolftalein",
+      "metil qizil",
+      "yod eritmasi"
+    ]
+  },
+  {
+    "Number": 44,
+    "Text": "Bufer sistemalarning pH о‘zgartirmaydigan darajada kuchli kislota yoki asoslarni qо‘shish chegarasi bо‘ladi.  Bu chegara qanday kattalik bilan belgilanadi?",
+    "Answers": [
+      "bufer sig‘imi"
+    ],
+    "Options": [
+      "pH qiymati",
+      "kislota yoki asosning hajmi",
+      "bufer konsentratsiyasi",
+      "kislota yoki asosniing dissotsiatsiya konstantasi"
+    ]
+  },
+  {
+    "Number": 45,
+    "Text": "Bufer sig‘imi  qancha bufer eritma uchun hisoblanadi?",
+    "Answers": [
+      "1 litr"
+    ],
+    "Options": [
+      "10 litr",
+      "15 litr",
+      "5 litr",
+      "0,1 litr"
+    ]
+  },
+  {
+    "Number": 46,
+    "Text": "Bufer sig‘imi   hisoblash uchun qanday formuladan foydalanasiz?",
+    "Answers": [
+      "V = C / pH1 – pH0"
+    ],
+    "Options": [
+      "pH = - lg [H+]",
+      "Cm = m / MV",
+      "Kd = [AB]/ [A+]n [B-]m",
+      "n = m / M"
+    ]
+  },
+  {
+    "Number": 47,
+    "Text": "Quyidagi bufer sistemalardan qaysi biri asosan qonda faoliyat kо‘rsatadi?",
+    "Answers": [
+      "gidakarbonatli"
+    ],
+    "Options": [
+      "fosfatli",
+      "ammiakli",
+      "atsetatli",
+      "oqsilli"
+    ]
+  },
+  {
+    "Number": 48,
+    "Text": "Gidrokarbonatli bufer sistemaning kimyoviy tarkibini kо‘rsating.",
+    "Answers": [
+      "NaHCO3 + H2CO3"
+    ],
+    "Options": [
+      "NaH2PO4 +  Na2HPO4",
+      "CH3COONa + CH3COOH",
+      "PtCOONa + Pt COOH",
+      "NH4Cl + NH4OH"
+    ]
+  },
+  {
+    "Number": 49,
+    "Text": "Gidrokarbonatli  bufer eritmaga OH- ionlarini qо‘shganda bufer ta’siri mexanizmini aks ettiruvchi jarayonni kо‘rsating.",
+    "Answers": [
+      "H2CO3 + OH- = HCO3- + H2O"
+    ],
+    "Options": [
+      "H2PO4- +  OH-  = HPO42-  + H2O",
+      "NH4Cl + OH-  = NH4OH + Cl-",
+      "CH3COOH + OH-  =  CH3COO- + H2O",
+      "Pt COOH + OH-  =  Pt COO- + H2O"
+    ]
+  },
+  {
+    "Number": 50,
+    "Text": "Quyidagi bufer sistemalardan qaysi biri asosan tо‘qima ichi suyuqliklarida  faoliyat kо‘rsatadi?",
+    "Answers": [
+      "fosfatli"
+    ],
+    "Options": [
+      "ammiakli",
+      "gidrokarbonatli",
+      "atsetatli",
+      "oqsilli"
+    ]
+  },
+  {
+    "Number": 51,
+    "Text": "Fosfatli  bufer sistemaning kimyoviy tarkibini kо‘rsating.",
+    "Answers": [
+      "NaH2PO4 +  Na2HPO4"
+    ],
+    "Options": [
+      "NaHCO3 + H2CO3",
+      "CH3COONa + CH3COOH",
+      "PtCOONa + Pt COOH",
+      "NH4Cl + NH4OH"
+    ]
+  },
+  {
+    "Number": 52,
+    "Text": "Fosfatli bufer eritmaga OH- ionlarini qо‘shganda bufer ta’siri mexanizmini aks ettiruvchi jarayonni kо‘rsating.",
+    "Answers": [
+      "H2PO4- +  OH-  = HPO42-  + H2O"
+    ],
+    "Options": [
+      "H2CO3 + OH- = HCO3- + H2O",
+      "NH4Cl + OH-  = NH4OH + Cl-",
+      "CH3COOH + OH-  =  CH3COO- + H2O",
+      "Pt COOH + OH-  =  Pt COO- + H2O"
+    ]
+  },
+  {
+    "Number": 53,
+    "Text": "Quyidagi bufer sistemalardan qaysi biri barcha tо‘qima va hujayralarda faoliyat kо‘rsatadi?",
+    "Answers": [
+      "oqsilli"
+    ],
+    "Options": [
+      "fosfatli",
+      "ammiakli",
+      "gidrokarbonatli",
+      "atsetatli"
+    ]
+  },
+  {
+    "Number": 54,
+    "Text": "Oqsilli bufer sistemaning kimyoviy tarkibini kо‘rsating.",
+    "Answers": [
+      "PtCOONa + Pt COOH"
+    ],
+    "Options": [
+      "NaH2PO4 +  Na2HPO4",
+      "NaHCO3 + H2CO3",
+      "CH3COONa + CH3COOH",
+      "NH4Cl + NH4OH"
+    ]
+  },
+  {
+    "Number": 55,
+    "Text": "Oqsilli bufer eritmaga OH- ionlarini qо‘shganda bufer ta’siri mexanizmini aks ettiruvchi jarayonni kо‘rsating.",
+    "Answers": [
+      "Pt COOH + OH-  =  Pt COO- + H2O"
+    ],
+    "Options": [
+      "H2CO3 + OH- = HCO3- + H2O",
+      "H2PO4- +  OH-  = HPO42-  + H2O",
+      "NH4Cl + OH-  = NH4OH + Cl-",
+      "CH3COOH + OH-  =  CH3COO- + H2O"
+    ]
+  },
+  {
+    "Number": 56,
+    "Text": "Quyidagi kо‘rsatilganlardan qaysi biri kasb kasalligi hisoblanadi?",
+    "Answers": [
+      "antrakoz"
+    ],
+    "Options": [
+      "flyuaroz",
+      "bо‘qoq",
+      "kariyes",
+      "stronsiyli raxit"
+    ]
+  },
+  {
+    "Number": 57,
+    "Text": "Qaysi bir element antrakoz kasallikni sababchisi bо‘ladi?",
+    "Answers": [
+      "C"
+    ],
+    "Options": [
+      "Si",
+      "F",
+      "Cl",
+      "Ca"
+    ]
+  },
+  {
+    "Number": 58,
+    "Text": "Quyidagi kо‘rsatilganlardan qaysi biri endemik kasallik hisoblanadi?",
+    "Answers": [
+      "stronsiyli raxit"
+    ],
+    "Options": [
+      "alyuminoz",
+      "berillioz",
+      "antrakoz",
+      "argiriya"
+    ]
+  },
+  {
+    "Number": 59,
+    "Text": "Qanday biogen elementlar osmotik bosimni doimiyligi saqlanishida ishtirok etadi.",
+    "Answers": [
+      "Na va K"
+    ],
+    "Options": [
+      "Al  va CH",
+      "Ca va Cu",
+      "Fe va Co",
+      "F va Br"
+    ]
+  },
+  {
+    "Number": 60,
+    "Text": "Na va K  biogen elementlarning qaysi guruhiga kiradi?",
+    "Answers": [
+      "s"
+    ],
+    "Options": [
+      "p",
+      "d",
+      "f",
+      "g"
+    ]
+  },
+  {
+    "Number": 61,
+    "Text": "Odam organizmida d-elementlar asosan metallokomplekslar tarkibiga kiradi.",
+    "Answers": [
+      "anemiya"
+    ],
+    "Options": [
+      "silikoz",
+      "argiriya",
+      "antrakoz",
+      "flyuaroz"
+    ]
+  },
+  {
+    "Number": 62,
+    "Text": "Qaysi element anemiya kasalligini keltiradi",
+    "Answers": [
+      "Fe"
+    ],
+    "Options": [
+      "Cr",
+      "Mn",
+      "Cr",
+      "V"
+    ]
+  },
+  {
+    "Number": 63,
+    "Text": "Fe+3  elementga sifat reaktivini tanlang:",
+    "Answers": [
+      "K4[Fe(CN)6]"
+    ],
+    "Options": [
+      "Na2[Co(CNS)4]",
+      "NH4OH",
+      "Na4HC4O4",
+      "NaCl"
+    ]
+  },
+  {
+    "Number": 64,
+    "Text": "Elementlardan birini organizmga ortiqcha kelib tushishi «Vilson kasalligi» ga olib keladi. Bu qaysi element?",
+    "Answers": [
+      "Cu"
+    ],
+    "Options": [
+      "Fe",
+      "Ni",
+      "Ca",
+      "Ag"
+    ]
+  },
+  {
+    "Number": 65,
+    "Text": "Cu  elementning yetishmovchiligi qanday kasallikga olib keladi?",
+    "Answers": [
+      "anemiya"
+    ],
+    "Options": [
+      "argiriya",
+      "gemofiliya",
+      "gipertoniya",
+      "gipotoniya"
+    ]
+  },
+  {
+    "Number": 66,
+    "Text": "Qanday sistema tashqi muhit bilan faqat energiya almasha oladi.",
+    "Answers": [
+      "Yopiq sistema"
+    ],
+    "Options": [
+      "Ochiq sistema",
+      "Chegaralangan sistema",
+      "Gomogen sistema",
+      "Geterogen sistema"
+    ]
+  },
+  {
+    "Number": 67,
+    "Text": "Qanday sistema tashqi muhit bilan massa ham, energiya ham almasha olmaydi.",
+    "Answers": [
+      "Chegaralangan sistema"
+    ],
+    "Options": [
+      "Gomogen sistema",
+      "Geterogen sistema",
+      "Ochiq sistema",
+      "Yopiq sistema"
+    ]
+  },
+  {
+    "Number": 68,
+    "Text": "Qanday sistema tashqi muhit bilan ham massa, ham energiya almasha oladi.",
+    "Answers": [
+      "Ochiq sistema"
+    ],
+    "Options": [
+      "Chegaralangan sistema",
+      "Yopiq sistema",
+      "Geterogen sistema",
+      "Gomogen sistema"
+    ]
+  },
+  {
+    "Number": 69,
+    "Text": "Termodinamikada termodinamik sistemaning xossalari qanday ifodalanadi.",
+    "Answers": [
+      "Termodinamik parametrlar orqali"
+    ],
+    "Options": [
+      "Ichki energiya orqali",
+      "Entalpiya orqali",
+      "Bajarilgan ish miqdori orqali",
+      "Issiqlik miqdori orqali"
+    ]
+  },
+  {
+    "Number": 70,
+    "Text": "Asosiy termodinamik parametrlarni kо‘rsating.",
+    "Answers": [
+      "T, V, P, C"
+    ],
+    "Options": [
+      "U, T, V, PC",
+      "H, U, P, C",
+      "U, H, S, U"
+    ]
+  },
+  {
+    "Number": 71,
+    "Text": "Hujayra ichidagi bufer sistemani kо‘rsating.",
+    "Answers": [
+      "Fosfatli bufer sistema"
+    ],
+    "Options": [
+      "Gidrokarbonatli bufer sistema",
+      "Oqsilli bufer sistema",
+      "Proteinli bufer sistema",
+      "Aminokislotali bufer sistema"
+    ]
+  },
+  {
+    "Number": 72,
+    "Text": "Qaysi bufer eritma siydikda pH- ni doimiy ushlab turadi.",
+    "Answers": [
+      "Fosfatli bufer eritma"
+    ],
+    "Options": [
+      "Oksigemoglobin bufer eritma",
+      "Aminokislotali bufer eritma",
+      "Oqsilli bufer eritma",
+      "Gidrokarbonatli bufer eritma"
+    ]
+  },
+  {
+    "Number": 73,
+    "Text": "Keltirilgan kompleks birikmalar kompleks birikmalarinng qaysi turiga mansub.",
+    "Answers": [
+      "Atsidokompleks"
+    ],
+    "Options": [
+      "Akvakompleks",
+      "Ichki kompleks",
+      "Kationli kompleks",
+      "Aralash kompleks"
+    ]
+  },
+  {
+    "Number": 74,
+    "Text": "Xlorofil kompleks birikmalarning qaysi turiga mansub.",
+    "Answers": [
+      "Ichki kompleks"
+    ],
+    "Options": [
+      "Aralash kompleks",
+      "Akvakompleks",
+      "Aminokompleks",
+      "Atsidokompleks"
+    ]
+  },
+  {
+    "Number": 75,
+    "Text": "Quyidagi birikmalardan kompleks ionning zaryadini aniqlang.",
+    "Answers": [
+      "+2,0"
+    ],
+    "Options": [
+      "+4,0",
+      "-3,0",
+      "-2,+2",
+      "+3,+2"
+    ]
+  },
+  {
+    "Number": 76,
+    "Text": "Hayotiy metallar tarkibiga kiruvchi K elementlarning qaysi birikmalari tibbiyotda  ishlatiladi.",
+    "Answers": [
+      "KBr, CH3COOK"
+    ],
+    "Options": [
+      "K2CO3, KNO3",
+      "KCl, K2SO4",
+      "KNO3, K2SO4",
+      "KBr, KCl"
+    ]
+  },
+  {
+    "Number": 77,
+    "Text": "Kalsiy elementning qaysi birikmalari tibbiyotda ishlatiladi.",
+    "Answers": [
+      "CaCl2*6H2O, CaSO4*2H2O"
+    ],
+    "Options": [
+      "Ca(NO3)2, Ca(HSO4)2",
+      "CaCl2, Ca(HCO3)2",
+      "Ca(NO3)2, CaCl2",
+      "Ca(PO4)2, Ca(HSO4)2"
+    ]
+  },
+  {
+    "Number": 78,
+    "Text": "Davriy sistemadagi elementlarning nechtasi p-elementlarga mansub",
+    "Answers": [
+      "36"
+    ],
+    "Options": [
+      "40",
+      "35",
+      "45",
+      "28"
+    ]
+  },
+  {
+    "Number": 79,
+    "Text": "“Hayotiy metallardan”makro elementlarni kо‘rsating.",
+    "Answers": [
+      "Na,K,Mg,Ca"
+    ],
+    "Options": [
+      "Mn,Fe,Na,K",
+      "Ca,Zn,Mg,Ca",
+      "Na,K,Mo,Mg",
+      "Zn,Na,Ca,Mg"
+    ]
+  },
+  {
+    "Number": 80,
+    "Text": "“Hayotiy metallardan” mikro elementlar qatorini kо‘rsating.",
+    "Answers": [
+      "Co,Mn,Cu,Mo"
+    ],
+    "Options": [
+      "Ca,Mn,Fe,K",
+      "Mo,Zn,Cu,Ca",
+      "Fe,Zn,Cu,Na,",
+      "Na,K,Ca,Co"
+    ]
+  },
+  {
+    "Number": 81,
+    "Text": "“Hayotiy metallardan” qon aylanish jarayonida aktiv ishtirok etuvchi metallar qatorini kо‘rsating.",
+    "Answers": [
+      "Mn,Fe,Co,Cu"
+    ],
+    "Options": [
+      "Na,Mo,Mn,Fe,",
+      "Ca,Mg,Zn,Cu",
+      "Fe,Zn,Cu,Na,",
+      "Co,Cu,Ca,Mg"
+    ]
+  },
+  {
+    "Number": 82,
+    "Text": "Osmotik bosim uchun Vant-Goff qonunining formulasini aniqlang.",
+    "Answers": [
+      "Rosm=CRT"
+    ],
+    "Options": [
+      "Rosm=KRT",
+      "Rosm=C2RT",
+      "Rosm=iRT",
+      "Rosm=VRT"
+    ]
+  },
+  {
+    "Number": 83,
+    "Text": "Odam tanasidagi 370C haroratdagi onkotik bosimning miqdorini aniqlang.",
+    "Answers": [
+      "Ronk=2,9-3,9 kPa"
+    ],
+    "Options": [
+      "Ronk=3,8-4,6 kPa",
+      "Ronk=1,5-2,9kPa",
+      "Ronk=3,9-7,8 kPa",
+      "Ronk=5,5-4,7 kPa"
+    ]
+  },
+  {
+    "Number": 84,
+    "Text": "Odam tanasidagi osmotik bosimning miqdorini aniqlang.",
+    "Answers": [
+      "Rosm=755-796 kPa"
+    ],
+    "Options": [
+      "Rosm=810-850 kPa",
+      "Rosm=745-810 kPa",
+      "Rosm=735-746 kPa",
+      "Rosm=796-830 kPa"
+    ]
+  },
+  {
+    "Number": 85,
+    "Text": "Odam jigaridagi yig’iladigan elementlar soni nechta.",
+    "Answers": [
+      "20"
+    ],
+    "Options": [
+      "15",
+      "18",
+      "30",
+      "16"
+    ]
+  },
+  {
+    "Number": 86,
+    "Text": "Odam qonida nechta element borligi aniqlangan.",
+    "Answers": [
+      "30"
+    ],
+    "Options": [
+      "40",
+      "35",
+      "25",
+      "45"
+    ]
+  },
+  {
+    "Number": 87,
+    "Text": "Erigan modda va eritma massalariga bog‘liq bо‘lgan konsentratsiyani ifodalash usuli qanday nomlanadi?",
+    "Answers": [
+      "Massa ulushi"
+    ],
+    "Options": [
+      "molyar ulushi",
+      "Hajmiy ulush",
+      "molyar konsentratsiya",
+      "molyal konsentratsiya"
+    ]
+  },
+  {
+    "Number": 88,
+    "Text": "Erigan modda miqdori va eritma hajmiga bog‘liq bо‘lgan konsentratsiyani ifodalash usuli qanday nomlanadi?",
+    "Answers": [
+      "molyar konsentratsiya"
+    ],
+    "Options": [
+      "molyal konsentratsiya",
+      "molyar ekvivalent konsentratsiya",
+      "eritma titri",
+      "molyar ulush"
+    ]
+  },
+  {
+    "Number": 89,
+    "Text": "Molyal konsentratsiya qaysi omillar bilan aniqlanadi?",
+    "Answers": [
+      "erigan modda miqdori va erituvchi massasi bilan"
+    ],
+    "Options": [
+      "erigan modda miqdori va eritmadagi modda miqdorlarini yig‘indisi bilan",
+      "eirgan modda miqdori va eritma hajmi bilan",
+      "erigan modda miqdori ekvivalenti va eritma hajmi bilan",
+      "modda hajmi va eritma hajmi bilan"
+    ]
+  },
+  {
+    "Number": 90,
+    "Text": "Ishchi eritma sifatida ishlatiladigan reaktiv turiga kо‘ra neytrallash usuliga kiradi.",
+    "Answers": [
+      "alkalimetriya va atsidimetriya"
+    ],
+    "Options": [
+      "oksidimetriya",
+      "permangannatmetriya",
+      "xromatometriyaya",
+      "argentometriya"
+    ]
+  },
+  {
+    "Number": 91,
+    "Text": "Oksidlanish-qaytarilish reaksiyalariga asoslangan titrimetrik tahlil usulini kо‘rsating.",
+    "Answers": [
+      "oksidimetriya"
+    ],
+    "Options": [
+      "alkalimetriya",
+      "atsidimetriya",
+      "argentometriya",
+      "kompleksonometriya"
+    ]
+  },
+  {
+    "Number": 92,
+    "Text": "Titrimetrik tahlilni qaysi usulida indikator qо‘llanilmaydi?",
+    "Answers": [
+      "oksidimetriya"
+    ],
+    "Options": [
+      "alkalimetriya",
+      "argentometriya",
+      "atsidmetriya",
+      "yodometriya"
+    ]
+  },
+  {
+    "Number": 93,
+    "Text": "Qaysi holda osmos hodisasi sodir bо‘ladi?",
+    "Answers": [
+      "eritma va erituvchi orasida yarim о‘tkazgich parda mavjud bо‘lsa"
+    ],
+    "Options": [
+      "eritma va erituvchi orasida ikki tomomnlama diffuziya bо‘lsa",
+      "eritma hajmi ortmasa",
+      "osmotik bosim ta’sir ettirilmasa",
+      "temperatura ortishi bilan eritmada o‘zgarish bo`lsa"
+    ]
+  },
+  {
+    "Number": 94,
+    "Text": "Vant-Goff qonuni qaysi alomatni aniqlaydi?",
+    "Answers": [
+      "osmotik bosim kо‘rsatkichi"
+    ],
+    "Options": [
+      "osmos tezligini",
+      "yarim о‘tkazgich parda о‘lchamini",
+      "osmos hosil  qiluvchi idish о‘lchamini",
+      "diffuziya tezligini"
+    ]
+  },
+  {
+    "Number": 95,
+    "Text": "Gipotonik eritmani  quyilganda hujayra ichiga atrofdagi suv molekulalari kirganda va hujayra yorilganda qanday hodisa sodir bо‘ladi?",
+    "Answers": [
+      "gemoliz"
+    ],
+    "Options": [
+      "plazmoliz",
+      "oldin gemoliz, sо‘ngra plazmoliz",
+      "oldin plazmoliz, sо‘ngra gemoliz",
+      "hech qanday hodisa ro‘y bermaydi"
+    ]
+  },
+  {
+    "Number": 96,
+    "Text": "Termodinamikani nolinchi qonunini kо‘rsating?",
+    "Answers": [
+      "ikki sistema uchinchi sistema bilan termik munosabatda turgan bо‘lsa, ular hami о‘zaro termik muvozanatda bо‘la oladilar."
+    ],
+    "Options": [
+      "energiya yangidan hosil  qilinmaydi va yo‘q bо‘lib ketmaydi",
+      "umrbod ishlovchi birinchi tartibni dvigatel bо‘lmaydi.",
+      "har  qanday ajratilglan sistemada umumiy energiya miqdori doimiy bо‘ladi.",
+      "ichki energiya holat funksiyasi hisoblanadi."
+    ]
+  },
+  {
+    "Number": 97,
+    "Text": "Termodinamikani birinchi qonunini kо‘rsating?",
+    "Answers": [
+      "ichki energiya holat funksiyasi hisoblanadi. Sistema bir holatdan ikkinchi holatga о‘tganda uning ichki energiyasini о‘zgarishi – tashqi muhit bilan almashinuvchi barcha energiyalarni algebraik yig‘indisiga teng bо‘ladi"
+    ],
+    "Options": [
+      "Agar sistema butunlay bir energetik pog‘onada turgan bo‘lsa, hech  qanday moslama undan ishni sodir qilolmaydi.",
+      "kam qizdirilgan jismdan kо‘p qizdirilgan jismga issiqlik ixtiyoriy о‘ta olmaydi",
+      "issik rezervuarni sovutish hisobiga davriy ishlovchi mashinani qurib bо‘lmaydi, uning yagona harakat natijasi mexanik ish bajarish bо‘lib qoladi",
+      "Har  qanday ixtiyoriy jarayonda energiya miqdori vaqt о‘tishi bilan ortadi"
+    ]
+  },
+  {
+    "Number": 98,
+    "Text": "Termodinamikani uchinchi qonunini kо‘rsating?",
+    "Answers": [
+      "ideal krisstal shaklida mavjud bо‘lgan toza modda entropiyasi absolyut nol temperaturada nolga teng bо‘ladi"
+    ],
+    "Options": [
+      "entropiyani о‘zgarishi manfiy bо‘lgan jarayonlar ajratilgan sistemalar uchun taqiqlanadi",
+      "ajratilgan sistemalarda faqat shunday jarayonlar ixtiyoriy sodir bо‘lishi mumkinki, qachonki sistemalarani energiyasi organ holda.",
+      "jarayon ixtiyoriy ravishda shunday holatga borishi mumkinki, unda entropiya ushbu sharoit uchun eng katta qiymatga ega bо‘ladi",
+      "har  qanday ajratilgan sistemada tо‘liq energiya doimiy bо‘ladi va tо‘liq entropiya vaqt о‘tishi bilan ortadi. Tartibsizlik qancha katta bо‘lsa, entropiya shuncha katta bо‘ladi"
+    ]
+  },
+  {
+    "Number": 99,
+    "Text": "Termodinamikada 4 ta qonun, 4 tadan ortiq termodinamik, bog‘liq bо‘lmagan parametrlar va 3 ta termodinamik funksiyalar mavjud bо‘lib:  (U=QV  ibora qaysi jarayonga taluqli?",
+    "Answers": [
+      "doimiy hajmdagi jarayonlar"
+    ],
+    "Options": [
+      "adiabatik jarayonlar",
+      "izotermik jarayonlar",
+      "doimiy bosimdagi jarayonlar",
+      "izobarik jarayonlar"
+    ]
+  },
+  {
+    "Number": 100,
+    "Text": "Entropiyani ta’rifiga qaysi ibora mos keladi?",
+    "Answers": [
+      "entropiya-termodinamik holat funksiya bо‘lib, sistemani tartibsizlik kо‘rsatikichi hisoblanadi"
+    ],
+    "Options": [
+      "ajratilgan sistemada ixtiyoriy jarayonlar sodir bо‘lganda mikroskopik holatlar soni ortadi: shunday fikrni entropiya haqida ham aytish mumkin",
+      "istemani entropiyasi uning holat ehtimolligini logarifmiga tо‘gri propotsional",
+      "tartibsiz qancha katta bо‘lsa, sistemaning entropiyasi shuncha katta bо‘ladi",
+      "ideal kristal shaklida mavjud bо‘lgan toza modda entropiyani absolyut nol temperaturada nolga -teng bо‘ladi."
+    ]
+  },
+  {
+    "Number": 101,
+    "Text": "Inson organizmida uchraydigan bufer eritmalarni kо‘rsating:",
+    "Answers": [
+      "bikarbonat, fosfat, oqsilli, gemoglobinli"
+    ],
+    "Options": [
+      "bikarbonat, fosfat, ammiakli, oqsilli, gemoglobinli",
+      "bikarbonatli, ammiakli, oqsilli, oksigemoglobinli",
+      "fosfat, ammiakli, gemoglobinli, oksigemoglobinli",
+      "fosfat, ammiakli, gemoglobinli, oksigemoglobinli"
+    ]
+  },
+  {
+    "Number": 102,
+    "Text": "Qonni ( arterial va vena) va oshqozon shirasini pH qiymati nechaga teng?",
+    "Answers": [
+      "7.4: 7.35: 1.49-1.8"
+    ],
+    "Options": [
+      "7.35: 7.4: 1-2",
+      "7.35: 7.354: 1.49-1.8",
+      "7.4: 7.4: 1-2",
+      "7.4: 7.4: 1.49-1.8"
+    ]
+  },
+  {
+    "Number": 103,
+    "Text": "Bikarbonat bufer qaysi oqsillar bilan xarakterlanadi?",
+    "Answers": [
+      "neytral bufer, qonni bosh buferi, hujayra tashqarisidagi bufer"
+    ],
+    "Options": [
+      "kislotali bufer, hujayra va to’qima buferi, unga qonni umumiy bufer ta’sirini 53% tо‘gri keladi",
+      "ishqoriy bufer, qonni bosh buferi, hujayra ichi buferi",
+      "neytral bufer, organizmda uchramaydi",
+      "neytral bufer, hujayra tashqarisidagi bufer, unga qonni umumiy bufer ta’sirini 5% tо‘gri keladi"
+    ]
+  },
+  {
+    "Number": 104,
+    "Text": "Elektrolit fonli elementlarni kо‘rsating?",
+    "Answers": [
+      "Na, K,Ca,Mg,Cl"
+    ],
+    "Options": [
+      "Na,K,Ca,H,bA",
+      "Na,K,Ca,Ba,S",
+      "Na,K,Ca,H,S",
+      "Na,K,Ca,Mg,S"
+    ]
+  },
+  {
+    "Number": 105,
+    "Text": "K+ ionini aniqlovchi reaktivni kо‘rsating?",
+    "Answers": [
+      "natriy kobalti nitrit"
+    ],
+    "Options": [
+      "rux uranil atsetat",
+      "oksixinolin",
+      "ammoniy gidrok oksalat",
+      "sirka kislota muhitdagi natriy xromat"
+    ]
+  },
+  {
+    "Number": 106,
+    "Text": "Tetraxlorplatinat(II) kaliy kompleks birikmalarni qaysi turiga taluqli?",
+    "Answers": [
+      "anion kompleks"
+    ],
+    "Options": [
+      "kation kompleks",
+      "neytral kompleks",
+      "akvakompleks",
+      "gidroksokompleks"
+    ]
+  },
+  {
+    "Number": 107,
+    "Text": "Kompleks birikmani dissotsiatsiyalanish muvozanat konstantasi qanday nomlanadi?",
+    "Answers": [
+      "beqarorlik konstantasi"
+    ],
+    "Options": [
+      "qarorlik konstantasi",
+      "muvozanat konstantasi",
+      "qarorlik konstantasi va u absolyut qiymati bo‘yicha beqarorlik konstantasiga teskaridir",
+      "beqarorlik konstantasi va u kompleksni beqarorlik darajasini kо‘rsatadi"
+    ]
+  },
+  {
+    "Number": 108,
+    "Text": "Inson organizmida misni rolini kо‘rsating:",
+    "Answers": [
+      "to’qimani nafas olishiga, pigmentatsiyaga ta’sir etadi, gemoglobin sintezida va qon hosil  bo‘lish jarayonlarda ishtirok etadi"
+    ],
+    "Options": [
+      "DNK sintezida va aminokislotalar metobolizmida ishtirok etadi hamda uning oqsillar bilan kompleksi molekulyar kislorodni olishda qatnashadi",
+      "jinsiy va gipofizni gipofizatrop gomonlarni faolligiga ta’sir kо‘rsatadi, yog‘larning parchalanishini tezlashuviga yordam beradi, bu esa jigarda yog‘larni kamayishiga olib keladi.",
+      "hujayrada oksidlanish-qaytarilishi o‘zgarishlarida ishtirok etadi, ichakni mikroflorani miqdoriy va sifat tarkibiga faol ta’sir etadi",
+      "reproduksiya jarayonlariga va rivojalnishiga ijobiy ta’sir etadi, arteriyani devorini о‘sishi va himoya qilishda ishtirok etadi."
+    ]
+  },
+  {
+    "Number": 109,
+    "Text": "Eritmalarning molyal konsentratsiyasi bog`liq bo`lgan 2 omilni ko’rsating",
+    "Answers": [
+      "erigan moddaning massasi",
+      "erituvchini massasi"
+    ],
+    "Options": [
+      "molyar erituvchini miqdori",
+      "erituvchini hajmi"
+    ]
+  },
+  {
+    "Number": 110,
+    "Text": "Eritmalarning molyar konsentratsiyasini bog`liq bo`lgan 2 omilni ko’rsating",
+    "Answers": [
+      "erigan moddaning massasi",
+      "eritmaning hajmi"
+    ],
+    "Options": [
+      "erituvchining hajmi",
+      "erigan moddaning ekvivalenti"
+    ]
+  },
+  {
+    "Number": 111,
+    "Text": "Molyar ekvivalent konsentratsiyasini bog`liq bo`lgan 2 omilni ko’rsating",
+    "Answers": [
+      "erigan moddaning massasi",
+      "erigan moddaning ekvivalenti"
+    ],
+    "Options": [
+      "erituvchining massasi",
+      "eritmaning titri"
+    ]
+  },
+  {
+    "Number": 112,
+    "Text": "Sechenov qonunni ifodalovchi 2 iborani ko’rsating",
+    "Answers": [
+      "elektrolitlar ishtirokida gazlarning suyuqlikda erishi kamayadi",
+      "eritmalarda, toza erituvchiga nisbatan gazlarning eruvchanligi kam"
+    ],
+    "Options": [
+      "suvdagi eruvchaligini eritmadagi eruvanligining nisbatini logarifmi           elektrolit konsentratsiyasiga teskari proporsional",
+      "ma’lum miqdordagi gazning suyuqlikda eruvchanligi gazning parsial     bosimiga to`g`ri  proporsional"
+    ]
+  },
+  {
+    "Number": 113,
+    "Text": "Osmotik bosimning qiymatini bog’lik bo’lgan 2 omilni ko`rsating",
+    "Answers": [
+      "erigan moddaning miqdoriga",
+      "eritmaning hajmiga"
+    ],
+    "Options": [
+      "haroratga bog`lik emas",
+      "eritmaning hajmiga bog`liq emas"
+    ]
+  },
+  {
+    "Number": 114,
+    "Text": "Vant-Goff qonunni ifodalovchi 2 bog’liqligni ko`rsating",
+    "Answers": [
+      "osmotik bosimni moddaning miqdoriga bog‘liqlik",
+      "osmotik bosimni eritmani hajmiga bog‘liqlik"
+    ],
+    "Options": [
+      "osmotik bosimni idish hajmiga bog‘liqlik",
+      "osmotik bosimni yarim o’tkazgich membranaga bog‘liqlik"
+    ]
+  },
+  {
+    "Number": 115,
+    "Text": "Gazlarni suyuqlikda erishiga qo‘llaniladigan 2 qonunni ko’rsating",
+    "Answers": [
+      "Genri",
+      "Sechenov"
+    ],
+    "Options": [
+      "Raul",
+      "Gibbs"
+    ]
+  },
+  {
+    "Number": 116,
+    "Text": "Kuchli elektrolitlarga 2 misol keltiring",
+    "Answers": [
+      "yodid kislota",
+      "xlorid kislota"
+    ],
+    "Options": [
+      "nitrit kislota",
+      "arsenat kislota"
+    ]
+  },
+  {
+    "Number": 117,
+    "Text": "Kuchsiz elektrolitlarga 2 misol keltiring",
+    "Answers": [
+      "vodorod sulfid",
+      "metasilikat kislota"
+    ],
+    "Options": [
+      "orto-fosfat kislota",
+      "xlorid kislota"
+    ]
+  },
+  {
+    "Number": 118,
+    "Text": "Noelektrolitlarga 2 misol keltiring",
+    "Answers": [
+      "etil spirti",
+      "glyukoza"
+    ],
+    "Options": [
+      "gipoxlorit kislota",
+      "dixromat kislota"
+    ]
+  },
+  {
+    "Number": 119,
+    "Text": "Titrimetrik analizda aniqlanadigan 2 qiymatni ko’rsating",
+    "Answers": [
+      "titr",
+      "modda massa"
+    ],
+    "Options": [
+      "molyallik",
+      "massa ulushi"
+    ]
+  },
+  {
+    "Number": 120,
+    "Text": "Hajmiy analizda moddani massasini topishda ishlatiladigan qiymatni ko’rsating",
+    "Answers": [
+      "ishchi eritmani molyarligi",
+      "ishchi eritmani hajmi"
+    ],
+    "Options": [
+      "ishchi eritmani mol ulushi",
+      "ishchi eritmani titri"
+    ]
+  },
+  {
+    "Number": 121,
+    "Text": "Tibbiyotda va biologiyada oksidimetriya usulini qo’llaniladigan 2 sohani ko’rsating",
+    "Answers": [
+      "siydikda siydik kislotani aniqlash",
+      "qonda kalsiyni aniqlash"
+    ],
+    "Options": [
+      "qonda siydik kislotani aniqlash",
+      "siydikda kalsiyni aniqlash"
+    ]
+  },
+  {
+    "Number": 122,
+    "Text": "Argentometriyada ishlatiladigan indikatorning 2 xossasini ko’rsating",
+    "Answers": [
+      "asosiy reaksiya tugashi bilan reaksiyaga kirishi mumkin",
+      "tekshirilayotgan moddaning rangiga o`laro"
+    ],
+    "Options": [
+      "suyuqlikni rangini o`zgartirishi shart emas",
+      "ishchi eritma bilan reaksiyaga kirishi shart emas"
+    ]
+  },
+  {
+    "Number": 123,
+    "Text": "Bikarbonat buferning 2 tavsifini ko’rsating",
+    "Answers": [
+      "tarkibida karbonat kislota va natriy gidrokarbonat bor",
+      "qonning asosiy buferi hisoblanadi"
+    ],
+    "Options": [
+      "Neytral bufer emas",
+      "hujayradan tashqari bufer emas"
+    ]
+  },
+  {
+    "Number": 124,
+    "Text": "Fosfat bufer sistemaning 2 tavsifini ko’rsating",
+    "Answers": [
+      "tarkibida natriy gidrofosfat va natriy digidrofosfat bor",
+      "hujayra ichidagi bufer hisoblanadi"
+    ],
+    "Options": [
+      "hujayra ichidagi bufer bo`lib hisoblanmaydi",
+      "kislotali bufer bo`lib hisoblanmaydi"
+    ]
+  },
+  {
+    "Number": 125,
+    "Text": "Bufer sigimini hisoblashda ishlatiladigan 2 qiymatni ko’rsating",
+    "Answers": [
+      "ko‘shiladigan kislota yeki ishqorning ekvivalentlar soni",
+      "kislota va ishqorning ko’shilishdan oldingi va keyingi pH qiymati"
+    ],
+    "Options": [
+      "ko’shilayetgan kislota yoki ishqorning massa ulushi",
+      "bufer eritmaning 0,5l nisbatan hisoblanadi"
+    ]
+  },
+  {
+    "Number": 126,
+    "Text": "Ligandning kislotali tabiatiga bog`liq bo`lgan 2 turdagi kompleks birikmani kursaning",
+    "Answers": [
+      "xlorokomplekslar",
+      "sianokomplekslar"
+    ],
+    "Options": [
+      "gidroksokomplekslar",
+      "akvakompleks"
+    ]
+  },
+  {
+    "Number": 127,
+    "Text": "Termokimoviy tenglamalarni tuzishda hisobga olinadigan 2 qoidani ko’rsating",
+    "Answers": [
+      "1 mol moddaga nisbatan ajralib chiqadigan yeki yutiladigan issiklikning miqdori",
+      "stexiometrik koeffitsiyentlar kasrli bo`lishi mumkin"
+    ],
+    "Options": [
+      "moddaning agregat holati ko`rsatilmaydi",
+      "termokimoviy sistemani turi ko`rsatilmaydi"
+    ]
+  },
+  {
+    "Number": 128,
+    "Text": "Holatni 2 asosiy termodinamik qiymatini ko’rsating",
+    "Answers": [
+      "entalpiya",
+      "entropiya"
+    ],
+    "Options": [
+      "massa",
+      "tashqi energiya"
+    ]
+  },
+  {
+    "Number": 129,
+    "Text": "Ochiq sistemaga 2 misol keltiring",
+    "Answers": [
+      "idishda qaynoq suyuqlik",
+      "odam organizmi"
+    ],
+    "Options": [
+      "ballondagi gaz",
+      "termostat"
+    ]
+  },
+  {
+    "Number": 130,
+    "Text": "Reaksiyaning issiqlik samarasini aniqlaydigan 2 usulni ko’rsating",
+    "Answers": [
+      "reaksiyada ajraladigan yeki yutiladigan issiqlikning miqdori",
+      "entalpiyani o`zgarishi"
+    ],
+    "Options": [
+      "entropiyani o`zgarishi",
+      "ichki energiyani o`zgarishi"
+    ]
+  },
+  {
+    "Number": 131,
+    "Text": "Neytrallanish issiqlikning 2 tavsifni ko’rsating",
+    "Answers": [
+      "suvni hosil  bo`lishida hisoblanadi",
+      "1 mol suvni hosil  bo`lishida hisoblanadi"
+    ],
+    "Options": [
+      "musbat va manfiy qiymatlarga ega bo`ladi",
+      "1 mol tuzni hosil  bo`lishida hisoblanadi"
+    ]
+  },
+  {
+    "Number": 132,
+    "Text": "Tirik sistemalarda almashtirib bo`lmaydigan azotning 2 xossasini ko’rsating",
+    "Answers": [
+      "organogen-elementlar orasida mustahkam molekulaga ega",
+      "ko‘pgina elementlar bilan birikadi"
+    ],
+    "Options": [
+      "kush bog`lar hosil  bo`lmaydi",
+      "organizmni geterohalqali birikmalarida uchramaydi"
+    ]
+  },
+  {
+    "Number": 133,
+    "Text": "Tibbiyotda ishlatiladigan borning 2 birikmasini ko’rsating",
+    "Answers": [
+      "bor kislota",
+      "natriy tetraborat"
+    ],
+    "Options": [
+      "bariy sulfat",
+      "Bariy sulfid"
+    ]
+  },
+  {
+    "Number": 134,
+    "Text": "Organizmda misni saqlovchi 2 bioa’zoni ko’rsating",
+    "Answers": [
+      "jigar",
+      "qon"
+    ],
+    "Options": [
+      "vitaminlar",
+      "lipidlar"
+    ]
+  },
+  {
+    "Number": 135,
+    "Text": "Elektrodlarning 2 tavsifini ko’rsating",
+    "Answers": [
+      "elektrod-bu tokni o‘tkazadigan o’zining tuzli eritmasiga tushirilgan metalldan iborat bo`lgan sistema",
+      "agarda metall nofaol bo`lsa u musbat zaryadlanadi"
+    ],
+    "Options": [
+      "agarda amfoter bo`lsa, u musbat zaryadlanadi",
+      "agarda metall amfoter bo`lsa, u musbat va manfiy zaryadlanadi"
+    ]
+  },
+  {
+    "Number": 136,
+    "Text": "Gibbs tenglamasidan kelib chiqadigan 2 xulosani ko’rsating",
+    "Answers": [
+      "siljiydigan sathdagi adsorbsiyani ifodalaydi",
+      "agarda adsorbtiv sirt taranglini oshirsa bu manfiy adsorbsiya, aksincha – musbat"
+    ],
+    "Options": [
+      "sirt taranglik kamaytirsa-manfiy adsorbsiya, aksincha musbat",
+      "adsorbtiv adsorbentning sirt tarangligiga ta’sir qilmaydi"
+    ]
+  },
+  {
+    "Number": 137,
+    "Text": "Kolloid eritmalarni 2 tozalash usulini ko’rsating",
+    "Answers": [
+      "elektrodializ",
+      "ultrafiltratsiya"
+    ],
+    "Options": [
+      "vakuum filtratsiya",
+      "lazer dializi"
+    ]
+  },
+  {
+    "Number": 138,
+    "Text": "Sirt faol moddalarning 2 xossasini ko’rsating",
+    "Answers": [
+      "turg’unlashtiradi",
+      "yuvadigan"
+    ],
+    "Options": [
+      "tuzlarni gidrolizlantiradi",
+      "suyuqlikni sirt tarangligini oshiradi"
+    ]
+  },
+  {
+    "Number": 139,
+    "Text": "Eritmalarning 2 ta agregat holatini ko’rsating",
+    "Answers": [
+      "gazsimon",
+      "suyuq"
+    ],
+    "Options": [
+      "aralashgan",
+      "geterogen"
+    ]
+  },
+  {
+    "Number": 140,
+    "Text": "Gazlarni suyuqlikda eruvchanligi qanday 2 omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "gazning tabiati",
+      "bosim"
+    ],
+    "Options": [
+      "elektrostatik tortishuv kuchlariga",
+      "disperslik darajasiga"
+    ]
+  },
+  {
+    "Number": 141,
+    "Text": "Berilgan javoblarning qaysi bir 2 tasida eritma uning tarkibiy qismlari o`zaro kimoviy birikishi natijasida hosil  bo`ladi",
+    "Answers": [
+      "suvda ammiak",
+      "suvda oltingugrt (IV) oksid"
+    ],
+    "Options": [
+      "suvda kislorod"
+    ]
+  },
+  {
+    "Number": 142,
+    "Text": "Kesson kasalligini tushintirib beruvchi 2 ta javobni ko’rsating",
+    "Answers": [
+      "organizmni yuqori bosimli muhitdan keskin normal bosimli muhitga o`tganida kuzatiladi",
+      "qonda azot ko`payib ketishi bilan bog`liq"
+    ],
+    "Options": [
+      "organizmda oksidlanish jarayonlari jadallashib ketishi sababi bilan ro’y beradi",
+      "organizmda kislorod to`planib qolganligi bilan bog`liq"
+    ]
+  },
+  {
+    "Number": 143,
+    "Text": "Osmosning ta’rifini beruvchi 2 ta javobni ko’rsating",
+    "Answers": [
+      "eritma va erituvchi o`rtasida yarim o`tkazgich membrana mavjudligida kuzatiladi",
+      "idish devorlariga ko`rsatiladigan bosim osmotik bosim deyiladi"
+    ],
+    "Options": [
+      "har  qanday fazalar chegarasida kuzatiladi",
+      "bu eritma va erituvchi o`rtasida kuzatiladigan ikki yoklama diffuziya hodisa"
+    ]
+  },
+  {
+    "Number": 144,
+    "Text": "Osmotik bosim qiymati qanday 2 ta omilga bog`liq ekanligini ko’rsating",
+    "Answers": [
+      "eritma hajmiga",
+      "tashqi bosimga"
+    ],
+    "Options": [
+      "idish kattaligiga",
+      "erituvchi miqdoriga"
+    ]
+  },
+  {
+    "Number": 145,
+    "Text": "Suvning  vaqtincha qattiqligini ta’riflovchi 3 ta to`g`ri javobni ko’rsating",
+    "Answers": [
+      "kalsiy bikarbonatning mavjudligi",
+      "magniy bikarbonatning mavjudligi",
+      "suvni qaynatish  bilan yo`qotiladi"
+    ],
+    "Options": [
+      "magniy xloridning mavjudligi",
+      "kalsiy xloridning mavjudligi",
+      "kimoviy reaktivlar qo`shish bilan yo`qotiladi"
+    ]
+  },
+  {
+    "Number": 146,
+    "Text": "Osmotik bosim qiymati qanday 3 ta omilga bog`liq ekanligini ko’rsating",
+    "Answers": [
+      "eritma hajmiga",
+      "erigan modda miqdoriga",
+      "haroratga"
+    ],
+    "Options": [
+      "idish kattaligiga",
+      "erituvchi miqdoriga"
+    ]
+  },
+  {
+    "Number": 147,
+    "Text": "Hajmiy tahlilda tahlil qilinayetgan eritma konsentratsiyasini hisoblash uchun qanday 3-ta o`lcham ma’lum bo`lishi kerak?",
+    "Answers": [
+      "ishchi eritma konsentratsiyasi",
+      "tahlil qilinayotgan eritma hajmi",
+      "ishchi eritma hajmi"
+    ],
+    "Options": [
+      "indikator konsentratsiyasi",
+      "indikator hajmi",
+      "erituvchi hajmi"
+    ]
+  },
+  {
+    "Number": 148,
+    "Text": "Oqsilli bufer sistemani ta’riflovchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "tarkibi: PtCOOH + PtCOONa",
+      "organizmning barcha hujayra va to`qimalarida pH ni doimiy saqlab turadi",
+      "uning bufer ta’siri oqsil molekulasining amfoterligi bilan bog`liq"
+    ],
+    "Options": [
+      "tarkibi: AsCOOH + AsCOONa",
+      "bufer ta’siri juda kichik",
+      "uning bufer ta’siri tarkibida kislota mavjudligi bilan bog`liq"
+    ]
+  },
+  {
+    "Number": 149,
+    "Text": "Organizmda adsorbsiya jarayoni kechadigan 3 ta ajralish sathlarini ko’rsating",
+    "Answers": [
+      "qon tomirlarining devorlari",
+      "qondagi (limfadagi) kolloid zarrachalarining  sathi",
+      "protoplazma sathi"
+    ],
+    "Options": [
+      "o`t kislotalari – yog` kislotalari",
+      "aminokislotalar – nuklein kislotalar",
+      "fosfolipidlar – glikolipidlar"
+    ]
+  },
+  {
+    "Number": 150,
+    "Text": "Eritmaning titri nima ekanligini to`g`ri tushintiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "erigan moddaning massasiga bog`liq",
+      "eritmaning hajmiga bog`liq",
+      "1 ml eritmada necha gramm modda borligini ko`rsatadi"
+    ],
+    "Options": [
+      "erigan moddaning hajmiga bog`liq",
+      "eritmaning massasiga bog`liq",
+      "erigan moddaning grammdagi miqdorini ko`rsatadi"
+    ]
+  },
+  {
+    "Number": 151,
+    "Text": "Elektrolitlar qanday 3 turga bo`linishini ko’rsating",
+    "Answers": [
+      "kuchli (dissotsiatsiyalanish darajasi > 30%)",
+      "kuchsiz(dissotsiatsiyalanish darajasi <3%)",
+      "o’rta kuchli (dissotsiatsiyalanish darajasi 3 % dan 30 % gacha)"
+    ],
+    "Options": [
+      "kuchli (dissotsiatsiyalanish darajasi 100 %)",
+      "o’rta kuchli (dissotsiatsiyalanish darajasi 50 %)  teng)",
+      "kuchsiz (dissotsiatsiyalanish darajasi 0 ga)"
+    ]
+  },
+  {
+    "Number": 152,
+    "Text": "Oksidimetriya usulining 3ta turini ko’rsating",
+    "Answers": [
+      "permanganatometriya",
+      "xromatometriya",
+      "yodometriya"
+    ],
+    "Options": [
+      "alkalimetriya",
+      "atsidimetriya",
+      "argentometriya"
+    ]
+  },
+  {
+    "Number": 153,
+    "Text": "Kalomel, kumush xloridli va vodorod elektrodlarining elektrokimoviy sxemasi to`g`ri ko`rsatilgan 3 ta javobni ko’rsating",
+    "Answers": [
+      "Hg/Hg2Cl2;KCl",
+      "Ag/AgCl; KCl",
+      "H2Pt/H+"
+    ],
+    "Options": [
+      "Hg/HgNO3; KCl",
+      "Ag/AgNO3; KCl",
+      "H2/Ag/H+"
+    ]
+  },
+  {
+    "Number": 154,
+    "Text": "Xromatografiya qanday 3 ta omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "adsorbsiyalanadigan moddaning tabiatiga",
+      "adsorbentning tabiatiga",
+      "adsorbsion kavatning qalinligiga"
+    ],
+    "Options": [
+      "haroratga",
+      "bosimga",
+      "konsentratsiyaga"
+    ]
+  },
+  {
+    "Number": 155,
+    "Text": "Kompleks birikmalardagi bog’larning 3 turini ko’rsating",
+    "Answers": [
+      "ionli",
+      "donor-akseptor",
+      "koordinatsion"
+    ],
+    "Options": [
+      "metall",
+      "glikozitli",
+      "angidridli"
+    ]
+  },
+  {
+    "Number": 156,
+    "Text": "Kuchli elektrolitlardan 3 tasini ko’rsating",
+    "Answers": [
+      "natriy gidroksid",
+      "natriy xlorid",
+      "sulfat kislota"
+    ],
+    "Options": [
+      "nitrit kislota",
+      "sirka kislota",
+      "chumoli kislota"
+    ]
+  },
+  {
+    "Number": 157,
+    "Text": "Tegishli nazariyalarga amal qilgan holda kislotaga to`g`ri ta’rif berilgan 3 ta javobni ko’rsating",
+    "Answers": [
+      "Arrenius bo’yicha - H+ ionini hosil  qilib dissotsiatsiyalanuvchi zarracha",
+      "Brensted bo’yicha - proton donori bo`lgan zarracha",
+      "Lyuis bo’yicha - elektronlar juftining akseptori"
+    ],
+    "Options": [
+      "Arrenius bo’yicha - vodorod ionini biriktiruvchi zarracha",
+      "Brensted bo’yicha - proton akseptori bo`lgan zarracha",
+      "Lyuis bo’yicha - elektronlar juftining donori"
+    ]
+  },
+  {
+    "Number": 158,
+    "Text": "Oksidlanish-qaytarilish reaksiyalarining 3 turini ko’rsating",
+    "Answers": [
+      "atomlar yoki molekulalararo",
+      "ichki molekulyar",
+      "disproporsiyalanish"
+    ],
+    "Options": [
+      "almashinish",
+      "parchalanish",
+      "termokimoviy"
+    ]
+  },
+  {
+    "Number": 159,
+    "Text": "Suvning doimiy qattiqligini ta’riflovchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "kalsiy va magniy xloridlarining mavjudligi",
+      "natriy karbonat qo‘shish bilan yo`qotiladi",
+      "kalsiy va magniylarning sulfatlari mavjudligi"
+    ],
+    "Options": [
+      "kalsiy karbonatning mavjudligi",
+      "magniy karbonatning mavjudligi",
+      "suvni qaynatish  bilan yo`qotiladi"
+    ]
+  },
+  {
+    "Number": 160,
+    "Text": "Adsorbsiya miqdorini hisoblash uchun qo`llanadigan 3 ta tenglama nomini ko’rsating",
+    "Answers": [
+      "Gibbs tenglamasi",
+      "Freyndlix tenglamasi",
+      "Lengmyur tenglamasi"
+    ],
+    "Options": [
+      "Vant-Goff tenglamasi",
+      "Raul tenglamasi",
+      "Guldberg tenglamasi"
+    ]
+  },
+  {
+    "Number": 161,
+    "Text": "Molekulalararo oksidlanish-qaytarilish reaksiyalarining 3tasini tanlang",
+    "Answers": [
+      "oltingugurt bilan kislorod reaksiyasi",
+      "misning simob nitrat bilan reaksiyasi",
+      "kaliy yodidning kaliy permanganat bilan reaksiyasi"
+    ],
+    "Options": [
+      "bertole tuzining parchalanishi",
+      "simob oksidining parchalanishi",
+      "kaliy manganatning suv bilan reaksiyasi"
+    ]
+  },
+  {
+    "Number": 162,
+    "Text": "Kuchsiz elektrolitlardan 3 tasini ko’rsating",
+    "Answers": [
+      "ammoniy gidroksid",
+      "chumoli kislota",
+      "karbonat kislota"
+    ],
+    "Options": [
+      "sulfat kislota",
+      "xlorid kislota",
+      "natriy gidroksid"
+    ]
+  },
+  {
+    "Number": 163,
+    "Text": "Kimoviy kinetikani o`rganadigan kimyoning 3 ta bo`limini ko’rsating",
+    "Answers": [
+      "kataliz va katalizatorlar",
+      "kimoviy reaksiya tezligi",
+      "kimoviy muvozanat"
+    ],
+    "Options": [
+      "kimyoviy moddalarning asosiy sinflari",
+      "issiqlik samaradorligi",
+      "gaz qonunlari"
+    ]
+  },
+  {
+    "Number": 164,
+    "Text": "Aniqlanuvchi eritmaning normalligini hisoblashda qanday 3ta kattalikni bilish kerak",
+    "Answers": [
+      "ishchi eritmaning normalligini",
+      "ishchi eritmaning hajmini",
+      "aniqlanayotgan eritmaning hajmini"
+    ],
+    "Options": [
+      "ishchi eritmaning molyarligini",
+      "erituvchining hajmini",
+      "erigan moddaning massasini"
+    ]
+  },
+  {
+    "Number": 165,
+    "Text": "Mn(+7) ionlarining muhitga ko`ra qaytarilish mahsulotlarining 3-tasini ko’rsating",
+    "Answers": [
+      "kislotali muhitda - Mn(+2)",
+      "neytral muhitda - Mn(+4)",
+      "ishqoriy muhitda - Mn(+6)"
+    ],
+    "Options": [
+      "kislotali muhitda - Mn(+6)",
+      "ishqoriy muhitda - Mn(+2)",
+      "ishqoriy muhitda - Mn(+4)"
+    ]
+  },
+  {
+    "Number": 166,
+    "Text": "Eruvchanlik ko`paytmasi qiymatiga ko’ra eritmalarning 3 turini ko’rsating",
+    "Answers": [
+      "to’yingan",
+      "to’yinmagan",
+      "o’ta to’yingan"
+    ],
+    "Options": [
+      "konsentrlangan",
+      "suyultirilgan",
+      "bekaror"
+    ]
+  },
+  {
+    "Number": 167,
+    "Text": "Izotonik, gipotonik va gipertonik eritmalar ta’rifi to`g`ri ko`rsatilgan 3 ta javobni ko’rsating",
+    "Answers": [
+      "gipotonik eritmaning osmotik bosimi standartnikidan pastroq bo`ladi",
+      "gipertonik eritmaning osmotik bosimi standartnikidan yuqoriroq  bo`ladi",
+      "izotonik eritmaning osmotik bosimi standart eritmaning osmotik bosimiga teng"
+    ],
+    "Options": [
+      "gipertonik eritmaning osmotik bosimi standartnikidan past bo`ladi",
+      "gipotonik eritmaning osmotik bosimi standartnikidek bo`ladi",
+      "izotonik eritmaning osmotik bosimi standartnikidan yuqoriroq  bo`ladi"
+    ]
+  },
+  {
+    "Number": 168,
+    "Text": "Komplekslarni biologiya va tibbiyotdagi ahamiyatini aks ettiruvchi 3-ta to`g`ri javobni ko’rsating",
+    "Answers": [
+      "kompleks ko‘rinishdagi dorivor moddalar",
+      "detoksikantlar yordamida organizmda zaharlovchi moddalarni komplekslarga bog`lash",
+      "organizmdagi ko’pchilik murakkab birikmalar (gemoglobin, sianokobalamin va  boshqa) kompleks holda bo`ladi"
+    ],
+    "Options": [
+      "dorivor moddalarning erituvchilari sifatida",
+      "Oqsillar tarkibiga kiradi",
+      "uglevodlar tarkibiga kiradi"
+    ]
+  },
+  {
+    "Number": 169,
+    "Text": "Qanday 3 xil hollarda reaksiya endotermik hisoblanadi?",
+    "Answers": [
+      "issiqlik effekti manfiy qiymatga ega bo`lsa",
+      "entalpiyaning o`zgarishi ΔH musbat qiymatga ega bo`lsa",
+      "reaksiya mahsulotlari molekulalarining energiyasi boshlang’ich moddalarnikidan ko`proq bo`lsa"
+    ],
+    "Options": [
+      "issiqlik effekti musbat qiymatga ega bo`lsa",
+      "entalpiyaning o`zgarishi ΔH manfiy qiymatga ega bo`lsa",
+      "boshlang’ich moddalar molekulalarining energiyasi mahsulotlarnikidan katta bo`lsa"
+    ]
+  },
+  {
+    "Number": 170,
+    "Text": "Ichkimolekulyar turdagi 3 ta oksidlanish-qaytarilish reaksiyasini tanlang",
+    "Answers": [
+      "bertole tuzining parchalanishi",
+      "simob oksidining parchalanishi",
+      "yod molekulasining natriy gidroksidi bilan reaksiyasi"
+    ],
+    "Options": [
+      "nitrat kislotaning parchalanishi",
+      "kaliy manganatning suv bilan reaksiyasi"
+    ]
+  },
+  {
+    "Number": 171,
+    "Text": "Elektrolitlarning dissotsiatsiyalanish darajasi qanday 3 omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "harorat",
+      "elektrolit tabiati",
+      "eritma konsentratsiyasi"
+    ],
+    "Options": [
+      "hajm",
+      "bosim",
+      "disperslik darajasi"
+    ]
+  },
+  {
+    "Number": 172,
+    "Text": "Hajmiy analizda eritmaning titrini hisoblash uchun qanday 3ta kattalikni bilish kerak",
+    "Answers": [
+      "aniqlanayotgan eritmaning normalligini",
+      "aniqlanayotgan moddaning ekvivalentini",
+      "aniqlanayotgan moddaning tortib olingan massasini"
+    ],
+    "Options": [
+      "ishchi eritmaning normalligini",
+      "ishchi eritma moddasining ekvivalentini",
+      "ishchi eritma moddasining tortib olingan massasini"
+    ]
+  },
+  {
+    "Number": 173,
+    "Text": "g,T va N qiymatlarining o’lchov birliklari to`g`ri ko`rsatilgan 3ta to`g`ri javobni ko’rsating?",
+    "Answers": [
+      "g – grammlarda",
+      "T - g/ml da",
+      "N - mol/l da"
+    ],
+    "Options": [
+      "g – milligrammlarda",
+      "T - g/l da",
+      "T - g-ekv/l da"
+    ]
+  },
+  {
+    "Number": 174,
+    "Text": "Kesson kasalligini tushintirib beruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "organizmni yuqori bosimli muhitdan keskin normal bosimli muhitga o`tganida ko’zatiladi",
+      "qonda azot ko`payib ketishi bilan bog`liq",
+      "qonda azot pufakchalari hosil  bo`lganligi uchun qon kapillyarlari yorilib ketadi"
+    ],
+    "Options": [
+      "organizmda oksidlanish jarayonlari jadallashib ketishi sababi bilan ro`y beradi",
+      "organizmda kislorod to`planib qolganligi bilan bog`liq",
+      "organizmni normal bosimdan keskin yuqori bosimli muhitga o`tganida kuzatiladi"
+    ]
+  },
+  {
+    "Number": 175,
+    "Text": "Vodorod peroksidini kaliy permanganat bilan titrlash jarayonini to`g`ri aks ettiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "ishchi eritma- kaliy permanganat",
+      "indikator-kaliy permanganat",
+      "muhit-kislotali"
+    ],
+    "Options": [
+      "ishchi eritma-vodorod peroksid",
+      "indikator- metiloranj",
+      "muhit-neytral"
+    ]
+  },
+  {
+    "Number": 176,
+    "Text": "Vodorodning 3 ta izotopini toping",
+    "Answers": [
+      "protiy",
+      "deyteriy",
+      "tritiy"
+    ],
+    "Options": [
+      "itriy",
+      "nilsboriy",
+      "prometiy"
+    ]
+  },
+  {
+    "Number": 177,
+    "Text": "Mitsellaning 3 ta tarkibiy qismini ko’rsating",
+    "Answers": [
+      "granula",
+      "qarshi ionlar diffuzion kavati",
+      "potensial belgilovchi ionlar"
+    ],
+    "Options": [
+      "elektronli qavat",
+      "musbat ionlar",
+      "kinetik kavat"
+    ]
+  },
+  {
+    "Number": 178,
+    "Text": "Bir biridan muhiti bilan farq qiluvchi 3 ta eritmaning pH qiymati to`g`ri ko`rsatilgan javoblarni ko’rsating",
+    "Answers": [
+      "neytral muhit -pH= 7",
+      "kislotali muhitpH< 7",
+      "ishqoriy muhitpH> 7"
+    ],
+    "Options": [
+      "neytral muhit -pH> 7",
+      "kislotali muhitpH> 7",
+      "ishqoriy muhitpH= 7"
+    ]
+  },
+  {
+    "Number": 179,
+    "Text": "Borning tibbiyotda qo`llanadigan 3 ta birikmasini toping",
+    "Answers": [
+      "bor kislotasi",
+      "natriy tetraborat",
+      "bor mazi"
+    ],
+    "Options": [
+      "kaliy tetraborat",
+      "magniy borid",
+      "alyuminiy borid"
+    ]
+  },
+  {
+    "Number": 180,
+    "Text": "Berilliyning organizmga ko`rsatadigan  3 ta salbiy ta’sirini ko’rsating",
+    "Answers": [
+      "berilliy raxitni keltirib chiqaradi",
+      "terida yallig’lanish va berillioz kasalligini keltirib chiqaradi",
+      "surunkali berillioz butun organizm funksiyalari buzilishiga olib keladi"
+    ],
+    "Options": [
+      "oshqozon shirasida kislotalikni oshiradi",
+      "aterosklerozni keltirib chiqaradi",
+      "gipertonik kasalliklarini keltirib chiqaradi"
+    ]
+  },
+  {
+    "Number": 181,
+    "Text": "Asosiy termodinamik omillarining 3tasini ko’rsating",
+    "Answers": [
+      "hajm",
+      "harorat",
+      "bosim"
+    ],
+    "Options": [
+      "entalpiya",
+      "ichki energiya",
+      "entropiya"
+    ]
+  },
+  {
+    "Number": 182,
+    "Text": "Konduktometrik titrlashning 3 ta afzalliklarini ko’rsating",
+    "Answers": [
+      "rangli va loyqa eritmalarda konsentratsiyalarni aniqlashga imkoniyat beradi",
+      "modda konsentratsiyasini aniq topishga imkoniyat beradi",
+      "biologik suyuqliklarda konsentratsiyalarni aniqlashga imkoniyat beradi"
+    ],
+    "Options": [
+      "soddaligi",
+      "oksidlovchi va qaytaruvchilar muhitida konsentratsiyalarni aniqlashga imkoniyat beradi",
+      "arzonligi"
+    ]
+  },
+  {
+    "Number": 183,
+    "Text": "Gazlarni suyuqlikda erishini kamaytiruvchi 3 ta omilni ko’rsating",
+    "Answers": [
+      "aralashmalar (elektrolit va noelektrolit) mavjudligi",
+      "harorat ortishi",
+      "bosim pasayishi"
+    ],
+    "Options": [
+      "harorat pasayishi",
+      "bosim ortishi",
+      "konsentratsiyaning ortishi"
+    ]
+  },
+  {
+    "Number": 184,
+    "Text": "Organizmda Ag topilgan 3 ta a’zoni ko’rsating",
+    "Answers": [
+      "jigarda",
+      "suyak to`qimasida",
+      "miya qirralarida"
+    ],
+    "Options": [
+      "qonda",
+      "sutda",
+      "ko`z yoshida"
+    ]
+  },
+  {
+    "Number": 185,
+    "Text": "Le-Shatelye prinsipini aks ettiruvchi 3 ta to`g`ri javoblarni ko’rsating",
+    "Answers": [
+      "muvozanat holatdagi sistemaga tashqi ta’sir ko`rsatilganda u  shu ta’sirni kamaytirishga intiladi",
+      "harorat oshirilganda muvozanat endotermik reaksiya     tarafiga  siljiydi",
+      "harorat pasaytirilganda muvozanat ekzotermik reaksiya tarafga siljiydi"
+    ],
+    "Options": [
+      "muvozanat holatdagi sistemaga tashqi omillar ta’sir etmaydi,  har  qanday sharoitda muvozanat turg’unlikga ega",
+      "haroratni oshirish muvozanatni ekzotermik reaksiya tarafga siljitadi",
+      "haroratni pasaytirish muvozanatni endotermik reaksiya  tarafga siljitadi"
+    ]
+  },
+  {
+    "Number": 186,
+    "Text": "Redoks-potensiallarni o’lchashda qo`llanadigan 3 ta o’lchovchi elektrodlarni ko’rsating",
+    "Answers": [
+      "platina",
+      "xingidron",
+      "iridiyli"
+    ],
+    "Options": [
+      "kalomel",
+      "kumush xloridli",
+      "vodorodli"
+    ]
+  },
+  {
+    "Number": 187,
+    "Text": "Kolloid eritmalarni tozalashning 3 ta usulini ko’rsating.",
+    "Answers": [
+      "dializ",
+      "elektrodializ",
+      "ultrafiltratsiya"
+    ],
+    "Options": [
+      "gidroliz",
+      "qayta   cho`ktirish",
+      "kondensiatsiya"
+    ]
+  },
+  {
+    "Number": 188,
+    "Text": "Kadmiyning organizmga ko`rsatadigan  3 ta yomon ta’sirini toping",
+    "Answers": [
+      "zaharlovchi ta’sir ko`rsatadi",
+      "ko`p fermentlarning ingibitori hisoblanadi",
+      "ortiqchasi qon bosimini oshiradi"
+    ],
+    "Options": [
+      "ko`p fermentlarning aktivatori hisoblanadi",
+      "ortiqchasi qon bosimini pasaytiradi",
+      "kanserogen xususiyatiga ega"
+    ]
+  },
+  {
+    "Number": 189,
+    "Text": "Organizmda muhim rol o’ynaydigan va tarkibida 81 gr elementlarini saqlovchi 3 ta kompleks birikmani toping",
+    "Answers": [
+      "gemoglobin",
+      "sianokobolamin",
+      "ferritin"
+    ],
+    "Options": [
+      "xlorofill",
+      "porfirin",
+      "peroksidaza"
+    ]
+  },
+  {
+    "Number": 190,
+    "Text": "Bufer eritmalarining 3 tasini ko’rsating",
+    "Answers": [
+      "ammiakli",
+      "fosfatli",
+      "Oqsilli"
+    ],
+    "Options": [
+      "nitratli",
+      "uglevodli",
+      "lipidli"
+    ]
+  },
+  {
+    "Number": 191,
+    "Text": "Qattiq adsorbent yuzasida gazlar adsorbsiyasi qanday 3 ta omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "adsorbent tabiati",
+      "adsorbtiv tabiati",
+      "gazning bosimi"
+    ],
+    "Options": [
+      "harorat koeffitsentiga",
+      "kimyoviy reaksiya tezligiga",
+      "faol to`qnashuvlar soniga"
+    ]
+  },
+  {
+    "Number": 192,
+    "Text": "Tarkibida Na tutgan 3 biologik suyuqliklarni aniqlang",
+    "Answers": [
+      "qon plazmasi",
+      "limfa",
+      "hazm shirasi"
+    ],
+    "Options": [
+      "umurtqa suyuqligi",
+      "bug’imlararo suyuqlik",
+      "O’t suyuqligi"
+    ]
+  },
+  {
+    "Number": 193,
+    "Text": "Kolloid eritmalar olinishining 3 ta dispersion usulini ko’rsating.",
+    "Answers": [
+      "xovoncha yoki kolloid tegirmonda mexanik maydalash",
+      "ultratovuvsh yordamida maydalash",
+      "peptizatsiya – geldan zolga o`tkazish"
+    ],
+    "Options": [
+      "eritish",
+      "elektrodializ",
+      "dializ"
+    ]
+  },
+  {
+    "Number": 194,
+    "Text": "Eritmaning molyal konsentratsiyasi qanday 3 ta omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "erigan moddaning massasi",
+      "erigan moddaning molekulyar massasi",
+      "erituvchining massasi"
+    ],
+    "Options": [
+      "eritmaning hajmi",
+      "harorat",
+      "moddaning ekvivalent massasi"
+    ]
+  },
+  {
+    "Number": 195,
+    "Text": "Kompleks ionning zaryadiga ko’ra kompleks birikmalarning 3 turini ko’rsating",
+    "Answers": [
+      "kationli",
+      "anionli",
+      "neytral"
+    ],
+    "Options": [
+      "ikki zaryadli",
+      "uch zaryadli",
+      "ko`p zaryadli"
+    ]
+  },
+  {
+    "Number": 196,
+    "Text": "3ta komplekson nomlarini ko’rsating",
+    "Answers": [
+      "aminopolikarbon kislotalar",
+      "etilen diamintetrasirka kislota",
+      "etilendiamintetrasirka kislotaning ikki natriyli tuzi"
+    ],
+    "Options": [
+      "ammoniy geksatsianokobaltat",
+      "natriy geksarodanokobaltat",
+      "kaliy geksatsianoferrat"
+    ]
+  },
+  {
+    "Number": 197,
+    "Text": "Biogen elementlar guruhlariga tegishliligi to`g`ri ko`rsatilgan p-elementlarning 3 ta guruhini ko’rsating",
+    "Answers": [
+      "S, N, O, P, S – makrobiogen",
+      "Si, F, Br, I, Al, B, As –  mikrobiogen",
+      "Cl – oligobiogen"
+    ],
+    "Options": [
+      "F,Br,I – oligobiogen",
+      "F, Cl, Br, I – makrobiogen",
+      "C, N, O, P, Cl – mikrobiogen"
+    ]
+  },
+  {
+    "Number": 198,
+    "Text": "Kimoviy muvozanat qanday 3 ta omil bilan belgilanadi",
+    "Answers": [
+      "to`g`ri va teskari reaksiyalar tezligining tengligi bilan",
+      "muvozanat doimiysi bilan",
+      "siljuvchanlik bilan"
+    ],
+    "Options": [
+      "to`g`ri va teskari reaksiyalar tezligidagi farq bilan",
+      "tashqi samaralar bilan",
+      "mahsulotlar birining hosil  bo`lishi tomon siljishi bilan"
+    ]
+  },
+  {
+    "Number": 199,
+    "Text": "S-elementlarning 3 ta xususiyatini toping",
+    "Answers": [
+      "ular kimoviy jihatdan juda aktiv",
+      "tabiatda ko’p sonli birikmalar tarkibida uchraydi",
+      "bir va ikki zaryadli musbat ion hosil  qiladi"
+    ],
+    "Options": [
+      "kimoviy jihatdan aktiv emas",
+      "tabiatda erkin holda uchraydi",
+      "bir zaryadli manfiy ion hosil  qiladi"
+    ]
+  },
+  {
+    "Number": 200,
+    "Text": "Suv qattiqligining 3 turini ko’rsating",
+    "Answers": [
+      "vaqtincha",
+      "doimiy",
+      "umumiy"
+    ],
+    "Options": [
+      "kislotali",
+      "tuzli",
+      "asosli"
+    ]
+  },
+  {
+    "Number": 201,
+    "Text": "Rux qanday 3 ta hayotiy jarayonga ta’sir ko`rsatishini toping",
+    "Answers": [
+      "qon hosil  qilishga",
+      "ko`payish jarayoniga",
+      "organizm o`sishi va rivojlanishiga"
+    ],
+    "Options": [
+      "suyak hosil  bo`lishiga",
+      "qonda qand miqdorini boshqaradi",
+      "qon bosimini oshiradi"
+    ]
+  },
+  {
+    "Number": 202,
+    "Text": "Ekvivalent nuqta tushunchasiga to`g`ri ta’rif beradigan 3ta javobni tanlang",
+    "Answers": [
+      "bu titrlashning oxirgi nuqtasi",
+      "bu nuqtada reaksiyaga kirishuvchi moddalar ekvivalent miqdorda birikadi",
+      "bu titrlashning ekvivalentlik qonuniga mos kelgan holati"
+    ],
+    "Options": [
+      "bu nuqtada reagentlarning sarflangan hajmlari teng  bo`ladi",
+      "bu nuqtada ishchi eritma tulik sarflanadi",
+      "bu nuqta albatta neytral muhitga to`g`ri keladi"
+    ]
+  },
+  {
+    "Number": 203,
+    "Text": "Turli xil kasalliklarda biologik suyuqliklarning elektro`tkazuvchanligi to`g`ri ko`rsatilgan 3 ta javobni ko’rsating",
+    "Answers": [
+      "qand diabetida siydik va konning elektr o`tkazuvchanligi kamayadi",
+      "piyelonefritda siydikning elektr o`tkazuvchanligi oqsil molekulalari ko’payishi hisobiga  kamayadi",
+      "kislotaligi ortganda oshqozon shirasining elektr o`tkazuvchanligi ortadi"
+    ],
+    "Options": [
+      "qandli diabetda qon va siydikning elektr o`tkazuvchanligi ortadi",
+      "piyelonefritda siydikning elektr o’tkazuvchanligi turli  xil ionlar hosil  bo`lishi hisobiga ortadi",
+      "kislotaligi ortganda oshqozon shirasining elektr o`tkazuvchanligi pasayadi"
+    ]
+  },
+  {
+    "Number": 204,
+    "Text": "Si ning organizmdagi  xususiyatlarini  to`g`ri aks ettiruvchi 3 ta javobni toping",
+    "Answers": [
+      "jigarda",
+      "qonda",
+      "ko’p fermentlar tarkibiga kiradi"
+    ],
+    "Options": [
+      "siydikda",
+      "ko’z yoshida",
+      "nuklein kislotalar tarkibiga kiradi"
+    ]
+  },
+  {
+    "Number": 205,
+    "Text": "Eritmasining konsentratsiyasi atsidimetriya usuli bilan aniqlanishi mumkin bo`lgan 3ta moddani ko’rsating",
+    "Answers": [
+      "ammoniy gidroksid",
+      "natriy gidroksid",
+      "kalsiy gidroksid"
+    ],
+    "Options": [
+      "sirka kislota",
+      "karbonat kislota",
+      "natriy rodanid"
+    ]
+  },
+  {
+    "Number": 206,
+    "Text": "Yer po’stlog’ida mavjud 3 ta asosiy mineral birikmani ko’rsating",
+    "Answers": [
+      "kislorodli",
+      "karbonatli",
+      "sulfatli"
+    ],
+    "Options": [
+      "ftorli",
+      "fosfatli",
+      "alyuminiyli"
+    ]
+  },
+  {
+    "Number": 207,
+    "Text": "Klinik analizda argentometriya usuli qo`llanilishiga 3ta misol keltiring",
+    "Answers": [
+      "siydikda xlorli birikmalar konsentratsiyasini aniqlash",
+      "qonda xlorli birikmalar konsentratsiyasini aniqlash",
+      "oshqozon shirasida xlorli birikmalar konsentratsiyasini aniqlash"
+    ],
+    "Options": [
+      "qonda temir ionlari konsentratsiyasini aniqlash",
+      "qonda oltingugurtli birikmalar konsentratsiyasini aniqlashda",
+      "qonda kalsiy ionlari konsentratsiyasini aniqlashda"
+    ]
+  },
+  {
+    "Number": 208,
+    "Text": "Termodinamik jarayonlarning qaytarligini belgilovchi 3-ta omilni ko’rsating",
+    "Answers": [
+      "entropiya",
+      "entalpiya",
+      "Gibbs energiyasi"
+    ],
+    "Options": [
+      "harorat",
+      "bosim",
+      "hajm"
+    ]
+  },
+  {
+    "Number": 209,
+    "Text": "Oksidlanish-qaytarilish reaksiyalariga to`g`ri ta’rif berilgan 3-ta javobni ko’rsating",
+    "Answers": [
+      "molekulalararo reaksiyada oksidlovchi va qaytaruvchi turli molekulalarda saqlanadi",
+      "ichkimolekulyar reaksiyalarda oksidlovchi va qaytaruvchi bir molekulaning o’zida bo`ladi",
+      "disproporsiyalanish reaksiyasida bir elementning o`zi ham oksidlanadi va ham qayta riladi"
+    ],
+    "Options": [
+      "molekulalararo reaksiyada bir elementning uzi ham oksidlovchi va ham qaytaruvchi bo`ladi",
+      "ichkimolekulyar reaksiyada oksidlovchi va qaytaruvchi turli molekulalarda bo`ladi",
+      "o`rnini egallaydi"
+    ]
+  },
+  {
+    "Number": 210,
+    "Text": "Fe2+ ioniga 3 ta sifat va analitik reaksiyalarni toping",
+    "Answers": [
+      "K3[Fe(CN)6] Bilan",
+      "(NN4)2S Bilan",
+      "NaOH yoki  KON"
+    ],
+    "Options": [
+      "K4[Fe(CN)6]",
+      "H2SO4  bilan",
+      "trilon"
+    ]
+  },
+  {
+    "Number": 211,
+    "Text": "Fe3+ ioni bilan sifat va analitik reaksiyaga kirisha oladigan 3 ta birikmani toping",
+    "Answers": [
+      "(NH4)2S",
+      "NaOH yoki KON",
+      "K yoki NH4CNS"
+    ],
+    "Options": [
+      "HCl",
+      "K3[Fe(CN)6]",
+      "komplekson"
+    ]
+  },
+  {
+    "Number": 212,
+    "Text": "Suvning  vaqtincha qattiqligini ta’riflovchi 3 ta to`g`ri javobni ko’rsating",
+    "Answers": [
+      "kalsiy bikarbonatning mavjudligi",
+      "magniy bikarbonatning mavjudligi",
+      "suvni qaynatish  bilan yo`qotiladi"
+    ],
+    "Options": [
+      "magniy xloridning mavjudligi",
+      "kalsiy xloridning mavjudligi",
+      "magniy nitratning mavjudligi"
+    ]
+  },
+  {
+    "Number": 213,
+    "Text": "Termodinamik sistemalar va ularning ta’rifi to`g`ri berilgan 3 javobni ko’rsating",
+    "Answers": [
+      "ochiq - ham massa, ham energiya bilan almashinadi",
+      "yopiq - faqat  energiya bilan almashinadi",
+      "ajratilgan - massa bilan ham, energiya bilan ham almashinmaydi"
+    ],
+    "Options": [
+      "ochiq - faqat  massa bilan almashinadi",
+      "yopiq - faqat  massa bilan almashinadi",
+      "yarim ochiq"
+    ]
+  },
+  {
+    "Number": 214,
+    "Text": "Termodinamik jarayonlarning 3 turi va ularning ta’rifi to`g`ri berilgan javoblarni ko’rsating",
+    "Answers": [
+      "izotermik - doimiy haroratda",
+      "izobar - doimiy bosimda",
+      "izoxor - doimiy hajmda"
+    ],
+    "Options": [
+      "izotermik - o`zgaruvchan haroratda",
+      "izobar – o`zgaruvchan bosimda",
+      "izotonik"
+    ]
+  },
+  {
+    "Number": 215,
+    "Text": "Ochiq sistemalarga 3 ta misol ko’rsating",
+    "Answers": [
+      "odam organizmi",
+      "ochiq idishda qaynayotgan suyuqlik",
+      "qandaydir bir sistemada yoqilg’ining yonishi"
+    ],
+    "Options": [
+      "sovitgich",
+      "termostat",
+      "kolorimetr"
+    ]
+  },
+  {
+    "Number": 216,
+    "Text": "Yopiq sistemalarga 3 ta misol ko’rsating",
+    "Answers": [
+      "sovutgich",
+      "termostat",
+      "issiq metall bo‘lagi"
+    ],
+    "Options": [
+      "ballondagi gaz",
+      "germetik yopilgan idishdagi modda eritmasi",
+      "kolorimetr"
+    ]
+  },
+  {
+    "Number": 217,
+    "Text": "Ajratilgan sistemalarga 3 ta misol ko’rsating",
+    "Answers": [
+      "ballondagi gaz",
+      "germetik yopilgan idishdagi modda eritmasi",
+      "vakuumli uskuna"
+    ],
+    "Options": [
+      "sovutgich",
+      "termostat",
+      "kolorimetr"
+    ]
+  },
+  {
+    "Number": 218,
+    "Text": "Kompleksning tashqi sferasini ta’riflovchi 3 ta to`g`ri javobni ko’rsating",
+    "Answers": [
+      "kation bo`lishi mumkin",
+      "anion bo`lishi mumkin",
+      "metall ioni bo`lishi mumkin"
+    ],
+    "Options": [
+      "faqat  musbat zaryadli bo`lishi mumkin",
+      "faqat  manfiy zaryadli bo`lishi mumkin",
+      "izoton bo`ladi"
+    ]
+  },
+  {
+    "Number": 219,
+    "Text": "Kompleks ionning zaryadiga ko`ra kompleks birikmalarning 3 turini ko’rsating",
+    "Answers": [
+      "kationli",
+      "anionli",
+      "neytral"
+    ],
+    "Options": [
+      "ikki zaryadli",
+      "uch zaryadli",
+      "izotonli"
+    ]
+  },
+  {
+    "Number": 220,
+    "Text": "Bufer eritmalarining 3 tasini ko`rsting",
+    "Answers": [
+      "ammiakli",
+      "fosfatli",
+      "atsetatli"
+    ],
+    "Options": [
+      "formiatli",
+      "nitratli",
+      "kompleksonli"
+    ]
+  },
+  {
+    "Number": 221,
+    "Text": "Odam organizmida mavjud bo`lgan 4 ta bufer eritmani ko’rsating",
+    "Answers": [
+      "Oqsilli",
+      "Fosfatli",
+      "oksigemoglobinli",
+      "bikarbonatli"
+    ],
+    "Options": [
+      "atsetatli",
+      "karbonsuvli",
+      "Ammiakli",
+      "karboksigemoglobinli"
+    ]
+  },
+  {
+    "Number": 222,
+    "Text": "4-ta ekzotermik reaksiyalarni ko’rsating",
+    "Answers": [
+      "vodorod va kislorod molekulalaridan suv molekulasining hosil",
+      "azot va vodoroddan ammiakning hosil  bo`lishi",
+      "neytrallanish",
+      "natriy karbonatning erishi"
+    ],
+    "Options": [
+      "azot va kislorod molekulalaridan NO ning hosil  bo`lishi",
+      "kislorod molekulalaridan ozonning hosil  bo`lishi",
+      "ammoniy xloridning erishi",
+      "suvning parchalanishi"
+    ]
+  },
+  {
+    "Number": 223,
+    "Text": "Kolloid kimyoda sorbsiya nomi bilan birlashtirilgan 4 ta jarayon nomini ko’rsating",
+    "Answers": [
+      "adsorbsiya",
+      "absorbsiya",
+      "desorbsiya",
+      "xemosorbsiya"
+    ],
+    "Options": [
+      "gomosorbsiya",
+      "geterosorbsiya",
+      "resorbsiya",
+      "akvosorbsiya"
+    ]
+  },
+  {
+    "Number": 224,
+    "Text": "Berilgan javoblarning qaysi bir 4 tasida eritma uning tarkibiy qismlari o`zaro kimoviy birikishi natijasida hosil  bo`ladi",
+    "Answers": [
+      "suvda ammiak",
+      "suvda oltingugrt (IV) oksid",
+      "suvda oltingugrt (VI) oksid",
+      "suvda karbonat angidrid"
+    ],
+    "Options": [
+      "kumushda oltin",
+      "suvda kislorod",
+      "suvda vodorod",
+      "suvda azot"
+    ]
+  },
+  {
+    "Number": 225,
+    "Text": "Organizmda fosfor kislotasining vazifalarini ifodalovchi 4 ta to`g`ri javobni ko’rsating",
+    "Answers": [
+      "DNK va RNK larning tarkibiy qismi",
+      "ADF ning tarkibiy qismi",
+      "ATF ning tarkibiy qismi",
+      "suyaklarning tarkibiy qismi"
+    ],
+    "Options": [
+      "aminokislotalarning tarkibiy qismi",
+      "glikolipidlarning tarkibiy qismi",
+      "terpenlarning tarkibiy qismi",
+      "steroidlarning tarkibiy qismi"
+    ]
+  },
+  {
+    "Number": 226,
+    "Text": "4-ta endotermik jarayonlarni ko’rsating",
+    "Answers": [
+      "azot va kislorod molekulalaridan NO ning hosil  bo`lishi",
+      "kislorod molekulalaridan ozonning hosil  bo`lishi",
+      "suvning parchalanishi",
+      "ammoniy  xloridning erishi"
+    ],
+    "Options": [
+      "natriy karbonatning erishi",
+      "neytrallanish.",
+      "vodorod va kislorod molekulalaridan suv molekulasining hosil  bo`lishi",
+      "azot va vodoroddan ammiakning hosil  bo`lishi"
+    ]
+  },
+  {
+    "Number": 227,
+    "Text": "Fe yetishmasligi natijasida organizmda yuzaga keladigan 4 ta patologik holatni ko’rsating",
+    "Answers": [
+      "anemiya",
+      "holsizlanish",
+      "soch to`kilishi va tirnoqlar mo’rtligi",
+      "ovqat  hazm qilishining buzilishi"
+    ],
+    "Options": [
+      "qon bosimi oshishi",
+      "jigar va buyrak to`qimalarining tiklanishi",
+      "teri kasalliklarini keltirib chiqaradi",
+      "suyak rivojlanishining buzilishi"
+    ]
+  },
+  {
+    "Number": 228,
+    "Text": "Kompleks birikmalardagi bog’larning 4 turini ko’rsating",
+    "Answers": [
+      "koordinatsion",
+      "donor-akseptor",
+      "kovalent",
+      "ionli"
+    ],
+    "Options": [
+      "angidridli",
+      "vodorodli",
+      "glikozidli",
+      "metall"
+    ]
+  },
+  {
+    "Number": 229,
+    "Text": "Katalizatorlarga qo`yiladigan 4 ta talablarni ko’rsating",
+    "Answers": [
+      "ular faqat  termodinamik jihatdan amalga oshishi mumkin  reaksiyalarnigina tezligini oshiradi",
+      "muvozanat holatiga ta’sir qilmay, faqat  unga erishishni tezlatadi",
+      "faollashtirish energiyasini pasaytiradi",
+      "reaksiyaning issiqlik effektini o`zgartirmaydi"
+    ],
+    "Options": [
+      "istalgan reaksiyalarning tezligiga ta’sir ko`rsatadi",
+      "muvozanatga yetishish vaqtini kamaytiradi",
+      "faollashtirish energiyasini oshiradi",
+      "reaksiyaning issiqlik effektini o’zgartiradi"
+    ]
+  },
+  {
+    "Number": 230,
+    "Text": "K ning tibbiyotda ishlatiladigan 4 ta birikmasini  ko’rsating",
+    "Answers": [
+      "KCl",
+      "KJ",
+      "KBr",
+      "CH3COOK"
+    ],
+    "Options": [
+      "KF",
+      "K2CO3",
+      "K2SO4",
+      "K3PO4"
+    ]
+  },
+  {
+    "Number": 231,
+    "Text": "Kompleks hosil  qiluvchini ta’riflovchi 4-ta javobni ko’rsating",
+    "Answers": [
+      "metall tabiatli",
+      "ko’pchilik holda u d-element",
+      "s-element va p-element ham bo`lishi mumkin",
+      "ko’pchilik holda koordinatsion soni 2,4 va 6ga teng bo`ladi"
+    ],
+    "Options": [
+      "metallmas tabiatli",
+      "neytral zarracha bo`ladi",
+      "faqat  f-element bo`lishi mumkin",
+      "koordinatsion soni faqat  5 bo`lishi mumkin"
+    ]
+  },
+  {
+    "Number": 232,
+    "Text": "Neytrallanish usulida ishlatish mumkin bo`lgan 4-ta ishchi eritmalarni tanlang",
+    "Answers": [
+      "xlorid kislota",
+      "sulfat kislota",
+      "kaliy gidroksid",
+      "natriy gidroksid"
+    ],
+    "Options": [
+      "sirka kislota",
+      "mis gidroksid",
+      "karbonat kislota",
+      "magniy gidroksid"
+    ]
+  },
+  {
+    "Number": 233,
+    "Text": "Suvning umumiy qattiqligini ta’riflovchi 4 ta to`g`ri javob ko’rsating",
+    "Answers": [
+      "bir litr  suvda  saqlanuvchi Ca va Mg tuzlarining ekvivalent miqdori (mmol) bilan belgilanadi",
+      "suvda kalsiy va magniy bikarbonatlari mavjud bo`ladi",
+      "suvda kalsiy va magniy xloridlari mavjud bo`ladi",
+      "suvda kalsiy va magniy sulfatlari mavjud bo`ladi"
+    ],
+    "Options": [
+      "suvda kalsiy va magniy nitratlari mavjud bo`ladi",
+      "suvda kalsiy va magniy tuzlarining grammdagi miqdorini bildiradi",
+      "suvda kalsiy va magniy karbonatlar mavjud bo`ladi",
+      "suvda kalsiy va magniyning modda miqdori bilan belgilanadi"
+    ]
+  },
+  {
+    "Number": 234,
+    "Text": "Ham oksidlovchi, ham qayta ruvchi bo’la oladigan 4ta birikmani ko’rsating",
+    "Answers": [
+      "vodorod peroksid",
+      "nitrit kislota",
+      "sulfit kislota",
+      "kaliy manganat"
+    ],
+    "Options": [
+      "vodorod sulfid",
+      "natriy sulfid",
+      "kaliy permanganat",
+      "nitrat kislota"
+    ]
+  },
+  {
+    "Number": 235,
+    "Text": "Ichki kompleks birikmalarning 4 tasini to`g`ri ko’rsating",
+    "Answers": [
+      "mis glitserati",
+      "qo`rg`oshin etilendiaminteraatsetat",
+      "mis etilenglikolyat",
+      "vismut aminopolikarbonat"
+    ],
+    "Options": [
+      "qo`rg`oshin geksatsianoferrat",
+      "natriy terrarodanovismutat",
+      "temir geksaaminotsinkat",
+      "mis tetrarodanokabaltat"
+    ]
+  },
+  {
+    "Number": 236,
+    "Text": "O`z tuzining eritmasida yuzasi manfiy zaryadlanadigan 4 ta metallni ko’rsating",
+    "Answers": [
+      "temir",
+      "alyuminiy",
+      "nikel",
+      "rux"
+    ],
+    "Options": [
+      "kumush",
+      "iridiy",
+      "platina",
+      "mis"
+    ]
+  },
+  {
+    "Number": 237,
+    "Text": "Kimoviy reaksiya tezligi bog`liq bo`lgan asosiy 4 ta omilni ko’rsating",
+    "Answers": [
+      "moddalar tabiati",
+      "konsentratsiya",
+      "harorat",
+      "katalizator"
+    ],
+    "Options": [
+      "eruvchanlik",
+      "disperslik",
+      "agregat holati",
+      "muhit pHi"
+    ]
+  },
+  {
+    "Number": 238,
+    "Text": "Neytrallanish usulida qo`llanadigan 4-ta indikatorni ko’rsating?",
+    "Answers": [
+      "lakmus",
+      "metiloranj",
+      "metil kizil",
+      "fenolftalein"
+    ],
+    "Options": [
+      "brilliant-yashil",
+      "erioxrom kora",
+      "trilon kimplekson"
+    ]
+  },
+  {
+    "Number": 239,
+    "Text": "Ekvivalent nuqta tushunchasiga to`g`ri ta’rif beradigan 4ta javobni tanlang",
+    "Answers": [
+      "bu titrlashning oxirigi nuqtasi",
+      "bu nuqtada reaksiyaga kirishuvchi moddalar ekvivalent miqdorda birikadi",
+      "bu titrlashning ekvivalentlik qonuniga mos kelgan holati",
+      "bu nuqtada indikator o‘z rangini o’zgartiradi"
+    ],
+    "Options": [
+      "bu nuqtada reagentlarning sarflangan hajmlari teng bo`ladi",
+      "indikator ajralib chikadi",
+      "tuz ajraladi",
+      "kislota ajraladi"
+    ]
+  },
+  {
+    "Number": 240,
+    "Text": "Argentometriya usulini ta’riflovchi 5ta tо‘g‘ri javobni kо‘rsating",
+    "Answers": [
+      "chо‘ktirish usullaridan biri",
+      "xlor, brom, sianid, rodanid ionlari konsentratsiyasini aniqlashga imkoniyat beradi",
+      "temir-ammoniyli achchiq tosh, kaliy xromat indikatorlari ishlatiladi",
+      "ishchi eritma - kumush nitrat eritmasi",
+      "galogenid ionlarni aniqlash usuli"
+    ],
+    "Options": [
+      "oksidimetriya usullaridan biri",
+      "oksidlovchi va qaytaruvchilar konsentratsiyasini aniqlashda qо‘llanadi",
+      "ishchi eritma indikatorlik vazifasini bajaradi",
+      "ishchi eritma - kumush xlorid",
+      "sulfat ionlarni aniqlash usuli"
+    ]
+  },
+  {
+    "Number": 241,
+    "Text": "Kompleksning ichki sferasini ta’rifini beruvchi 5-ta tо‘g‘ri javobni kо‘rsating",
+    "Answers": [
+      "tarkibiga markaziy atom kiradi",
+      "tarkibiga ligandlar kiradi",
+      "zaryadi ham manfiy, ham musbat bо‘lishi mumkin",
+      "zaryadi tarkibiga kiruvchi barcha zarrachalarning zaryadlari yig‘indisiga teng",
+      "markaziy atom metall"
+    ],
+    "Options": [
+      "tarkibiga ikkita bir xil zaryadli zarrachalar kiradi",
+      "tarkibiga metall ionlarining ikki turi kiradi",
+      "zaryadi faqat manfiy bо‘lishi mumkin",
+      "zaryadi faqat musbat bо‘lishi mumkin",
+      "markaziy atom galogen"
+    ]
+  },
+  {
+    "Number": 242,
+    "Text": "5 ta  ikkinchi tur о‘tkazgichlarni kо‘rsating",
+    "Answers": [
+      "xlorid kislota eritmasi",
+      "natriy xlorid eritmasi",
+      "natriy gidroksid eritmasi",
+      "kalsiy oksid suyuqlamasi",
+      "biologik suyuqliklar"
+    ],
+    "Options": [
+      "mis simi",
+      "kо‘mir",
+      "grafit",
+      "temir bо‘lagi",
+      "metall"
+    ]
+  },
+  {
+    "Number": 243,
+    "Text": "Biologik suyuqliklardagi 5 ta bufer sistemalarni kо‘rsating",
+    "Answers": [
+      "tо‘qima ichidagi suyuqlikda – fosfat",
+      "tо‘qima tashqarisidagi suyuqlikda – bikarbonat",
+      "qonda –oqsilli",
+      "qonda – gemoglobinli",
+      "qonda oksigemoglobinli"
+    ],
+    "Options": [
+      "о‘t suyuqligida – bikarbonat",
+      "limfada – bikarbonat",
+      "buyrakda – atsetatli",
+      "qonda – ammiakli",
+      "qonda silikatli"
+    ]
+  },
+  {
+    "Number": 244,
+    "Text": "Kompleks birikmalardagi bog`larning 5 turini kо‘rsating",
+    "Answers": [
+      "koordinatsion",
+      "donor-akseptor",
+      "kovalent",
+      "ionli",
+      "aksetor-donor"
+    ],
+    "Options": [
+      "angidridli",
+      "vodorodli",
+      "glikozidli",
+      "metall",
+      "adsorbsiyali"
+    ]
+  },
+  {
+    "Number": 245,
+    "Text": "Neytrallanish usulida ishlatish mumkin bо‘lgan 5-ta ishchi eritmalarni tanlang",
+    "Answers": [
+      "xlorid kislota",
+      "sulfat kislota",
+      "kaliy gidroksid",
+      "natriy gidroksid",
+      "ishqor"
+    ],
+    "Options": [
+      "sirka kislota",
+      "mis gidroksid",
+      "karbonat kislota",
+      "magniy gidroksid",
+      "natriy sulfat"
+    ]
+  },
+  {
+    "Number": 246,
+    "Text": "Ham oksidlovchi, ham qaytaruvchi bо‘la oladigan 5ta birikmani kо‘rsating",
+    "Answers": [
+      "vodorod peroksid",
+      "nitrit kislota",
+      "sulfit kislota",
+      "kaliy manganat",
+      "natriy nitrit"
+    ],
+    "Options": [
+      "vodorod sulfid",
+      "natriy sulfid",
+      "kaliy permanganat",
+      "nitrat kislota",
+      "sulfat kislota"
+    ]
+  },
+  {
+    "Number": 247,
+    "Text": "Ichki kompleks birikmalarning 5 tasini tо‘g‘ri kо‘rsating",
+    "Answers": [
+      "mis glitserati",
+      "qо‘rgoshin etilendiaminteraatsetat",
+      "mis etilenglikolyat",
+      "vismut aminopolikarbonat",
+      "mis aminosirka kislota"
+    ],
+    "Options": [
+      "qо‘rgoshin geksatsianoferrat",
+      "natriy terrarodanovismutat",
+      "temir geksaaminotsinkat",
+      "mis tetrarodanokabaltat",
+      "miss gidroksid"
+    ]
+  },
+  {
+    "Number": 248,
+    "Text": "О‘z tuzining eritmasida yuzasi manfiy zaryadlanadigan 5 ta metallni kо‘rsating",
+    "Answers": [
+      "temir",
+      "alyuminiy",
+      "nikel",
+      "rux",
+      "xrom"
+    ],
+    "Options": [
+      "kumush",
+      "iridiy",
+      "platina",
+      "mis",
+      "uglerod"
+    ]
+  },
+  {
+    "Number": 249,
+    "Text": "Kimyoviy reaksiya tezligiga bog`liq bо‘lgan asosiy 5 ta omilni kо‘rsating",
+    "Answers": [
+      "moddalar tabiati",
+      "konsentratsiya",
+      "harorat",
+      "katalizator",
+      "temperatura"
+    ],
+    "Options": [
+      "eruvchanlik",
+      "disperslik",
+      "agregat holati",
+      "muhit pHi",
+      "muvozanatiga"
+    ]
+  },
+  {
+    "Number": 250,
+    "Text": "Fermentlarga 5 ta ta’rif kо‘rsating:",
+    "Answers": [
+      "biologik katalizatorlar",
+      "oqsil tabiatiga ega",
+      "tanlab ta’sir kо‘rsatadi",
+      "ularning ta’siri yuqori samarali (bir molekulasi kimyoviy katalizatorning 5000",
+      "faol katalizatorlar"
+    ],
+    "Options": [
+      "reaksiya yо‘nalishini boshqaradi",
+      "lipidlar sinfiga mansub",
+      "reaksiyalarning barcha turiga ta’sir kо‘rsatadi",
+      "reaksiyaning issiqlik effektini о‘zgartiradi",
+      "gipotonik eritmalarda ta’sir qiladi"
+    ]
+  },
+  {
+    "Number": 251,
+    "Text": "Ligand tabiatiga kо‘ra kompleks birikmalarning 5 turini kо‘rsating",
+    "Answers": [
+      "ammiakatlar",
+      "akvakomplekslar",
+      "atsidokomplekslar",
+      "gidroksokomplekslar",
+      "aralash"
+    ],
+    "Options": [
+      "ferratlar",
+      "plyumbatlar",
+      "stannatlar",
+      "platinatlar",
+      "mislar",
+      "biologik suyuqliklar"
+    ]
+  },
+  {
+    "Number": 252,
+    "Text": "Dag‘al dispers sistemalarning tibbiyotda qо‘llaniladigan 5 turini kо‘rsating",
+    "Answers": [
+      "suspenziyalar",
+      "kо‘piklar",
+      "kukunlar",
+      "emulsiyalar",
+      "loy"
+    ],
+    "Options": [
+      "molekulyar eritmalar",
+      "chin eritmalar",
+      "qattik kо‘piklar",
+      "chо‘kindilar",
+      "kolloid eritma"
+    ]
+  },
+  {
+    "Number": 253,
+    "Text": "Kuchsiz elektrolitlarga 5 misol keltiring",
+    "Answers": [
+      "sirka kislota",
+      "chumoli kislota",
+      "karbonat kislota",
+      "ammoniy gidroksid",
+      "suv"
+    ],
+    "Options": [
+      "xlorat kislota",
+      "triftorsirka kislota",
+      "vodorod bromid",
+      "yodovodorod kislota",
+      "perxlorat"
+    ]
+  },
+  {
+    "Number": 254,
+    "Text": "Ishchi eritma sifatida ishlatiladigan reaktivga ko’ra hajmiy analizdan 5 usulni ko’rsating",
+    "Answers": [
+      "alkalimetriya",
+      "atsidimetriya",
+      "permanganatometriya",
+      "xromatometriya",
+      "argentometriya"
+    ],
+    "Options": [
+      "neytrallanish",
+      "oksidimetriya",
+      "oksalatometriya",
+      "kompleksometriya",
+      "kobaltometriya"
+    ]
+  },
+  {
+    "Number": 255,
+    "Text": "Bufer eritmalarning 5 ko’rsating",
+    "Answers": [
+      "ammiakli",
+      "fosfatli",
+      "atsetatli",
+      "Oqsilli",
+      "bikarbonatli"
+    ],
+    "Options": [
+      "azotli",
+      "arsenatli",
+      "peryodatli",
+      "silikatli",
+      "xromatli"
+    ]
+  },
+  {
+    "Number": 256,
+    "Text": "Birinchi A guruhiga kiruvchi 5 ishqoriy metallarni ko’rsating",
+    "Answers": [
+      "litiy",
+      "natriy",
+      "kaliy",
+      "rubidiy",
+      "seziy"
+    ],
+    "Options": [
+      "kalsiy",
+      "stronsiy",
+      "bariy",
+      "med"
+    ]
+  },
+  {
+    "Number": 257,
+    "Text": "Ikkinchi A guruhiga kiruvchi ishqoriy-yer metallardan 5 ko’rsating",
+    "Answers": [
+      "berilliy",
+      "magniy",
+      "kalsiy",
+      "stronsiy",
+      "bariy"
+    ],
+    "Options": [
+      "litiy",
+      "natriy",
+      "kaliy",
+      "rubidiy",
+      "seziy"
+    ]
+  },
+  {
+    "Number": 258,
+    "Text": "Alyuminiyni tibbiyotda ishlatiladigan 5 birikmasini ko’rsating",
+    "Answers": [
+      "alyuminiy achchiqtosh",
+      "alyuminiy sulfat",
+      "alyuminiy gidroksid",
+      "kaolin",
+      "asosli  nordon sirka kislotali alyuminiy"
+    ],
+    "Options": [
+      "nefelin",
+      "alyuminiy karbonat",
+      "alyuminiy permanganat",
+      "alyuminiy xlorid",
+      "alyuminiy xromat"
+    ]
+  },
+  {
+    "Number": 259,
+    "Text": "Beshinchi A guruhiga kiruvchi 5 elementni ko’rsating",
+    "Answers": [
+      "azot",
+      "fosfor",
+      "mishyak",
+      "surma",
+      "vismut"
+    ],
+    "Options": [
+      "vanadiy",
+      "niobiy",
+      "tantal",
+      "dubniy",
+      "tellur"
+    ]
+  },
+  {
+    "Number": 260,
+    "Text": "Tibbiyotda ishlatiladigan azotning 5 birikmasini ko’rsating",
+    "Answers": [
+      "ammiak eritmasi",
+      "azot bir oksidi",
+      "ammoniy xlorid",
+      "natriy nitrit",
+      "kumush nitrat"
+    ],
+    "Options": [
+      "ammoniy atsetat",
+      "ammoniy sulfat",
+      "ammoniy karbonat",
+      "ammoniy xromat",
+      "ammoniy dixromat"
+    ]
+  },
+  {
+    "Number": 261,
+    "Text": "Kumush ionlarini saqlovchi odamning 5 a’zosini va hujayrasini ko’rsating",
+    "Answers": [
+      "jigar",
+      "buyrak",
+      "suyak to`qimasi",
+      "ichki sekretsiya bezlari",
+      "asab to`qimalari"
+    ],
+    "Options": [
+      "qon",
+      "oshqozon osti bezi",
+      "tishlar",
+      "teri",
+      "qora taloq"
+    ]
+  },
+  {
+    "Number": 262,
+    "Text": "Redoks potensiallarni о‘lchashda qо‘llanadigan elektrodlar qatoriga kirmaydigan 2 elektrodni ko’rsating:",
+    "Answers": [
+      "rux",
+      "nikel"
+    ],
+    "Options": [
+      "platina",
+      "iridiy"
+    ]
+  },
+  {
+    "Number": 263,
+    "Text": "Elektrokimyoda elektrolitni dissotsiatsiyalanish darajasini hisoblash imkoniyatini bermaydigan 2 kattalikni ko’rsating:",
+    "Answers": [
+      "ionlarni zaryadi",
+      "elektromanfiylik"
+    ],
+    "Options": [
+      "ionlarni harakatchanligi",
+      "molyar elektr о‘tkazuvchanlik"
+    ]
+  },
+  {
+    "Number": 264,
+    "Text": "Turli kasalliklarda biologik suyuqliklarining elektr о‘tkazuvchanligi tо‘g‘ri kо‘rsatilmagan 2 javobni ko’rsating:",
+    "Answers": [
+      "qandli diabetda qon va siydikni elektr о‘tkazuvchanligi ortadi",
+      "kislotaligi pasayganda ozqozon shirasining elektr о‘tkazuvchanligi ortadi"
+    ],
+    "Options": [
+      "piyelonefritda siydikning elektr о‘tkazuvchanligi oqsil kо‘payishi hisobiga kamayadi",
+      "qandli diabetda qon va siydikni elektr о‘tkazuvchanligi kamayadi"
+    ]
+  },
+  {
+    "Number": 265,
+    "Text": "Eritmalarning kolligativ xossalari qatoriga kirmaydigan 2 xossani ko’rsating:",
+    "Answers": [
+      "molyar konsentratsiya",
+      "dissotsiatsiya konstantasi"
+    ],
+    "Options": [
+      "osmotik bosim",
+      "qaynash haroratini kо‘tarilishi"
+    ]
+  },
+  {
+    "Number": 266,
+    "Text": "Osmotik bosimning qiymatiga ta’sir etmaydigan 2 omilni ko’rsating:",
+    "Answers": [
+      "eritma harorati",
+      "erigan moddaning tabiati"
+    ],
+    "Options": [
+      "eritma konsentratsiyasi",
+      "erituvchining tabiati"
+    ]
+  },
+  {
+    "Number": 267,
+    "Text": "Dissotsiatsiyalanish darajasiga ta’sir etmaydigan 2 kattalikni ko’rsating:",
+    "Answers": [
+      "idish doimiysi",
+      "tashqi bosim"
+    ],
+    "Options": [
+      "elektrolit konsentratsiyasi",
+      "eritmaning suyultirilganlik darajasi"
+    ]
+  },
+  {
+    "Number": 268,
+    "Text": "Qon bufer sistemalari qatoriga kirmaydigan 2 bufer sistemani ko’rsating:",
+    "Answers": [
+      "atsetatli",
+      "ammiakli"
+    ],
+    "Options": [
+      "gemoglobinli",
+      "oksigemoglobinli"
+    ]
+  },
+  {
+    "Number": 269,
+    "Text": "Makroelementlar qatoriga kirmaydigan 2 elementni ko’rsating:",
+    "Answers": [
+      "alyuminiy",
+      "temir"
+    ],
+    "Options": [
+      "kislorod",
+      "uglerod"
+    ]
+  },
+  {
+    "Number": 270,
+    "Text": "Mikroelementlar qatoriga kirmaydigan2 elementni ko’rsating:",
+    "Answers": [
+      "kislorod",
+      "oltingugurt"
+    ],
+    "Options": [
+      "rux",
+      "kobalt"
+    ]
+  },
+  {
+    "Number": 271,
+    "Text": "s-elementlarga ta’luqli bо‘lmagan 2 elementni ko’rsating:",
+    "Answers": [
+      "molibden",
+      "rux"
+    ],
+    "Options": [
+      "kaliy",
+      "litiy"
+    ]
+  },
+  {
+    "Number": 272,
+    "Text": "d-elementlarga ta’luqli bо‘lmagan 2 elementni ko’rsating:",
+    "Answers": [
+      "natriy",
+      "kalsiy"
+    ],
+    "Options": [
+      "marganets",
+      "kumush"
+    ]
+  },
+  {
+    "Number": 273,
+    "Text": "Natriyning tibbiyotda ishlatilmaydigan 2 birikmani ko’rsating:",
+    "Answers": [
+      "NaH",
+      "NaH2PO4"
+    ],
+    "Options": [
+      "NaCl",
+      "NaBr"
+    ]
+  },
+  {
+    "Number": 274,
+    "Text": "Oksidimetriya usullari qatoriga kirmaydigan 2 usulni ko’rsating",
+    "Answers": [
+      "konduktometriya",
+      "alkalimetriya"
+    ],
+    "Options": [
+      "xromatometriya",
+      "yodometriya"
+    ]
+  },
+  {
+    "Number": 275,
+    "Text": "Oksidlanish jarayoniga ta’luqli emas bo`lgan 2 jarayonni ko’rsating",
+    "Answers": [
+      "eterifikatsiya",
+      "atsetallanish"
+    ],
+    "Options": [
+      "elektron berish",
+      "kislorodni biriktirib olish"
+    ]
+  },
+  {
+    "Number": 276,
+    "Text": "Faqat oksidlovchi bо‘la oladigan moddalar qatoriga kirmaydigan 2 moddani ko’rsating:",
+    "Answers": [
+      "MnO2",
+      "KClO2"
+    ],
+    "Options": [
+      "KClO4",
+      "H2SO4"
+    ]
+  },
+  {
+    "Number": 277,
+    "Text": "Faqat qaytaruvchi bо‘la oladigan moddalar qatoriga kirmaydigan 2 birikmani ko’rsating:",
+    "Answers": [
+      "SO2",
+      "KClO2"
+    ],
+    "Options": [
+      "NH3",
+      "HCl"
+    ]
+  },
+  {
+    "Number": 278,
+    "Text": "Asosiy termodinamik holat kattaliklari qatoriga kirmaydigan 2 holatni ko’rsating:",
+    "Answers": [
+      "entalpiya",
+      "entropiya"
+    ],
+    "Options": [
+      "harorat",
+      "bosim"
+    ]
+  },
+  {
+    "Number": 279,
+    "Text": "Osh tuzi eritmasiga tushirilganda yuzasi musbat zaryadlangan metallar qatoriga kirmaydigan 3 metallni ko’rsating:",
+    "Answers": [
+      "temir",
+      "rux",
+      "alyuminiy"
+    ],
+    "Options": [
+      "mis",
+      "kumush",
+      "oltin"
+    ]
+  },
+  {
+    "Number": 280,
+    "Text": "Osh tuzi eritmasiga tushirilganda yuzasi manfiy zaryadlangan metallar qatoriga kirmaydigan 3 metallni ko’rsating:",
+    "Answers": [
+      "mis",
+      "kumush",
+      "platina"
+    ],
+    "Options": [
+      "temir",
+      "rux",
+      "nikel"
+    ]
+  },
+  {
+    "Number": 281,
+    "Text": "Birinchi tur о‘tkazgichlar bо‘la olmaydigan 3 moddani ko’rsating:",
+    "Answers": [
+      "tuzlar",
+      "kislotalar",
+      "asoslar"
+    ],
+    "Options": [
+      "metallar",
+      "grafit",
+      "kremniy"
+    ]
+  },
+  {
+    "Number": 282,
+    "Text": "Ikkinchi tur о‘tkazgich bо‘la olmaydigan 3 moddani ko’rsating:",
+    "Answers": [
+      "mis simi",
+      "grafit",
+      "platina plastinkasi"
+    ],
+    "Options": [
+      "HCl eritmasi",
+      "kalsiy oksid suyuqlanmasi",
+      "alyuminiy sini"
+    ]
+  },
+  {
+    "Number": 283,
+    "Text": "Dissotsiatsiyalanish darajasi bog‘liq bо‘lmagan 3 omilni ko’rsating:",
+    "Answers": [
+      "metallning tabiati",
+      "tashqi bosim",
+      "eritmaning hajmi"
+    ],
+    "Options": [
+      "erituvchining tabiati",
+      "eritmaning konsentratsiyasi",
+      "eritmani suyultirish"
+    ]
+  },
+  {
+    "Number": 284,
+    "Text": "Izotonik eritmalar qatoriga kirmaydigan 3 eritmani ko’rsating",
+    "Answers": [
+      "KCl –  0.9%",
+      "CaCl2- 0.85%",
+      "Li2SO4 – 0.9"
+    ],
+    "Options": [
+      "NaCl – 0.85 %",
+      "glyukozaning 4.5 – 5%",
+      "NaCl –0.9%"
+    ]
+  },
+  {
+    "Number": 285,
+    "Text": "Aromatik moddada 1-chi tur o`rinbosarlar yo`naltirishi mumkin bo`lgan 3 ta holatni",
+    "Answers": [
+      "Orto (S2)",
+      "Para (S4)",
+      "Orto (S6)"
+    ],
+    "Options": [
+      "Meta (S3)",
+      "Meta (S5)",
+      "Orto (S3)"
+    ]
+  },
+  {
+    "Number": 286,
+    "Text": "Xirallikka ega bo`lgan atomlarning 3 ta ta’rifini ko’rsating",
+    "Answers": [
+      "sp3 gibridlangan  bo`lishi kerak",
+      "Germaniy, uglerod, kremniy bo`lishi mumkin",
+      "To`rtta turli xil atom bilan bog`langan bo`lishi kerak"
+    ],
+    "Options": [
+      "sp2 gibridlangan bo`lishi kerak",
+      "Kislorod, vodorod atomi bo`lishi mumkin",
+      "To’rtta bir xil atom bilan bog`langan bo`lishi kerak"
+    ]
+  },
+  {
+    "Number": 287,
+    "Text": "Sut kislota hosil  bo`lishi mumkin bo`lgan  3 ta reaksiyani ko’rsating",
+    "Answers": [
+      "Pirouzum kislotani qaytarilishi",
+      "Akril kislotani gidratlanishi",
+      "Alfa- xlorpropan kislotani gidrolizi"
+    ],
+    "Options": [
+      "Oksalat sirka kislota qaytarilishi",
+      "Metakril kislotani gidratlanishi",
+      "Xlorsirka kislotani gidrolizi"
+    ]
+  },
+  {
+    "Number": 288,
+    "Text": "Sanoatda alkanlar oksidlanishining 3ta sharoitini ko’rsating",
+    "Answers": [
+      "Reagent sifatida havo kislorodi ishtirok etadi",
+      "Marganets katalizatori ishtirokida boradi",
+      "200 gradus C gacha qizdirilganda C-C bog`lar uzilishi hisobiga"
+    ],
+    "Options": [
+      "Reagent sifatida bromli suv ishtirok etadi",
+      "KMnO4 katalizatori ishtirokida boradi",
+      "200 gradus C gacha qizdirilganda C-O bog`lar uzilishi hisobiga"
+    ]
+  },
+  {
+    "Number": 289,
+    "Text": "Poliyen molekulasida qo‘sh bog`lar joylashishining 3turini ko’rsating",
+    "Answers": [
+      "Kumullangan  ( -CH=C= CH -)",
+      "Ajratilgan ( - CH = CH - CH 2- CH = CH)",
+      "Ta’sirlangan (-CH = CH - CH = CH -)"
+    ],
+    "Options": [
+      "Kumullangan ( - CH = CH -CH2-CH=CH)",
+      "Ajratilgan (-CH=CH-CH=CH-)",
+      "Ta’sirlangan ( -CH=C=CH-)"
+    ]
+  },
+  {
+    "Number": 290,
+    "Text": "Tibbiyotda formaldegidning qanday 3 ta xususiyatidan foydalaniladi?",
+    "Answers": [
+      "Dezinfeksiyalovchi",
+      "Oqsilni ivitish",
+      "konservantlik"
+    ],
+    "Options": [
+      "og`riq qoldiruvchi",
+      "isitma tushiruvchi",
+      "narkologik hususiyati"
+    ]
+  },
+  {
+    "Number": 291,
+    "Text": "Organik birikmalar oksidlanishida kuzatiladigan 3 ta jarayonni ko’rsating",
+    "Answers": [
+      "vodorod ketishi natijasida qo`sh bog` hosil  bo`lishi",
+      "vodorod ketishi  natijasida uglerod va geteroatom o`rtasida yangi bog` hosil  bo`lishi",
+      "qaytaruvchi (substrat)dan okidlovchi (reagent)ga elektronlar o`tishi"
+    ],
+    "Options": [
+      "vodorod birikishi natijasida yangi bog` hosil  bo`lishi",
+      "vodorod birikishi natijasida qo‘sh bog` uzilishi",
+      "oksidlovchi (reagent)dan qaytaruvchi (substrat)ga elektronlar o‘tishi"
+    ]
+  },
+  {
+    "Number": 292,
+    "Text": "p- Aminobenzoy kislotaning biologik xossalarini aks ettiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "mikroorganizmlar o‘sishini boshqarishda ishtirok etadi",
+      "etil efiri anestezin preparati sifatida qo`llanadi",
+      "betta- dietilaminoetil efiri novokain peparati sifatida qo`llanadi"
+    ],
+    "Options": [
+      "mikroorganizmlar rivojlanishini to‘xtatadi",
+      "fenatsetin tarkibiga kiradi",
+      "paratsetamol tarkibiga kiradi"
+    ]
+  },
+  {
+    "Number": 293,
+    "Text": "Uratsilning tuzilishi va xossalarini aks ettiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "laktim-laktam tautomerlanish xos",
+      "pirimidinning 2,4- digidroksi hosilasi",
+      "RNK tarkibiga kiradi"
+    ],
+    "Options": [
+      "DNK tarkibiga kiradi",
+      "amino-imin tautomerlanish xos",
+      "pirimidinning amino- hosilasi"
+    ]
+  },
+  {
+    "Number": 294,
+    "Text": "Timinning tuzilishi va xossalarini aks ettiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "laktim-laktam tautomerlanish xos",
+      "5-metilpirimidinning 2,4-digidroksi hosilasi",
+      "DNK tarkibiga kiradi"
+    ],
+    "Options": [
+      "IYUPAK nomenklaturasi bo‘yicha 2,4- digidroksipirimidin deyiladi",
+      "RNK tarkibiga kiradi",
+      "pirimidinning amino-hosilasi"
+    ]
+  },
+  {
+    "Number": 295,
+    "Text": "Monosaxaridlarning kislotali muhitda oksidlanishining 3 ta mahsulotini ko’rsating",
+    "Answers": [
+      "glikon kislotalar",
+      "glikar kislotalar",
+      "glikuron kislotalar"
+    ],
+    "Options": [
+      "uglerod dioksidi",
+      "chumoli kislota",
+      "sirka kislota"
+    ]
+  },
+  {
+    "Number": 296,
+    "Text": "RNK gidrolizining tartibini aks ettiruvchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "RNK ishqoriy muhitda ribonukleotidlargacha gidrolizlanadi",
+      "ribonukleotidlar ishqoriy muhitda ribonukleozidlargacha gidrolizlanadi",
+      "ribonukleozidlar kislotali muhitda karbonsuv va azotli asosgacha gidrolizlanadi"
+    ],
+    "Options": [
+      "RNK kislotali muhitda ribonukleozidlargacha gidrolizlanadi",
+      "ribonukleotidlar kislotali muhitda ribonukleozidlargacha gidrolizlanadi",
+      "ribonukleozidlar ishqoriy  muhitda karbonsuv va azotli asoslargacha gidrolizlanadi"
+    ]
+  },
+  {
+    "Number": 297,
+    "Text": "NAD+ kofermentining xossalari ko`rsatilgan 3 ta javobni ko’rsating",
+    "Answers": [
+      "nikotinamidadenin dinukleotid kofermentining oksidlangan shakli",
+      "oksidlanish jarayonlarining katalizatori",
+      "gidrid ioni N- ning akseptori"
+    ],
+    "Options": [
+      "qaytarilish jarayonlarining katalizatori",
+      "adeninfosfatning qaytarilgan shakli",
+      "ikkita vodorod atomlarining akseptori"
+    ]
+  },
+  {
+    "Number": 298,
+    "Text": "FAD kofermentining 3 ta tarkibiy qismini ko’rsating",
+    "Answers": [
+      "D-ribitol spirtining koldig’i",
+      "nikotinamidli qismi",
+      "geterohalqali izoalloksazin qismi"
+    ],
+    "Options": [
+      "riboza qismi",
+      "adeninnukleotidli qismi",
+      "piridiniy kationli qismi"
+    ]
+  },
+  {
+    "Number": 299,
+    "Text": "Sfingolipidlarning 3 ta guruhini ko’rsating",
+    "Answers": [
+      "Sfingomiyelinlar",
+      "Seramidlar",
+      "Serebrozidlar"
+    ],
+    "Options": [
+      "fosfolipidlar",
+      "glikolipidlar",
+      "fosfatidlar"
+    ]
+  },
+  {
+    "Number": 300,
+    "Text": "Yogda eruvchi vitaminlarning 3 ta guruhini ko’rsating",
+    "Answers": [
+      "A guruhi",
+      "YE guruhi",
+      "K guruhi"
+    ],
+    "Options": [
+      "V guruhi",
+      "S guruhi",
+      "N guruhi"
+    ]
+  },
+  {
+    "Number": 301,
+    "Text": "A guruhi vitaminlarining yetishmovchiligi bilan bog`liq bo`lgan organizmning 3 ta holatini ko’rsating",
+    "Answers": [
+      "ozib ketish",
+      "ko’zning mugiz pardasining kurib ketishi (shapko’rlik)",
+      "organizmning infeksiya bilan kurashishi qobiliyatining pasayishi"
+    ],
+    "Options": [
+      "konning pH qiymatning pasayishi",
+      "kon bosimining ko‘tarilib ketishi",
+      "qonda qand miqdorining ortib ketishi"
+    ]
+  },
+  {
+    "Number": 302,
+    "Text": "Ayol va erkak jinsiy gormonlarining 3 turini ko’rsating",
+    "Answers": [
+      "Gestagenlar",
+      "Androgenlar",
+      "Estrogenlar"
+    ],
+    "Options": [
+      "ergosterinlar",
+      "kortikosteronlar",
+      "xolestanol"
+    ]
+  },
+  {
+    "Number": 303,
+    "Text": "Sovunlanmaydigan lipidlarni ta’riflovchi 3 ta javobni ko’rsating",
+    "Answers": [
+      "gidrolizlanmaydigan bitta tarkibiy qismdan iborat moddalar",
+      "ularning bir guruhi terpenlar deyiladi",
+      "ularning bir guruhi steroidlar deyiladi"
+    ],
+    "Options": [
+      "gidrolizlanadigan bir nechta tarkibiy qismdan iborat moddalar",
+      "ularning bir guruhi yog’lar deyiladi",
+      "ularning bir guruhi fosfatidlar deyiladi"
+    ]
+  },
+  {
+    "Number": 304,
+    "Text": "Gormonlarning 3 ta guruhini ko’rsating",
+    "Answers": [
+      "aminokislotalar va ularning hosilalari tabiatiga ega",
+      "peptid va oqsil tabiatiga ega",
+      "steroid hosilalari"
+    ],
+    "Options": [
+      "purin hosilalari",
+      "monosaxaridlar",
+      "polisaxaridlar"
+    ]
+  },
+  {
+    "Number": 305,
+    "Text": "Polinukleotidli zanjir hosil  bo`lishida ishtirok etadigan 3 ta bog` turini ko’rsating",
+    "Answers": [
+      "N-glikozid bog`i",
+      "murakkab efir bog`i",
+      "fosfodiefir bog`i"
+    ],
+    "Options": [
+      "O-glikozid bog`i",
+      "vodorod bog`i",
+      "oddiy efir bog`i"
+    ]
+  },
+  {
+    "Number": 306,
+    "Text": "Dinukleotidli kofermentlarda geterohalqali asos, pentoza va fosfat guruhlarini bog`lovchi 3 xil bog`ni ko’rsating",
+    "Answers": [
+      "N-glikozid bog`i",
+      "murakkab efir bog`i",
+      "angidrid bog`i"
+    ],
+    "Options": [
+      "oddiy efir bog`i",
+      "fosfodiefir bog`i",
+      "O-glikozid bog`i"
+    ]
+  },
+  {
+    "Number": 307,
+    "Text": "Aldegidlardan aminokislota olinishida ishtirok etadigan 3 ta moddani ko’rsating:",
+    "Answers": [
+      "ammoniy sianid",
+      "gidroksinitril",
+      "aminonitril"
+    ],
+    "Options": [
+      "kolamin",
+      "atsetilatseton",
+      "oksalat kislota"
+    ]
+  },
+  {
+    "Number": 308,
+    "Text": "Poliyen molekulasida qo’sh bog’lar joylashishining 3 turini ko’rsating:",
+    "Answers": [
+      "kumullangan  ( -CH=S=CH-)",
+      "ajratilgan ( -CH=CH-CH2-CH=CH)",
+      "ta’sirlangan (-CH=CH-CH=CH-)"
+    ],
+    "Options": [
+      "kumullangan ( -CH=CH-CH2-CH=CH)",
+      "ajratilgan (-CH=CH-CH=CH-)",
+      "ta’sirlangan ( -CH=S=CH-)"
+    ]
+  },
+  {
+    "Number": 309,
+    "Text": "ATF molekulasi gidrolizining 3 ta mahsulotini ko’rsating:",
+    "Answers": [
+      "adenin",
+      "riboza",
+      "ortofosfat kislota"
+    ],
+    "Options": [
+      "atsetamid",
+      "dezoksiriboza",
+      "metafosfat kislota"
+    ]
+  },
+  {
+    "Number": 310,
+    "Text": "GTF molekulasi gidrolizining 3 ta mahsulotini ko’rsating:",
+    "Answers": [
+      "guanin",
+      "riboza",
+      "ortofosfat kislota"
+    ],
+    "Options": [
+      "guanidin",
+      "dezoksiriboza",
+      "metafosfat kislota"
+    ]
+  },
+  {
+    "Number": 311,
+    "Text": "Sfingolipidlarning 3 guruhini ko’rsating:",
+    "Answers": [
+      "seramidlar",
+      "serebrozidlar",
+      "gangliozidlar"
+    ],
+    "Options": [
+      "letsitinlar",
+      "terpenlar",
+      "steroidlar"
+    ]
+  },
+  {
+    "Number": 312,
+    "Text": "Nuklein asoslarini tuzilishidagi 3 ta umumiylikni ko’rsating:",
+    "Answers": [
+      "geterohalqali birikmalar",
+      "halqasida azot atomini saqlaydi",
+      "okso - yeki amino- guruhini saqlaydi"
+    ],
+    "Options": [
+      "benzol hosilalari",
+      "halqasida kislorod atomini saqlaydi",
+      "aromatik xossaga ega"
+    ]
+  },
+  {
+    "Number": 313,
+    "Text": "Bioboshqaruvchilar qatoriga kiruvchi 3 ta moddani ko’rsating:",
+    "Answers": [
+      "vitaminlar",
+      "sintetik bioaktiv moddalar",
+      "gormonlar"
+    ],
+    "Options": [
+      "karbonsuvlar",
+      "Oqsillar",
+      "nuklein kislotalar"
+    ]
+  },
+  {
+    "Number": 314,
+    "Text": "Radikal o’rin olish reaksiyalarining 3 ta bosqichini ko’rsating:",
+    "Answers": [
+      "zanjir o’sishi",
+      "initsiirlash",
+      "zanjir uzilishi"
+    ],
+    "Options": [
+      "nukleofil hujumi",
+      "uglevodorod radikalni protonlash",
+      "uglevodorod radikalni deprotonlash"
+    ]
+  },
+  {
+    "Number": 315,
+    "Text": "To’yingan uglevodorodlar oksidlanishining 3 ta oraliq mahsulotini ko’rsating:",
+    "Answers": [
+      "birlamchi spirtlar",
+      "aldegidlar",
+      "ikkilamchi spirtlar"
+    ],
+    "Options": [
+      "kislotalar",
+      "ketonlar",
+      "uchlamchi spirtlar"
+    ]
+  },
+  {
+    "Number": 316,
+    "Text": "Para- aminofenol hosil alari guruhiga tegishli bo`lgan 3 ta analgetik dorivor moddani ko’rsating:",
+    "Answers": [
+      "fenetidin",
+      "paratsetamol",
+      "fenatsetin"
+    ],
+    "Options": [
+      "kokain",
+      "novokain",
+      "anestezin"
+    ]
+  },
+  {
+    "Number": 317,
+    "Text": "n-Aminobenzoy kislotani tibbiyotdagi 3 ta ahamiyatini ko’rsating:",
+    "Answers": [
+      "foli kislotaninig tuzilish qismi bo`lib, mikroorganizmlarning o‘sish omili bo`lib hisoblanadi",
+      "uning etil efiri anestezin nomi bilan yuritiladi",
+      "betta -dietilaminoetil efiri novokain preparati deb nomlanadi"
+    ],
+    "Options": [
+      "uning ortiqchaligida mikroorganizmlar halok bo`ladi",
+      "paratsetamol tarkibiga kiradi",
+      "fenatsetin tarkibiga kiradi"
+    ]
+  },
+  {
+    "Number": 318,
+    "Text": "Besh a’zoli bitta geteroatom saqlovchi 3 ta geterohalqali birikmani ko’rsating:",
+    "Answers": [
+      "pirrol",
+      "tiofen",
+      "furan"
+    ],
+    "Options": [
+      "piran",
+      "piridin",
+      "tiazol"
+    ]
+  },
+  {
+    "Number": 319,
+    "Text": "Ikkita geteroatomli olti a’zoli geterohalqali birikmalardan 3 tasini ko’rsating:",
+    "Answers": [
+      "piridazin",
+      "pirimidin",
+      "pirazin"
+    ],
+    "Options": [
+      "pirazol",
+      "piridin",
+      "piperidin"
+    ]
+  },
+  {
+    "Number": 320,
+    "Text": "Pirimidinning 3 ta gidroksi- va aminohosilalarini ko’rsating:",
+    "Answers": [
+      "uratsil",
+      "timin",
+      "sitozin"
+    ],
+    "Options": [
+      "purin",
+      "adenin",
+      "guanin"
+    ]
+  },
+  {
+    "Number": 321,
+    "Text": "Mutatsiyaning 3 ta sababini ko’rsating:",
+    "Answers": [
+      "tautomer muvozanatning siljishi",
+      "kimyoviy moddalar ta’siri",
+      "turli xil nurlar ta’siri"
+    ],
+    "Options": [
+      "vodorod bog’lar sonining o`zgarishi",
+      "molekulyar massaning o`zgarishi",
+      "erituvchi tabiatining o`zgarishi"
+    ]
+  },
+  {
+    "Number": 322,
+    "Text": "Sovunlanuvchi lipidlar asosini o tashkil etuvchi spirtlarning 3 ta guruhini ko’rsating:",
+    "Answers": [
+      "yuqorimolekulyar bir atomli spirtlar",
+      "uch atomli spirt – glitserin",
+      "ikki atomli spirt – sfingozin"
+    ],
+    "Options": [
+      "steroidlar",
+      "terpenlar",
+      "terpenoidlar"
+    ]
+  },
+  {
+    "Number": 323,
+    "Text": "Sovunlanuvchi murakkab lipidlarning 3 ta guruhini ko’rsating:",
+    "Answers": [
+      "fosfolipidlar",
+      "sfingolipidlar",
+      "glikolipidlar"
+    ],
+    "Options": [
+      "mumlar",
+      "yog’lar",
+      "moylar"
+    ]
+  },
+  {
+    "Number": 324,
+    "Text": "Atsiklik terpenlarga 3 ta misol keltiring:",
+    "Answers": [
+      "mirsen",
+      "geraniol",
+      "geranial"
+    ],
+    "Options": [
+      "mentan",
+      "karan",
+      "pinan"
+    ]
+  },
+  {
+    "Number": 325,
+    "Text": "Keltirilgan moddalardan tibbiyotda qo’llaniladigan 3 ta terpenni ko’rsating:",
+    "Answers": [
+      "terpingidrat",
+      "mentol",
+      "kamfora"
+    ],
+    "Options": [
+      "letsitin",
+      "adenin",
+      "streptomitsin"
+    ]
+  },
+  {
+    "Number": 326,
+    "Text": "Terpenlarning kislorod tutuvchi hosilalari (terpenoidlar) dan 3 tasini ko’rsating:",
+    "Answers": [
+      "mentol",
+      "borneol",
+      "kamfora"
+    ],
+    "Options": [
+      "fenollar",
+      "tiollar",
+      "galogenhosil alar"
+    ]
+  },
+  {
+    "Number": 327,
+    "Text": "Fosfolipidlar molekulasini o tashkil qiluvchi 3 ta qismini ko’rsating:",
+    "Answers": [
+      "propantriol",
+      "yog’ kislotalar",
+      "fosfat kislota"
+    ],
+    "Options": [
+      "pirofosfat kislota",
+      "etil spirti",
+      "etilenglikol"
+    ]
+  },
+  {
+    "Number": 328,
+    "Text": "Fosfolipidlar tarkibiga kiruvchi 3 ta aminobirikmani ko’rsating:",
+    "Answers": [
+      "xolin",
+      "kolamin",
+      "serin"
+    ],
+    "Options": [
+      "atsetilxolin",
+      "neyrin",
+      "glitsin"
+    ]
+  },
+  {
+    "Number": 329,
+    "Text": "Kraxmal gidrolizining 3 ta mahsulotini ko’rsating:",
+    "Answers": [
+      "dekstrin",
+      "maltoza",
+      "glyukoza"
+    ],
+    "Options": [
+      "dekstran",
+      "galaktoza",
+      "saxaroza"
+    ]
+  },
+  {
+    "Number": 330,
+    "Text": "Guaninning tuzilishi va xossalarining 3 ta o’ziga xosliliklarini ko’rsating:",
+    "Answers": [
+      "imidazol va pirimidin halqalarini saqlaydi",
+      "laktam-laktim tautomerlanish xos",
+      "nuklein kislotalar tarkibiga kiradi"
+    ],
+    "Options": [
+      "geteropolisaxaridlarning tuzilish birligi",
+      "pirrol va piridin halqalarini saqlaydi",
+      "2,6-diaminopurin deyiladi"
+    ]
+  },
+  {
+    "Number": 331,
+    "Text": "Alfa-aminokislotalarning karboksil guruhi bo’yicha boradigan 3 ta reaksiyasini ko’rsating:",
+    "Answers": [
+      "murakkab efir hosil  qilish",
+      "dekarboksillanish",
+      "galogenangidridlar hosil  qilish"
+    ],
+    "Options": [
+      "N-atsil hosil alarni berish",
+      "Shiff asoslarini hosil  qilish",
+      "dezaminlanish"
+    ]
+  },
+  {
+    "Number": 332,
+    "Text": "Alfa-aminokislotalarning aminoguruhi bo’yicha boradigan 3 ta reaksiyasini ko’rsating:",
+    "Answers": [
+      "n-atsil hosilalarni berish",
+      "Shiff asoslarini hosil  qilish",
+      "dezaminlanish"
+    ],
+    "Options": [
+      "murakkab efir hosil  qilish",
+      "dekarboksillanish",
+      "galogenangidridlar hosil  qilish"
+    ]
+  },
+  {
+    "Number": 333,
+    "Text": "Alfa-aminokislotalar va oqsillarga doir 3 ta sifat reaksiyasini ko’rsating:",
+    "Answers": [
+      "ningidrin bilan",
+      "mis gidroksid bilan - biuret reaksiyasi",
+      "nitrat kislota bilan - ksantoprotein reksiyasi"
+    ],
+    "Options": [
+      "xlorangidrid bilan",
+      "kalsiy stearat bilan",
+      "sulfat kislota bilan"
+    ]
+  },
+  {
+    "Number": 334,
+    "Text": "Almashtirib bo`lmaydigan 3 ta alfa-aminokislotani ko’rsating:",
+    "Answers": [
+      "lizin",
+      "metionin",
+      "fenilalanin"
+    ],
+    "Options": [
+      "arginin",
+      "sistein",
+      "tirozin"
+    ]
+  },
+  {
+    "Number": 335,
+    "Text": "Alfa-amin oksikislotalarning fazoviy izomeriyasini 3 ta ta’rifini ko’rsating:",
+    "Answers": [
+      "alfa uglerod atomi - xirallik markazi",
+      "alfa-aminokislotalarning ko’pchiligi 2 ta enantiomer hosil  qiladi",
+      "tabiiy alfa-aminokislotalarning barchasi L-katorga mansub"
+    ],
+    "Options": [
+      "alfa-aminokislotalarda xirallik markazi yo’q",
+      "fazoviy izomer hosil  qilmaydi",
+      "tabiiy alfa-aminokislotalarning barchasi D-katorga mansub"
+    ]
+  },
+  {
+    "Number": 336,
+    "Text": "Denaturatsiya hodisasini to`g`ri tushintiruvchi 3 ta javobni ko’rsating:",
+    "Answers": [
+      "bu - Oqsilning tabiiy makrostrukturasining buzilishi",
+      "denaturatsiyada oqsilning birlamchi qurilishi saqlanib qoladi",
+      "bu – oqsilning birlamchi va barcha turdagi qurilishining buzilishi",
+      "denaturatsiyada oqsilning biologik faolligi yo‘qoladi"
+    ],
+    "Options": [
+      "bu – Oqsilning boshlang’ich aminokislotargacha parchalanishi",
+      "denaturatsiya - bu qaytmas jarayon"
+    ]
+  },
+  {
+    "Number": 337,
+    "Text": "Monosaxaridlarni 3 ta xossasini ko’rsating:",
+    "Answers": [
+      "gidrolizlanmaydi",
+      "suvda yaxshi eruvchi qattiq moddalar",
+      "shirin mazaga ega moddalar"
+    ],
+    "Options": [
+      "gidrolizlanadi",
+      "suyuk moddalar",
+      "suvda erimaydigan qattiq moddalar"
+    ]
+  },
+  {
+    "Number": 338,
+    "Text": "Monosaxaridlarning tuzilishidagi 3 ta o‘ziga xosliliklarni ko’rsating:",
+    "Answers": [
+      "bitta aldegid guruhini saqlashi mumkin",
+      "bitta keton guruhini saqlashi mumkin",
+      "bir nechta gidroksil guruhi bo`lishi mumkin"
+    ],
+    "Options": [
+      "bir nechta karbonil guruhni saqlashi mumkin",
+      "faqat  bitta gidroksil guruhi bo`lishi mumkin",
+      "karboksil guruhi bo`lishi mumkin"
+    ]
+  },
+  {
+    "Number": 339,
+    "Text": "Monosaxaridlarning halqali shakllarining 3 ta ta’rifini ko’rsating:",
+    "Answers": [
+      "kimyoviy jihatdan - halqali yarimatsetallar",
+      "yarimatsetalli OH- guruhi glikozidli deb ataladi",
+      "alfa-anomerlarda glikozidli OH- guruhi halqa ostida joylashadi"
+    ],
+    "Options": [
+      "kimyoviy jihatdan - halqali angidridlar",
+      "oxirigi uglerod atomidagi OH- guruhi glikozidli deb ataladi",
+      "alfa-anomerlarda glikozidli OH- guruhi halqa ustida joylashadi"
+    ]
+  },
+  {
+    "Number": 340,
+    "Text": "Tabiatda eng ko’p tarkalgan 3 ta disaxaridni ko’rsating:",
+    "Answers": [
+      "maltoza",
+      "sellobioza",
+      "laktoza"
+    ],
+    "Options": [
+      "kraxmal",
+      "sellyuloza",
+      "glyukoza"
+    ]
+  },
+  {
+    "Number": 341,
+    "Text": "Laktozaning tuzilishi va xossalarining 3 ta o’ziga xosliliklarini ko’rsating:",
+    "Answers": [
+      "sut shakari",
+      "betta-D-galaktopiranoza va D-glyukopiranoza qoldiqlari betta (1--x3)",
+      "Feling reaktivini qaytaradi"
+    ],
+    "Options": [
+      "solod shakari",
+      "ikki molekula D-glyukopiranozadan tashqil topgan",
+      "qayta ruvchi xususiyatiga ega emas"
+    ]
+  },
+  {
+    "Number": 342,
+    "Text": "Saxarozaning tuzilishi va xossalarining 3 ta o‘ziga xosliliklarini ko’rsating:",
+    "Answers": [
+      "alfa-D-glyukopiranoza va betta-D-fruktofuranoza qoldiqlaridan tashqil topgan",
+      "monosaxaridlar alfa (1--2) glikozid bog’i bilan bog`langan",
+      "qaytaruvchilik xususiyatiga ega emas"
+    ],
+    "Options": [
+      "ikki molekula D-glyukopiranoza qoldiklaridan tashqil topgan",
+      "monosaxaridlar betta (1--3) glikozid bog’i bilan bog`langan",
+      "qaytaruvchi xususiyatiga ega"
+    ]
+  },
+  {
+    "Number": 343,
+    "Text": "Quyidagi birikmalardan 3 ta gomopolisaxaridni ko’rsating:",
+    "Answers": [
+      "kraxmal",
+      "sellyuloza",
+      "glikogen"
+    ],
+    "Options": [
+      "xondroitinsulfatlar",
+      "geparin",
+      "murein"
+    ]
+  },
+  {
+    "Number": 344,
+    "Text": "Quyidagi birikmalardan 3 ta geteropolisaxaridni ko’rsating:",
+    "Answers": [
+      "xondroitinsulfatlar",
+      "geparin",
+      "muramin"
+    ],
+    "Options": [
+      "kraxmal",
+      "sellyuloza",
+      "glikogen"
+    ]
+  },
+  {
+    "Number": 345,
+    "Text": "Kraxmalning ta’rifi to`g`ri keltirilgan 3 ta javobni ko’rsating:",
+    "Answers": [
+      "amiloza va amilopektinning aralashmasi",
+      "sovuq suvda erimaydigan oq amorf modda",
+      "D-glyukopiranoza qoldiqlaridan tashqil topgan"
+    ],
+    "Options": [
+      "geteropolisaxarid",
+      "suvda yaxshi eriydigan kristall modda",
+      "D-galaktopiranoza qoldiqlaridan tashqil topgan"
+    ]
+  },
+  {
+    "Number": 346,
+    "Text": "Nuklein kislotalarga ta’luqli bo`lgan 3 ta xususiyatni ko’rsating:",
+    "Answers": [
+      "biologik polimer moddalar",
+      "Oqsil biosintezining boshqaruvchisi",
+      "irsiy belgilarni nasldan-naslga o‘tkazuvchisi"
+    ],
+    "Options": [
+      "kichik molekulyar organik birikmalar",
+      "lipidlar almashinuvini boshqaruvchisi",
+      "monosaxaridlardan tashqil topgan"
+    ]
+  },
+  {
+    "Number": 347,
+    "Text": "Lipidlar fraksiyasiga kiruvchi kichik molekulyar bioboshqaruvchilarning 3 ta sini ko’rsating:",
+    "Answers": [
+      "steroid gormonlar",
+      "prostaglandinlar",
+      "ba’zi bir kofermentlar"
+    ],
+    "Options": [
+      "moylar",
+      "yog’lar",
+      "mumlar"
+    ]
+  },
+  {
+    "Number": 348,
+    "Text": "Gomopolifunksional birikmalar qatoriga kiruvchi 4 ta birikmani ko’rsating:",
+    "Answers": [
+      "putressin",
+      "kadaverin",
+      "atsetilatseton",
+      "qaxrabo kislota"
+    ],
+    "Options": [
+      "neyrin",
+      "oksoglutar kislota",
+      "kolamin",
+      "xolin"
+    ]
+  },
+  {
+    "Number": 349,
+    "Text": "To’rtta eliminlash reaksiyasini ko’rsating:",
+    "Answers": [
+      "dekarboksillanish",
+      "dezaminlanish",
+      "degidrogalogenlanish",
+      "degidratlanish"
+    ],
+    "Options": [
+      "dehalqalanish",
+      "deoksidlanish",
+      "kondensatsiyalanish",
+      "polimerlanish"
+    ]
+  },
+  {
+    "Number": 350,
+    "Text": "Molekula optik izomer hosil  qilishi uchun qanday 4 ta shartga javob berishi kerakligini ko’rsating:",
+    "Answers": [
+      "asimmetrik uglerod atomi bo`lishi",
+      "qutblangan nur tekisligining burilish burchagini o`zgartirishi",
+      "xirrallik markazi bo`lishi",
+      "o’z ko’zgu aksi bilan qoplanmasligi"
+    ],
+    "Options": [
+      "to’rtlamchi uglerod atomi bo`lishi",
+      "molekula axiral bo`lishi",
+      "o’z ko’zgi aksi bilan qoplanishi",
+      "yorug’lik nuri ta’sirida qorayishi"
+    ]
+  },
+  {
+    "Number": 351,
+    "Text": "Molekulasida bog`larning ta’sirlanishi kuzatiladigan 4 tabiiy birikmani ko’rsating:",
+    "Answers": [
+      "retinol",
+      "betta-karotin",
+      "gemoglobin",
+      "xlorofill"
+    ],
+    "Options": [
+      "monosaxaridlar",
+      "kraxmal",
+      "sellyuloza",
+      "mentol"
+    ]
+  },
+  {
+    "Number": 352,
+    "Text": "Geterofunksional birikmalarning 4 turini ko’rsating:",
+    "Answers": [
+      "aminospirtlar",
+      "yarimatsetallar",
+      "aldollar",
+      "oksokislotalar"
+    ],
+    "Options": [
+      "diketonlar",
+      "halqali iminlar",
+      "halqali angidridlar",
+      "atsetallar"
+    ]
+  },
+  {
+    "Number": 353,
+    "Text": "Markovnikov qoidasini ta’riflovchi 4 ta javobni ko’rsating:",
+    "Answers": [
+      "suv, vodorod galogenid turidagi moddalar birikishi uchun qo`llanadi",
+      "vodorod ko’p gidrogenlangan uglerodga birikadi",
+      "manfiy zarracha kam gidrogenlangan uglerodga birikadi",
+      "nosimmetrik alkenlarga elektrofil birikish reaksiyalari uchun qo`llanadi"
+    ],
+    "Options": [
+      "alkanlarda boradigan CH reaksiyalari uchun qo`llanadi",
+      "galogenlar birikishi reaksiyasi uchun qo`llanadi",
+      "vodorod kam gidrogenlangan uglerodga birikadi",
+      "manfiy zarracha ko’p gidrogenlangan uglerodga birikadi"
+    ]
+  },
+  {
+    "Number": 354,
+    "Text": "Terpenlar tuzilishi va xossallarini ta’riflovchi 4 ta javobni ko’rsating:",
+    "Answers": [
+      "monomer birlik sifatida izopren qoldig’ini saqlaydi",
+      "halkali  va ochiq zanjirli bo`lishi mumkin",
+      "monohalqali va bihalqali bo`lishi mumkin",
+      "ko’pchilik holda o’simlik tabiatli bo`ladi"
+    ],
+    "Options": [
+      "monomer birlik sifatida butadiyen-1,3 ni saqlaydi",
+      "Oqsilning monomer birligi hisoblanadi",
+      "monomer birlik sifatida gidroksikislotani tutadi",
+      "monomer birlik sifatida steran molekulasini tutadi"
+    ]
+  },
+  {
+    "Number": 355,
+    "Text": "Murakkab lipid kolaminkefalinning 4 ta tuzilish birligini ko’rsating:",
+    "Answers": [
+      "uch atomli spirt glitserin",
+      "yuqorimolekulyar karbon kislota",
+      "fosfat guruhi",
+      "etanolamin"
+    ],
+    "Options": [
+      "ikki atomli spirt etilenglikol",
+      "sirka kislota",
+      "nitrat kislota qoldig’i",
+      "xolin"
+    ]
+  },
+  {
+    "Number": 356,
+    "Text": "Murakkab lipid serinkefalinning 4 ta tuzilish birligini ko’rsating:",
+    "Answers": [
+      "uch atomli spirt glitserin",
+      "yuqorimolekulyar karbon kislota",
+      "fosfat guruhi",
+      "2-amino-3-gidroksi-propan kislota"
+    ],
+    "Options": [
+      "ikki atomli spirt etilenglikol",
+      "sirka kislota",
+      "nitrat kislota qoldig’i",
+      "xolin"
+    ]
+  },
+  {
+    "Number": 357,
+    "Text": "RNK ning birlamchi tuzilishidagi 4 ta o’ziga xosliliklarni ko’rsating:",
+    "Answers": [
+      "piridin hosilalarini saqlaydi",
+      "purin asoslarini saqlaydi",
+      "fosfat guruhlari pentoza molekulalari bilan fosfodiefir bog`lari bilan bog`langan",
+      "geterohalqali asoslari pentoza molekulasi bilan N-glikozid bog’i bilan bog`langan"
+    ],
+    "Options": [
+      "pirimidin asoslarini saqlaydi",
+      "pirolidin hosilalarini saqlaydi",
+      "fosfat guruhlari o`zaro bog’langan fosfodiefir bog’lari bilan bog’langan",
+      "geterohalqali asoslar fosfat guruhi bilan efir bog’i bilan bog’langan"
+    ]
+  },
+  {
+    "Number": 358,
+    "Text": "Quyidagi moddalardan 4 ta aromatik xususiyatga ega bo`lganini tanlang:",
+    "Answers": [
+      "benzol",
+      "naftalin",
+      "purin",
+      "pirrol"
+    ],
+    "Options": [
+      "siklogeksan",
+      "siklopentadiyen",
+      "deqalin",
+      "siklopentan"
+    ]
+  },
+  {
+    "Number": 359,
+    "Text": "Quyidagi moddalardan pi-pi ta’sirlanish kuzatiladigan 4 tasini tanlang:",
+    "Answers": [
+      "Geksatriyen-1,3,5",
+      "pirimidin",
+      "butadiyen-1,3",
+      "benzol"
+    ],
+    "Options": [
+      "anilin",
+      "vinilxlorid",
+      "purin",
+      "pirrol"
+    ]
+  },
+  {
+    "Number": 360,
+    "Text": "Piridinning tuzilishi va xossalarini aks ettiruvchi 5 ta javobni  ko’rsating",
+    "Answers": [
+      "aromatik geterohalqali birikm",
+      "asosli xossaga ega",
+      "galogen atomi sp2 gibridlangan",
+      "elektron yetishadigan",
+      "elektrofil birikish reaksiyalariga qiyin kirishadi"
+    ],
+    "Options": [
+      "elektrofil o’rin olish reaksiyalariga oson kirishadi",
+      "pi-ortiqcha bo`lgan aromatik tizim",
+      "azot atomi sp3 gibridlangan",
+      "aromatik emas",
+      "kislotali xassaga ega"
+    ]
+  },
+  {
+    "Number": 361,
+    "Text": "DNKning ikkilamchi ko’rilishini aks ettiruvchi 5 ta javobni ko’rsating",
+    "Answers": [
+      "qo’sh spiral shaklida bo`ladi",
+      "azotli asoslar spiralning ichki tarafiga qarab joylashadi",
+      "polinukleotid zanjirlar bir-biriga antiparallel bo`ladi",
+      "spiral o’ng tomonga qarab o‘ralgan",
+      "azotli asoslar o`zaro vodorod bog`lari bilan bog`langan"
+    ],
+    "Options": [
+      "bir o’ramli spiral ko’rinishiga ega",
+      "alfa-ko’rilishga ega",
+      "azotli asoslar spiralning tashqi tarafida joylashadi",
+      "vodorod bog`lari karbonsuv va fosfat guruhlari o`rtasida hosil  bo`ladi",
+      "polinukleotid zanjirlar biri-biriga parallel bo`ladi"
+    ]
+  },
+  {
+    "Number": 362,
+    "Text": "Sovunlanmaydigan lipidlarning 5 ta o’ziga xos xususiyatlarini ko’rsating:",
+    "Answers": [
+      "steroidlar ko`proq hayvon lipidlari qatorida uchraydi",
+      "terpenlar ko`proq o’simlik lipidlari qatorida uchraydi",
+      "terpen uglevodorodlari izopren qoldiqlaridan iborat",
+      "terpenoidlar kislorod tutgan funksional guruhlarga ega"
+    ],
+    "Options": [
+      "steroidlar porfirinlar halqasini otashqil etadi",
+      "terpenlar porforinlar halqasini otashqil etadi",
+      "hayvon lipidlarida steroidlar bo`lmaydi",
+      "o’simlik lipidlarida termenlar bo`lmaydi",
+      "izoprenoidlar deyiladi",
+      "glikolipidlar deyiladi"
+    ]
+  },
+  {
+    "Number": 363,
+    "Text": "Izopren guruhlarining  soniga qarab terpenlarning 5 ta guruhini ko’rsating:",
+    "Answers": [
+      "monoterpenlar",
+      "seksviterpenlar",
+      "diterpenlar",
+      "triterpenlar",
+      "bitterlenlar"
+    ],
+    "Options": [
+      "sfingozinning N-atsilhosil alari",
+      "alfa-terpenlar",
+      "sfingomiyelinlar",
+      "fosfatidilserinlar",
+      "kefalin"
+    ]
+  },
+  {
+    "Number": 364,
+    "Text": "To’yingan mono- va bitsiklik terpenlarga 5 ta misol keltiring:",
+    "Answers": [
+      "mentan",
+      "karan",
+      "pinan",
+      "bornan",
+      "kamfan"
+    ],
+    "Options": [
+      "geraniol",
+      "geranial",
+      "mirsen",
+      "skvalen",
+      "pinen"
+    ]
+  },
+  {
+    "Number": 365,
+    "Text": "Nuklein kislotalar tarkibiga kiruvchi 5 ta azotli asosni ko’rsating:",
+    "Answers": [
+      "sitozin",
+      "timin",
+      "guanin",
+      "adenin",
+      "Uratsil"
+    ],
+    "Options": [
+      "pirrol",
+      "tiofen",
+      "sistein",
+      "metionin",
+      "pirazol"
+    ]
+  },
+  {
+    "Number": 366,
+    "Text": "Mentolning tuzilishi va xossalariga doir 5 ta javobni ko’rsating:",
+    "Answers": [
+      "validol va shamollash vaqtida ishlatiladigan surtki dorilar tarkibiga kiradi",
+      "antiseptik, tinchlantiruvchi va og’riq qoldiruvchi ta’sirga ega",
+      "yalpizning efir moyi tarkibiga kiradi",
+      "mentan skeletiga ega",
+      "siklik tuzilishga ega"
+    ],
+    "Options": [
+      "organizmda betta-karotindan hosil  bo`ladi",
+      "yurak faoliyatini boshqaradi",
+      "V. geran va atirgulning efir moylarida bo`ladi",
+      "karan skeletiga ega",
+      "zanjirli"
+    ]
+  },
+  {
+    "Number": 367,
+    "Text": "Karatinoidlarning xossalaridagi 5 ta uziga xosliliklarni ko’rsating:",
+    "Answers": [
+      "o’simlik pigmentlari",
+      "vitamin yoki vitamin hosil  qiluvchilar vazifasini bajaradi",
+      "karbonsuvlar almashinuvida qatnashadi",
+      "ko’pchiligi tetraterpenlar guruhiga kiradi",
+      "tabiiy karatinoidlarda qo’sh bog`lar trans-konfiguratsiyada bo`ladi",
+      "Rangli birikmalar"
+    ],
+    "Options": [
+      "to‘yinmagan kislotalar",
+      "monoterpenlar guruhiga kiradi",
+      "tabiiy karatinoidlarda qo’sh bog`lar sis-konfiguratsi",
+      "karbonsuvlar"
+    ]
+  },
+  {
+    "Number": 368,
+    "Text": "Erkak va ayol jinsiy gormonlaridan 5 tasini ko’rsating:",
+    "Answers": [
+      "progesteron",
+      "estradiol",
+      "androsteron",
+      "testosteron",
+      "Estron"
+    ],
+    "Options": [
+      "kortikosteron",
+      "prednizalon",
+      "gidrokortizon",
+      "xolestanol",
+      "pirazol"
+    ]
+  },
+  {
+    "Number": 369,
+    "Text": "Pregnan hosilalari qatoriga kiruvchi 5 ta steroidli gormonlarni ko’rsating:",
+    "Answers": [
+      "progesteron",
+      "kortikosteron",
+      "prednizolon",
+      "gidrokortizon",
+      "Ergosteron"
+    ],
+    "Options": [
+      "androsteron",
+      "testosteron",
+      "estron",
+      "estradiol",
+      "penitsilin"
+    ]
+  },
+  {
+    "Number": 370,
+    "Text": "Lipovitaminlarning 4 tasini ko’rsating:",
+    "Answers": [
+      "D",
+      "YE",
+      "A",
+      "K"
+    ],
+    "Options": [
+      "V6",
+      "V2",
+      "S",
+      "R",
+      "Vitamin tiami",
+      "F"
+    ]
+  },
+  {
+    "Number": 371,
+    "Text": "Gidrovitaminlarning 4 tasini ko’rsating:",
+    "Answers": [
+      "S",
+      "RR",
+      "V2",
+      "V6"
+    ],
+    "Options": [
+      "A",
+      "K",
+      "D",
+      "YE"
+    ]
+  },
+  {
+    "Number": 372,
+    "Text": "Formaldegid disproporsiayalanishi reaksiyasining mexanizmi ko`rsatilgan 5 ta javobni ko’rsating",
+    "Answers": [
+      "bu jarayon Kannitssaro-Tishenko nomi bilan yuritiladi",
+      "aldegid molekulalaridan bittasi metanolgacha qaytariladi",
+      "aldegid molekulalaridan bittasi chumoli kislotagacha oksidlanadi",
+      "faqat  neytral muhitda yuz beradi",
+      "bir vaqtni o‘zida bir molekula oksidlansa ikkinchi molekula qayta riladi"
+    ],
+    "Options": [
+      "faqat  kislotali muhitda yuz beradi",
+      "faqat  ishqoriy muhitda yuz beradi",
+      "aldegid molekulalaridan bittasi alkanga aylanadi",
+      "aldegid molekulalaridan bittasi ketonga aylanadi",
+      "keton hosil  bo`ladi"
+    ]
+  },
+  {
+    "Number": 373,
+    "Text": "Sulfanilamid preparatlarining antibakterial faolligi qanday 5 omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "benzol halqasida o’rinbosarlari bo`lsa antibakterial faolligini pasayadi",
+      "faolligi sulfamid guruhi bilan bog`liq",
+      "sulfamid guruhidan tashqaridagi aminoguruhida o’rinbosarlari bo`lishi mumkin emas",
+      "para- aminobenzoy kislotaning antimetaboliti bo’la oladi",
+      "para- holatdagi aminoguruhi o’rinbosarlar tutishi kerak",
+      "sulfogruppa borligi"
+    ],
+    "Options": [
+      "faolligi para- holatdagi aminoguruhi bilan bog`liq",
+      "sulfamid guruhi o’rinbosarlar tuta olmaydi",
+      "benzol halqasidagi o’rinbosarlari qanchalik ko’p bo`lsa biofaolligi shunchalik yuqori bo`ladi",
+      "karboksil guruhi borligi"
+    ]
+  },
+  {
+    "Number": 374,
+    "Text": "Alfa-aminokislotalar va oqsillarga doir 5 ta sifat reaksiyasini ko’rsating",
+    "Answers": [
+      "ningidrin bilan",
+      "mis gidroksid bilan - biuret reaksiyasi",
+      "nitrat kislota bilan - ksantoprotein reksiyasi",
+      "kurgoshin atsetat bilan",
+      "xlorangidrid bilan",
+      "qizdirilganda laktamni hosil  qiladi"
+    ],
+    "Options": [
+      "kalsiy stearat bilan",
+      "temir(CH) gidroksid bilan",
+      "sulfat kislota bilan",
+      "alfa uglerod atomi - xirallik markazi",
+      "fazoviy izomer hosil  qilmaydi",
+      "gomofunksional birikma"
+    ]
+  },
+  {
+    "Number": 375,
+    "Text": "Monosaxaridlarning suvli eritmada mavjud bo`lishi mumkin bo`lgan 5 ta shaklini ko’rsating",
+    "Answers": [
+      "alfa- piranoza shakli",
+      "betta- piranoza shakli",
+      "alfa- furanoza shakli",
+      "betta-furanoza shakli",
+      "siklik shakli"
+    ],
+    "Options": [
+      "asos shakli",
+      "okso- shakli",
+      "gidroksi- shakli",
+      "polioza shakli",
+      "alfa-glikozidli shakli"
+    ]
+  },
+  {
+    "Number": 376,
+    "Text": "Para- aminobenzoy kislotaning hosilasi bо‘lmagan birikmalar:",
+    "Answers": [
+      "penitsillin",
+      "streptomitsin"
+    ],
+    "Options": [
+      "anestezin",
+      "novokain"
+    ]
+  },
+  {
+    "Number": 377,
+    "Text": "Gidroksi- va aminokislotalarning ichkimolekulyar halqalanish reaksiyalarida hosil  bo`lmaydigan moddalar:",
+    "Answers": [
+      "sikloparafinlar",
+      "yuqori yog’ kislotalari"
+    ],
+    "Options": [
+      "halqali murakkab diefirlar",
+      "halqali oddiy diefirlar"
+    ]
+  },
+  {
+    "Number": 378,
+    "Text": "Dekarboksillanib biogen amin hosil  qilmaydigan birikmalar:",
+    "Answers": [
+      "prolin",
+      "saxaroza"
+    ],
+    "Options": [
+      "digidroksifenilalanin",
+      "triptofan"
+    ]
+  },
+  {
+    "Number": 379,
+    "Text": "Geterofunksional birikmalar qatoriga kirmaydigan moddalar;",
+    "Answers": [
+      "diketonla",
+      "halqali iminlar"
+    ],
+    "Options": [
+      "aminospirtlar",
+      "yarimatsetallar"
+    ]
+  },
+  {
+    "Number": 380,
+    "Text": "Gomopolifunksional birikmalar qatoriga kirmaydigan moddalar:",
+    "Answers": [
+      "kolamin",
+      "xolin"
+    ],
+    "Options": [
+      "putressin",
+      "kadaverin"
+    ]
+  },
+  {
+    "Number": 381,
+    "Text": "Eliminlash reaksiyalari qatoriga kirmaydi:",
+    "Answers": [
+      "dezoksidlanish",
+      "kondensatsiya"
+    ],
+    "Options": [
+      "dekarboksillanish",
+      "dezaminlanish"
+    ]
+  },
+  {
+    "Number": 382,
+    "Text": "Glikokolga tegishli bo’lmagan ta’riflar:",
+    "Answers": [
+      "optik faollikka ega",
+      "spirtlar guruhiga kiradi"
+    ],
+    "Options": [
+      "aminokislotalar guruhiga kiradi",
+      "Oqsillar tarkibiga kiradi"
+    ]
+  },
+  {
+    "Number": 383,
+    "Text": "Aromatik moddadagi, 1-chi tur o’rinbosarlar kiruvchi guruhni yo’naltirishi mumkin bo’lmagan holatlar:",
+    "Answers": [
+      "meta (S 5)",
+      "meta (S 3)"
+    ],
+    "Options": [
+      "orto (S 2)",
+      "para (S 4)"
+    ]
+  },
+  {
+    "Number": 384,
+    "Text": "Funksional guruhni ta’rifiga to`g`ri kelmaydigan holatlar:",
+    "Answers": [
+      "uglevodorod radikali bo`lishi kerak",
+      "uglerod atomi bo`lishi kerak"
+    ],
+    "Options": [
+      "o’zi geteroatom bo`lishi kerak",
+      "geteroatomli gurux bo`lishi kerak"
+    ]
+  },
+  {
+    "Number": 385,
+    "Text": "Sulfanil kislota va sulfanilamidlarni ta’riflashda ishlatilmaydigan iboralar:",
+    "Answers": [
+      "sulfanil kislota antirevmatik xususiyatga ega",
+      "sulfanil kislota ammiakni oksidlash orqali olinadi"
+    ],
+    "Options": [
+      "sulfanil kislota anilinni sulfolash yo’li bilan olinadi",
+      "sulfanilamidlar antibakterial faolikka ega"
+    ]
+  },
+  {
+    "Number": 386,
+    "Text": "Sanoatda alkanlar oksidlanishi sharoitlari qatoriga kirmaydi:",
+    "Answers": [
+      "reagent sifatida bromli suv ishtirok etishi",
+      "KMnO4 katalizatori ishtirokida borishi"
+    ],
+    "Options": [
+      "reagent sifatida havo kislorodining ishtiroki",
+      "marganets katalizatorining ishtiroki"
+    ]
+  },
+  {
+    "Number": 387,
+    "Text": "Tiollar oksidlanishida hosil  bo`lmaydigan birikmalar:",
+    "Answers": [
+      "benzoxinon",
+      "alanin"
+    ],
+    "Options": [
+      "disulfidlar",
+      "sulfen kislota"
+    ]
+  },
+  {
+    "Number": 388,
+    "Text": "qo’sh bog`lar joylashishi noto`g`ri nomlangan qatorlar:",
+    "Answers": [
+      "kumullangan ( -CH=CH-CH2-CH=CH)",
+      "ajratilgan (-CH=CH-CH=CH-)"
+    ],
+    "Options": [
+      "kumullangan  ( -CH=S=CH-)",
+      "ajratilgan ( -CH=CH-CH2-CH=CH)"
+    ]
+  },
+  {
+    "Number": 389,
+    "Text": "ATF molekulasi gidrolizining mahsuloti bо‘lmagan birikmalar:",
+    "Answers": [
+      "atsetamid",
+      "dezoksiriboza"
+    ],
+    "Options": [
+      "adenin",
+      "riboza"
+    ]
+  },
+  {
+    "Number": 390,
+    "Text": "GTF molekulasi gidrolizining mahsuloti bo’lmagan birikmalar:",
+    "Answers": [
+      "nuanidin",
+      "dezoksiriboza"
+    ],
+    "Options": [
+      "guanin",
+      "riboza"
+    ]
+  },
+  {
+    "Number": 391,
+    "Text": "Oqsilning uchlamchi tuzilishini barqarorlashda ishtirok etmaydigan bog`lar:",
+    "Answers": [
+      "amid bog`i",
+      "glikozid bog`i"
+    ],
+    "Options": [
+      "efir kpriklari",
+      "gidrofob birikish"
+    ]
+  },
+  {
+    "Number": 392,
+    "Text": "Murakkab lipid letsitinning tarkibiga kirmaydigan moddalar:",
+    "Answers": [
+      "ikkiatomli spirt etilenglikol",
+      "sirka kislota"
+    ],
+    "Options": [
+      "uch atomli spirt glitserin",
+      "yuqorimolekulyar karbon kislota"
+    ]
+  },
+  {
+    "Number": 393,
+    "Text": "Biopolimerlar qatoriga kirmaydigan birikmalar:",
+    "Answers": [
+      "ko’p atomli spirtlar",
+      "yuqori molekulyar karbon kislotalar"
+    ],
+    "Options": [
+      "Oqsillar va peptidlar",
+      "polisaxaridlar"
+    ]
+  },
+  {
+    "Number": 394,
+    "Text": "bioboshqaruvchilar qatoriga kirmaydigan moddalar:",
+    "Answers": [
+      "karbonsuvlar",
+      "Oqsillar"
+    ],
+    "Options": [
+      "vitaminlar",
+      "sintetik bioaktiv moddalar"
+    ]
+  },
+  {
+    "Number": 395,
+    "Text": "Kolaminning tuzilishini aks ettirmaydigan iboralar:",
+    "Answers": [
+      "bitta qо‘sh bog`i bor",
+      "ikki atomli spirt hosilasi"
+    ],
+    "Options": [
+      "etanning hosilasi",
+      "aminospirtlar qatoriga kiradi"
+    ]
+  },
+  {
+    "Number": 396,
+    "Text": "Sut kislotaning tuzilishini aks ettirmaydigan iboralar:",
+    "Answers": [
+      "galogenli kislotalar qatoriga mansub",
+      "tо‘yinmagan kislota hosilasi",
+      "beshta uglerod atomiga ega"
+    ],
+    "Options": [
+      "uchta uglerod atomiga ega"
+    ]
+  },
+  {
+    "Number": 397,
+    "Text": "Mentolning tuzilishini aks ettirmaydigan iboralar:",
+    "Answers": [
+      "yettita uglerod atomiga ega",
+      "uchta qo’sh bog`i bor"
+    ],
+    "Options": [
+      "antispazmatik xususiyatga ega",
+      "siklogeksan hosilasi"
+    ]
+  },
+  {
+    "Number": 398,
+    "Text": "Induktiv samara – bu:",
+    "Answers": [
+      "elektron zichlikni sigma- bog`lar bo’yicha qayta   taqsimlanishi"
+    ],
+    "Options": [
+      "elektron zichlikni pi- bog`lar bo’yicha qayta   taqsimlanishi",
+      "ichkimolekulyar qayta   guruhlanishni tezlishishi",
+      "elektron zichlikni lokallanishini pasayishi",
+      "elektron zichlikni delokallanishini pasayishi"
+    ]
+  },
+  {
+    "Number": 399,
+    "Text": "Simmetriya markaziga ega bo’lmagan molekulalar – bu:",
+    "Answers": [
+      "xiral"
+    ],
+    "Options": [
+      "axiral",
+      "diasteriomerlar",
+      "enantiomerlar"
+    ]
+  },
+  {
+    "Number": 400,
+    "Text": "To’rtta to’rt xil atom yoki atomlar guruhi bilan bog`langan uglerod atomining nomi:",
+    "Answers": [
+      "assimetrik"
+    ],
+    "Options": [
+      "simmetrik",
+      "qo’zgalgan",
+      "xiral",
+      "neytral"
+    ]
+  },
+  {
+    "Number": 401,
+    "Text": "Xemoselektivlik",
+    "Answers": [
+      "tabiati yaqin guruhlardan birini tanlab reaksiya borishi"
+    ],
+    "Options": [
+      "reaksion markazlardan birini tanlab reaksiya borishi",
+      "mumkin bir nechta izomerlardan birini hosil  bo`lishi",
+      "reaksiyani sinxron mexanizm bo’yicha borishi",
+      "reaksiyani molekulyar mexanizm bo’yicha borishi"
+    ]
+  },
+  {
+    "Number": 402,
+    "Text": "Fenolni sulfolash reaksiyasining mexanizmi:",
+    "Answers": [
+      "elektrofil urin olish"
+    ],
+    "Options": [
+      "elektrofil birikish",
+      "ukleofil birikish",
+      "nukleofil urin olish",
+      "eliminlash"
+    ]
+  },
+  {
+    "Number": 403,
+    "Text": "Propenni xlorlash reaksiyasi boradigan mexanizm – bu:",
+    "Answers": [
+      "elektrofil birikish"
+    ],
+    "Options": [
+      "elektrofil o‘rin olish",
+      "nukleofil birikish",
+      "nukleofil o‘rin olish",
+      "eliminlash"
+    ]
+  },
+  {
+    "Number": 404,
+    "Text": "Aromatik uglevodorodlarga xos reaksiyalar – bu:",
+    "Answers": [
+      "elektrofil o‘rin olish"
+    ],
+    "Options": [
+      "elektrofil birikish",
+      "nukleofil birikish",
+      "nukleofil o‘rin olish",
+      "eliminlash"
+    ]
+  },
+  {
+    "Number": 405,
+    "Text": "Eng yuqori energiyali zarrachalar:",
+    "Answers": [
+      "radikallar"
+    ],
+    "Options": [
+      "ionlar",
+      "nukleofillar",
+      "elektrofillar",
+      "molekulalar"
+    ]
+  },
+  {
+    "Number": 406,
+    "Text": "Kislotalik kamayishining qatori:",
+    "Answers": [
+      "glitserin > etilenglikol > n-propil spirti"
+    ],
+    "Options": [
+      "glitserin > n-propil spirti > etilenglikol",
+      "etilenglikol > glitserin > n-propil spirti",
+      "etilenglikol > n-propil spirti > glitserin",
+      "n-propil spirti > etilenglikol > glitserin"
+    ]
+  },
+  {
+    "Number": 407,
+    "Text": "Alkinlardagi elektrofil birikishi bog`liq bo`lgan omil:",
+    "Answers": [
+      "alkil radikalning tuzilishi"
+    ],
+    "Options": [
+      "bosim",
+      "temperatura",
+      "aktivlashtirish energiyasi",
+      "lektron zichlikning pasayishi"
+    ]
+  },
+  {
+    "Number": 408,
+    "Text": "Karbon kislotalarning mochevina bilan karboksil guruhi bo’yicha ta’sirlashishida hosil  bo`ladigan modda:",
+    "Answers": [
+      "ureidokislota"
+    ],
+    "Options": [
+      "kislota ureidi",
+      "amidlar",
+      "aminoklarsloti",
+      "aminlar"
+    ]
+  },
+  {
+    "Number": 409,
+    "Text": "Organik moddalarning organizmda oksidlanishida sodir bo`ladi:",
+    "Answers": [
+      "energiya ajralishi"
+    ],
+    "Options": [
+      "energiya yutilishi",
+      "yangi tarkibiy qismlar hosil  bo`lishi",
+      "komponentlar kondensatsiyasi",
+      "elektronlar birikishi"
+    ]
+  },
+  {
+    "Number": 410,
+    "Text": "Ikkilamchi uglerodning oxirigacha oksidlanish mahsuloti – bu:",
+    "Answers": [
+      "keton"
+    ],
+    "Options": [
+      "aldegid",
+      "aldegdospirt",
+      "ketonospirt",
+      "kislota"
+    ]
+  },
+  {
+    "Number": 411,
+    "Text": "Fiziologik stressda qonga o’tadigan gormon:",
+    "Answers": [
+      "adrenalin"
+    ],
+    "Options": [
+      "tirozin",
+      "fenilanin",
+      "diyodtirozin",
+      "serotonin"
+    ]
+  },
+  {
+    "Number": 412,
+    "Text": "Metabolizm – bu:",
+    "Answers": [
+      "moddalar almashinuvi"
+    ],
+    "Options": [
+      "moddalar parchalanishi",
+      "moddalar birlashishi",
+      "energiya ajralishi",
+      "energiya yutilishi"
+    ]
+  },
+  {
+    "Number": 413,
+    "Text": "Metabolitlar – bu:",
+    "Answers": [
+      "modda almashinuvida ishtirok etadigan moddalar"
+    ],
+    "Options": [
+      "organizmga oziq ovqat  bilan tushadigan moddalar",
+      "organizmda sintezlanadigan moddalar",
+      "organizmda parchalanadigan moddalar",
+      "organizmda o’zlashmaydigan moddalar"
+    ]
+  },
+  {
+    "Number": 414,
+    "Text": "Katabolizm – bu:",
+    "Answers": [
+      "organizmga oziq ovqat  bilan tushadigan moddalarning parchalanishi"
+    ],
+    "Options": [
+      "oddiy moddalardan murakkab moddalarni hosil  bo`lishi",
+      "qaytariladigan reaksiyalar",
+      "almashinish reaksiyalari",
+      "gidroliz reaksiyalari"
+    ]
+  },
+  {
+    "Number": 415,
+    "Text": "Anabolizm – bu:",
+    "Answers": [
+      "oddiy moddalardan murakkabroq moddalarni hosil  bo`lishi"
+    ],
+    "Options": [
+      "organizmga oziq ovqat  bilan tushadigan moddalarning parchalanishi",
+      "oksidlanish reaksiyalari",
+      "energiya ajralishi",
+      "almashinish reaksiyasi"
+    ]
+  },
+  {
+    "Number": 416,
+    "Text": "Mezomer samara – bu:",
+    "Answers": [
+      "elektron zichligini pi-bog`lar bo’y lab qayta   taqsimlanishi"
+    ],
+    "Options": [
+      "elektron zichligini sigma - bog`lar bo’ylab qayta   taqsimlanishi",
+      "ichki molekulyar qayta   turlanishning tezlanishi",
+      "elektron zichlikning lokallanishini pasayishi",
+      "molekula izomerlanishining kamayishi"
+    ]
+  },
+  {
+    "Number": 417,
+    "Text": "Sistemada elektron zichlikni oshiruvchi o’rinbosarlar deyiladi:",
+    "Answers": [
+      "elektronodonor"
+    ],
+    "Options": [
+      "elektronoakseptor",
+      "karbokation hosil  qiluvchi",
+      "karboanion hosil  qiluvchi",
+      "erkin radikal hosil  qiluvchi"
+    ]
+  },
+  {
+    "Number": 418,
+    "Text": "Izoleysin CH3-CH2-CH(CH3)-CH(NH2)-COOH ni o’rinbosar nomenklatura bo’yicha nomlang:",
+    "Answers": [
+      "2-amino-3-metilpentan kislota"
+    ],
+    "Options": [
+      "3-metil-4-metilaminopentan kislota",
+      "1-karboksi-2-amino-3-metilbutan",
+      "2-aminoizogeksan kislota",
+      "aminoizogeksan kislota"
+    ]
+  },
+  {
+    "Number": 419,
+    "Text": "Pirouzum kislota CH3-C(O)-COOH organik moddalarning quyidagi sinfiga ta’luqli:",
+    "Answers": [
+      "ketokislota"
+    ],
+    "Options": [
+      "efir",
+      "keton",
+      "kislota",
+      "aldegid"
+    ]
+  },
+  {
+    "Number": 420,
+    "Text": "Aminokislota sistein HS-CH2-CH(NH2)-COOH  ni o’rinbosar nomenklatura bo’yicha nomlang:",
+    "Answers": [
+      "2-amino-3-tiopropan kislota"
+    ],
+    "Options": [
+      "1-tiol-2-aminokapron kislota",
+      "1-tiol-2-amino-2-karboksi-etan",
+      "2-tiometil-2-amino-metan kislota",
+      "1-karboksi-2-amino-tiol-2-propan"
+    ]
+  },
+  {
+    "Number": 421,
+    "Text": "Piridin aromatiklik xususiyatiga ega chunki:",
+    "Answers": [
+      "aromatiklik mezonlariga javob beradi"
+    ],
+    "Options": [
+      "yassi to’yingan halqa tuzilishiga ega",
+      "karbohalqali birikma",
+      "ta’sirlangan tizimga ega emas",
+      "uglerod atomi sp3-gibridlangan"
+    ]
+  },
+  {
+    "Number": 422,
+    "Text": "Ta’sirlanish hodisasi – bu:",
+    "Answers": [
+      "molekulada bog`lar va zaryadlarni teng taqsimlanishi"
+    ],
+    "Options": [
+      "ionlar gidratatsiyasi",
+      "molekulalar solvatatsisi",
+      "erkin radikal hosil  bo`lishi",
+      "molekula barqarorligini kamayishi"
+    ]
+  },
+  {
+    "Number": 423,
+    "Text": "Molekuladagi atomlar va atom guruhlarining fazoda oddiy bog` atrofida aylanishi hisobiga hosil  bo`ladigan fazoviy modellar – bu:",
+    "Answers": [
+      "konformatsiya"
+    ],
+    "Options": [
+      "konfiguratsiya",
+      "qutblanish",
+      "kimyoviy tuzilish",
+      "aromatiklik"
+    ]
+  },
+  {
+    "Number": 424,
+    "Text": "Elektronlar juftiga ega bo`lgan reagent zarracha – bu:",
+    "Answers": [
+      "nukleofil"
+    ],
+    "Options": [
+      "elektrofil",
+      "ion",
+      "radikal",
+      "nukleofil"
+    ]
+  },
+  {
+    "Number": 425,
+    "Text": "Qaytarilish jarayonida ko‘zatiladigan o’zgarishlar::",
+    "Answers": [
+      "vodorod atomini biriktirish"
+    ],
+    "Options": [
+      "elektronlar berish",
+      "qo’sh bog` uzilishi",
+      "elektronlar kamayishi",
+      "molekulani izomerlanishi"
+    ]
+  },
+  {
+    "Number": 426,
+    "Text": "Monoalmashingan alkinga suv birikishining hosilasi:",
+    "Answers": [
+      "aldegid"
+    ],
+    "Options": [
+      "keton",
+      "spirt",
+      "karbonovaya kislota",
+      "kristallogidrat"
+    ]
+  },
+  {
+    "Number": 427,
+    "Text": "Spirtlarning qaynash harorati anomal darajada yuqoriligining sababi:",
+    "Answers": [
+      "vodorod bog`lar hosil  qilishi"
+    ],
+    "Options": [
+      "oksi guruhi borligi",
+      "dissotsiatsiya hisobiga",
+      "yaxshi eriganligi",
+      "sigma bog`lari hisobiga"
+    ]
+  },
+  {
+    "Number": 428,
+    "Text": "Spirt va fenollarning oltingugurt saqlovchi analoglari:",
+    "Answers": [
+      "merkaptanlar"
+    ],
+    "Options": [
+      "sulfidlar",
+      "disulfidlar",
+      "efirlar",
+      "tioefirlar"
+    ]
+  },
+  {
+    "Number": 429,
+    "Text": "Birlamchi va ikkilamchi aminlar suvda yaxshi erishining sababi:",
+    "Answers": [
+      "vodorod bog`lar hosil  qilishi"
+    ],
+    "Options": [
+      "qutbli bog`lari borligi",
+      "sp3-gibridlanganligi uchun",
+      "azot atomi bo`lganligi uchun",
+      "uchlamchi bo’lmaganligi uchun"
+    ]
+  },
+  {
+    "Number": 430,
+    "Text": "Karbon kislotalarning  R-S(O)-NH2 turdagi hosilalarining nomi:",
+    "Answers": [
+      "amidlar"
+    ],
+    "Options": [
+      "azidlar",
+      "aminlar",
+      "tuzlar",
+      "aminobirikmalar"
+    ]
+  },
+  {
+    "Number": 431,
+    "Text": "Sirka kislota va etil spirt reaksiyasining hosilasini nomi:",
+    "Answers": [
+      "etilatsetat"
+    ],
+    "Options": [
+      "oddiy efir",
+      "yarimatsetal",
+      "sirka kislotali efir",
+      "atsetal"
+    ]
+  },
+  {
+    "Number": 432,
+    "Text": "Moddaning ma’lum sinfga ta’luqliligini belgilovchi  va ularni xossalari uchun javobgar guruhlarning nomi:",
+    "Answers": [
+      "funksional guruhlar"
+    ],
+    "Options": [
+      "alkinlar",
+      "arenlar",
+      "alkanlar",
+      "alkenlar"
+    ]
+  },
+  {
+    "Number": 433,
+    "Text": "Keltirilgan moddalarning quyidagisi kislotali aminokislotalar turiga kiradi:",
+    "Answers": [
+      "aspargin kislota"
+    ],
+    "Options": [
+      "serin",
+      "metionin",
+      "sistein",
+      "gistidin"
+    ]
+  },
+  {
+    "Number": 434,
+    "Text": "Neytral aminokislotani ko’rsating:",
+    "Answers": [
+      "glitsin"
+    ],
+    "Options": [
+      "lizin",
+      "glutamin",
+      "asparagin",
+      "glutamin kislota"
+    ]
+  },
+  {
+    "Number": 435,
+    "Text": "Keltirilgan aminokislotalarning qaysi birida xirallik markazi yo’qligini ko’rsating:",
+    "Answers": [
+      "glitsin"
+    ],
+    "Options": [
+      "alanin",
+      "serin",
+      "treonin",
+      "valin"
+    ]
+  },
+  {
+    "Number": 436,
+    "Text": "Oqsillarning birlamchi tuzilishi – bu ularning:",
+    "Answers": [
+      "aminokislotalik ketma-ketligi"
+    ],
+    "Options": [
+      "kimyoviy xossalari",
+      "molekulyar massasi",
+      "aminokislotalar soni",
+      "aminokislotalar tabiati"
+    ]
+  },
+  {
+    "Number": 437,
+    "Text": "Oqsilning birlamchi tuzilishida asosiy bo`lib hisoblanadigan bog` - bu:",
+    "Answers": [
+      "peptid"
+    ],
+    "Options": [
+      "ionli",
+      "kovalent",
+      "donor-akseptor",
+      "vodorod"
+    ]
+  },
+  {
+    "Number": 438,
+    "Text": "Oqsillarni uchlamchi tuzilishi nima bilan  bog`liqligini  ko’rsating:",
+    "Answers": [
+      "polipeptid zanjirini qayta   spirallanishi"
+    ],
+    "Options": [
+      "polipeptid zanjir hosil  bo`lishi",
+      "oligomerlar hosil  bo`lishi",
+      "aminokislotalar ketma-ketligi",
+      "vodorod bog`lar hosil  bo`lishi"
+    ]
+  },
+  {
+    "Number": 439,
+    "Text": "Oqsilni uchlamchi tuzilishida qatnashmaydigan bog` turi:",
+    "Answers": [
+      "donor-akseptor"
+    ],
+    "Options": [
+      "gidrofob",
+      "ionli",
+      "disulfid",
+      "amid"
+    ]
+  },
+  {
+    "Number": 440,
+    "Text": "Aminokislotalarni organizmdan tashqarida dezaminlanishining mahsuloti:",
+    "Answers": [
+      "oksikislota"
+    ],
+    "Options": [
+      "dikarbon kislota",
+      "keton",
+      "ketokislota",
+      "aldokislota"
+    ]
+  },
+  {
+    "Number": 441,
+    "Text": "Denaturatsiyada oqsilning saqlanib qoladigan qurilishi:",
+    "Answers": [
+      "birlamchi"
+    ],
+    "Options": [
+      "ikkilamchi",
+      "uchlamchi",
+      "to`rtlamchi",
+      "asosiy"
+    ]
+  },
+  {
+    "Number": 442,
+    "Text": "Kimyoviy tabiati bo’yicha fermentlar moddalarning qaysi sinfiga kirishini ko’rsating:",
+    "Answers": [
+      "Oqsil"
+    ],
+    "Options": [
+      "uglevod",
+      "lipid",
+      "fosfolipid",
+      "steroid"
+    ]
+  },
+  {
+    "Number": 443,
+    "Text": "Oddiy oqsillarni gidrolizlanishida parchalanish mahsuloti bo`ladi:",
+    "Answers": [
+      "aminokislotalar"
+    ],
+    "Options": [
+      "glikoproteinlar",
+      "lipoproteinlar",
+      "nukleoproteinlar",
+      "prostetik guruhlar"
+    ]
+  },
+  {
+    "Number": 444,
+    "Text": "Transport oqsili gemoglobin oqsillarning qaysi guruhiga kirishini ko’rsating:",
+    "Answers": [
+      "murakkab"
+    ],
+    "Options": [
+      "oddiy",
+      "lipidli",
+      "nukleoproteidlar",
+      "glikoproteidlar"
+    ]
+  },
+  {
+    "Number": 445,
+    "Text": "Oqsillarni dializ qilishdan maqsad – ularni:",
+    "Answers": [
+      "kichik molekulyar aralashmalardan  tozalash"
+    ],
+    "Options": [
+      "fraksiyalash",
+      "oddiylarini ajratish",
+      "prostetik guruhlardan ajratish",
+      "peptidlardan ajratish"
+    ]
+  },
+  {
+    "Number": 446,
+    "Text": "Nuklein kislotalar tarkibiga kiruvchi monosaxarid:",
+    "Answers": [
+      "dezoksiriboza"
+    ],
+    "Options": [
+      "glyukoza",
+      "galaktoza",
+      "fruktoza",
+      "saxaroza"
+    ]
+  },
+  {
+    "Number": 447,
+    "Text": "Karbonil guruhning tabiatiga ko’ra monosaxarid turlaridan biri – bu:",
+    "Answers": [
+      "aldozalar"
+    ],
+    "Options": [
+      "oddiy efirlar",
+      "murakkab efirlar",
+      "geterohalqali",
+      "karbohalqali"
+    ]
+  },
+  {
+    "Number": 448,
+    "Text": "Ilkbor formaldegiddan sintezlangan monosaxarid:",
+    "Answers": [
+      "glyukoza"
+    ],
+    "Options": [
+      "saxaroza",
+      "laktoza",
+      "maltoza",
+      "eritroza"
+    ]
+  },
+  {
+    "Number": 449,
+    "Text": "Aldogeksozadagi xirallik markazlarning soni:",
+    "Answers": [
+      "to’rtta"
+    ],
+    "Options": [
+      "bitta",
+      "ikkita",
+      "beshta",
+      "uchta"
+    ]
+  },
+  {
+    "Number": 450,
+    "Text": "qaysi bir gormonni sintezida substrat sifatida fenilalanin ishtirok etishini ko’rsating:",
+    "Answers": [
+      "adrenalin"
+    ],
+    "Options": [
+      "insulin",
+      "serotonin",
+      "irozin",
+      "oksitotsin"
+    ]
+  },
+  {
+    "Number": 451,
+    "Text": "Optik xossasi yo’q aminokislotani ko’rsating:",
+    "Answers": [
+      "glitsin"
+    ],
+    "Options": [
+      "alanin",
+      "lizin",
+      "glutamin",
+      "serin"
+    ]
+  },
+  {
+    "Number": 452,
+    "Text": "Tetrapeptid hosil  qilishda qatnashadigan aminokislotalarning soni:",
+    "Answers": [
+      "to`rtta"
+    ],
+    "Options": [
+      "ikkita",
+      "uchta",
+      "beshta",
+      "oltita"
+    ]
+  },
+  {
+    "Number": 453,
+    "Text": "Edman reaksiyasi bilan oqsilning qaysi tuzilishi aniqlanishini ko’rsating:",
+    "Answers": [
+      "birlamchi"
+    ],
+    "Options": [
+      "ikkilamchi",
+      "uchlamchi",
+      "to’rtlamchi",
+      "asosiy"
+    ]
+  },
+  {
+    "Number": 454,
+    "Text": "Glyukoza molekulasida sp3 gibridlangan  uglerod atomlarining soni:",
+    "Answers": [
+      "beshta"
+    ],
+    "Options": [
+      "bitta",
+      "ikkita",
+      "uchta",
+      "to’rtta"
+    ]
+  },
+  {
+    "Number": 455,
+    "Text": "Ayollar sutida  sut shakarining miqdorini ko’rsating:",
+    "Answers": [
+      "5,5-8,5"
+    ],
+    "Options": [
+      "1-2",
+      "2-4",
+      "4-5,5",
+      "3-5"
+    ]
+  },
+  {
+    "Number": 456,
+    "Text": "Gidrolizlanishda ikki molekula glyukoza hosil  qiladigan  disaxaridni ko’rsating:",
+    "Answers": [
+      "maltoza"
+    ],
+    "Options": [
+      "laktoza",
+      "sahar oza",
+      "galaktoza",
+      "sellobioza"
+    ]
+  },
+  {
+    "Number": 457,
+    "Text": "Solod shakarini gidrolizlaydigan fermentni ko’rsating:",
+    "Answers": [
+      "maltaza"
+    ],
+    "Options": [
+      "amilaza",
+      "oksidaza",
+      "diastaza",
+      "oksidaza"
+    ]
+  },
+  {
+    "Number": 458,
+    "Text": "Gidrolizlanganda bir molekula glyukoza va bir molekula galaktoza hosil  qiladigan disaxaridni ko’rsating:",
+    "Answers": [
+      "laktoza"
+    ],
+    "Options": [
+      "maltoza",
+      "saxaroza",
+      "sellobioza",
+      "galloza"
+    ]
+  },
+  {
+    "Number": 459,
+    "Text": "Tabiatda eng keng tarqarlgan uglevodni ko’rsating:",
+    "Answers": [
+      "glyukoza"
+    ],
+    "Options": [
+      "fruktoza",
+      "maltoza",
+      "galaktoza",
+      "mannoza"
+    ]
+  },
+  {
+    "Number": 460,
+    "Text": "Asalari mumi tarkibiga kiradigan spirt:",
+    "Answers": [
+      "miritsil"
+    ],
+    "Options": [
+      "etil",
+      "amil",
+      "setil",
+      "metil"
+    ]
+  },
+  {
+    "Number": 461,
+    "Text": "Spermatset tarkibiga kiradigan spirt:",
+    "Answers": [
+      "setil"
+    ],
+    "Options": [
+      "etil",
+      "amil",
+      "miritsil",
+      "propil"
+    ]
+  },
+  {
+    "Number": 462,
+    "Text": "Teri osti yog’lari tarkibiga kiradigan  kislotalar:",
+    "Answers": [
+      "to’yingan"
+    ],
+    "Options": [
+      "To’yinmagan",
+      "ikki asosli",
+      "uch asosli",
+      "ko’p asosli"
+    ]
+  },
+  {
+    "Number": 463,
+    "Text": "Fosfatid kislota tarkibidagi fosfat guruhlarning soni:",
+    "Answers": [
+      "bitta"
+    ],
+    "Options": [
+      "beshta",
+      "ikkita",
+      "uchta",
+      "to’rtta"
+    ]
+  },
+  {
+    "Number": 464,
+    "Text": "Sterinlarning C-17 uglerodidagi yonaki  radikal guruhidagi  uglerod atomlarining soni:",
+    "Answers": [
+      "sakkizta"
+    ],
+    "Options": [
+      "bitta",
+      "nol",
+      "yettita",
+      "o‘nta"
+    ]
+  },
+  {
+    "Number": 465,
+    "Text": "o’t kislotalarining organizmdagi asosiy vazifasi:",
+    "Answers": [
+      "emulgatorlik"
+    ],
+    "Options": [
+      "energetik",
+      "katalizatorlik",
+      "stabilizatorlik",
+      "peptizatorlik"
+    ]
+  },
+  {
+    "Number": 466,
+    "Text": "Odam organizmidagi o’t kislotalarining soni:",
+    "Answers": [
+      "to’rtta"
+    ],
+    "Options": [
+      "bitta",
+      "ikkita",
+      "uchta",
+      "beshta"
+    ]
+  },
+  {
+    "Number": 467,
+    "Text": "Aminosaxaridlarda aminoguruh joylashgan  uglerod atomining o’rni:",
+    "Answers": [
+      "ikkinchi"
+    ],
+    "Options": [
+      "birinchi",
+      "uchinchi",
+      "to’rtinchi",
+      "beshinchi"
+    ]
+  },
+  {
+    "Number": 468,
+    "Text": "Glyukoza eritmasida kuzatiladigan tautomeriyaning turi:",
+    "Answers": [
+      "laktim-laktam"
+    ],
+    "Options": [
+      "keto-yenol",
+      "halqa-okso",
+      "sis-trans",
+      "amino-imin"
+    ]
+  },
+  {
+    "Number": 469,
+    "Text": "Nukleotidlar – bu:",
+    "Answers": [
+      "nuklein kislotalarning monomerlari"
+    ],
+    "Options": [
+      "nuklein kislotalarning polimerlari",
+      "nuklein kislotalarning uglevodli qismi",
+      "nuklein kislotalarning azotli asoslari",
+      "nuklein kislotalarning uglevodli va fosfatli qismlari"
+    ]
+  },
+  {
+    "Number": 470,
+    "Text": "Odam organizmi uchun zarur bo`lgan almashtirib bo`lmaydigan kislotalar:",
+    "Answers": [
+      "linol, linolen"
+    ],
+    "Options": [
+      "stearin, linol",
+      "palmitin, linol",
+      "stearin, araxidon",
+      "olein, stearin"
+    ]
+  },
+  {
+    "Number": 471,
+    "Text": "Oddiy lipidlar qatoriga kiradi:",
+    "Answers": [
+      "mum"
+    ],
+    "Options": [
+      "letsitin",
+      "kefalin",
+      "xolesterol",
+      "xelesterid"
+    ]
+  },
+  {
+    "Number": 472,
+    "Text": "Tarkibida ikki atomli spirt sfingozinni tutgan  lipid:",
+    "Answers": [
+      "seramid"
+    ],
+    "Options": [
+      "gangliozmd",
+      "fosfatidilserin",
+      "fosfatidilxolin",
+      "atsetalfosfatid"
+    ]
+  },
+  {
+    "Number": 473,
+    "Text": "Fosfatidiletanolamin tarkibidagi aminospirt:",
+    "Answers": [
+      "kolamin"
+    ],
+    "Options": [
+      "xolin",
+      "serin",
+      "atsetilxolin",
+      "inozit"
+    ]
+  },
+  {
+    "Number": 474,
+    "Text": "Glikolipidlar tarkibidagi uglevod:",
+    "Answers": [
+      "galaktoza"
+    ],
+    "Options": [
+      "glyukoza",
+      "fruktoza",
+      "riboza",
+      "dezoksiriboza"
+    ]
+  },
+  {
+    "Number": 475,
+    "Text": "Karbonil birikmalar qaytarilishining 1 ta yo’nalishini ko’rsating",
+    "Answers": [
+      "aldegidlar birlamchi spirtlargacha"
+    ],
+    "Options": [
+      "ketonlar uchlamchi spirtgacha",
+      "murakkab efirlar ikkilamchi spirtgacha",
+      "aldegidlar karbon kislotalargacha",
+      "ketonlar birlamchi spirtlargacha"
+    ]
+  },
+  {
+    "Number": 476,
+    "Text": "Xiral molekulalarning 1 ta xossasini ko’rsating",
+    "Answers": [
+      "optik xossaga ega"
+    ],
+    "Options": [
+      "o’z ko’zgu aksi bilan joylashadi",
+      "tarkibida bitta yoki bir nechta tiol atomlari bor",
+      "o’z ko’zgu aksi bilan qoplanadi",
+      "asimmetrik uglerod atomlariga ega emas"
+    ]
+  },
+  {
+    "Number": 477,
+    "Text": "Axiral molekulalarning 1 ta xossasini ko’rsating",
+    "Answers": [
+      "o’z ko’zgu aksi bilan qoplanadigan molekulalar"
+    ],
+    "Options": [
+      "kislotali xossalarga ega emas",
+      "enantiomerlari qoplanadi",
+      "o’z ko’zgu aksi bilan qoplanmaydigan  molekulalar",
+      "bitta yoki bir nechta asimmetrik uglerod atomlariga ega"
+    ]
+  },
+  {
+    "Number": 478,
+    "Text": "Organik birikmalarda uchraydigan bog`larning 1 ta asosiy turini ko’rsating",
+    "Answers": [
+      "donor-akseptorli"
+    ],
+    "Options": [
+      "tiolli",
+      "chiziqsimon",
+      "metalli",
+      "ionli"
+    ]
+  },
+  {
+    "Number": 479,
+    "Text": "Quyidagi moddalardan 1 ta aromatik xususiyatga ega bo`lganini tanlang",
+    "Answers": [
+      "Benzol"
+    ],
+    "Options": [
+      "nafton",
+      "pikolin",
+      "siklogeksan",
+      "siklopentadiyen"
+    ]
+  },
+  {
+    "Number": 480,
+    "Text": "Quyidagi moddalardan pi-pi ta’sirlanish kuzatiladigan 1 tasini tanlang",
+    "Answers": [
+      "Akrolein"
+    ],
+    "Options": [
+      "butadiyen-1,4",
+      "benzopril",
+      "anilin",
+      "vinilxlorid"
+    ]
+  },
+  {
+    "Number": 481,
+    "Text": "Organik birikmalarning kimyoviy reaksiyalarida ishtirok etuvchi 1 ta zarrachalar nomini ko’rsating",
+    "Answers": [
+      "Substrat"
+    ],
+    "Options": [
+      "gamma",
+      "betta",
+      "neytron",
+      "alfa-zarracha"
+    ]
+  },
+  {
+    "Number": 482,
+    "Text": "Brensted kislotalarining 1 ta asosiy xossalarini ko’rsating",
+    "Answers": [
+      "protonlar donori bo`ladi"
+    ],
+    "Options": [
+      "neytron bera oladigan ion ham bo`lishi mumkin",
+      "protonlar akseptori bo`ladi",
+      "faqat  neytral molekula bo`lishi mumkin",
+      "faqat  proton saqlovchi murakkab iongina bo`lishi mumkin"
+    ]
+  },
+  {
+    "Number": 483,
+    "Text": "Organik birikmaning asosligiga ta’sir etuvchi 1 ta omilni ko’rsating",
+    "Answers": [
+      "asoslik markazidagi geteroatomning radiusi kattalashgani sari asoslik kamayadi"
+    ],
+    "Options": [
+      "neytronlar asoslikni kamaytiradi",
+      "o‘rinbosarning neytroni kancha ko’p bo`lsa birikmaning asosligi shuncha yuqori bo`ladi",
+      "elektronoakseptor o’rinbosar asoslikni oshiradi",
+      "elektronodonor o’rinbosarlar asoslikni pasaytiradi"
+    ]
+  },
+  {
+    "Number": 484,
+    "Text": "Markovnikov qoidasini ta’riflovchi 1 ta javobni ko’rsating",
+    "Answers": [
+      "suv, vodorod galogenid turidagi moddalar birikishi uchun qo`llanadi"
+    ],
+    "Options": [
+      "musbat zarracha kam gidrogenlangan uglerodga birikadi",
+      "simmetrik alkenlarga elektrofil birikish reaksiyalari uchun qo`llanadi",
+      "alkanlarda boradigan CH reaksiyalari uchun qo`llanadi",
+      "galogenlar birikishi reaksiyasi uchun qo`llanadi"
+    ]
+  },
+  {
+    "Number": 485,
+    "Text": "To’yingan uglerod atomida CH reaksiyalarida ishtirok etuvchi 1 ta  o’rinbosarni ko’rsating",
+    "Answers": [
+      "Galogenlar"
+    ],
+    "Options": [
+      "imin guruhi",
+      "imid guruhi",
+      "gidroksid guruhi",
+      "alkil guruhi"
+    ]
+  },
+  {
+    "Number": 486,
+    "Text": "Karbon kislotalarning 1 ta funksional hosilalarini ko’rsating",
+    "Answers": [
+      "Tuzlar"
+    ],
+    "Options": [
+      "tioefirlar",
+      "gidridlar",
+      "tiollar",
+      "gidoksoniy"
+    ]
+  },
+  {
+    "Number": 487,
+    "Text": "Karbonat kislotaning 1 ta hosilasini ko’rsating",
+    "Answers": [
+      "Uretanlar"
+    ],
+    "Options": [
+      "idlar",
+      "xlorofen",
+      "glitsin",
+      "stearatlar"
+    ]
+  },
+  {
+    "Number": 488,
+    "Text": "To’yingan uglevodorodlar oksidlanishining 1 ta oraliq mahsulotini ko’rsating",
+    "Answers": [
+      "birlamchi spirtlar"
+    ],
+    "Options": [
+      "aminlar",
+      "kislotalar",
+      "ketonlar",
+      "uchlamchi spirtlar"
+    ]
+  },
+  {
+    "Number": 489,
+    "Text": "Organizmda boradigan oksidlanish-qaytarilish  jarayonlariga  1  ta  misol keltiring",
+    "Answers": [
+      "NAD+ kofermenti ishtirokidagi spritlarning degidridlanishi"
+    ],
+    "Options": [
+      "Oqsilni sistinga aylanishi",
+      "fenilaminning tirozingacha gidroksillanishi",
+      "neytral kofermenti ishtirokida to’yingan yog’ kislotalarining alfa-,  betta - -degidridlanishi",
+      "benzolni malein angidridga aylanishi"
+    ]
+  },
+  {
+    "Number": 490,
+    "Text": "Sharoitga bog`liq ravishda C=C bog`lari oksidlanishining 1 ta mahsulotini ko’rsating",
+    "Answers": [
+      "Diollar"
+    ],
+    "Options": [
+      "iminlar",
+      "efirlar",
+      "diyenlar",
+      "alkinlar"
+    ]
+  },
+  {
+    "Number": 491,
+    "Text": "Qanday 1 ta moddaning qaytarilishi natijasida spirtlar hosil  bo`lishishni ko’rsating",
+    "Answers": [
+      "Ketonlar"
+    ],
+    "Options": [
+      "alkenlar",
+      "alkinlar"
+    ]
+  },
+  {
+    "Number": 492,
+    "Text": "Aminlar oksidlanishida qanday 1 ta mahsulot hosil  bo`lishini ko’rsating",
+    "Answers": [
+      "Nitrozobirikmalar"
+    ],
+    "Options": [
+      "tiollar",
+      "amidlar",
+      "karboksilamin",
+      "nitrillar"
+    ]
+  },
+  {
+    "Number": 493,
+    "Text": "Polifunksional birikmalarni  ichkimolekulyar  halqalanishining 1 ta mahsulotini ko’rsating",
+    "Answers": [
+      "Epoksidlar"
+    ],
+    "Options": [
+      "halqali tiollar",
+      "laktidlar",
+      "laktonlar",
+      "laktamlar"
+    ]
+  },
+  {
+    "Number": 494,
+    "Text": "Geterofunksional birikmalar guruhiga kiruvchi 1 ta birikmani ko’rsating",
+    "Answers": [
+      "sulfanil kislota"
+    ],
+    "Options": [
+      "tiol",
+      "iminlar kislota",
+      "pirrol",
+      "oksalat kislota"
+    ]
+  },
+  {
+    "Number": 495,
+    "Text": "Kolaminning 1 ta hosilasini ko’rsating",
+    "Answers": [
+      "Atsetilxolin"
+    ],
+    "Options": [
+      "pirrol",
+      "tiofen",
+      "adrenalin",
+      "tirozin"
+    ]
+  },
+  {
+    "Number": 496,
+    "Text": "Katexolaminlardan 1 tasini ko’rsating",
+    "Answers": [
+      "Dofamin"
+    ],
+    "Options": [
+      "pirrol",
+      "tiofen",
+      "tirozin",
+      "xolin"
+    ]
+  },
+  {
+    "Number": 497,
+    "Text": "Gidroksi- va aminokislotalarning ichki va molekulalararo halqalanishining 1 ta hosilasini ko’rsating",
+    "Answers": [
+      "Laktam"
+    ],
+    "Options": [
+      "piron",
+      "piperidin",
+      "epoksid",
+      "keton"
+    ]
+  },
+  {
+    "Number": 498,
+    "Text": "Quyidagi moddalardan 1 ta gidroksi kislotalarni ko’rsating",
+    "Answers": [
+      "vino kislota"
+    ],
+    "Options": [
+      "tiol",
+      "serin",
+      "tiofen",
+      "pirrol"
+    ]
+  },
+  {
+    "Number": 499,
+    "Text": "Para- aminofenol hosilalari guruhiga tegishli bo`lgan 1 ta analgetik dorivor moddani ko’rsating",
+    "Answers": [
+      "Fenetidin"
+    ],
+    "Options": [
+      "analgin",
+      "kokain",
+      "novokain",
+      "anestezin"
+    ]
+  },
+  {
+    "Number": 500,
+    "Text": "Sulfanil kislota  hosilalari (sulfanilamidlar) guruhiga tegishli bo`lgan 1 ta birikmani ko’rsating",
+    "Answers": [
+      "Sulfodimetoksin"
+    ],
+    "Options": [
+      "analgin",
+      "fenetidin",
+      "paratsetamol",
+      "fenatsetin"
+    ]
+  },
+  {
+    "Number": 501,
+    "Text": "Salitsil kislota hosilalaridan farmakologik ta’sirga ega bo`lgan 1 tasini ko’rsating",
+    "Answers": [
+      "Aspirin"
+    ],
+    "Options": [
+      "pirrol salitsilat",
+      "tiofen salitsilat",
+      "benzilsalitsilat",
+      "butilsalitsilat"
+    ]
+  },
+  {
+    "Number": 502,
+    "Text": "Besh a’zoli bitta geteroatom saqlovchi 1 ta geterohalqali birikmani ko’rsating",
+    "Answers": [
+      "Pirrol"
+    ],
+    "Options": [
+      "purin",
+      "piran",
+      "piridin",
+      "furan"
+    ]
+  },
+  {
+    "Number": 503,
+    "Text": "Besh a’zoli ikkita geteroatom  saqlovchi 1 ta geterohalqali birikmani ko’rsating",
+    "Answers": [
+      "Oksazol"
+    ],
+    "Options": [
+      "purin",
+      "adenin",
+      "pirollidin",
+      "pirimidin"
+    ]
+  },
+  {
+    "Number": 504,
+    "Text": "Biotinning qurulishi va xossalariga tegishli bo`lgan 1 ta javobni ko’rsating",
+    "Answers": [
+      "yetishmovchiligi teri kasalligiga olib keluvchi vitamin H deb yuritiladi"
+    ],
+    "Options": [
+      "tiofen koldigini saqlaydi",
+      "vitaminlar almashinuvida qatnashadi",
+      "naften kislota  qoldigini  saqlaydi",
+      "karbonsuvlar almashinuvida qatnashadi"
+    ]
+  },
+  {
+    "Number": 505,
+    "Text": "Pirazolning 1 ta hosil asini ko’rsating",
+    "Answers": [
+      "Amidopirin"
+    ],
+    "Options": [
+      "tiofen",
+      "pirrol",
+      "pirrolidin",
+      "vitamin A"
+    ]
+  },
+  {
+    "Number": 506,
+    "Text": "Organizmda spirtlarning degidrogenlanishi jarayonini 2 ta ta’rifini ko’rsating",
+    "Answers": [
+      "NAD+ kofermenti ishtirokida boradi",
+      "NAD+ o’ziga gidrid ionini biriktiradi"
+    ],
+    "Options": [
+      "substrat o’zidan ikkita gidrid va bitta proton vodorodni ajratadi",
+      "aldegid yoki keton bilan efir hosil  bo`ladi"
+    ]
+  },
+  {
+    "Number": 507,
+    "Text": "To’yingan  yog’  kislotalarini alfa, betta- degidridlanishini 2 ta ta’rifini ko’rsating",
+    "Answers": [
+      "FAD kofermenti ishtirokida boradi",
+      "FAD o‘ziga ikkita vodorod atomini biriktirib FADN2 ga aylanadi"
+    ],
+    "Options": [
+      "To‘yingan yog’ kislotalar hosil  bo`ladi",
+      "Substrat o‘zidan uchta vodorod atomini ajratadi"
+    ]
+  },
+  {
+    "Number": 508,
+    "Text": "Aldegidlardan aminokislota olinishida ishtirok etadigan 2 ta moddani ko’rsating",
+    "Answers": [
+      "Gidroksinitril",
+      "Aminonitril"
+    ],
+    "Options": [
+      "ammoniy sianid xlorid",
+      "kolamin"
+    ]
+  },
+  {
+    "Number": 509,
+    "Text": "Para- aminobenzoy kislotaning 2 ta hosilasini ko’rsating",
+    "Answers": [
+      "Anestezin",
+      "Novokain"
+    ],
+    "Options": [
+      "detsin",
+      "koniin"
+    ]
+  },
+  {
+    "Number": 510,
+    "Text": "Fenilalanindan adrenalin sintezida oraliqda hosil  bo`ladigan 2 ta moddani ko’rsating",
+    "Answers": [
+      "Noradrenalin",
+      "Tirozin"
+    ],
+    "Options": [
+      "Difenilalanin",
+      "Dofamin+xolin bilan"
+    ]
+  },
+  {
+    "Number": 511,
+    "Text": "Fenilalanindan adrenalin sintezlanishining oraliq bosqichlarida amalga oshadigan  ikki  xil reaksiya turlarini ko’rsating",
+    "Answers": [
+      "Fermentativ gidroksillanish",
+      "Dekarboksillanish"
+    ],
+    "Options": [
+      "alfa- oksidlanish",
+      "N- atsetillash"
+    ]
+  },
+  {
+    "Number": 512,
+    "Text": "Gidroksi- va aminokislotalar  halqalanishi  reaksiyalarining  mahsulotlarini  2 ta",
+    "Answers": [
+      "Alfa- gidroksikislotalardan  halqali murakkab diefirlar",
+      "Betta- kislotalardan  to’yinmagan  kislotalar"
+    ],
+    "Options": [
+      "Gamma-alfa aminokislotalardan  halkali amidlar",
+      "Alfa-betta aminokislotalardan  halkali diamidlar"
+    ]
+  },
+  {
+    "Number": 513,
+    "Text": "Molekula optik izomer hosil  qilishi uchun qanday 2 ta shartga javob berishi",
+    "Answers": [
+      "Asimmetrik uglerod atomi bo`lishi",
+      "Xirallik markazi bo`lishi"
+    ],
+    "Options": [
+      "O’z ko’zgu aksi bilan qoplanishi",
+      "Qutblangan nur tekisligining burilish burchagini kamayishi"
+    ]
+  },
+  {
+    "Number": 514,
+    "Text": "Molekulasida bog`larning  ta’sirlanishi  kuzatiladigan 2 tabiiy birikmani ko’rsating",
+    "Answers": [
+      "Retinol",
+      "Betta-karotin"
+    ],
+    "Options": [
+      "Globulin",
+      "Xlorgeksin"
+    ]
+  },
+  {
+    "Number": 515,
+    "Text": "Dekarboksillanib biogen amin hosil  qiluvchi 2 birikmani ko’rsating",
+    "Answers": [
+      "Triptofan",
+      "Gistidin"
+    ],
+    "Options": [
+      "Difenilalanin",
+      "Prolin"
+    ]
+  },
+  {
+    "Number": 516,
+    "Text": "Geterofunksional birikmalarning 2 turini ko’rsating",
+    "Answers": [
+      "Aminospirtlar",
+      "Yarimatsetallar"
+    ],
+    "Options": [
+      "Kislotalar",
+      "Aminlar"
+    ]
+  },
+  {
+    "Number": 517,
+    "Text": "Gomopolifunksional birikmalar qatoriga kiruvchi 2 ta birikmani ko’rsating",
+    "Answers": [
+      "Putressin",
+      "Kadaverin"
+    ],
+    "Options": [
+      "Atsetilsirka",
+      "Glutar kislota"
+    ]
+  },
+  {
+    "Number": 518,
+    "Text": "Ikkita eliminlash reaksiyasini ko’rsating",
+    "Answers": [
+      "Dekarboksillanish",
+      "Dezaminlanish"
+    ],
+    "Options": [
+      "Gidrogalogenlanish",
+      "gidratlanish"
+    ]
+  },
+  {
+    "Number": 519,
+    "Text": "Glikokol tuzilishi va xossalaridagi 2 ta o‘ziga xoslikni ko’rsating",
+    "Answers": [
+      "Aminoksilotalar guruhidan",
+      "Oqsillar tarkibiga kiradi"
+    ],
+    "Options": [
+      "Optik faolligi qisman",
+      "Spirtlar guruhiga kiradi"
+    ]
+  },
+  {
+    "Number": 520,
+    "Text": "Izomerlarni 2 turini ko’rsating",
+    "Answers": [
+      "Tuzilish",
+      "Fazoviy"
+    ],
+    "Options": [
+      "Zanjirsimon",
+      "Ta’sirlangan"
+    ]
+  },
+  {
+    "Number": 521,
+    "Text": "Retinal molekulasini 2 ta ta’rifini ko’rsating",
+    "Answers": [
+      "Ta’sirlangan sistema",
+      "6 ta qo‘sh bog`i bor"
+    ],
+    "Options": [
+      "Ikkita siklogeksen halkasi bor",
+      "Bitta benzol  halqasi bor"
+    ]
+  },
+  {
+    "Number": 522,
+    "Text": "Funksional guruhni ta’riflovchi  2 ta javobni ko’rsating",
+    "Answers": [
+      "Geteroatom bo`lishi kerak",
+      "Geteroatomli guruh bo`lishi kerak"
+    ],
+    "Options": [
+      "Organik birikma faolligini belgilaydi",
+      "Uglevodorod radikali bo`lishi kerak"
+    ]
+  },
+  {
+    "Number": 523,
+    "Text": "Aminokislotalarni  N- atsil hosilasini olish reaksiyasini 2 ta ta’rifini ko’rsating",
+    "Answers": [
+      "Aminokislotalarni galogenangidridlar bilan reaksiyasi",
+      "Nukleofil o‘rin olish mexanizmi bo‘yicha boradi"
+    ],
+    "Options": [
+      "Imid guruhi hosil  bo`ladi",
+      "Peptid sintezida aminoguruhni faollashtirish uchun ishlatiladi"
+    ]
+  },
+  {
+    "Number": 524,
+    "Text": "Edman reaksiyasini 2 ta ta’rifini ko’rsating",
+    "Answers": [
+      "Aminokislotalarni feniltioizotsianat bilan reaksiyasi",
+      "Ichkimolekulyar halqalanish bilan boradi"
+    ],
+    "Options": [
+      "Fenil hosil  bo`ladi",
+      "Oqsilning ikkilamchi tuzilishini aniqlash uchun ishlatiladi"
+    ]
+  },
+  {
+    "Number": 525,
+    "Text": "Sulfanil kislota va sulfanilamidlarni 2ta ta’rifini ko’rsating",
+    "Answers": [
+      "Sulfanil kislota anilinni sulfolash yo‘li bilan olinadi",
+      "Sulfanilamidlar antibakterial faolikka ega"
+    ],
+    "Options": [
+      "Hamima sulfanilamidlar OH guruhini saqlaydi",
+      "Sulfanil kislota ammiakni oksidlash orqali olinadi"
+    ]
+  },
+  {
+    "Number": 526,
+    "Text": "Karbonil guruhga nukleofil hujumini effektivligi qanday 2 omilga bog`liqligini ko’rsating",
+    "Answers": [
+      "Karbonil uglerod atomidagi musbat zaryadning katta-kichikligiga",
+      "o’rinbosarlarning fazoviy hajmiga"
+    ],
+    "Options": [
+      "Muhitning neytralligiga",
+      "o’rinbosarning faolligiga"
+    ]
+  },
+  {
+    "Number": 527,
+    "Text": "Olma kislota tuzilishiga xos bo`lgan 2ta xususiyatni ko’rsating",
+    "Answers": [
+      "2ta karboksil guruhi bor",
+      "Asosiy 4ta uglerod atomidan iborat"
+    ],
+    "Options": [
+      "Uglerod atomlari sp  gibridlangan",
+      "Asosiy zanjirida 5ta uglerod atomidan iborat"
+    ]
+  },
+  {
+    "Number": 528,
+    "Text": "Tiollar oksidlanishida hosil  bo`ladigan 2ta birikmani ko’rsating",
+    "Answers": [
+      "Disulfidlar",
+      "Sulfen kislota"
+    ],
+    "Options": [
+      "Aminokislotalar",
+      "Benzoxinon"
+    ]
+  },
+  {
+    "Number": 529,
+    "Text": "ATF molekulasi gidrolizining 2 ta mahsulotini ko’rsating",
+    "Answers": [
+      "Adenin",
+      "Riboza"
+    ],
+    "Options": [
+      "Sulfat kislota",
+      "Atsetamid"
+    ]
+  },
+  {
+    "Number": 530,
+    "Text": "GTF molekulasi gidrolizining 2 ta mahsulotini ko’rsating",
+    "Answers": [
+      "Guanin",
+      "Riboza"
+    ],
+    "Options": [
+      "Nitrat kislota",
+      "Guanidin"
+    ]
+  },
+  {
+    "Number": 531,
+    "Text": "Oqsilning uchlamchi tuzilishini barqarorlashtiruvchi 2 ta bog` turini ko’rsating",
+    "Answers": [
+      "Efir ko’priklari",
+      "Gidrofob birikish"
+    ],
+    "Options": [
+      "Amin ko’priklari",
+      "Amid bog`i"
+    ]
+  },
+  {
+    "Number": 532,
+    "Text": "Oqsilning uchlamchi tuzilishida qatnashuvchi 2 ta bog` turini ko’rsating",
+    "Answers": [
+      "Vodorod bog`i",
+      "Tuz ko’priklari"
+    ],
+    "Options": [
+      "Ion bog`i",
+      "Amid bog`i"
+    ]
+  },
+  {
+    "Number": 533,
+    "Text": "Murakkab  lipid  kolaminkefalinning 2 ta tuzilish birligini ko’rsating",
+    "Answers": [
+      "Uchatomli spirt glitserin",
+      "Yuqorimolekulyar karbon kislota"
+    ],
+    "Options": [
+      "Sulfat guruhi",
+      "Etanoltio"
+    ]
+  },
+  {
+    "Number": 534,
+    "Text": "Murakkab lipid serinkefalinning 2 ta tuzilish birligini ko’rsating",
+    "Answers": [
+      "Uchatomli spirt glitserin",
+      "Yuqorimolekulyar karbon kislota"
+    ],
+    "Options": [
+      "Sulfat guruhi",
+      "5-tio-4-gidroksi-propan kislota"
+    ]
+  },
+  {
+    "Number": 535,
+    "Text": "Sfingolipidlarning 2 guruhini ko’rsating",
+    "Answers": [
+      "Seramidlar",
+      "Serebrozidlar"
+    ],
+    "Options": [
+      "Gliozidlar",
+      "Letsitinlar"
+    ]
+  },
+  {
+    "Number": 536,
+    "Text": "Nuklein asoslarini tuzilishidagi 2 ta umumiylikni  ko’rsating",
+    "Answers": [
+      "Geterohalqali birikmalar",
+      "Aromatik xossaga ega"
+    ],
+    "Options": [
+      "halqasida oltigugurt atomini saqlaydi",
+      "Okso- yeki amino- guruhini saqlaydi"
+    ]
+  },
+  {
+    "Number": 537,
+    "Text": "Bioboshqaruvchilar qatoriga kiruvchi 2 ta moddani ko’rsating",
+    "Answers": [
+      "Vitaminlar",
+      "sintetik bioaktiv moddalar"
+    ],
+    "Options": [
+      "kislotalar",
+      "karbonsuvlar"
+    ]
+  },
+  {
+    "Number": 538,
+    "Text": "Modda almashinuvini ta’riflovchi 2 ta jarayonning nomini ko’rsating",
+    "Answers": [
+      "Anabolizm",
+      "Metabolizm"
+    ],
+    "Options": [
+      "merkurializm",
+      "antagonizm"
+    ]
+  },
+  {
+    "Number": 539,
+    "Text": "O’rinbosar  nomenklatura qoidalari keltirilgan 2 ta javobni ko’rsating",
+    "Answers": [
+      "tanlangan zanjirni nomerlash",
+      "murakkab va uzun zanjirni tanlash"
+    ],
+    "Options": [
+      "eng zich urinbosarni tanlash",
+      "moddani ko’rsatish"
+    ]
+  },
+  {
+    "Number": 540,
+    "Text": "Kolaminning tuzilishini to`g`ri aks ettiruvchi 2 ta javobni ko’rsating",
+    "Answers": [
+      "etanning hosilasi",
+      "aminospirtlar qatoriga kiradi"
+    ],
+    "Options": [
+      "ikkita gidroksi guruhi bor",
+      "bitta qo’sh bog`i bor"
+    ]
+  },
+  {
+    "Number": 541,
+    "Text": "Sut kislotaning tuzilishini aks ettiruvchi 2 ta javobni ko’rsating",
+    "Answers": [
+      "uchta uglerod atomiga ega",
+      "ikkilamchi spirtokislotalar katoriga mansub"
+    ],
+    "Options": [
+      "gidroksi tiollar qatoriga mansub",
+      "ikkita karbonil guruhga ega"
+    ]
+  },
+  {
+    "Number": 542,
+    "Text": "Mentolning tuzilishini aks ettiruvchi 2 ta javobni ko’rsating",
+    "Answers": [
+      "antispazmatik xususiyatga ega",
+      "siklogeksan hosilasi"
+    ],
+    "Options": [
+      "ikkita gidroksi guruhi bor",
+      "barcha bog`larini"
+    ]
+  },
+  {
+    "Number": 543,
+    "Text": "Aromatik moddada 1-chi tur o’rinbosarlar  yo’naltirishi mumkin bo`lgan 3 ta holatni",
+    "Answers": [
+      "Orto (S2)",
+      "Para (S4)",
+      "Orto (S6)"
+    ],
+    "Options": [
+      "Meta (S3)",
+      "Meta (S5)",
+      "Orto (S3)"
+    ]
+  }
+]

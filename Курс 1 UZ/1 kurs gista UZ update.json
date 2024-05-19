@@ -1,0 +1,7607 @@
+﻿[
+  {
+    "Number": 1,
+    "Text": "Sentriola mikronaychalarining  formulasi:",
+    "Answers": [
+      "(9x3) + 0"
+    ],
+    "Options": [
+      "(9x2) + 2",
+      "(9x3) + 3",
+      "(9x2) + 0",
+      "(9x3) + 2"
+    ]
+  },
+  {
+    "Number": 2,
+    "Text": "Hujayralarning qaysi bolinishida xromosomalarning soni ikki barobar qisqaradi:",
+    "Answers": [
+      "meyozda"
+    ],
+    "Options": [
+      "mitozda",
+      "endomitozda",
+      "amitozda",
+      "yuqoridagilarning hammasida"
+    ]
+  },
+  {
+    "Number": 3,
+    "Text": "Qaysi organoid moddalarni hujayra ichida xazm qilinishida qatnashadi:",
+    "Answers": [
+      "lizosoma"
+    ],
+    "Options": [
+      "endoplazmatik tor",
+      "peroksisoma",
+      "Golji kompleksi",
+      "mitoxondriya"
+    ]
+  },
+  {
+    "Number": 4,
+    "Text": "Mikronaychalar qanday oqsilidan tuzilgan:",
+    "Answers": [
+      "tubulin"
+    ],
+    "Options": [
+      "aktin",
+      "keratin",
+      "elastin",
+      "miozin"
+    ]
+  },
+  {
+    "Number": 5,
+    "Text": "Kop yadroli protoplazmatik tuzilmalar bular:",
+    "Answers": [
+      "simplastlar"
+    ],
+    "Options": [
+      "trombotsitlar",
+      "sintisiy",
+      "epiteliy xujayralari",
+      "kollagen tolalar"
+    ]
+  },
+  {
+    "Number": 6,
+    "Text": "Hujayra sitoplazmasining bazofilligi qaysi organellaga bogliq:",
+    "Answers": [
+      "ribosomalarga"
+    ],
+    "Options": [
+      "mikronaychalarga",
+      "mitoxondriyalarga",
+      "lizosomalarga",
+      "sentriolalarga"
+    ]
+  },
+  {
+    "Number": 7,
+    "Text": "Hujayra bolinish dukining shakllanishida qaysi organellalar ishtirok etadi",
+    "Answers": [
+      "sentriolalar"
+    ],
+    "Options": [
+      "ribosomalar",
+      "endoplazmatik tor",
+      "lizosomalar",
+      "Golji apparati"
+    ]
+  },
+  {
+    "Number": 8,
+    "Text": "Epiteliy va biriktiruvchi toqima orasida qanday tuzilma boladi:",
+    "Answers": [
+      "bazal  membrana"
+    ],
+    "Options": [
+      "amorf modda",
+      "kollagen tolalar",
+      "elastik membrana",
+      "hujayralarning oraliq qavati"
+    ]
+  },
+  {
+    "Number": 9,
+    "Text": "Kop qavatli yassi muguzlanmaydigan epiteliy qaerda uchraydi:",
+    "Answers": [
+      "ogiz  boshligida"
+    ],
+    "Options": [
+      "siydik pufagida",
+      "teri epidermisida",
+      "ot pufagida",
+      "kekirdakda"
+    ]
+  },
+  {
+    "Number": 10,
+    "Text": "Muguzlanadigan epiteliy qavatlarining ketma-ketligi qaysi javobida togri berilgan:",
+    "Answers": [
+      "bazal, tikanaksimon, donador, yaltiroq, muguz"
+    ],
+    "Options": [
+      "bazal, donador, tikanasimon, yaltiroq, muguz",
+      "bazal, yaltiroq, tikanaksimon, donador, muguz",
+      "bazal, tikanaksimon, yaltiroq, donador, muguz",
+      "bazal, tikanaksimon, donador, muguz, yaltiroq"
+    ]
+  },
+  {
+    "Number": 11,
+    "Text": "Bez hujayralarining apokrin sekretsiyasida:",
+    "Answers": [
+      "hujayralarning apikal qismi  parchalanadi"
+    ],
+    "Options": [
+      "hujayra tuzilmalari toliq parchalanadi",
+      "hujayralarning bazal qismi qisman parchalanadi",
+      "hujayralar yadrosi parchalanadi",
+      "hujayra tuzilmalari parchalanmaydi"
+    ]
+  },
+  {
+    "Number": 12,
+    "Text": "Ekzokrin bezlarning morfologik klassifikatsiyasi asoslangan:",
+    "Answers": [
+      "oxirgi bolimlari va naylarining tuzilishiga"
+    ],
+    "Options": [
+      "sekretini ajratish usuliga",
+      "sekretining kimeviy tarkibiga",
+      "oxirgi bolimlarining joylashishishga",
+      "bezlarning taraqqiyot manbalariga"
+    ]
+  },
+  {
+    "Number": 13,
+    "Text": "Gistaminni  kamaytirishda qatnashadigan leykotsitlar:",
+    "Answers": [
+      "eozinofillar"
+    ],
+    "Options": [
+      "neytrofillar",
+      "bazofillar",
+      "limfotsitlar",
+      "monotsitlar"
+    ]
+  },
+  {
+    "Number": 14,
+    "Text": "Quyidagi azolardan qaysi birida faqat xomila davrida qon yaratiladi:",
+    "Answers": [
+      "jigarda"
+    ],
+    "Options": [
+      "suyak kumigida",
+      "taloqda",
+      "limfa tugunida",
+      "timusda"
+    ]
+  },
+  {
+    "Number": 15,
+    "Text": "Eritropoezning qaysi davrida yadrolari chiqib ketadi:",
+    "Answers": [
+      "oksifil normotsitda"
+    ],
+    "Options": [
+      "bazofil normotsitda",
+      "eritroblastda",
+      "proeritroblastda",
+      "polixromatofil normotsitda"
+    ]
+  },
+  {
+    "Number": 16,
+    "Text": "Osteon bu:",
+    "Answers": [
+      "naysimon suyakning struktur-funksional  birligi"
+    ],
+    "Options": [
+      "suyak toqimasining xujayrasi",
+      "suyak toqimasining oraliq moddasi",
+      "suyak toqimasining rivojlanish manbai",
+      "osteogen xujayralar"
+    ]
+  },
+  {
+    "Number": 17,
+    "Text": "Plazmatik hujayralarga yahshi rivojlangan organellani aniqlang:",
+    "Answers": [
+      "donador  endoplazmatik tor"
+    ],
+    "Options": [
+      "ribosoma va polisomalar",
+      "Golji kompleksi",
+      "mitoxondriya",
+      "lizosoma."
+    ]
+  },
+  {
+    "Number": 18,
+    "Text": "Makrofaglarga yahshi rivojlangan  organellani aniqlang:",
+    "Answers": [
+      "lizosomalar"
+    ],
+    "Options": [
+      "donador endoplazmatik tor",
+      "ribosoma va polisomalar",
+      "Golji kompleksi",
+      "mitoxondriyalar"
+    ]
+  },
+  {
+    "Number": 19,
+    "Text": "Geparin va gistamin sintezlaydigan biriktiruvchi toqima hujayrasi:",
+    "Answers": [
+      "semiz hujayra"
+    ],
+    "Options": [
+      "fibroblast",
+      "makrofag",
+      "plazmotsit",
+      "adipotsit"
+    ]
+  },
+  {
+    "Number": 20,
+    "Text": "Naysimon suyakning boyiga osishini taminlaydi:",
+    "Answers": [
+      "metaepifizar plastinka"
+    ],
+    "Options": [
+      "periost",
+      "endost",
+      "tashqi, ichki, umumiy plastinkalar",
+      "osteonlar"
+    ]
+  },
+  {
+    "Number": 21,
+    "Text": "Semiz hujayralarni belgilovchi ferment:",
+    "Answers": [
+      "gistidindekarboksilaza"
+    ],
+    "Options": [
+      "ishqoriy fosfataza",
+      "kislotali fosfataza",
+      "perksidaza",
+      "sitoxromoksidaza"
+    ]
+  },
+  {
+    "Number": 22,
+    "Text": "Togay  toqimasining  klassifikatsiyasi  asoslangan:",
+    "Answers": [
+      "hujayralararo moddaning  tuzilishiga"
+    ],
+    "Options": [
+      "azolarda togaylarni joylashishiga",
+      "ularni kelib chiqishiga",
+      "tolali tuzilmalarga",
+      "xujayra elementlarining tarkibiga"
+    ]
+  },
+  {
+    "Number": 23,
+    "Text": "Naysimon suyaklarning eniga osishi nima xisobiga boradi",
+    "Answers": [
+      "suyak usti pardasi(periost)"
+    ],
+    "Options": [
+      "metaepifizar togay plastinkasi",
+      "tashqi  umumiy plastinkalar",
+      "ichki umumiy plastinkalar",
+      "osteonlar"
+    ]
+  },
+  {
+    "Number": 24,
+    "Text": "Nerv nayidan takomillashadigan miotsitlar:",
+    "Answers": [
+      "kozning rangdor pardasi  miotsitlari"
+    ],
+    "Options": [
+      "ichki azolar devoridagi silliq miotsitlar",
+      "mioepiteliotsitlar",
+      "qisqaruvchi kardiomiotsitlar",
+      "otkazuvchi kardiomiotsitlar"
+    ]
+  },
+  {
+    "Number": 25,
+    "Text": "Har bir skelet mushak tolalari oralgan:",
+    "Answers": [
+      "endomiziy bilan"
+    ],
+    "Options": [
+      "perimiziy bilan",
+      "epimiziy bilan",
+      "endotenoniy bilan",
+      "peritenoniy bilan"
+    ]
+  },
+  {
+    "Number": 26,
+    "Text": "Osimtasi T-shaklda tarmoqlangan neyron:",
+    "Answers": [
+      "psevdounipolyar"
+    ],
+    "Options": [
+      "multipolyar",
+      "neyroblast",
+      "bipolyar",
+      "unipolyar"
+    ]
+  },
+  {
+    "Number": 27,
+    "Text": "Sekretor funksiyasini bajaruvchi neyroglial hujayralar:",
+    "Answers": [
+      "ependimogliotsitlar"
+    ],
+    "Options": [
+      "protoplazmatik astrotsitlar",
+      "tolali astrotsitlar",
+      "mikrogliotsitlar",
+      "oligodendrotsitlar"
+    ]
+  },
+  {
+    "Number": 28,
+    "Text": "Nerv  tolasidagi bogiqlar joylashgan:",
+    "Answers": [
+      "qoshni lemmotsitlar  chegarasida"
+    ],
+    "Options": [
+      "mezaksonda",
+      "nerv tolalarini birikkan joyida",
+      "lemmotsitlarni yadroli zonasida",
+      "lemmotsitlar atrifida"
+    ]
+  },
+  {
+    "Number": 29,
+    "Text": "Mezakson hisoblanadi:",
+    "Answers": [
+      "lemmotsit plazmolemmasining duplikaturasi"
+    ],
+    "Options": [
+      "lemmotsit tarkibi",
+      "ependimotsit plazmolemmasining duplikaturasi",
+      "mikrogliya",
+      "neyrotsit plazmolemmasining duplikaturasi"
+    ]
+  },
+  {
+    "Number": 30,
+    "Text": "Bosh miya qorinchalari va orqa miya kanali devorini qoplovchi hujayralar:",
+    "Answers": [
+      "ependimogliotsitlar"
+    ],
+    "Options": [
+      "astrotsitlar",
+      "oligodendrogliotsitlar",
+      "endoteliotsitlar",
+      "kop qatorli prizmatik epiteliy"
+    ]
+  },
+  {
+    "Number": 31,
+    "Text": "Arteriyalar tarifining asosiy mezoni asoslangan:",
+    "Answers": [
+      "silliq mushak hujayralari va elastik tolalarning ozaro munosabatiga"
+    ],
+    "Options": [
+      "arteriyalarning organizmda joylashuviga",
+      "arteriya diametriga",
+      "ichki elastik membrananing bolishiga",
+      "tashqielastik membrananing bolishiga"
+    ]
+  },
+  {
+    "Number": 32,
+    "Text": "Oraliq disklar mos keladi:",
+    "Answers": [
+      "qisqaruvchi kardiomiotsitlar  chegarasiga"
+    ],
+    "Options": [
+      "otkazuvchi kardiomiotsitlar chegarasiga",
+      "miofibrillalarni plazmolemmaga otish joyiga",
+      "kardiomiotsitlar ortasidagi yon birikmalari soxasiga",
+      "glikogen kop toplanadigan soxaga"
+    ]
+  },
+  {
+    "Number": 33,
+    "Text": "Qon tomirlarning taraqqiyot manbai:",
+    "Answers": [
+      "xorion va sariqlik qopchasi devoridagi qon  orolchalari"
+    ],
+    "Options": [
+      "sariqlik qopchasi",
+      "mezenxima xujayralari",
+      "xorion devori",
+      "mioepikardial plastinka"
+    ]
+  },
+  {
+    "Number": 34,
+    "Text": "Sinusoid kapillyar qaerda uchraydi:",
+    "Answers": [
+      "suyak komigi, taloq, jigar"
+    ],
+    "Options": [
+      "taloq, jigar, meda",
+      "jigar, taloq, opka",
+      "suyak komigi, opka, bachadon",
+      "opka, limfatik tugun, suyak komigi"
+    ]
+  },
+  {
+    "Number": 35,
+    "Text": "Gemato-timik baryer xosil bolishida ishtirok etadi:",
+    "Answers": [
+      "uzluksiz endoteliy  va bazal membranaga ega kapillyar"
+    ],
+    "Options": [
+      "endoteliysida teshiklari bor kapillyar",
+      "fenestrali kapillyar",
+      "sinusoid kapillyar",
+      "bazal membranasizkapilyar"
+    ]
+  },
+  {
+    "Number": 36,
+    "Text": "II tipdagi kapillyarning oziga xosligi:",
+    "Answers": [
+      "fenestrali endoteliy, bazal membrana uzluksiz"
+    ],
+    "Options": [
+      "endoteliyuzluksiz, bazal membrana uzlukli",
+      "endoteliyteshiklarga ega, bazal membrana uzlukli",
+      "endoteliy uzluksiz, bazal membrana butun",
+      "endoteliy fenestrali, bazal membrana yoq"
+    ]
+  },
+  {
+    "Number": 37,
+    "Text": "Venalar tavsifi asoslanadi:",
+    "Answers": [
+      "mushak elementining rivojlanishiga kora"
+    ],
+    "Options": [
+      "elastik va mushak tolalarining munosabatiga kora",
+      "kollagen va mushak tolalarining munosabatiga kora",
+      "klapan mavjudligiga kora",
+      "kalibri va organizmda joylashishiga kora"
+    ]
+  },
+  {
+    "Number": 38,
+    "Text": "Qaysi arteriyalarda ichki elastik membrana mavjud emas:",
+    "Answers": [
+      "elastic tipdagi"
+    ],
+    "Options": [
+      "mushak tipdagi",
+      "aralash tipdagi",
+      "arteriolada",
+      "elastik va aralash tipdagi"
+    ]
+  },
+  {
+    "Number": 39,
+    "Text": "Peritsitlar kapillyar devorining qaysi qavatida joylashadi:",
+    "Answers": [
+      "bazal membrana yoriqlarida"
+    ],
+    "Options": [
+      "bazal membrana ustida",
+      "endoteliyustida",
+      "subendotelial qavatda",
+      "bazal membrana ostida"
+    ]
+  },
+  {
+    "Number": 40,
+    "Text": "Taloqdagi ochiq  qon aylanish doirasining xususiyati:",
+    "Answers": [
+      "kapillyarlar retikulyar tuqimaga ochiladi"
+    ],
+    "Options": [
+      "kapillyarlar muftalar orqali birlashgan",
+      "kapillyarlar sinuslarga ochiladi",
+      "kapillyar devori qalinlashgan",
+      "kapillyar devorida mushak tolalari bor"
+    ]
+  },
+  {
+    "Number": 41,
+    "Text": "T- limfotsitlarning antigenga bogliq bolmagan takomillashishi kechadi:",
+    "Answers": [
+      "timusda"
+    ],
+    "Options": [
+      "taloqda",
+      "limfa tugunlarida",
+      "qizil suyak komigida",
+      "murtaklarda"
+    ]
+  },
+  {
+    "Number": 42,
+    "Text": "Markazida makrofag  joyjashgan  suyak  komigi orolchalarida rivojlanadi:",
+    "Answers": [
+      "eritrotsit"
+    ],
+    "Options": [
+      "megakariotsit",
+      "granulotsit",
+      "limfotsit",
+      "monotsit"
+    ]
+  },
+  {
+    "Number": 43,
+    "Text": "Taloqdagi yopiq qon aylanish doirasi xarakterlanadi:",
+    "Answers": [
+      "kapillyarlar venoz sinuslarga ochiladi"
+    ],
+    "Options": [
+      "kapillyarlar muftalar orqali birlashgan",
+      "kapillyarlar retikulyar toqimaga ochiladi",
+      "kapillyar devori qalinlashgan",
+      "kapillyar devorida mushak tolalari bor"
+    ]
+  },
+  {
+    "Number": 44,
+    "Text": "Limfa tugunida limfa aylanishida ishtirok etuvchi tuzilmalar:",
+    "Answers": [
+      "qirgoq sinusi, oraliq sinus, magiz sinusi."
+    ],
+    "Options": [
+      "magiz sinusi, postkapillyar tomirlar, magiz sinusi",
+      "oraliq sinusi, magiz sinusi, postkapillyar tomir",
+      "magiz sinusi, postkapillyar tomirlar, oraliq sinusi",
+      "capsula atrofi sinusi, magiz sinusi, postkapillyar tomir"
+    ]
+  },
+  {
+    "Number": 45,
+    "Text": "Timusning Gassal  tanachalar bu:",
+    "Answers": [
+      "degeneratsiyalanayotgan epiteliotsitlarning toplami"
+    ],
+    "Options": [
+      "plastinkasimon sezuvchi nerv oxirlari",
+      "T-limfotsitlar toplanadigan joy",
+      "kaltsiy tuzlarining toplami",
+      "regeneratsiyalanayotgan epiteliotsitlar toplami"
+    ]
+  },
+  {
+    "Number": 46,
+    "Text": "Gemato-timus tosiq tarkibi:",
+    "Answers": [
+      "retikuloepitelial hujayralar, kapillyar endoteliysi, perikapillyar boshliq"
+    ],
+    "Options": [
+      "kapillyar endoteliysi, limfotsit, plazmatic hujayra",
+      "retikuloepitelial hujayralar, B - limfotsit",
+      "perikapillyar boshliq, endoteliy",
+      "retikuloepitelial hujayralar, kapillyar endoteliysi, tomir boshligi"
+    ]
+  },
+  {
+    "Number": 47,
+    "Text": "Yog bezlari sekretsiya jarayoni boyicha:",
+    "Answers": [
+      "golokrin"
+    ],
+    "Options": [
+      "ekkrin",
+      "merokrin",
+      "makroapokrin",
+      "mikroapokrin"
+    ]
+  },
+  {
+    "Number": 48,
+    "Text": "Tuzilishiga kora ter bezlari:",
+    "Answers": [
+      "oddiy tarmoqlanmagan naysimon bezlar"
+    ],
+    "Options": [
+      "oddiy tarmoqlangan naysimon bezlar",
+      "oddiy tarmoqlangan alveolyar bezlar",
+      "murakkab alveolyar-naysimon bezlar",
+      "oddiy tarmoqlanmagan alveolyarbezlar"
+    ]
+  },
+  {
+    "Number": 49,
+    "Text": "Ot qopchasining epiteliysi:",
+    "Answers": [
+      "baland prizmatik jiyakli"
+    ],
+    "Options": [
+      "bir qavat yassi",
+      "birqavatkubsimon",
+      "past prizmatik",
+      "kop qatorli xilpillovchi"
+    ]
+  },
+  {
+    "Number": 50,
+    "Text": "Glyukokortikoidlarning sintezini stimullovchi:",
+    "Answers": [
+      "AKTG, kortikoliberin"
+    ],
+    "Options": [
+      "tireotron gormon, somatoliberin",
+      "gonadoliberin, atriopeptin",
+      "angiotenzin II, AKTG",
+      "AKTG,tiroliberin"
+    ]
+  },
+  {
+    "Number": 51,
+    "Text": "Steroid turdagi gormonlarni ishlaydi:",
+    "Answers": [
+      "buyrak usti bezining tutamli zonasi hujayralari"
+    ],
+    "Options": [
+      "buyrak usti bezining xromaffin hujayralari",
+      "adenogipofizning atsidofil hujayralar",
+      "tireotsitlar",
+      "Langergans orolchasidagi B-xujayralar"
+    ]
+  },
+  {
+    "Number": 52,
+    "Text": "Orta bronxning fibroz-togay pardasi tuzilgan:",
+    "Answers": [
+      "elastic togay orolchalaridan"
+    ],
+    "Options": [
+      "togay yarim halqalaridan",
+      "gialintogay orolchalaridan",
+      "togayhalqalaridan",
+      "togay plastinkalari va togay orolchalaridan"
+    ]
+  },
+  {
+    "Number": 53,
+    "Text": "Opka respirator bolimining struktur birligi bu:",
+    "Answers": [
+      "atsinus"
+    ],
+    "Options": [
+      "bolakcha",
+      "segment",
+      "follikul",
+      "alveola"
+    ]
+  },
+  {
+    "Number": 54,
+    "Text": "Surfaktant sintezida ishtirok etadi:",
+    "Answers": [
+      "2-tip alveolotsitlar"
+    ],
+    "Options": [
+      "1-tip alveolotsitlar",
+      "3-tip alveolotsitlar",
+      "makrofaglar",
+      "qadaxsimon hujayralar"
+    ]
+  },
+  {
+    "Number": 55,
+    "Text": "Suyak toqimasini parchalaidi:",
+    "Answers": [
+      "osteoklastlar"
+    ],
+    "Options": [
+      "fibroklastlar",
+      "osteoblastlar",
+      "osteotsitlar",
+      "chondroklastlar"
+    ]
+  },
+  {
+    "Number": 56,
+    "Text": "DOFA- oksidaza fermentiga ijobiy reaksiya korsatadi:",
+    "Answers": [
+      "melanotsitlar"
+    ],
+    "Options": [
+      "keratinotsitlar",
+      "Langergans hujayralari",
+      "T-limfotsitlar",
+      "Merkel hujayralari"
+    ]
+  },
+  {
+    "Number": 57,
+    "Text": "Yog bezlari tuzilishiga kora:",
+    "Answers": [
+      "oddiy tarmoqlangan alveolyar bezlar"
+    ],
+    "Options": [
+      "oddiy tarmoqlangan naysimon bezlar",
+      "oddiy tarmoqlanmagan naysimon bezlar",
+      "murakkab tarmoqlangan alveolyar-naysimon bezlar",
+      "oddiy tarmoqlanmagan alveolyar bezlar"
+    ]
+  },
+  {
+    "Number": 58,
+    "Text": "Merokrin ter bezlarining oxirgi bolimlarida quyidagi hujayralar tafovut etiladi:",
+    "Answers": [
+      "sekretor va mioepitelial"
+    ],
+    "Options": [
+      "sekretor va tayanch",
+      "sekretor va kiprikli",
+      "sekretor va ekskretor",
+      "sekretor va sezuvchi"
+    ]
+  },
+  {
+    "Number": 59,
+    "Text": "Siyrak tolali shakllanmagan biriktiruvchi toqimaning asosiy hujayra elementlari:",
+    "Answers": [
+      "fibroblastlar, makrofaglar"
+    ],
+    "Options": [
+      "fibroblastlar, bazofillar",
+      "limfotsitlar, monotsitlar",
+      "neytrofillar, makrofaglar",
+      "makrofaglar, plazmotsitlar"
+    ]
+  },
+  {
+    "Number": 60,
+    "Text": "Zich tolali shakllangan biriktiruvchi toqimadan tuzilgan:",
+    "Answers": [
+      "paylar"
+    ],
+    "Options": [
+      "dermaning torsimon qavati",
+      "dermaning sorgichliqavati",
+      "gipoderma",
+      "kozning tor pardasi"
+    ]
+  },
+  {
+    "Number": 61,
+    "Text": "Etuk fibroblastlarda yaxshi rivojlangan:",
+    "Answers": [
+      "granulyar endoplazmatik tor, Golji kompleksi"
+    ],
+    "Options": [
+      "lizosoma, peroksisoma",
+      "mitoxondriya, tonofibrilla",
+      "sillik endoplazmatik tor,mikronaychalar",
+      "vakuolalar va miofibrillalar."
+    ]
+  },
+  {
+    "Number": 62,
+    "Text": "Plazmatik hujayralarning asosiy vazifasi:",
+    "Answers": [
+      "immunoglobulinlarni ishlab chiqarish"
+    ],
+    "Options": [
+      "geparin va gistamin ishlab chiqarish",
+      "fagotsitoz",
+      "tolalar va xujayralararo moddani sintezlash",
+      "gormon ishlab chiqarish."
+    ]
+  },
+  {
+    "Number": 63,
+    "Text": "Geparin va gistamin ishlab chiqaruvchi hujayra:",
+    "Answers": [
+      "labrotsit"
+    ],
+    "Options": [
+      "makrofag",
+      "adipotsit",
+      "fibroblast",
+      "melanotsit"
+    ]
+  },
+  {
+    "Number": 64,
+    "Text": "Limfa tugunining T-ga tobe zonasi:",
+    "Answers": [
+      "parakortikal zona"
+    ],
+    "Options": [
+      "limfoid follikulalar",
+      "magiz tasmalar",
+      "magiz sinuslari",
+      "parafollikulyar zona"
+    ]
+  },
+  {
+    "Number": 65,
+    "Text": "Organizmning turli azolarining yagona sistemaga birlashishi:",
+    "Answers": [
+      "integratsiya"
+    ],
+    "Options": [
+      "determinatsiya",
+      "regeneratsiya",
+      "metaplaziya",
+      "differentsialanish"
+    ]
+  },
+  {
+    "Number": 66,
+    "Text": "Qizil suyak komigida eritrotsitopez orolchasi markazida joylashadi:",
+    "Answers": [
+      "makrofag"
+    ],
+    "Options": [
+      "megakariotsit",
+      "trombotsit",
+      "retikulotsit",
+      "endoteliotsit"
+    ]
+  },
+  {
+    "Number": 67,
+    "Text": "Taloqning oq pulpasini xosil qiladi:",
+    "Answers": [
+      "T- va B-limfotsitlar"
+    ],
+    "Options": [
+      "T-limfotsitlar va makrofaglar",
+      "B-limfotsitlar va retikulyar hujayralar",
+      "splenotsitlar va eritrotsitlar",
+      "plazmatik hujayralar va retikulyar hujayralar"
+    ]
+  },
+  {
+    "Number": 68,
+    "Text": "Neytrofil leykotsitlarning (azurofil) donachalari saqlaydi:",
+    "Answers": [
+      "kislotali fosfataza"
+    ],
+    "Options": [
+      "geparin",
+      "gistamin",
+      "ishqoriy fosfataza",
+      "immunoglobulinlar"
+    ]
+  },
+  {
+    "Number": 69,
+    "Text": "Eritrotsitopoezning qaysi bosqichida yadro hujayradan chiqib ketadi?",
+    "Answers": [
+      "oksifil normotsit"
+    ],
+    "Options": [
+      "eritroblast",
+      "bazofil normotsit",
+      "polixromatofil normotsit",
+      "pronormotsit"
+    ]
+  },
+  {
+    "Number": 70,
+    "Text": "Trombotsitopoez jarayonining morfologik jixatdan aniqlanishi mumkin bolgan eng yosh hujayrasi:",
+    "Answers": [
+      "megakarioblast"
+    ],
+    "Options": [
+      "promegakariotsit",
+      "trombotsit",
+      "monoblast",
+      "megakariotsit"
+    ]
+  },
+  {
+    "Number": 71,
+    "Text": "Granulotsitopoezning qaysi bosqichidan boshlab hujayralar kopayish qobiliyatini yoqotadi:",
+    "Answers": [
+      "metamielotsitlar"
+    ],
+    "Options": [
+      "promielotsitlar",
+      "mielotsitlar",
+      "mieloblastlar",
+      "tayogcha yadroli leykotsitlar"
+    ]
+  },
+  {
+    "Number": 72,
+    "Text": "Bazofil leykotsitlarning qondagi foiz miqdori:",
+    "Answers": [
+      "0-1%"
+    ],
+    "Options": [
+      "4-8%",
+      "2-5%",
+      "65-75%",
+      "0-0,5%"
+    ]
+  },
+  {
+    "Number": 73,
+    "Text": "Ikkita Z-chiziqchasi oraligidagi miofibrilla bolakchasi bu:",
+    "Answers": [
+      "sarkomer"
+    ],
+    "Options": [
+      "T-naychalar sistemasi",
+      "I-disk",
+      "N-zona",
+      "sarkosoma"
+    ]
+  },
+  {
+    "Number": 74,
+    "Text": "H- zona:",
+    "Answers": [
+      "faqat miozin tutadi"
+    ],
+    "Options": [
+      "faqat aktin tutadi",
+      "aktin va miozin tutadi",
+      "tropomiozin tutadi",
+      "troponin tutadi"
+    ]
+  },
+  {
+    "Number": 75,
+    "Text": "A-disk:",
+    "Answers": [
+      "miozin va qisman aktin tutadi"
+    ],
+    "Options": [
+      "miozin vaT-naychalar tutadi",
+      "qismanmiozin tutadi",
+      "faqat aktin tutadi",
+      "hech narsa tutmaydi"
+    ]
+  },
+  {
+    "Number": 76,
+    "Text": "Kondalang-targil skelet mushagining taraqqiyot manbai:",
+    "Answers": [
+      "miotom"
+    ],
+    "Options": [
+      "mezenxima",
+      "mezoderma",
+      "ektoderma",
+      "mioepikardial plastinka"
+    ]
+  },
+  {
+    "Number": 77,
+    "Text": "Gemato-ensefalik tosigini hosil qilishda ishtirok etadi:",
+    "Answers": [
+      "astrotsit"
+    ],
+    "Options": [
+      "multipotensial gliya",
+      "ependimotsit",
+      "neyrolemmotsit",
+      "oligodendrogliotsit"
+    ]
+  },
+  {
+    "Number": 78,
+    "Text": "Nerv tolasini hosil qilishda ishtirok etadi:",
+    "Answers": [
+      "neyrolemmotsitlar"
+    ],
+    "Options": [
+      "ependimotsitlar",
+      "mikrogliotsitlar",
+      "tolali astrotsitlar",
+      "protoplazmatikastrotsitlar"
+    ]
+  },
+  {
+    "Number": 79,
+    "Text": "Miyelinli nerv tolasi uchun xos:",
+    "Answers": [
+      "impulsni saltator otkazadi"
+    ],
+    "Options": [
+      "membrana depolyarizatsiyasi uzluksiz",
+      "asosan vegetativ nerv sistemasiga tegishli",
+      "impuls sekin tarqaladi",
+      "kabel tipida boladi"
+    ]
+  },
+  {
+    "Number": 80,
+    "Text": "Tigroid moddaning tarkibiy qismi:",
+    "Answers": [
+      "donador endoplazmatik tor va ribosomalar"
+    ],
+    "Options": [
+      "silliq endoplazmatik tor va ribosomalar",
+      "Golji kompleksi va mitoxondriyalar",
+      "silliq endoplazmatik tor va mitoxondriyalar",
+      "peroksisoma va lizosomalar"
+    ]
+  },
+  {
+    "Number": 81,
+    "Text": "Katta yoshdagi organizmda dagal tolali suyak toqimasi uchraydi:",
+    "Answers": [
+      "kalla suyagi choklarida"
+    ],
+    "Options": [
+      "naysimon suyakning kompakt moddasida",
+      "yassi suyaklarda",
+      "naysimon suyaklarning govak moddasida",
+      "metaepifizar plastinkada"
+    ]
+  },
+  {
+    "Number": 82,
+    "Text": "Naysimon suyak kompakt moddasining struktur birligi:",
+    "Answers": [
+      "osteon"
+    ],
+    "Options": [
+      "osteotsit",
+      "osteoblast",
+      "osteoklast",
+      "periost"
+    ]
+  },
+  {
+    "Number": 83,
+    "Text": "Suyak usti pardasi /periost/ quyidagilardan tuzilgan:",
+    "Answers": [
+      "tashqitolali va ichki hujayrali qavatlardan"
+    ],
+    "Options": [
+      "tashqi hujayrali va ichki tolali qavatlardan",
+      "bir qavat joylashgan retikulyar hujayra va tolalardan",
+      "osteotsit, osteoklastlar va bazal membranadan",
+      "osteoblast, osteotsit va osteoklastlardan"
+    ]
+  },
+  {
+    "Number": 84,
+    "Text": "Izogen guruxlar bu:",
+    "Answers": [
+      "yagona boshliqda yotuvchi xondrotsitlar guruxi"
+    ],
+    "Options": [
+      "lakunanalarda joylashgan osteotsitlar guruxi",
+      "mezenxima hujayralarining guruhi",
+      "hujayralararo moddaning zichlashgan qismi",
+      "perixondrda yotuvchi xondroblastlar guruxi."
+    ]
+  },
+  {
+    "Number": 85,
+    "Text": "Gialin togaytoqimasi uchraydi:",
+    "Answers": [
+      "traxeyada"
+    ],
+    "Options": [
+      "quloq suprasida",
+      "umurtqalararo diskda",
+      "paylarning gialin togayiga otish qismida",
+      "kichik bronxlarda"
+    ]
+  },
+  {
+    "Number": 86,
+    "Text": "Bogim yuzasi togayining oziqlanishini taminlaydi:",
+    "Answers": [
+      "sinovial suyuqlik"
+    ],
+    "Options": [
+      "togay usti pardasi tomirlari",
+      "togayning tashqi zonasida joylashgan qon tomirlar",
+      "togayning orta zonasida joylashgan qon tomirlar",
+      "suyak usti pardasi"
+    ]
+  },
+  {
+    "Number": 87,
+    "Text": "Bolgusi suyakning togay modeli tuzilgan:",
+    "Answers": [
+      "perixondr bilan oralgan embrional gialin togaydan"
+    ],
+    "Options": [
+      "perixondr bilan oralgan elastik togaydan",
+      "perixondr bilan oralgan tolali togaydan",
+      "perixondr tutmagan embrional gialin togaydan",
+      "periost bilan oralgan elastik togaydan"
+    ]
+  },
+  {
+    "Number": 88,
+    "Text": "Endokrin hujayralar ajratadi:",
+    "Answers": [
+      "gormonlar"
+    ],
+    "Options": [
+      "immunoglobulinlar",
+      "fermentlar",
+      "xlorid kislota",
+      "shillik"
+    ]
+  },
+  {
+    "Number": 89,
+    "Text": "Gormonlar quyidagi hujayralar bilan boglanadi:",
+    "Answers": [
+      "nishon"
+    ],
+    "Options": [
+      "ozak",
+      "kambial",
+      "osuvchi",
+      "yarim ozak"
+    ]
+  },
+  {
+    "Number": 90,
+    "Text": "Adenogipofiz taraqqiy etadi:",
+    "Answers": [
+      "ogiz boshligi epiteliysidan"
+    ],
+    "Options": [
+      "neyrogliyadan",
+      "neyroblastlardan",
+      "selomik epiteliydan",
+      "oraliq miya tomidan"
+    ]
+  },
+  {
+    "Number": 91,
+    "Text": "Qalqonsimon bezning K-hujayralari ishlab chiqaradi:",
+    "Answers": [
+      "tireokalsitonin"
+    ],
+    "Options": [
+      "tiroksin",
+      "triyodtironin",
+      "paratirin",
+      "tireotrop gormon"
+    ]
+  },
+  {
+    "Number": 92,
+    "Text": "Toqimalarning kurtaklardan hosil bolish jarayoni - bu:",
+    "Answers": [
+      "gistogenez"
+    ],
+    "Options": [
+      "proliferatsiya",
+      "metaplaziya",
+      "gastrulyatsiya",
+      "gipertrofiya"
+    ]
+  },
+  {
+    "Number": 93,
+    "Text": "Toqimalarning genetik jihatdan belgilangan yonalishlarda  ixtisoslanishi - bu:",
+    "Answers": [
+      "determinatsiya"
+    ],
+    "Options": [
+      "integratsiya",
+      "differensialanish",
+      "regeneratsiya",
+      "metaplaziya"
+    ]
+  },
+  {
+    "Number": 94,
+    "Text": "Turli toqima va azolarning yagona organizm shaklida birlashuvi -bu:",
+    "Answers": [
+      "integratsiya"
+    ],
+    "Options": [
+      "determinatsiya",
+      "regeneratsiya",
+      "metaplaziya",
+      "differensialanish"
+    ]
+  },
+  {
+    "Number": 95,
+    "Text": "Epiteliy toqimasining oziga xos xususiyatlaridan biri:",
+    "Answers": [
+      "qon tomirlari yoq"
+    ],
+    "Options": [
+      "qon tomirlarga boy",
+      "hujayralararo moddaga boy",
+      "regeneratsiya qilmaydi",
+      "nerv oxirlari tutmaydi"
+    ]
+  },
+  {
+    "Number": 96,
+    "Text": "Bir qavatli yassi epiteliy joylashgan:",
+    "Answers": [
+      "seroz pardalarda"
+    ],
+    "Options": [
+      "siydik pufagi shilliq pardasida",
+      "bronxda",
+      "ingichka ichak shillik pardasida",
+      "togri ichak shillik pardasida."
+    ]
+  },
+  {
+    "Number": 97,
+    "Text": "Yurakning atipik kardiomiotsitlarini korsating:",
+    "Answers": [
+      "Peysmeker hujayralari, oraliq hujayralar, Purkinye tolalari"
+    ],
+    "Options": [
+      "oraliq hujayralar, oraliq plastinkalar, Peysmekker hujayralari",
+      "Purkine tolalari, Giss tutamiva oraliq plastinkalar",
+      "Purkine tolalari va Purkine neyronlari",
+      "Giss tutami va Purkinye tolalari."
+    ]
+  },
+  {
+    "Number": 98,
+    "Text": "Peysmeker hujayralariga xos:",
+    "Answers": [
+      "miofibrillalari kam va siyrak joylashgan"
+    ],
+    "Options": [
+      "mitoxondriyalarga boy",
+      "T- naychalar sistemasi mavjud",
+      "sarkoplazmatik retikulumga boy",
+      "qisqarish vazifasini bajaradi"
+    ]
+  },
+  {
+    "Number": 99,
+    "Text": "Epikard. (Notogri fikrni korsating):",
+    "Answers": [
+      "bir qavatli kubsimon epiteliy bilan qoplangan"
+    ],
+    "Options": [
+      "biriktiruvchi tuqimaning yupqa plastinkasidan iborat",
+      "miokardga zich birikib ketgan",
+      "perikardning vistseral varagidir",
+      "erkin yuzasi mezoteliy bilan qoplangan"
+    ]
+  },
+  {
+    "Number": 100,
+    "Text": "Endokardda uchramaydi:",
+    "Answers": [
+      "ichki elastik membrana"
+    ],
+    "Options": [
+      "endoteliy",
+      "subendoteliy",
+      "mushak-elastik",
+      "tashqi biriktiruvchi toqimali qavat"
+    ]
+  },
+  {
+    "Number": 101,
+    "Text": "Tipik kardiomiotsitlarga xos emas:",
+    "Answers": [
+      "miofibrillalari kam va siyrak joylashgan"
+    ],
+    "Options": [
+      "mitoxondriyalarga boy",
+      "T- naychalar sistemasi mavjud",
+      "sarkoplazmatik retikulumga boy",
+      "qisqarish vazifasini bajaradi"
+    ]
+  },
+  {
+    "Number": 102,
+    "Text": "Ikki membranali organellalarga kiradi:",
+    "Answers": [
+      "mitoxondriya"
+    ],
+    "Options": [
+      "endoplazmatik tor",
+      "Golji kompleksi",
+      "lizosoma",
+      "peroksisoma"
+    ]
+  },
+  {
+    "Number": 103,
+    "Text": "Yaxshi rivojlangan donador endoplazmatik tor tutvchi hujayra quyidagilarni sintezida qatanashadi:",
+    "Answers": [
+      "oqsillar"
+    ],
+    "Options": [
+      "lipidlar",
+      "glikogen",
+      "pigmentlar",
+      "lizosomalar"
+    ]
+  },
+  {
+    "Number": 104,
+    "Text": "Lizosomalar quyidagi hujayralarda yaxshi rivojlangan:",
+    "Answers": [
+      "makrofag"
+    ],
+    "Options": [
+      "fibroblast",
+      "plazmatik hujayra",
+      "miotsit",
+      "neyrotsit"
+    ]
+  },
+  {
+    "Number": 105,
+    "Text": "Lizosomalar qaysi organellalarda shakllanadi:",
+    "Answers": [
+      "Golji kompleksida"
+    ],
+    "Options": [
+      "donador endoplazmatik torda",
+      "donasiz endoplazmatik torda",
+      "yadroda",
+      "mitoxondriyada"
+    ]
+  },
+  {
+    "Number": 106,
+    "Text": "Qoldiq tanchalar – bu quyidagi qaysi tuzilmalarning turi hisoblanadi:",
+    "Answers": [
+      "lizosoma"
+    ],
+    "Options": [
+      "peroksisoma",
+      "kiritma",
+      "mitoxondriya",
+      "diplosoma"
+    ]
+  },
+  {
+    "Number": 107,
+    "Text": "Kiprikchani hosil qiladi:",
+    "Answers": [
+      "mikronaychalar"
+    ],
+    "Options": [
+      "mikrofilamentlar",
+      "miofibrillalar",
+      "neyrofibrillalar",
+      "tonofibrillalar"
+    ]
+  },
+  {
+    "Number": 108,
+    "Text": "Yadrocha quyidagi vazifani bajaradi:",
+    "Answers": [
+      "r-RNK sintezlash"
+    ],
+    "Options": [
+      "glikogen sintezi",
+      "irsiy axborotni uzatish",
+      "irsiy axborotni saQlash",
+      "DNK sintezi"
+    ]
+  },
+  {
+    "Number": 109,
+    "Text": "Suyak toqimasining lakunalarida joylashgan:",
+    "Answers": [
+      "osteotsitlar"
+    ],
+    "Options": [
+      "osteoblastlar",
+      "osteoklastlar",
+      "osteon",
+      "periostI"
+    ]
+  },
+  {
+    "Number": 110,
+    "Text": "Gemopoez davomida demarkatsion membranalar xosil boladi:",
+    "Answers": [
+      "megakariotsitlarda"
+    ],
+    "Options": [
+      "trombotsitlsrda",
+      "eritroblastlarda",
+      "monoblastlarda",
+      "normotsitlarda"
+    ]
+  },
+  {
+    "Number": 111,
+    "Text": "Teri yuzasini qoplovchi epiteliy:",
+    "Answers": [
+      "kop qavatli yassi muguzlanuvchi"
+    ],
+    "Options": [
+      "bir qavatli prizmatik",
+      "bir qavatli yassi",
+      "bir qavatli kop qatorli",
+      "kop qavatli yassi muguzlanmaydigan"
+    ]
+  },
+  {
+    "Number": 112,
+    "Text": "Teri epidermisining taraqqiyot manbai:",
+    "Answers": [
+      "ektoderma"
+    ],
+    "Options": [
+      "mezodermaning visseral varagi",
+      "entoderma",
+      "mezenxima",
+      "mezodermaning parietal varagi"
+    ]
+  },
+  {
+    "Number": 113,
+    "Text": "Seroz pardalarni qoplovchi mezoteliy tuzilishiga kora:",
+    "Answers": [
+      "bir qavatli yassi"
+    ],
+    "Options": [
+      "bir qavatli prizmatik",
+      "bir qavatli kubsimon",
+      "bir qavatli kop qatorli",
+      "ozgaruvchan"
+    ]
+  },
+  {
+    "Number": 114,
+    "Text": "Nafas yollarining kiprikli epiteliysi tuzilishiga kora:",
+    "Answers": [
+      "bir qavatli kop qatorli kiprikli"
+    ],
+    "Options": [
+      "bir qavatli prizmatik",
+      "bir qavatli yassi",
+      "kop qavatli yassi muguzlanuvchi",
+      "bir qavatli kubsimon"
+    ]
+  },
+  {
+    "Number": 115,
+    "Text": "Kiprikli xilpillovchi epiteliyning shilliq ajratuvchi hujayralarini korsating:",
+    "Answers": [
+      "qadaxsimon"
+    ],
+    "Options": [
+      "kiprikli",
+      "endokrin",
+      "oraliq hujayralar",
+      "Klar xujayralari"
+    ]
+  },
+  {
+    "Number": 116,
+    "Text": "Kop qavatli epiteliyga kiradi:",
+    "Answers": [
+      "ozgaruvchan epiteliy"
+    ],
+    "Options": [
+      "mezoteliy",
+      "kop qatorli hilpillovchi epiteliy",
+      "endoteliy",
+      "jiyakli epiteliy"
+    ]
+  },
+  {
+    "Number": 117,
+    "Text": "Megakariotsitlar sitoplazmasining yadrosiz fragmentlari - bu:",
+    "Answers": [
+      "trombotsit"
+    ],
+    "Options": [
+      "limfotsit",
+      "monotsit",
+      "eritrotsit",
+      "neytrofil"
+    ]
+  },
+  {
+    "Number": 118,
+    "Text": "Qondan biriktiruvchi toqimaga otuvchi va makrofagga ixtisoslashuvchi qon hujayrasi:",
+    "Answers": [
+      "monotsit"
+    ],
+    "Options": [
+      "limfotsit",
+      "neytrofil",
+      "eozinofil",
+      "bazofil"
+    ]
+  },
+  {
+    "Number": 119,
+    "Text": "Limfotsitlarning sitoplazmasi boyaladi:",
+    "Answers": [
+      "bazofil"
+    ],
+    "Options": [
+      "neytrofil",
+      "polixromatofil",
+      "metaxromatik",
+      "oksifil"
+    ]
+  },
+  {
+    "Number": 120,
+    "Text": "Biriktiruchi toqimaning barcha turlari rivojlanadi:",
+    "Answers": [
+      "mezenximadan"
+    ],
+    "Options": [
+      "entodermadan",
+      "ektodermadan",
+      "mezodermadan",
+      "nerv nayidan"
+    ]
+  },
+  {
+    "Number": 121,
+    "Text": "Yogtoqimasi qaysi toqima tarkibiy qismiga kiradi:",
+    "Answers": [
+      "maxsus xususiyatga ega biriktiruvchi toqima"
+    ],
+    "Options": [
+      "asl biriktiruvchi toqima",
+      "suyak toqimasi",
+      "zich tolali shakllangan biriktiruvchi toqima",
+      "siyrak tolali shakllanmagan biriktiruvchi toqima"
+    ]
+  },
+  {
+    "Number": 122,
+    "Text": "Melatonin ishlab chiqariladi:",
+    "Answers": [
+      "epifizda"
+    ],
+    "Options": [
+      "gipofizda",
+      "gipotalamusda",
+      "fundal bezda",
+      "duodenal bezda"
+    ]
+  },
+  {
+    "Number": 123,
+    "Text": "Pituitsitlar joilashgan:",
+    "Answers": [
+      "epifizda"
+    ],
+    "Options": [
+      "gipofizda",
+      "gipotalamusda",
+      "fundal bezda",
+      "duodenal bezda"
+    ]
+  },
+  {
+    "Number": 124,
+    "Text": "Biriktiruvchi toqima tolalarini biosintezini amalga oshiradi:",
+    "Answers": [
+      "fibroblastlar"
+    ],
+    "Options": [
+      "makrofaglar",
+      "plazmatik hujayralar",
+      "semiz hujayralar",
+      "adipotsitlar"
+    ]
+  },
+  {
+    "Number": 125,
+    "Text": "Biriktiruvchi toqimaning asosiy (amorf) molddasi oqsillarini sintezlaydi:",
+    "Answers": [
+      "fibroblastlar"
+    ],
+    "Options": [
+      "plazmatik hujayralar",
+      "semiz Hujayralar",
+      "makrofaglar",
+      "adipotsitlar"
+    ]
+  },
+  {
+    "Number": 126,
+    "Text": "Antitelolarni hosil qiladi:",
+    "Answers": [
+      "plazmatik hujayralar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "semiz hujayralar",
+      "makrofaglar",
+      "melanotsitlar"
+    ]
+  },
+  {
+    "Number": 127,
+    "Text": "Qon yaratuvchi azolarning stromasini hosil qiladi:",
+    "Answers": [
+      "retikulyar toqima"
+    ],
+    "Options": [
+      "siyrak tolali shakllanmagan biriktiruvchi toqima",
+      "yogtoqimasi",
+      "zich tolali shakllangan biriktiruvchi toqima",
+      "zich tolali shakllanmagan biriktiruvchi toqima"
+    ]
+  },
+  {
+    "Number": 128,
+    "Text": "Argirofil tolalar qaysi toqimaning hujayralararo moddasi uchun xos:",
+    "Answers": [
+      "retikulyar toqima"
+    ],
+    "Options": [
+      "yogtoqimasi",
+      "suyak toqimasi",
+      "togaytoqimasi",
+      "shilliqtoqima"
+    ]
+  },
+  {
+    "Number": 129,
+    "Text": "Shilliq biriktiruvchi toqima joylashgan:",
+    "Answers": [
+      "kindik tizimchasida"
+    ],
+    "Options": [
+      "tomirlarda",
+      "qon yaratuvchi azolarda",
+      "naysimon suyaklarda",
+      "shilliq pardalarda"
+    ]
+  },
+  {
+    "Number": 130,
+    "Text": "Suyakning bogim yuzasini hosil qiladi:",
+    "Answers": [
+      "gialin togay"
+    ],
+    "Options": [
+      "elastik togay",
+      "tolali togay",
+      "zich shakllangan biriktiruvchi toima",
+      "siyrak tolali shakllanmagan biriktiruvchi toqima"
+    ]
+  },
+  {
+    "Number": 131,
+    "Text": "Suyak komigi tomondan suyakni qoplaydi:",
+    "Answers": [
+      "endost"
+    ],
+    "Options": [
+      "periost",
+      "endoteliy",
+      "yogtoqimasi",
+      "endotenoniy"
+    ]
+  },
+  {
+    "Number": 132,
+    "Text": "Suyakni tashqi tomondan qoplaydi:",
+    "Answers": [
+      "periost"
+    ],
+    "Options": [
+      "endost",
+      "endoteliy",
+      "peritenoniy",
+      "endotenoniy"
+    ]
+  },
+  {
+    "Number": 133,
+    "Text": "Osteoblast quyidagi jarayonda ishtirok etadi:",
+    "Answers": [
+      "suyak toqimasining hujayralararo modda oqsillarini sintezlash"
+    ],
+    "Options": [
+      "suyak toqimasini parchalash",
+      "suyak toqimasini oziqlantirish",
+      "izogen guruhlarni xosil qilish",
+      "togri javob yoq"
+    ]
+  },
+  {
+    "Number": 134,
+    "Text": "Suyak toqimasining kop yadroli hujayrasi:",
+    "Answers": [
+      "osteoklast"
+    ],
+    "Options": [
+      "osteoblast",
+      "osteotsit",
+      "xondroblast",
+      "xondrotsit"
+    ]
+  },
+  {
+    "Number": 135,
+    "Text": "Yurak mushagining taraqqiyot manbai:",
+    "Answers": [
+      "mioepikardial plastinka"
+    ],
+    "Options": [
+      "ektoderma",
+      "mezenxima",
+      "mezoderma miotomlari",
+      "splanxnotomning pariEtal varagi"
+    ]
+  },
+  {
+    "Number": 136,
+    "Text": "Skelet mushagi tuzilgan:",
+    "Answers": [
+      "kop yadroli mushak tolalaridan"
+    ],
+    "Options": [
+      "miotsitlardan",
+      "kardiomiotsitlardan",
+      "mioepitelial hujayralardan",
+      "togri javob yoq"
+    ]
+  },
+  {
+    "Number": 137,
+    "Text": "Mushak toqimasi tuzilmalarining yogon filamentlari quyidagi oqsildan tuzilgan:",
+    "Answers": [
+      "miozin"
+    ],
+    "Options": [
+      "aktin",
+      "troponin",
+      "tropomiozin",
+      "titin"
+    ]
+  },
+  {
+    "Number": 138,
+    "Text": "Tish sementi qanday qismlar farqlanadi:",
+    "Answers": [
+      "hujayraviy va hujairasiz"
+    ],
+    "Options": [
+      "tolali va tolasiz",
+      "kanalcha va prizma",
+      "periferik va markaziy",
+      "pulpa va kutikula"
+    ]
+  },
+  {
+    "Number": 139,
+    "Text": "Oraliq disklar qaysi tuzilmaning tarkibiy qismi hisoblanadi:",
+    "Answers": [
+      "yurak mushak toqimasi"
+    ],
+    "Options": [
+      "skelet mushak toqimasi",
+      "silliq mushak toqima",
+      "mioepitelial hujayralar",
+      "togri javob yoq"
+    ]
+  },
+  {
+    "Number": 140,
+    "Text": "Skelet mushak toqimasining regeneratsiya manbai:",
+    "Answers": [
+      "miosatellitotsitlar"
+    ],
+    "Options": [
+      "miotsitlar",
+      "regeneratsiya manbai yoq",
+      "miosimplastlar",
+      "miofibroblastlar"
+    ]
+  },
+  {
+    "Number": 141,
+    "Text": "Skelet mushak tolasining T-naychalari:",
+    "Answers": [
+      "plazmolemma invaginatsiyalari"
+    ],
+    "Options": [
+      "agranulyar endoplazmztik tor hosilalari",
+      "granulyar endoplazmztik tor hosilalari",
+      "Golji kompleksiningqismi",
+      "lizosoma turi"
+    ]
+  },
+  {
+    "Number": 142,
+    "Text": "Psevdounipolyar neyronlar tutadi:",
+    "Answers": [
+      "ikki osimta"
+    ],
+    "Options": [
+      "bir osimta",
+      "uch osimta",
+      "osimtalari yoq",
+      "kop osimta"
+    ]
+  },
+  {
+    "Number": 143,
+    "Text": "Nerv hujayralarining maxsus organellasi hisoblanadi:",
+    "Answers": [
+      "neyrofibrillalar"
+    ],
+    "Options": [
+      "miofibrillalar",
+      "tonofibrillalar",
+      "mikrovorsinkalar",
+      "miofilamentlar"
+    ]
+  },
+  {
+    "Number": 144,
+    "Text": "Orqa miyaning markaziy kanali va miya qorinchalarini qoplaydi:",
+    "Answers": [
+      "ependimogliotsitlar"
+    ],
+    "Options": [
+      "oligodendrsitlar",
+      "mikrogliya",
+      "protoplazmatik astrotsitlar",
+      "tolali astrotsitlar"
+    ]
+  },
+  {
+    "Number": 145,
+    "Text": "Efferent nerv oxirini hosil qiladi:",
+    "Answers": [
+      "xarakatlantiruvchi neyron aksoni"
+    ],
+    "Options": [
+      "xarakatlantiruvchi neyron dendriti",
+      "sezuvchi neyron dendriti",
+      "sezuvchi neyron aksoni",
+      "oraliq neyron dendrite"
+    ]
+  },
+  {
+    "Number": 146,
+    "Text": "Plazmolemma qanday vazifani bajaradi (Notogri fikrni korsating):",
+    "Answers": [
+      "oqsil sintezi"
+    ],
+    "Options": [
+      "retseptor",
+      "transport",
+      "hujayralarning ozaro birikishi",
+      "xarakatlanish"
+    ]
+  },
+  {
+    "Number": 147,
+    "Text": "Qaysi tuzilma xisobiga hujayra ichiga moddalarning transporti amalga oshadi:",
+    "Answers": [
+      "plazmolemma"
+    ],
+    "Options": [
+      "xujayralararo modda",
+      "lizosomalar",
+      "ribosomalar",
+      "mitoxondriyalar"
+    ]
+  },
+  {
+    "Number": 148,
+    "Text": "Membranali organellalarga kirmaydi:",
+    "Answers": [
+      "ribosoma va polisomalar"
+    ],
+    "Options": [
+      "mitoxondriyalar",
+      "endoplazmatik tor",
+      "Golji apparati",
+      "lizosomalar"
+    ]
+  },
+  {
+    "Number": 149,
+    "Text": "Mitoxondriyalarda tafovut qilinadi:",
+    "Answers": [
+      "tashqi va ichki membrana, perinuklear soxa, matriks"
+    ],
+    "Options": [
+      "membrana, asosiy modda, teshik komlekslari, matriks",
+      "tashqiva ichki membranalar, kristalar, matriks",
+      "matriks, kristalar, perinuklear boshliq, asosiy modda",
+      "tashqiva ichki membrana, kriptalar, matriks"
+    ]
+  },
+  {
+    "Number": 150,
+    "Text": "Hamma hujayralarda doimiy uchraydigan va malum funktsiyani bajaruvchi tuzilma:",
+    "Answers": [
+      "umumiy organella"
+    ],
+    "Options": [
+      "kiritma",
+      "yadro",
+      "sitoplazma",
+      "kiprikcha"
+    ]
+  },
+  {
+    "Number": 151,
+    "Text": "Qaysi organelle bevosita moddalarni hujayra ichida xazm qilinishida qatnashadi:",
+    "Answers": [
+      "lizosoma"
+    ],
+    "Options": [
+      "peroksisoma",
+      "endoplazmatik tor",
+      "sentriola",
+      "mitoxondriya"
+    ]
+  },
+  {
+    "Number": 152,
+    "Text": "Donador endoplazmatik torning vazifasi:",
+    "Answers": [
+      "eksport uchun oqsillar sintezi"
+    ],
+    "Options": [
+      "uglevodlar sintezi",
+      "endogen va ekzogen moddalarni parchalash",
+      "retseptor",
+      "fermentativ"
+    ]
+  },
+  {
+    "Number": 153,
+    "Text": "Embrionning ogiz epiteliysidan rivojlanadi:",
+    "Answers": [
+      "adenogipofiz"
+    ],
+    "Options": [
+      "neyrogipofiz",
+      "gipotalamus",
+      "epifiz",
+      "neyrosekretor xujayralar"
+    ]
+  },
+  {
+    "Number": 154,
+    "Text": "Toqimalarning kurtaklaridan hosil bolish jarayoni - bu:",
+    "Answers": [
+      "gistogenez"
+    ],
+    "Options": [
+      "proliferatsiya",
+      "metaplaziya",
+      "gastrulyatsiya",
+      "maydalanish"
+    ]
+  },
+  {
+    "Number": 155,
+    "Text": "Toqimalarga xos bolgan maxsus tuzilma va xususiyatlarning shakllanishi - bu:",
+    "Answers": [
+      "differensialanish"
+    ],
+    "Options": [
+      "integratsiya",
+      "proliferatsiya",
+      "metaplaziya",
+      "determinatsiya"
+    ]
+  },
+  {
+    "Number": 156,
+    "Text": "Adenogipofizning oldingi bolimida joylashgan:",
+    "Answers": [
+      "somatotropotsitlar"
+    ],
+    "Options": [
+      "melanotropotsitlar",
+      "lipotropotsitlar",
+      "pinealotsitlar",
+      "Gerring tanachalari"
+    ]
+  },
+  {
+    "Number": 157,
+    "Text": "Adenogipofizning bazofil hujayralariga kiradi:",
+    "Answers": [
+      "gonadotropotsitlar"
+    ],
+    "Options": [
+      "somatotropotsitlar",
+      "adrenokortikotropotsitlar",
+      "laktotropotsitlar",
+      "hromofoblar"
+    ]
+  },
+  {
+    "Number": 158,
+    "Text": "Toqimaning hayot davomida doimo qaytadan tiklanib turish jarayoni:",
+    "Answers": [
+      "fiziologik regeneratsiya"
+    ],
+    "Options": [
+      "reparativ regeneratsiya",
+      "differensiallanish",
+      "metaplaziya",
+      "proliferatsiya"
+    ]
+  },
+  {
+    "Number": 159,
+    "Text": "Toqimalarning shikastlangandan song tiklanish jarayoni - bu:",
+    "Answers": [
+      "reparativ regeneratsiya"
+    ],
+    "Options": [
+      "fiziologik regeneratsiya",
+      "metaplaziya",
+      "differensiallanish",
+      "proliferatsiya"
+    ]
+  },
+  {
+    "Number": 160,
+    "Text": "Toqima xususiyatlarining ozgarishi va unda shu toqimaga xos bolmagan tuzilmalar paydo bolishi jarayoni -bu:",
+    "Answers": [
+      "metaplaziya"
+    ],
+    "Options": [
+      "proliferatsiya",
+      "differensiallanish",
+      "regeneratsiya",
+      "integratsiya"
+    ]
+  },
+  {
+    "Number": 161,
+    "Text": "Hozirgi zamon klassifikatsiyasi boyicha asosiy toqima turlar (Notogri javobni korsating):",
+    "Answers": [
+      "suyak toqimasi"
+    ],
+    "Options": [
+      "nerv toqimasi",
+      "mushak toqimasi",
+      "ichki muqittoqimasi",
+      "togaytoqimasi"
+    ]
+  },
+  {
+    "Number": 162,
+    "Text": "Filogenetik klassifikatsiya boyicha farqlanadigan epiteliy:",
+    "Answers": [
+      "selomik"
+    ],
+    "Options": [
+      "jigar epiteliysi",
+      "kop qavatli yassi",
+      "bir qavatli silindrsimon",
+      "bir qavatlikubsimon"
+    ]
+  },
+  {
+    "Number": 163,
+    "Text": "Bir qavatli yassi epiteliy joylashgan:",
+    "Answers": [
+      "seroz pardalarda"
+    ],
+    "Options": [
+      "siydik pufagida",
+      "jigarda",
+      "ingichka ichakda",
+      "bachadonda"
+    ]
+  },
+  {
+    "Number": 164,
+    "Text": "Morfofunksional klassifikatsiya boyicha farqlanadigan epiteliy:",
+    "Answers": [
+      "kop qavatli epiteliy"
+    ],
+    "Options": [
+      "ichak epiteliysi",
+      "ependimoglial epiteliy",
+      "teri epiteliysi",
+      "selonefrodermal"
+    ]
+  },
+  {
+    "Number": 165,
+    "Text": "Bir qavatli prizmatik jiyakli yoki hoshiyali epiteliy uchraydi:",
+    "Answers": [
+      "ingichka ichakda"
+    ],
+    "Options": [
+      "bronxda",
+      "siydik pufagida",
+      "plevrada",
+      "qizilongachda"
+    ]
+  },
+  {
+    "Number": 166,
+    "Text": "Prizmatik epiteliy hujayralarining hoshiyasi nimadan iborat:",
+    "Answers": [
+      "mikrovorsinkalardan"
+    ],
+    "Options": [
+      "kiprikchalardan",
+      "xivchinlardan",
+      "tonofibrillalardan",
+      "neyrofibrillalardan"
+    ]
+  },
+  {
+    "Number": 167,
+    "Text": "Bir qavatli kop qatorli hilpillovchi kiprikli epiteliy uchraydigan azo:",
+    "Answers": [
+      "havo otkazuvchi yollar"
+    ],
+    "Options": [
+      "ingichka ichak",
+      "siydik pufagi",
+      "qizilongach",
+      "meda"
+    ]
+  },
+  {
+    "Number": 168,
+    "Text": "Nafas yollarini qoplovchi epiteliy:",
+    "Answers": [
+      "bir qavatli kop qatorli kiprikli"
+    ],
+    "Options": [
+      "kop kavatli yassi",
+      "bir kavatli yassi",
+      "ozgaruvchan",
+      "kopqavatli kop qatorli kiprikli"
+    ]
+  },
+  {
+    "Number": 169,
+    "Text": "Bir qavatli kop qatorli epiteliy hujayralarining xususiyati:",
+    "Answers": [
+      "kiprikchalar tutishi"
+    ],
+    "Options": [
+      "mikrovorsinkalar tutishi",
+      "xivchinlar tutishi",
+      "osimtalar tutishi",
+      "psevdopodiyalar tutadi"
+    ]
+  },
+  {
+    "Number": 170,
+    "Text": "Kop qavatli yassi muguzlanmaydigan epiteliy uchraydi:",
+    "Answers": [
+      "ogiz boshliqida"
+    ],
+    "Options": [
+      "siydik pufagida",
+      "teri epidermisida",
+      "kekirdakda",
+      "ipsimon sorgichda"
+    ]
+  },
+  {
+    "Number": 171,
+    "Text": "Kop qavatli yassi muguzlanuvchi epiteliy uchun xos bolgan qavat:",
+    "Answers": [
+      "muguz"
+    ],
+    "Options": [
+      "oraliq",
+      "kiritma",
+      "yopqich",
+      "bazal"
+    ]
+  },
+  {
+    "Number": 172,
+    "Text": "Ozgaruvchan epiteliy uchraydigan azo:",
+    "Answers": [
+      "siydik nayi"
+    ],
+    "Options": [
+      "teri epidermisi",
+      "togri ichak",
+      "ogiz boshligi",
+      "meda"
+    ]
+  },
+  {
+    "Number": 173,
+    "Text": "Ekzokrin bezlar ozining sekretini ajratadi:",
+    "Answers": [
+      "tashqi muhit yoki boshliqqa"
+    ],
+    "Options": [
+      "hujayralararo moddaga",
+      "toqima suyuqligiga",
+      "qon yoki limfaga",
+      "faqat toqima suyuqligiga"
+    ]
+  },
+  {
+    "Number": 174,
+    "Text": "Endokrin bezlar ozining sekretini ajratadi:",
+    "Answers": [
+      "qonga"
+    ],
+    "Options": [
+      "ichak boshligiga",
+      "siydikka",
+      "tashqimuxitga",
+      "bronx boshligiga"
+    ]
+  },
+  {
+    "Number": 175,
+    "Text": "Bez hujayrasi sekretsiya vaqtida oz strukturasini tola saqlab qoladi, bu sekretsiyaning qaysi turiga xos:",
+    "Answers": [
+      "merokrin"
+    ],
+    "Options": [
+      "golokrin",
+      "endokrin",
+      "apokrin",
+      "ekzokrin"
+    ]
+  },
+  {
+    "Number": 176,
+    "Text": "Bez hujayrasi sekretsiya vaqtida butunlay parchalanadi, bu sekretsiyaning qaysi turiga xos:",
+    "Answers": [
+      "golokrin"
+    ],
+    "Options": [
+      "apokrin",
+      "merokrin",
+      "endokrin",
+      "ekzokrin"
+    ]
+  },
+  {
+    "Number": 177,
+    "Text": "Bezni oxirgi sekretor bolimi seroz va shilliq hujayralar tutadi,bu bez:",
+    "Answers": [
+      "aralash"
+    ],
+    "Options": [
+      "oqsilli",
+      "shilliqli",
+      "yog bezi",
+      "ter bezi"
+    ]
+  },
+  {
+    "Number": 178,
+    "Text": "Sekretor siklning sekret sintezlanish fazasi qaysi organellada amalga oshadi:",
+    "Answers": [
+      "endoplazmatik torda"
+    ],
+    "Options": [
+      "mikronaychalarda",
+      "hujayra markazida",
+      "lizosomalarda",
+      "sentriolada"
+    ]
+  },
+  {
+    "Number": 179,
+    "Text": "Sekretor siklning etilishi va shakllanish fazasi qaysi organellada amalga oshadi:",
+    "Answers": [
+      "Golji kompleksida"
+    ],
+    "Options": [
+      "mitoxondriyada",
+      "hujayra markazida",
+      "mikronaychalarda",
+      "polisomalarda"
+    ]
+  },
+  {
+    "Number": 180,
+    "Text": "Umumiy tuzilishga ega bolib malum bir funksiyani bajarishga ixtisoslashgan hujayra va hujayra bolmagan tuzilmalarga aytiladi:",
+    "Answers": [
+      "toqima"
+    ],
+    "Options": [
+      "organ",
+      "sintitsiy",
+      "xujayra",
+      "simplast"
+    ]
+  },
+  {
+    "Number": 181,
+    "Text": "Elektron mikroskoplarda yoruglik manbai;",
+    "Answers": [
+      "electron oqimi*"
+    ],
+    "Options": [
+      "tabiiy yorug;lik",
+      "suniy yoruglik",
+      "ultrabinafsha nurlari",
+      "infraqizil nurlanish"
+    ]
+  },
+  {
+    "Number": 182,
+    "Text": "Epiteliy toqimasi oziqlanadi:",
+    "Answers": [
+      "bazal membrana orqali diffuz yol bilan"
+    ],
+    "Options": [
+      "xususiy qon tomirlar xisobiga",
+      "limfa tomirlari xisobiga",
+      "toqima suyuqligi xisobiga",
+      "meda shirasi xisobiga"
+    ]
+  },
+  {
+    "Number": 183,
+    "Text": "Endoteliy bilan qoplanadigan azo:",
+    "Answers": [
+      "yurak"
+    ],
+    "Options": [
+      "meda",
+      "ichak",
+      "buyrak",
+      "siydik qopi"
+    ]
+  },
+  {
+    "Number": 184,
+    "Text": "Mezoteliy epiteliyning qaysi genetik tipiga mansub:",
+    "Answers": [
+      "selonefrodermal"
+    ],
+    "Options": [
+      "angiodermal",
+      "ependimoglial",
+      "epidermal",
+      "mezenximal"
+    ]
+  },
+  {
+    "Number": 185,
+    "Text": "Bir qavatli kop qatorli kiprikli epiteliy tarkibidagi qadaxsimon hujayralarning funksiyasi:",
+    "Answers": [
+      "sekretor"
+    ],
+    "Options": [
+      "tayanch",
+      "kambial",
+      "sorish",
+      "eritish"
+    ]
+  },
+  {
+    "Number": 186,
+    "Text": "Melanotsitlar epidermisning qaysi qavatida joylashadi.",
+    "Answers": [
+      "bazal"
+    ],
+    "Options": [
+      "muguz",
+      "donador",
+      "yaltiroq",
+      "epidermisda joylashmaydi"
+    ]
+  },
+  {
+    "Number": 187,
+    "Text": "Bir qavatli kubsimon epiteliy qayerda uchraydi.",
+    "Answers": [
+      "bezlarning chiqaruv naylarida"
+    ],
+    "Options": [
+      "kekirdakda",
+      "qizilungachda",
+      "ingichka ichakda",
+      "bachadonda"
+    ]
+  },
+  {
+    "Number": 188,
+    "Text": "Gemoretikulotsitlar:",
+    "Answers": [
+      "yosh eritrotsitlar"
+    ],
+    "Options": [
+      "qari eritrotsitlar",
+      "olgan eritrotsitlar",
+      "yadro tutuvchi eritrotsitlar",
+      "orta yoshli eritrotsitlar"
+    ]
+  },
+  {
+    "Number": 189,
+    "Text": "Neytrofil leykotsitlar tarkibidagi birlamchi (azurofil) donachalar ozida saqlaydi:",
+    "Answers": [
+      "kislotali fosfataza"
+    ],
+    "Options": [
+      "geparin",
+      "gistamin",
+      "ishqoriy fosfataza",
+      "serotonin"
+    ]
+  },
+  {
+    "Number": 190,
+    "Text": "Neytrofil leykotsitlar tarkibidagi ikkilamchi (maxsus) donachalar ozida saqlaydi:",
+    "Answers": [
+      "ishqoriy fosfataza"
+    ],
+    "Options": [
+      "miyeloperoksidaza",
+      "kislotali fosfataza",
+      "gistamin",
+      "gidrolaza"
+    ]
+  },
+  {
+    "Number": 191,
+    "Text": "Monotsitlar toqimalarda qanday hujayralarga aylanadi:",
+    "Answers": [
+      "makrofaglarga"
+    ],
+    "Options": [
+      "lipotsitlarga",
+      "fibroblastlarga",
+      "plazmotsitlarga",
+      "peritsitlarga"
+    ]
+  },
+  {
+    "Number": 192,
+    "Text": "Odamda qon plastinkalari:",
+    "Answers": [
+      "megakariotsitlar sitoplazmasining parchalari"
+    ],
+    "Options": [
+      "yadroli hujayralar",
+      "simplastlar",
+      "sinsitiylar",
+      "megakariotsitlar yadrosining parchalari"
+    ]
+  },
+  {
+    "Number": 193,
+    "Text": "Epidermisda Merkel hujayralarida sinaps xosil qiladi:",
+    "Answers": [
+      "sezuvchi neyronning dendriti"
+    ],
+    "Options": [
+      "sezuvchi neyronning aksoni",
+      "xarakatlantirubchi neyronning dendrite",
+      "xarakatlantirubchi neyronning aksoni",
+      "asotsiativ neyronning aksoni"
+    ]
+  },
+  {
+    "Number": 194,
+    "Text": "Trombotsitopoez jarayonining morfologik jixatdan aniqlanishi mumkin bolgan eng yosh hujayrasi:",
+    "Answers": [
+      "megakarioblast"
+    ],
+    "Options": [
+      "miyeloblast",
+      "trombotsitoblast",
+      "monoblast",
+      "megakariotsit"
+    ]
+  },
+  {
+    "Number": 195,
+    "Text": "Soglom voyaga yetgan odamda neytrofil leykotsitlarning foiz mikdori:",
+    "Answers": [
+      "65-75%"
+    ],
+    "Options": [
+      "0-0. 5%",
+      "4-8%",
+      "30-35%",
+      "80-90%"
+    ]
+  },
+  {
+    "Number": 196,
+    "Text": "Neytrofil leykotsitlarning asosiy vazifasi:",
+    "Answers": [
+      "fagotsitoz"
+    ],
+    "Options": [
+      "kollagenogenez",
+      "antitelogenez",
+      "kislorod tashish",
+      "elastinogenez"
+    ]
+  },
+  {
+    "Number": 197,
+    "Text": "Soglom voyaga etgan odamda eozinofil leykotsilarning qondagi foiz miqdori:",
+    "Answers": [
+      "2-5%"
+    ],
+    "Options": [
+      "65-75%",
+      "0-0. 5%",
+      "4-8%",
+      "6-7%"
+    ]
+  },
+  {
+    "Number": 198,
+    "Text": "Eozinofil leykotsilarning allergiya jarayonidagi ishtiroki nimadan iborat:",
+    "Answers": [
+      "gistamin va anafilaksinni emirish"
+    ],
+    "Options": [
+      "mikroblarni fagotsitoz qilish",
+      "antitelo ishlash",
+      "lizotsim ishlash",
+      "gistaminniishlab chiqish"
+    ]
+  },
+  {
+    "Number": 199,
+    "Text": "Soglom voyaga yetgan odamda bazofil leykotsitlarning qondagi foiz miqdori:",
+    "Answers": [
+      "0-1%"
+    ],
+    "Options": [
+      "4-8%",
+      "2-5%",
+      "65-75%",
+      "4-5%"
+    ]
+  },
+  {
+    "Number": 200,
+    "Text": "Bazofil leykotsitlar donachalari tarkibiga xos:",
+    "Answers": [
+      "geparin va gistamin"
+    ],
+    "Options": [
+      "lizotsim va amilaza",
+      "laktoferrin",
+      "arilsulfataza va lipaza",
+      "ishqoriy fosfataza"
+    ]
+  },
+  {
+    "Number": 201,
+    "Text": "Bazofil leykotsitlarning asosiy vazifasi:",
+    "Answers": [
+      "gistamin va geparin ishlash"
+    ],
+    "Options": [
+      "fagotsitoz",
+      "antitelogenez",
+      "gistaminni emirish",
+      "serotoninni emirish"
+    ]
+  },
+  {
+    "Number": 202,
+    "Text": "Soglom voyaga yetgan odamda limfotsitlarning qondagi foiz mikdori:",
+    "Answers": [
+      "20-35%"
+    ],
+    "Options": [
+      "2-5%",
+      "0-1. 0%",
+      "65-75%",
+      "40-45%"
+    ]
+  },
+  {
+    "Number": 203,
+    "Text": "Odamda B-limfotsitlar xosil boladi:",
+    "Answers": [
+      "qizil suyak komigida"
+    ],
+    "Options": [
+      "taloqda",
+      "limfa tugunida",
+      "timusda",
+      "fabritsiyxaltasida"
+    ]
+  },
+  {
+    "Number": 204,
+    "Text": "B-limfotsitlardan hosil boladi:",
+    "Answers": [
+      "plazmotsit"
+    ],
+    "Options": [
+      "makrofag",
+      "fibroblast",
+      "peritsit",
+      "fibrotsit"
+    ]
+  },
+  {
+    "Number": 205,
+    "Text": "Soglom voyaga yetgan odamda monotsitlarning qondagi foiz miqdori:",
+    "Answers": [
+      "6-8%"
+    ],
+    "Options": [
+      "2-5%",
+      "20-35%",
+      "65-70%",
+      "10-11%"
+    ]
+  },
+  {
+    "Number": 206,
+    "Text": "Qon plastinkalari uchun xos bolmagan tuzilmalar:",
+    "Answers": [
+      "yadro"
+    ],
+    "Options": [
+      "donachalar",
+      "mitoxondriyalar",
+      "mikronaychalar",
+      "yadrocha"
+    ]
+  },
+  {
+    "Number": 207,
+    "Text": "Limfa suyuqligi tarkibida eng kop uchraydigan shaklli elementlar:",
+    "Answers": [
+      "limfotsitlar"
+    ],
+    "Options": [
+      "eritrotsitlar",
+      "monotsitlar",
+      "granulotsitlar",
+      "trombotsitlar"
+    ]
+  },
+  {
+    "Number": 208,
+    "Text": "Embrionda qon yaratilishi dastlab qaysi azoda boshlanadi:",
+    "Answers": [
+      "sariqlik xaltachasida"
+    ],
+    "Options": [
+      "jigarda",
+      "talokda",
+      "timusda",
+      "allantoisda"
+    ]
+  },
+  {
+    "Number": 209,
+    "Text": "Voyaga yetgan odamda universal qon yaratuvchi azo bu:",
+    "Answers": [
+      "suyak kumigi"
+    ],
+    "Options": [
+      "jigar",
+      "taloq",
+      "timus",
+      "limfa tuguni"
+    ]
+  },
+  {
+    "Number": 210,
+    "Text": "Voyaga yetgan organizmda ozak hujayralarning asosiy manbai:",
+    "Answers": [
+      "qizil suyak komigi"
+    ],
+    "Options": [
+      "taloq",
+      "jigar",
+      "timus",
+      "sariqlik qopi"
+    ]
+  },
+  {
+    "Number": 211,
+    "Text": "Qon yaratuvchi azolarda mikromuxitni tashkil qiluvchi toqima:",
+    "Answers": [
+      "retikulyar toqima"
+    ],
+    "Options": [
+      "yog toqimasi",
+      "suyak toqimasi",
+      "pigment toqimasi",
+      "shilliqtoqima"
+    ]
+  },
+  {
+    "Number": 212,
+    "Text": "Eritropoez jarayonining morfologik jixatdan aniqlanishi mumkin bolgan eng yosh hujayrasi:",
+    "Answers": [
+      "eritroblast"
+    ],
+    "Options": [
+      "pronormotsit",
+      "gemoretikulotsit",
+      "miyeloblast",
+      "promiyelotsit"
+    ]
+  },
+  {
+    "Number": 213,
+    "Text": "Eritropoez jarayonida hujayra sitoplazmasida sintezlanadigan asosiy modda:",
+    "Answers": [
+      "gemoglobin"
+    ],
+    "Options": [
+      "immunoglobulin",
+      "karbonsuvlar",
+      "mioglobin",
+      "albumin"
+    ]
+  },
+  {
+    "Number": 214,
+    "Text": "T- va B-limfotsitlarning boshlangich hujayralari qaysi azoda hosil boladi:",
+    "Answers": [
+      "suyak kumigida"
+    ],
+    "Options": [
+      "timusda",
+      "limfa tugunida",
+      "taloqda",
+      "murtaklarda"
+    ]
+  },
+  {
+    "Number": 215,
+    "Text": "Ichki muxit toqimasining taraqqiyot manbai:",
+    "Answers": [
+      "mezinxima"
+    ],
+    "Options": [
+      "mezoderma",
+      "splanxnotom",
+      "entoderma",
+      "ektoderma"
+    ]
+  },
+  {
+    "Number": 216,
+    "Text": "Ikki tomonlama botiq disk shaklidagi eritrotsit:",
+    "Answers": [
+      "diskotsit"
+    ],
+    "Options": [
+      "stomatsit",
+      "exinotsit",
+      "sferotsit",
+      "gumbazsimon"
+    ]
+  },
+  {
+    "Number": 217,
+    "Text": "Trombotsitlarning asosiy vazifasi:",
+    "Answers": [
+      "qon ivishida ishtirok etish"
+    ],
+    "Options": [
+      "hujayraviy immunitetni taminlash",
+      "fagotsitoz",
+      "gumoral immunitetni taminlash",
+      "trofik"
+    ]
+  },
+  {
+    "Number": 218,
+    "Text": "Eritrotsitlarning yosh shakllari:",
+    "Answers": [
+      "gemoretikulotsitlar"
+    ],
+    "Options": [
+      "sferotsitlar",
+      "stomatotsitlar",
+      "exinotsitlar",
+      "megatsitlar"
+    ]
+  },
+  {
+    "Number": 219,
+    "Text": "Leykotsitlarni biriktiruvchi toqimada xarakatlanishini belgilaydi:",
+    "Answers": [
+      "xemotaksis"
+    ],
+    "Options": [
+      "reotaksis",
+      "termotaksis",
+      "fototaksis",
+      "barotaksis"
+    ]
+  },
+  {
+    "Number": 220,
+    "Text": "Sekretor donachalarida maxsus kristalloidi bor hujayra:",
+    "Answers": [
+      "eozinofil"
+    ],
+    "Options": [
+      "neytrofil",
+      "bazofil",
+      "eritrotsit",
+      "limfotsit"
+    ]
+  },
+  {
+    "Number": 221,
+    "Text": "Bazofil leykotsitlardagi donachalarning metaxromaziyasi bogliq:",
+    "Answers": [
+      "geparinga"
+    ],
+    "Options": [
+      "gistaminga",
+      "arilsulfatazaga",
+      "argininga",
+      "serotoninga"
+    ]
+  },
+  {
+    "Number": 222,
+    "Text": "Hujayraviy immunitetning effektor hujayralari:",
+    "Answers": [
+      "T-killerlar"
+    ],
+    "Options": [
+      "T-xelperlar",
+      "T-supressorlar",
+      "T-amplifaerlar",
+      "T- amplifaErlar"
+    ]
+  },
+  {
+    "Number": 223,
+    "Text": "Leykotsitlar orasida eng kop yashaydiganlari:",
+    "Answers": [
+      "limfotsitlar"
+    ],
+    "Options": [
+      "neytrofillar",
+      "eozinofillar",
+      "monotsitlar",
+      "bazofillar"
+    ]
+  },
+  {
+    "Number": 224,
+    "Text": "Eritropoetik qatordagi yadro tutmaydigan hujayra:",
+    "Answers": [
+      "gemoretikulotsit"
+    ],
+    "Options": [
+      "eritroblast",
+      "pronormotsit",
+      "normotsit",
+      "normotsit"
+    ]
+  },
+  {
+    "Number": 225,
+    "Text": "Qonning barcha shaklli elementlari rivojlanadi:",
+    "Answers": [
+      "ozak hujayradan"
+    ],
+    "Options": [
+      "retikulotsitdan",
+      "osteoblastdan",
+      "angioblastdan",
+      "endoteliotsitlardan"
+    ]
+  },
+  {
+    "Number": 226,
+    "Text": "Yangi tugilgan chaqaloqlar timusi olib tashlanganda sodir boladi:",
+    "Answers": [
+      "limfoid azolarning atrofiyasi"
+    ],
+    "Options": [
+      "kichik limfotsitlarning kopayishi",
+      "immunitetning kuchayishi",
+      "qonda leykotsitlarning kopayishi",
+      "limfa tugunlarning kattalashishi"
+    ]
+  },
+  {
+    "Number": 227,
+    "Text": "Rus olimi I. M. Sechenov arteriolalarni nima deb atagan:",
+    "Answers": [
+      "“Qon tomirlar jomragi”"
+    ],
+    "Options": [
+      "“Ajoyib tor”",
+      "magistral qon tomirlar",
+      "markaziy qon tomirlar",
+      "tutashuvchi qon tomirlar"
+    ]
+  },
+  {
+    "Number": 228,
+    "Text": "Chiganoqning spiral gangliyida joylashgan:",
+    "Answers": [
+      "bipolyar neyronlar"
+    ],
+    "Options": [
+      "psevdounipolyar neyronlar",
+      "multipolyar neyronlar",
+      "unipolyar neyronlar",
+      "gorizontal neyronlar"
+    ]
+  },
+  {
+    "Number": 229,
+    "Text": "Ozak hujayralar qaysi hujayralarga oxshaydi:",
+    "Answers": [
+      "limfotsitlarga"
+    ],
+    "Options": [
+      "monotsitlarga",
+      "makrofag",
+      "makrofaglarga",
+      "eritrotsitlarga"
+    ]
+  },
+  {
+    "Number": 230,
+    "Text": "Yelka venasi qaysi turdagi qon tomirga mansub:",
+    "Answers": [
+      "mushak elementlari ortacha rivojlangan venalarga"
+    ],
+    "Options": [
+      "mushaksiz venalarga",
+      "mushak elementlari kuchsiz rivojlangan venalarga",
+      "mushak elementlari kuchli rivojlangan venalarga",
+      "mikrotsirkulyator qon tomirlarga"
+    ]
+  },
+  {
+    "Number": 231,
+    "Text": "Qonda qaysi shaklli elementlar stomatotsitlarga aylanishi mumkin:",
+    "Answers": [
+      "eritrotsitlar"
+    ],
+    "Options": [
+      "monotsitlar",
+      "trombotsitlar",
+      "bazofil granulotsitlar",
+      "limfotsitlar"
+    ]
+  },
+  {
+    "Number": 232,
+    "Text": "Makrofaglar hosil boladi:",
+    "Answers": [
+      "monotsitlardan"
+    ],
+    "Options": [
+      "limfoblastlardan",
+      "fibroblastlardan",
+      "retikulyar xujayralardan",
+      "labrotsitlardan"
+    ]
+  },
+  {
+    "Number": 233,
+    "Text": "Makrofaglarning asosiy vazifasi:",
+    "Answers": [
+      "fagotsitoz va immun reaksiyalarda ishtrok etish"
+    ],
+    "Options": [
+      "antitelolar ishlab chiqarish",
+      "xujayralararo modda sintezlash",
+      "tayanch va trofik",
+      "qon xosil qilish"
+    ]
+  },
+  {
+    "Number": 234,
+    "Text": "Plazmatik hujayralarni hosil qiladi:",
+    "Answers": [
+      "B-limfotsitlar"
+    ],
+    "Options": [
+      "T-limfotsitlar",
+      "monotsitlar",
+      "retikulotsitlar",
+      "limfoblastlar"
+    ]
+  },
+  {
+    "Number": 235,
+    "Text": "Plazmatik hujayralarning asosiy vazifasi:",
+    "Answers": [
+      "immunoglobulinlarni ishlab chiqarish"
+    ],
+    "Options": [
+      "geparin va gistamin ishlab chiqarish",
+      "fagotsitoz",
+      "tolalar va xujayralararo moddani sintezlash",
+      "serotonin ishlabchiqarish"
+    ]
+  },
+  {
+    "Number": 236,
+    "Text": "Yog hujayralari xosil boladi:",
+    "Answers": [
+      "adventitsial hujayralardan"
+    ],
+    "Options": [
+      "plazmatik hujayralardan",
+      "limfoblastlardan",
+      "monotsitlardan",
+      "peritsitlardan"
+    ]
+  },
+  {
+    "Number": 237,
+    "Text": "Pigment hujayralarining taraqqiyot manbai:",
+    "Answers": [
+      "nerv qirrasi"
+    ],
+    "Options": [
+      "mezenxima",
+      "epiteliy",
+      "ozak xujayra",
+      "nervplastinkasi"
+    ]
+  },
+  {
+    "Number": 238,
+    "Text": "Melanin sintezlovchi hujayra:",
+    "Answers": [
+      "melanotsitlar"
+    ],
+    "Options": [
+      "melanoforlar",
+      "melanotropotsitlar",
+      "adipotsitlar",
+      "retikulyarxujayralar"
+    ]
+  },
+  {
+    "Number": 239,
+    "Text": "Biriktiruvchi toqimaning pishiqligini taminlaydi:",
+    "Answers": [
+      "kollagen tolalar"
+    ],
+    "Options": [
+      "elastik tolalar",
+      "retikulyar tolalar",
+      "xondrin tolalari",
+      "argirofil tolalar"
+    ]
+  },
+  {
+    "Number": 240,
+    "Text": "Qongir   yog toqimasi koproq uchraydi:",
+    "Answers": [
+      "yangi tugilgan chaqaloqlarda"
+    ],
+    "Options": [
+      "qariyalarda",
+      "homiladorlikda",
+      "ayollarda laktatsiya davrida",
+      "patologik xollarda"
+    ]
+  },
+  {
+    "Number": 241,
+    "Text": "Siyrak tolali biriktiruvchi toqimaning elastikligi va choziluvchanligini taminlaydi:",
+    "Answers": [
+      "elastik tolalar"
+    ],
+    "Options": [
+      "kollagen tolalar",
+      "retikulyar tolalar",
+      "argirofil tolalar",
+      "xondrintolalar"
+    ]
+  },
+  {
+    "Number": 242,
+    "Text": "Toqima bazofillaridan biologik aktiv moddalarning tashqariga chiqarilish jarayoni:",
+    "Answers": [
+      "degranulyatsiya"
+    ],
+    "Options": [
+      "ekskretsiya",
+      "sekretsiya",
+      "granulyatsiya",
+      "apoptoz"
+    ]
+  },
+  {
+    "Number": 243,
+    "Text": "Suyak toqimasining rivojlanishi qanday ataladi:",
+    "Answers": [
+      "osteogistogenez"
+    ],
+    "Options": [
+      "osteomalyatsiya",
+      "osteoporoz",
+      "osteofibroz",
+      "rezorbtsiya"
+    ]
+  },
+  {
+    "Number": 244,
+    "Text": "Yalliglanish soxasida kop uchraydigan hujayra:",
+    "Answers": [
+      "leykotsit"
+    ],
+    "Options": [
+      "monotsit",
+      "bazofil",
+      "eozinofil",
+      "trombotsit"
+    ]
+  },
+  {
+    "Number": 245,
+    "Text": "Chin tovush boglamlarini hosil qiladi:",
+    "Answers": [
+      "elastik tolalar"
+    ],
+    "Options": [
+      "kollagen tolalar",
+      "retikulyar tolalar",
+      "xondrin tolalar",
+      "osseintolalar"
+    ]
+  },
+  {
+    "Number": 246,
+    "Text": "Mushak toqimasida mioglobinning vazifasi :",
+    "Answers": [
+      "kislorodni boglash"
+    ],
+    "Options": [
+      "mexanik-tayanch",
+      "miocytlarni ozaro boglash",
+      "trofik",
+      "qisqarish"
+    ]
+  },
+  {
+    "Number": 247,
+    "Text": "Togay  toqimasining taraqqiyot manbai:",
+    "Answers": [
+      "mezenxima"
+    ],
+    "Options": [
+      "ektoderma",
+      "plakodalar",
+      "miotom",
+      "dermatom"
+    ]
+  },
+  {
+    "Number": 248,
+    "Text": "Timusning magiz moddasi:",
+    "Answers": [
+      "retsirkulatsiy?  qiluvchi T-limfotsilar tutadi"
+    ],
+    "Options": [
+      "gematotimus tosigini tutadi",
+      "T-limfotsitlar zich joylashgan",
+      "preparatlarda toq boyalgan",
+      "T-limfotsitlar tutmaydi"
+    ]
+  },
+  {
+    "Number": 249,
+    "Text": "Togay  toqimasi  quyidagilardan tuzilgan:",
+    "Answers": [
+      "xondrotsit, xondroblast va hujayralararo modda"
+    ],
+    "Options": [
+      "xondrotsitlar, retikulyar tolalar va qon tomirlari",
+      "xondrotsitlar va xondroblastlar",
+      "xondrotsitlar, xondroblastlar vaqon tomirlar",
+      "xondrotsit, osteoblast va hujayralararo modda"
+    ]
+  },
+  {
+    "Number": 250,
+    "Text": "Gialin togay  toqimasi uchraydi:",
+    "Answers": [
+      "xavo otkazuvchi yollar"
+    ],
+    "Options": [
+      "quloq suprasi",
+      "umurtqalararo disk",
+      "paylarda",
+      "aponevrozlarda"
+    ]
+  },
+  {
+    "Number": 251,
+    "Text": "Elastik togaydan tuzilgan:",
+    "Answers": [
+      "quloq suprasi togayi"
+    ],
+    "Options": [
+      "bogim yuzasi togayi",
+      "traxeyaning fibroz-togayqavati",
+      "umurtqalararo disklar",
+      "bronxlardevori"
+    ]
+  },
+  {
+    "Number": 252,
+    "Text": "Tolali togay  toqimasi uchraydi:",
+    "Answers": [
+      "umurtqalararo diskda"
+    ],
+    "Options": [
+      "quloq suprasida",
+      "bogim yuzasi togayida",
+      "havo otkazuvchi yollarda",
+      "traxeyada"
+    ]
+  },
+  {
+    "Number": 253,
+    "Text": "Umurtqalararo disklar tashkil topgan:",
+    "Answers": [
+      "tolali togaydan"
+    ],
+    "Options": [
+      "gialin togaydan",
+      "elastik togaydan",
+      "retikulyar toqimadan",
+      "pulpozyadrolardan"
+    ]
+  },
+  {
+    "Number": 254,
+    "Text": "Traxeya devorida joylashgan togay turi:",
+    "Answers": [
+      "gialin"
+    ],
+    "Options": [
+      "elastik",
+      "tolali",
+      "retikulofiboz",
+      "fibroz"
+    ]
+  },
+  {
+    "Number": 255,
+    "Text": "Miosimplast bu:",
+    "Answers": [
+      "kop yadroli mushak tolasi"
+    ],
+    "Options": [
+      "1-2 yadroli mushak xujayrasi",
+      "miofibrillaning struktur birligi",
+      "kambial xujayra",
+      "mushakning qisqaruvchi apparati"
+    ]
+  },
+  {
+    "Number": 256,
+    "Text": "Suyak toqimasining quyidagi turi farqlanadi:",
+    "Answers": [
+      "retikulofibroz"
+    ],
+    "Options": [
+      "tolali",
+      "fibroz",
+      "gialin",
+      "elastik"
+    ]
+  },
+  {
+    "Number": 257,
+    "Text": "Togay modeli ornida suyak hosil bolishi naysimon suyakning quyidagi qismidan boshlanadi:",
+    "Answers": [
+      "diafiz"
+    ],
+    "Options": [
+      "epifiz",
+      "metafiz",
+      "metaepifizar plastinka",
+      "epifizar plastinka"
+    ]
+  },
+  {
+    "Number": 258,
+    "Text": "Quyidagi  hujayralarning qaysi biri qondagi monotsitlardan xosil boladi:",
+    "Answers": [
+      "osteoklast"
+    ],
+    "Options": [
+      "osteoblast",
+      "osteotsitlar",
+      "xondroblast",
+      "xondrotsit"
+    ]
+  },
+  {
+    "Number": 259,
+    "Text": "Suyak usti pardasida  piramidasimon shaklli, ishqoriy fosfataza fermentining faolligi yuqori bolgan hujayra bu:",
+    "Answers": [
+      "osteoblast"
+    ],
+    "Options": [
+      "osteotsit",
+      "osteoklast",
+      "xondroblast",
+      "fibroblast"
+    ]
+  },
+  {
+    "Number": 260,
+    "Text": "Burmador-xoshiyali yuzaga ega, kop yadroli suyak toqimasiga tegishli hujayraning nomini korsating:",
+    "Answers": [
+      "osteoklast"
+    ],
+    "Options": [
+      "osteoblast",
+      "osteotsit",
+      "xondroblast",
+      "xondrotsit"
+    ]
+  },
+  {
+    "Number": 261,
+    "Text": "Suyak toqimasining parchalanishini amalga oshiradigan hujayra:",
+    "Answers": [
+      "osteoklast"
+    ],
+    "Options": [
+      "osteotsit",
+      "osteoblast",
+      "xondroblast",
+      "xondrotsit"
+    ]
+  },
+  {
+    "Number": 262,
+    "Text": "Suyak toqimasining hujayralararo moddasini sintezlaydi:",
+    "Answers": [
+      "osteoblastlar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "xondroblastlar",
+      "osteotsitlar",
+      "xondrotsitlar"
+    ]
+  },
+  {
+    "Number": 263,
+    "Text": "Suyak toqimasining hujayralararo moddasi tuzilgan:",
+    "Answers": [
+      "kollagen tolalar va amorf moddadan"
+    ],
+    "Options": [
+      "elastik tolalar va amorf moddadan",
+      "kollagen va retikulyar tolalardan",
+      "osteoblastlar va retikulyar tolalardan",
+      "retikulyar tolalar va amorf moda"
+    ]
+  },
+  {
+    "Number": 264,
+    "Text": "Osteonlar orasida joylashadi:",
+    "Answers": [
+      "oraliq plastinkalar"
+    ],
+    "Options": [
+      "bazal membrana",
+      "tashqiumumiy plastinkalar",
+      "Ichki umumiy plastinkalar",
+      "endost"
+    ]
+  },
+  {
+    "Number": 265,
+    "Text": "Oraliq plastinka, bu:",
+    "Answers": [
+      "parchalangan osteonlarning qoldiqlari"
+    ],
+    "Options": [
+      "tashqiumumiy plastinkalarning davomi",
+      "ichki umumiy plastinkalarning bir qismi",
+      "osteotsitlarni birlashtiruvchi tuzilma",
+      "oraliqumumiyplastinkalarning davomi"
+    ]
+  },
+  {
+    "Number": 266,
+    "Text": "Osteon, bu:",
+    "Answers": [
+      "struktur-funksional birlik"
+    ],
+    "Options": [
+      "hujayra",
+      "tola",
+      "hujayralararo modda",
+      "suyaklar tutami"
+    ]
+  },
+  {
+    "Number": 267,
+    "Text": "Kondalang-targil skelet mushak tolasining qisqaruvchi apparatini hosil qiladi:",
+    "Answers": [
+      "miofibrilla"
+    ],
+    "Options": [
+      "sarkoplazma",
+      "yadro",
+      "sarkolemma",
+      "sitolemma"
+    ]
+  },
+  {
+    "Number": 268,
+    "Text": "Kondalang-targil skelet mushak tolasining trofik apparatini hosil  qiladi:",
+    "Answers": [
+      "yadro  va  organellalar"
+    ],
+    "Options": [
+      "yadro va miofibrilla",
+      "miofibrillava mitoxondriya",
+      "sarkolemma",
+      "sarkoplazma"
+    ]
+  },
+  {
+    "Number": 269,
+    "Text": "Mushak toqimasi  preparatida  duksimon  shaklli, markazida choziq tayogchasimon yadro tutgan  hujayralar korinmoqda, bu:",
+    "Answers": [
+      "silliq  mushak toqimasi"
+    ],
+    "Options": [
+      "kondalang-targil yurak mushagi",
+      "kondalang-targil skelet mushagi",
+      "mioepitelial hujayralar",
+      "mushak duklari"
+    ]
+  },
+  {
+    "Number": 270,
+    "Text": "Miofibrillar tuzilgan:",
+    "Answers": [
+      "aktin va miozin  protofibrillalaridan"
+    ],
+    "Options": [
+      "aktin protofibrillalari va nozik kollagen tolalardan",
+      "oraliq plastinkalar va miozindan",
+      "aktin vanebulin oqsillaridan",
+      "aktin protofibrillalari va nozik elastik tolalardan"
+    ]
+  },
+  {
+    "Number": 271,
+    "Text": "Ingichka protofibrillalar  tutadigan  oqsil:",
+    "Answers": [
+      "aktin"
+    ],
+    "Options": [
+      "miozin",
+      "nebulin",
+      "protonin",
+      "arginine"
+    ]
+  },
+  {
+    "Number": 272,
+    "Text": "A-disk ozida tutadi:",
+    "Answers": [
+      "miozin va qisman aktin"
+    ],
+    "Options": [
+      "miozin iplari va T-naychalar",
+      "aktin va oraliq plastinkalar",
+      "faqatgina aktin iplari",
+      "aktin va qismanmiozin ipchalari"
+    ]
+  },
+  {
+    "Number": 273,
+    "Text": "I-disk ozida    tutadi:",
+    "Answers": [
+      "faqat aktin iplari"
+    ],
+    "Options": [
+      "faqat miozin iplari",
+      "aktin va miozin iplari",
+      "oraliq plastinkalar",
+      "tubulin oqsili"
+    ]
+  },
+  {
+    "Number": 274,
+    "Text": "Kondalang- targil skelet mushak tolasi tuzilgan:",
+    "Answers": [
+      "miosimplast  va miosatellitotsitlardan"
+    ],
+    "Options": [
+      "faqat miosimplastdan",
+      "faqat miosatellitotsitlardan",
+      "miosiplast va sarkolemmadan",
+      "miosintitsiy va miosatellitotsitlardan."
+    ]
+  },
+  {
+    "Number": 275,
+    "Text": "Miosatellit  hujayralarining  vazifasi:",
+    "Answers": [
+      "kambial"
+    ],
+    "Options": [
+      "qisqarish",
+      "impuls otkazish",
+      "ximoya",
+      "fagotsitoz"
+    ]
+  },
+  {
+    "Number": 276,
+    "Text": "Kondalang-targil skelet mushagidan iborat:",
+    "Answers": [
+      "til"
+    ],
+    "Options": [
+      "miokard",
+      "medaning mushak pardasi",
+      "bachadon miometriysi",
+      "qovuq mushagi"
+    ]
+  },
+  {
+    "Number": 277,
+    "Text": "Kondalang-targil skelet mushagining energetik apparatini hosil qiladi:",
+    "Answers": [
+      "sarkosoma"
+    ],
+    "Options": [
+      "sarkolemma",
+      "sarkoplazma",
+      "sarkomer",
+      "sarkoplazmatikretikulum"
+    ]
+  },
+  {
+    "Number": 278,
+    "Text": "Mezenximadan rivojlanadigan mushaklar:",
+    "Answers": [
+      "silliq mushaklar"
+    ],
+    "Options": [
+      "mioepiteliotsitlar",
+      "kondalang-targil mushaklar",
+      "yurak mushaklari",
+      "sintitsiy"
+    ]
+  },
+  {
+    "Number": 279,
+    "Text": "Simplast tuzilishiga ega:",
+    "Answers": [
+      "skelet mushagi"
+    ],
+    "Options": [
+      "yurak mushagi",
+      "silliq mushak",
+      "mioepitelial hujayralar",
+      "mushak duklari"
+    ]
+  },
+  {
+    "Number": 280,
+    "Text": "Miofibrillaning morfofunksional birligi:",
+    "Answers": [
+      "sarkomer"
+    ],
+    "Options": [
+      "mion",
+      "miosimplast",
+      "miofibrilla",
+      "osteon"
+    ]
+  },
+  {
+    "Number": 281,
+    "Text": "Skelet mushak toqimasining regeneratsiyasini taminlaydi:",
+    "Answers": [
+      "miosatellitotsit"
+    ],
+    "Options": [
+      "miosimplast",
+      "mioblast",
+      "miofibrilla",
+      "sintitsiy"
+    ]
+  },
+  {
+    "Number": 282,
+    "Text": "Mushak tolalari guruxlari nima bilan oralgan",
+    "Answers": [
+      "perimiziy"
+    ],
+    "Options": [
+      "endomiziy",
+      "epimiziy",
+      "sarkolemma",
+      "perinevriy"
+    ]
+  },
+  {
+    "Number": 283,
+    "Text": "Nerv  toqimasining taraqqiyot manbai:",
+    "Answers": [
+      "ektoderma"
+    ],
+    "Options": [
+      "entoderma",
+      "mezoderma",
+      "mezenxima",
+      "splanxnatom"
+    ]
+  },
+  {
+    "Number": 284,
+    "Text": "Mikrogliyaning taraqqiyot manbai:",
+    "Answers": [
+      "monotsitlar"
+    ],
+    "Options": [
+      "megakariotsit",
+      "neyroblast",
+      "spongioblast",
+      "eritroblast"
+    ]
+  },
+  {
+    "Number": 285,
+    "Text": "Etuk organizmda uchramaydigan neyronlar:",
+    "Answers": [
+      "unipolyar"
+    ],
+    "Options": [
+      "bipolyar",
+      "multipolyar",
+      "psevdounipolyar",
+      "unipolyarvabipolyar"
+    ]
+  },
+  {
+    "Number": 286,
+    "Text": "Neyron  sitoplazmasining maxsus tuzilmalari:",
+    "Answers": [
+      "neyrofibrilla"
+    ],
+    "Options": [
+      "tonofibrilla",
+      "miofibrillalar",
+      "mikrofibrilla",
+      "mikronaychalar"
+    ]
+  },
+  {
+    "Number": 287,
+    "Text": "Ranvye bogiqlari uchraydi:",
+    "Answers": [
+      "miyelinli nerv tolasida"
+    ],
+    "Options": [
+      "miyelinsiz nerv tolasida",
+      "neyronlararo sinapslarda",
+      "erkin nerv oxirlarida",
+      "erkinbolmagannerv oxirlarida"
+    ]
+  },
+  {
+    "Number": 288,
+    "Text": "Miyelinli nerv tolalari uchun xos:",
+    "Answers": [
+      "impulsning sakrab-sakrab saltator otkazilishi"
+    ],
+    "Options": [
+      "impulsning bir tekisda otkazilishi",
+      "impulsning sekin otkazilishi",
+      "impuls otkazmaslik",
+      "impulsning notekisda otkazilishi"
+    ]
+  },
+  {
+    "Number": 289,
+    "Text": "Nerv oxirlarining quyidagi turi farq  qilinadi:",
+    "Answers": [
+      "retseptor"
+    ],
+    "Options": [
+      "vegetativ",
+      "oraliq",
+      "assotsiativ",
+      "komissural"
+    ]
+  },
+  {
+    "Number": 290,
+    "Text": "Nerv   toqimasining tarkibiy qismi:",
+    "Answers": [
+      "neyron va neyrogliya"
+    ],
+    "Options": [
+      "neyronlar va sinapslar",
+      "neyrogliya va nerv oxirlari",
+      "neyrogliya va neyroblastlar",
+      "neyronlar va nerv oxirlari"
+    ]
+  },
+  {
+    "Number": 291,
+    "Text": "Medulloblastlardan xosil boluvchi hujayralar:",
+    "Answers": [
+      "neyroblast va spongioblast"
+    ],
+    "Options": [
+      "neyrotsitlar va mikrogliotsitlar",
+      "mikrogliotsitlar va melanotsitlar",
+      "xromafin xujayralar",
+      "melanoforlar"
+    ]
+  },
+  {
+    "Number": 292,
+    "Text": "Neyronning maxsus tuzilmalarini korsating:",
+    "Answers": [
+      "bazofil modda",
+      "neyrofibrillalar"
+    ],
+    "Options": [
+      "miofibrillalar",
+      "Golji majmuasi"
+    ]
+  },
+  {
+    "Number": 293,
+    "Text": "Erkin bolmagan nerv oxirlari tuzilgan:",
+    "Answers": [
+      "oq silindr tarmoqlaridan",
+      "lemmotsitlardan"
+    ],
+    "Options": [
+      "biriktiruvchi toqimali kapsulaga oralgan oq silindrdan",
+      "astrotsitlardan"
+    ]
+  },
+  {
+    "Number": 294,
+    "Text": "Mielinli nerv tolalari uchun xos:",
+    "Answers": [
+      "qozgalishni saltatorotkazish",
+      "impulsni otkazish tezligi yuqori"
+    ],
+    "Options": [
+      "qozgalishnibir tekis otkazish",
+      "qozgalishnisekin otkazish"
+    ]
+  },
+  {
+    "Number": 295,
+    "Text": "Periferik nerv tarkibida boladi:",
+    "Answers": [
+      "mielinli va mielinsiz nerv tolalari",
+      "biriktiruvchi toqimali tutamlar"
+    ],
+    "Options": [
+      "faqat mielinli nerv tolalari",
+      "neyron va nerv tolalari"
+    ]
+  },
+  {
+    "Number": 296,
+    "Text": "Keltirilgan tomirlarning qaysilari elastik tipidagi arteriyaga kiradi:",
+    "Answers": [
+      "aorta",
+      "opka arteriyasi"
+    ],
+    "Options": [
+      "uyqu arteriyasi",
+      "yurak arteriyalari"
+    ]
+  },
+  {
+    "Number": 297,
+    "Text": "Mushak elementlari kuchli rivojlangan venalarni korsating:",
+    "Answers": [
+      "pastki kavak",
+      "son"
+    ],
+    "Options": [
+      "yuqorigi kavak",
+      "elka"
+    ]
+  },
+  {
+    "Number": 298,
+    "Text": "Son venasining endoteliy osti qavati tashkil topgan:",
+    "Answers": [
+      "siyrak tolali biriktiruvchi toqimadan",
+      "silliq mushak hujayralarining boylama qavatidan"
+    ],
+    "Options": [
+      "zich tolali biriktiruvchi toqimadan",
+      "silliq mushak hujayralarining sirkulyar qavatidan"
+    ]
+  },
+  {
+    "Number": 299,
+    "Text": "Gemolimfatik tugunlarning limfa tugunlaridan farqi:",
+    "Answers": [
+      "limfatik follikulalari kam",
+      "mag`iz sinuslari keng"
+    ],
+    "Options": [
+      "postloq moddasining hajmi katta",
+      "limfatik follikulalar kop, trabekulalari qalin"
+    ]
+  },
+  {
+    "Number": 300,
+    "Text": "Yosh otgan sari limfa tugunlarda:",
+    "Answers": [
+      "germinativ markazlar yoqoladi",
+      "kapsula qalinlashadi"
+    ],
+    "Options": [
+      "trabekulalar soni kamayadi",
+      "kapsula yupqalashadi"
+    ]
+  },
+  {
+    "Number": 301,
+    "Text": "Timusdan kelgan T-limfotsitlar joylashadi:",
+    "Answers": [
+      "limfatik tugunlarning parakortikal zonasida",
+      "taloqning oq pulpasida"
+    ],
+    "Options": [
+      "limfatik tugunlarning kopayish markazida",
+      "limfatik tugunlarning magiz tasmalarida"
+    ]
+  },
+  {
+    "Number": 302,
+    "Text": "Timusdagi T-limfotsitlarning mikrooramini hosil qiladi:",
+    "Answers": [
+      "retikulo epithelial hujayralar",
+      "makrofaglar"
+    ],
+    "Options": [
+      "retikulotsitlar",
+      "neytrofillar"
+    ]
+  },
+  {
+    "Number": 303,
+    "Text": "Limfatik tugunlarning parakortikal zonasida kop boladi:",
+    "Answers": [
+      "interdigitirlovchi hujayralar",
+      "T- limfotsitlar"
+    ],
+    "Options": [
+      "B-limfoblastlar",
+      "granulotsitlar"
+    ]
+  },
+  {
+    "Number": 304,
+    "Text": "Gipofizning bazofil hujayralariga kiradi:",
+    "Answers": [
+      "tireotrop",
+      "gonadotrop"
+    ],
+    "Options": [
+      "kortikotrop",
+      "somatotrop"
+    ]
+  },
+  {
+    "Number": 305,
+    "Text": "Osteoklastlarning oziga xos belgilari:",
+    "Answers": [
+      "kop yadroli",
+      "lizosomalar soni kop"
+    ],
+    "Options": [
+      "organellalar sust rivojlangan",
+      "tsitoplazmasidagi maxsus donachalari"
+    ]
+  },
+  {
+    "Number": 306,
+    "Text": "Miofibrillalar nimadan tuzilgan:",
+    "Answers": [
+      "aktin filamentlaridan",
+      "miozin filamentlaridan"
+    ],
+    "Options": [
+      "tubulindan",
+      "mioglobindan"
+    ]
+  },
+  {
+    "Number": 307,
+    "Text": "Kondalang-targil mushak tolasi tashkil topgan:",
+    "Answers": [
+      "miosimplastlardan",
+      "miosatellitotsitlardan"
+    ],
+    "Options": [
+      "faqat miosimplastlardan",
+      "mushak hujayralaridan"
+    ]
+  },
+  {
+    "Number": 308,
+    "Text": "Miosimplast triadasida boladi:",
+    "Answers": [
+      "sarkoplazmatik torning oxirgi sisternalari",
+      "T- naycha"
+    ],
+    "Options": [
+      "sarkosomalar va T-naychalar",
+      "donadorendoplazmatik tor tsisternalari"
+    ]
+  },
+  {
+    "Number": 309,
+    "Text": "Sarkolemma tuzilgan:",
+    "Answers": [
+      "bazal membranadan",
+      "simplast plazmolemmasidan"
+    ],
+    "Options": [
+      "faqat bazal membranadan",
+      "T-naycha va bazal membranadan"
+    ]
+  },
+  {
+    "Number": 310,
+    "Text": "Nerv tolalarining mielinli qavatida boladi:",
+    "Answers": [
+      "lipidlar",
+      "oqsillar"
+    ],
+    "Options": [
+      "neyron osiqchalari",
+      "neyrofibrillalar"
+    ]
+  },
+  {
+    "Number": 311,
+    "Text": "Qisqarish jarayonida sarkomerda sodir boladi:",
+    "Answers": [
+      "I-disklar qisqaradi",
+      "H-zona qisqaradi"
+    ],
+    "Options": [
+      "I-disk va H-zonalar kengayadi",
+      "A-disk torayadi"
+    ]
+  },
+  {
+    "Number": 312,
+    "Text": "Qon kapillyarlari devorida boladi:",
+    "Answers": [
+      "peritsitlar",
+      "endoteliotsitlar"
+    ],
+    "Options": [
+      "miotsitlar va peritsitlar",
+      "endoteliotsitlar va miotsitlar"
+    ]
+  },
+  {
+    "Number": 313,
+    "Text": "Qizil suyak komigidagi mikromuhit hujayralari:",
+    "Answers": [
+      "makrofaglar",
+      "retikulotsitlar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "adipotsitlar"
+    ]
+  },
+  {
+    "Number": 314,
+    "Text": "Timus aksidental involyutsiyasida:",
+    "Answers": [
+      "postloq va magiz moddasining chegarasi aniq emas",
+      "limfotsitlar parchalanadi"
+    ],
+    "Options": [
+      "postloq va magiz moddasining chegarasi aniq",
+      "limfotsitlar proliferatsiyasi kuzatiladi"
+    ]
+  },
+  {
+    "Number": 315,
+    "Text": "Timusning postloq moddasidagi asosiy hujayralari:",
+    "Answers": [
+      "T-limfotsitlar vaT-limfoblastlar",
+      "epitelioretikulotsitlar"
+    ],
+    "Options": [
+      "T-limfoblastlar va retikulyar hujayralar",
+      "epitelioretikulyar va plazmatik hujayralar"
+    ]
+  },
+  {
+    "Number": 316,
+    "Text": "Taloqdagi limfoid follikulalarining kopayish markazida joylashgan:",
+    "Answers": [
+      "retikulyar hujayralari, B-limfoblastlar",
+      "makrofaglar, dendritik hujayralar"
+    ],
+    "Options": [
+      "limfotsitlar va plazmotsitlar",
+      "T-limfotsitlar, interdigitirlovchi hujayralar"
+    ]
+  },
+  {
+    "Number": 317,
+    "Text": "Sekretsiya turiga kora ter bezlari boladi:",
+    "Answers": [
+      "merokrin",
+      "apokrin"
+    ],
+    "Options": [
+      "merokrin va golokrin",
+      "faqat apokrin"
+    ]
+  },
+  {
+    "Number": 318,
+    "Text": "Qizilongachning tashqi pardasi:",
+    "Answers": [
+      "kokrak qismida adventitsial",
+      "qorin qismida –seroz"
+    ],
+    "Options": [
+      "faqat adventitsial",
+      "kokrak qismida seroz, qorin qismida adventitsial"
+    ]
+  },
+  {
+    "Number": 319,
+    "Text": "Immun jarayonda ishtirok etuvchi biriktiruvchi toqima hujayralari:",
+    "Answers": [
+      "makrofaglar",
+      "plazmotsitlar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "adipotsitlar"
+    ]
+  },
+  {
+    "Number": 320,
+    "Text": "Zich tolali biriktiruvchi toqimaning asosiy hujayralari:",
+    "Answers": [
+      "fibrotsitlar",
+      "fibroblastlar"
+    ],
+    "Options": [
+      "retikulotsitlar",
+      "plazmotsitlar"
+    ]
+  },
+  {
+    "Number": 321,
+    "Text": "Qaysi ichki azolarda kondalang-targil mushak toqimasi boladi?",
+    "Answers": [
+      "yurakda",
+      "qizilongachda"
+    ],
+    "Options": [
+      "siydik qopida",
+      "bachadonda"
+    ]
+  },
+  {
+    "Number": 322,
+    "Text": "Astrotsitlarning vazifasi:",
+    "Answers": [
+      "tayanch",
+      "neyronlarni izolyatsiya qilish"
+    ],
+    "Options": [
+      "sekretor",
+      "mielinli nerv tolalarining pardasini qosil qilish"
+    ]
+  },
+  {
+    "Number": 323,
+    "Text": "Aortaning orta qavatida boladi:",
+    "Answers": [
+      "silliq miotsitlar",
+      "elastik tolalar"
+    ],
+    "Options": [
+      "kondalang-targil mushak tolalari",
+      "ichki elastik membrana"
+    ]
+  },
+  {
+    "Number": 324,
+    "Text": "Darchali elastic membranalar boladi:",
+    "Answers": [
+      "elastik tipidagi arteriyalarda",
+      "aralash tipidagi arteriyalarda"
+    ],
+    "Options": [
+      "mushak tipidagi arteriyalarda",
+      "mushak elementlari kuchli rivojlangan venalarda"
+    ]
+  },
+  {
+    "Number": 325,
+    "Text": "Qaysi venalarda klapanlar boladi:",
+    "Answers": [
+      "son",
+      "elka"
+    ],
+    "Options": [
+      "darvoza",
+      "yuqori kavak"
+    ]
+  },
+  {
+    "Number": 326,
+    "Text": "Limfatik tugunlarning postloq moddasida qanday limfatik sinuslar joylashgan:",
+    "Answers": [
+      "kapsula osti",
+      "oraliq"
+    ],
+    "Options": [
+      "trabekulalararo",
+      "markaziy"
+    ]
+  },
+  {
+    "Number": 327,
+    "Text": "Taloqning oq pulpasi tarkibiga kiradi:",
+    "Answers": [
+      "limfatik follikulalar",
+      "markaziy arteriya"
+    ],
+    "Options": [
+      "pulpar tasmalar",
+      "trabekulalar"
+    ]
+  },
+  {
+    "Number": 328,
+    "Text": "Limfotsitlarning antigenga bogliq bolmagan differentsirovkasi qayerda amalga oshiriladi:",
+    "Answers": [
+      "timusda",
+      "qizil suyak komigida"
+    ],
+    "Options": [
+      "taloqda",
+      "limfatik tugunlarda"
+    ]
+  },
+  {
+    "Number": 329,
+    "Text": "Merokrin tipida sekretsiyalanadigan bezlar:",
+    "Answers": [
+      "solak",
+      "meda osti"
+    ],
+    "Options": [
+      "sut",
+      "yoq"
+    ]
+  },
+  {
+    "Number": 330,
+    "Text": "Mikrovorsinka -bu:",
+    "Answers": [
+      "plazmolemma bilan chegaralangan sitoplazm osimtalari",
+      "ingichka ichak epiteliotsitlari tarkibiy qismi"
+    ],
+    "Options": [
+      "xivchinlar tarkibiy qismi",
+      "kiprikchalar tarkibiy qismi"
+    ]
+  },
+  {
+    "Number": 331,
+    "Text": "Lizosomalarning funktsiyalari:",
+    "Answers": [
+      "hujayra ichi hazmlanish jarayonida qatnashish",
+      "fagotsitozda qatnashish"
+    ],
+    "Options": [
+      "sitoskeletni qosil qilish",
+      "lipidlar sintezida qatnashish"
+    ]
+  },
+  {
+    "Number": 332,
+    "Text": "Yadro quyidagi vazifalarni bajaradi:",
+    "Answers": [
+      "irsiy axborotni saqlash va uzatish",
+      "oqsil sintezini boshqarish"
+    ],
+    "Options": [
+      "lizosomalarni xosil qilish",
+      "ribosomalar sintezi"
+    ]
+  },
+  {
+    "Number": 333,
+    "Text": "Yadro qobigi tarkibiga kiradi:",
+    "Answers": [
+      "perinuklear boshliq bilan ajralgan ikki membrana",
+      "yadro teshigi"
+    ],
+    "Options": [
+      "yadrocha",
+      "mikronaychalar"
+    ]
+  },
+  {
+    "Number": 334,
+    "Text": "Akrosoma quyidagi fermentlarni tutadi:",
+    "Answers": [
+      "tripsin",
+      "gialuronidaza"
+    ],
+    "Options": [
+      "maltaza",
+      "amilaza"
+    ]
+  },
+  {
+    "Number": 335,
+    "Text": "Donasiz leykotsitlarga kiradi:",
+    "Answers": [
+      "limfotsit",
+      "monotsit"
+    ],
+    "Options": [
+      "neytrofil",
+      "eozinofil"
+    ]
+  },
+  {
+    "Number": 336,
+    "Text": "Asl biriktiruvchi toqima turiga kiradi:",
+    "Answers": [
+      "zich tolali biriktiruvchi toqima",
+      "siyrak tolali biriktiruvchi toqima"
+    ],
+    "Options": [
+      "yog toqimasi",
+      "retikulyar toqima"
+    ]
+  },
+  {
+    "Number": 337,
+    "Text": "Togayning oziqlanishini taminlaydi:",
+    "Answers": [
+      "perixondr qon tomirlari",
+      "sinovial suyuqlik"
+    ],
+    "Options": [
+      "togay toqimasi qon tomirlari",
+      "gidrofil hujayralararo modda"
+    ]
+  },
+  {
+    "Number": 338,
+    "Text": "Neyrofibrillalarning funktsiyalari:",
+    "Answers": [
+      "sitoskeletni hosil qilish",
+      "aksonal transport"
+    ],
+    "Options": [
+      "oqsil sintezi",
+      "mediatorlar sintezi"
+    ]
+  },
+  {
+    "Number": 339,
+    "Text": "Ozida tigroid modda tutmaydi:",
+    "Answers": [
+      "akson",
+      "akson tepaligi"
+    ],
+    "Options": [
+      "perikarion",
+      "dendritlar"
+    ]
+  },
+  {
+    "Number": 340,
+    "Text": "Quyidagi javoblardan membranali organellarni belgilang:",
+    "Answers": [
+      "mitoxondriya",
+      "endoplazmatik tor"
+    ],
+    "Options": [
+      "sentriola",
+      "ribosomalar"
+    ]
+  },
+  {
+    "Number": 341,
+    "Text": "Membranali organellalarga qaysi organellar kiradi:",
+    "Answers": [
+      "lizosomalar",
+      "peroksisomalar"
+    ],
+    "Options": [
+      "mikrofilamentlar",
+      "mikronaychalar"
+    ]
+  },
+  {
+    "Number": 342,
+    "Text": "Membranali organellalarni korsating:",
+    "Answers": [
+      "mitoxondriya",
+      "kompleks Golji"
+    ],
+    "Options": [
+      "liposomalar",
+      "ribosomalar"
+    ]
+  },
+  {
+    "Number": 343,
+    "Text": "Mitoxondriyalarning tuzilishi:",
+    "Answers": [
+      "ichki membranasi kristalar hosil qiladi",
+      "xususiy genetik apparati bor"
+    ],
+    "Options": [
+      "ribosomalari sitoplazma ribosomalariga oxshash",
+      "tashqi membranasi kristalar hosil qiladi"
+    ]
+  },
+  {
+    "Number": 344,
+    "Text": "Mitoxondriyalarga xos xususiyatlarni korsating:",
+    "Answers": [
+      "bolinib yangilanadi",
+      "kristalarda kislotali fosforllanish sodir boladi"
+    ],
+    "Options": [
+      "tashqi membrana kristalar hosil qiladi",
+      "matriksida nukleoid bor"
+    ]
+  },
+  {
+    "Number": 345,
+    "Text": "Lizosomalar– bu:",
+    "Answers": [
+      "membrana bilan oralgan",
+      "gidrolitik fermentlar tutuvchi organella"
+    ],
+    "Options": [
+      "kristalloidlarga ega",
+      "bolinish yoli orqali qayta yangilanadi"
+    ]
+  },
+  {
+    "Number": 346,
+    "Text": "Hujayralararo birikmalar turlarini korsating:",
+    "Answers": [
+      "oddiy birikmalar",
+      "desmosoma"
+    ],
+    "Options": [
+      "murakkab birikmalar",
+      "diktiosoma"
+    ]
+  },
+  {
+    "Number": 347,
+    "Text": "Qanday birikmalar hujayralararo birikmalar turlariga kiradi:",
+    "Answers": [
+      "zich birikmalar",
+      "tirqishsimon birikmalar"
+    ],
+    "Options": [
+      "zich tanachalar",
+      "mikrofilamentlar"
+    ]
+  },
+  {
+    "Number": 348,
+    "Text": "Quyidagilardan hujayralararo birikmalar turlarini belgilang:",
+    "Answers": [
+      "oddiy birikmalar",
+      "sinapslar"
+    ],
+    "Options": [
+      "Z - chiziq",
+      "zich tanachalar"
+    ]
+  },
+  {
+    "Number": 349,
+    "Text": "Bir qavatli jiyakli epiteliy uchraydi:",
+    "Answers": [
+      "ot pufagida",
+      "buyrak proksimal naychasida"
+    ],
+    "Options": [
+      "traxeyada",
+      "buyrakning distal naylarida"
+    ]
+  },
+  {
+    "Number": 350,
+    "Text": "Bir qavatli jiyakli epiteliy qaysi azolarni qoplaydi:",
+    "Answers": [
+      "ingichka ichakda",
+      "yirik ot yollarida"
+    ],
+    "Options": [
+      "uruq olib chiquvchi naychalarda",
+      "qinda"
+    ]
+  },
+  {
+    "Number": 351,
+    "Text": "Qaysi azolarning shilliq qavatida bir qavatli jiyakli epiteliy uchraydi:",
+    "Answers": [
+      "meda osti bezining yirik chiqaruv naylari",
+      "ot pufagida"
+    ],
+    "Options": [
+      "buyrakning distal naylarida",
+      "buyrakning yiguv naylarida"
+    ]
+  },
+  {
+    "Number": 352,
+    "Text": "Qaysi azolarning shilliq qavati kop qavatli epiteliy bilan qoplagan:",
+    "Answers": [
+      "ogiz boshliqini",
+      "qizilongachni"
+    ],
+    "Options": [
+      "ot qopini",
+      "medani"
+    ]
+  },
+  {
+    "Number": 353,
+    "Text": "Kop qavatli epiteliy quyidagi azolardan qaysilarini qoplagan:",
+    "Answers": [
+      "qovuqni",
+      "siydik nayi"
+    ],
+    "Options": [
+      "bachadonni",
+      "bronxlarni"
+    ]
+  },
+  {
+    "Number": 354,
+    "Text": "Murakkab bezlar qaysilar kiradi:",
+    "Answers": [
+      "yirik solak bezlari",
+      "sut bezlari"
+    ],
+    "Options": [
+      "fundal bezlari",
+      "bachadon bezlari"
+    ]
+  },
+  {
+    "Number": 355,
+    "Text": "Murakkab bezlarni korsating:",
+    "Answers": [
+      "meda osti bezi",
+      "duodenal"
+    ],
+    "Options": [
+      "yog bezlari",
+      "ter bezlari"
+    ]
+  },
+  {
+    "Number": 356,
+    "Text": "Quyidagilardan qaysi bezlar murakkab bezlarga kiradi:",
+    "Answers": [
+      "qizilqngachning xususiy bezlari",
+      "duodenal"
+    ],
+    "Options": [
+      "meda bezlari",
+      "til solak bezlari"
+    ]
+  },
+  {
+    "Number": 357,
+    "Text": "Ekzokrin bezlar tuzilishiga kora bolinadi:",
+    "Answers": [
+      "oddiy",
+      "murakkab"
+    ],
+    "Options": [
+      "merokrin",
+      "golokrin"
+    ]
+  },
+  {
+    "Number": 358,
+    "Text": "Ekzokrin bezlar naylari tuzilishiga kora bolinadi:",
+    "Answers": [
+      "tarmoqlangan",
+      "tarmoqlanmagan"
+    ],
+    "Options": [
+      "mikroapokrin",
+      "makroapokrin"
+    ]
+  },
+  {
+    "Number": 359,
+    "Text": "Ekzokrin bezlar oxirlari tuzilishiga kora bolinadi:",
+    "Answers": [
+      "alveolyar",
+      "naysimon"
+    ],
+    "Options": [
+      "oqsilli",
+      "shilliq"
+    ]
+  },
+  {
+    "Number": 360,
+    "Text": "Bazofillarning donachalarida boladi:",
+    "Answers": [
+      "gistamin",
+      "geparini"
+    ],
+    "Options": [
+      "glikogen",
+      "glyukogon"
+    ]
+  },
+  {
+    "Number": 361,
+    "Text": "Bazofillarning tuzilishini korsating",
+    "Answers": [
+      "yadro kuchsiz segmentlangan",
+      "yirik bazofil donachalargaega"
+    ],
+    "Options": [
+      "yadro taqasimon",
+      "kop lizosoma tutadi"
+    ]
+  },
+  {
+    "Number": 362,
+    "Text": "Bazofillar – bu:",
+    "Answers": [
+      "leykotsitlar umumiy sonining 0,5-1 % ni tashkil etadi",
+      "gistamin va geparin tutadi"
+    ],
+    "Options": [
+      "leykotsitlarning 5% ini tashkil etadi",
+      "koplab glikogen donachalarini tutadi"
+    ]
+  },
+  {
+    "Number": 363,
+    "Text": "Granulotsitopoezda hujayralarda qanday ozgarishlar yuzaga keladi:",
+    "Answers": [
+      "rivojlanish davrida yadro shakli ozgaradi",
+      "metamielotsit davrida bolinish xususiyatini yoqotadi"
+    ],
+    "Options": [
+      "mielotsit davrida bolinish xususiyatini yoqotadi",
+      "rivojlanish davomida qujayralar qajmi yiriklashadi"
+    ]
+  },
+  {
+    "Number": 364,
+    "Text": "Granulotsitopoezda hujayralarda nimalar hosil boladi:",
+    "Answers": [
+      "mielotsit davrida ikkilamchi granulalar paydo boladi",
+      "promielotsit davrida birlamchi granulalar paydo boladi"
+    ],
+    "Options": [
+      "mieloblast davrida birlamchi granulalar paydo boladi",
+      "ikkilamchi granulalar promielotsit davrida paydo boladi"
+    ]
+  },
+  {
+    "Number": 365,
+    "Text": "Granulotsitopoezda boladigan jarayonlar:",
+    "Answers": [
+      "metamielotsit qonga chiqa oladi",
+      "rivojlanish davrida yadro shakliozgaradi"
+    ],
+    "Options": [
+      "metamielotsit qonga chiqa olmaydi",
+      "rivojlanish jarayonida yadro kattalashadi"
+    ]
+  },
+  {
+    "Number": 366,
+    "Text": "Siyrak tolali biriktiruvchi tuqima hujayralariga nimalar kiradi:",
+    "Answers": [
+      "semiz",
+      "fibroblast"
+    ],
+    "Options": [
+      "osteoblast",
+      "osteoklast"
+    ]
+  },
+  {
+    "Number": 367,
+    "Text": "Siyrak tolali biriktiruvchi toqima hujayralarini belgilang:",
+    "Answers": [
+      "plazmotsit",
+      "adipotsit"
+    ],
+    "Options": [
+      "osteotsit",
+      "mieloblastlar"
+    ]
+  },
+  {
+    "Number": 368,
+    "Text": "Zich biriktiruvchi toqimaning siyrak biriktiruvchi toqimadan hujayraviy tuzilishiga kora asosiy farqlari:",
+    "Answers": [
+      "asosiy moddasi kam",
+      "asosiy hujayralari fibroblast va fibrotsitlar"
+    ],
+    "Options": [
+      "keng tarqalgan xujayrasi- makrofag",
+      "hujayra turlari kop"
+    ]
+  },
+  {
+    "Number": 369,
+    "Text": "Elastik togayining gialin togayidan farqi quyidagilar:",
+    "Answers": [
+      "tiniq emas",
+      "ohaklanmaydi"
+    ],
+    "Options": [
+      "asosiy moddasi gomogen tiniq",
+      "togay usti pardasi yoq"
+    ]
+  },
+  {
+    "Number": 370,
+    "Text": "Tolali togayga xos xususiyatlar:",
+    "Answers": [
+      "gialin togay bilan chegaradosh",
+      "toqay usti pardasi yoq"
+    ],
+    "Options": [
+      "oqaklanadi",
+      "togay usti pardasi bor"
+    ]
+  },
+  {
+    "Number": 371,
+    "Text": "Qaysi xususiyatlar tolali togay uchun xos:",
+    "Answers": [
+      "kollagen tolalar parallel tutamlar hosil qiladi",
+      "umurtqalararo diskda joylashgan"
+    ],
+    "Options": [
+      "kekirdakda uchraydi",
+      "hujayralararo modda kam"
+    ]
+  },
+  {
+    "Number": 372,
+    "Text": "Osteoklastlarga xos xususiyatlarni belgilang:",
+    "Answers": [
+      "bir nechta yadro tutadi",
+      "katta olchamga ega"
+    ],
+    "Options": [
+      "ikki yadroli",
+      "duksimon shaklli"
+    ]
+  },
+  {
+    "Number": 373,
+    "Text": "Osteoklastlarga xos tarifni korsating:",
+    "Answers": [
+      "burmali hoshiyasi boladi",
+      "hujayra ichi tuzilmalari zonalar qosil qilib joylashgan"
+    ],
+    "Options": [
+      "sitoplazmaning butun yuzasi boyicha osimtalari bor",
+      "lipid kiritmalari kop"
+    ]
+  },
+  {
+    "Number": 374,
+    "Text": "Qaysi organellalar osteoklastlarda kop:",
+    "Answers": [
+      "mitoxondriyalar",
+      "lizosomalar"
+    ],
+    "Options": [
+      "ribosomalar",
+      "silliq endoplazmatik tor"
+    ]
+  },
+  {
+    "Number": 375,
+    "Text": "Osteotsitlarga xos tarif:",
+    "Answers": [
+      "suyak boshliqlarida joylashgan",
+      "bolinmaydilar"
+    ],
+    "Options": [
+      "bolinishi mumkin",
+      "suyak usti pardasining ichki qavatida joylashgan"
+    ]
+  },
+  {
+    "Number": 376,
+    "Text": "Osteotsitlarga xos tarif:",
+    "Answers": [
+      "osimtali shaklga ega",
+      "toqima suyuqligi hisobiga oziqlanadi"
+    ],
+    "Options": [
+      "suyak plastinkalarida quruq bolib joylashadi",
+      "yumaloq shaklda, osimtalari bolmaydi"
+    ]
+  },
+  {
+    "Number": 377,
+    "Text": "Osteotsitlarga xos tarif:",
+    "Answers": [
+      "organellalari kam rivojlangan",
+      "hujayra markazi bolmaydi"
+    ],
+    "Options": [
+      "mitoxondriyalar, donador EPT kop",
+      "hujayra markazi yaxshi rivojlangan"
+    ]
+  },
+  {
+    "Number": 378,
+    "Text": "Kondalang-targil mushak toqimasining tuzilishi:",
+    "Answers": [
+      "mushak tolalarid11:30 04.05.2023an iborat",
+      "har bir mushak tolasi endomiziy bilan oralgan"
+    ],
+    "Options": [
+      "hujayra tuzilishiga ega",
+      "har bir mushak tolasi perimiziy bilan oralgan"
+    ]
+  },
+  {
+    "Number": 379,
+    "Text": "Kondalang-targil mushak toqimasi:",
+    "Answers": [
+      "miotomlardan hosil boladi",
+      "mushak tolalaridan iborat"
+    ],
+    "Options": [
+      "yadrolari mushak tolalarining markazida joylashgan",
+      "miofibrillalari uch olchamli tor hosil qiladi"
+    ]
+  },
+  {
+    "Number": 380,
+    "Text": "Erkin nerv oxirlarini korsating:",
+    "Answers": [
+      "epiteliyda uchraydi",
+      "dendridning oxirgi tarmogi"
+    ],
+    "Options": [
+      "aksonni songgi tarmogi",
+      "kapsula bilan oralgan"
+    ]
+  },
+  {
+    "Number": 381,
+    "Text": "Erkin nerv oxirlariga xos xususiyatlar:",
+    "Answers": [
+      "epiteliyda uchraydi",
+      "sezuvchi epiteliotsitlar bilan aloqada boladi"
+    ],
+    "Options": [
+      "plastinkasimon tanachalar tarkibiga kiradi",
+      "aksonni songgi tarmogi"
+    ]
+  },
+  {
+    "Number": 382,
+    "Text": "Miyacha postlogidagi hujayra turlari korsating:",
+    "Answers": [
+      "duksimon",
+      "Purkine hujayralari"
+    ],
+    "Options": [
+      "Bets hujayralari",
+      "qadahsimon"
+    ]
+  },
+  {
+    "Number": 383,
+    "Text": "Adenogipofizning xromofil hujayralariga kiradi :",
+    "Answers": [
+      "somatotropotsit",
+      "mammotropotsit"
+    ],
+    "Options": [
+      "paratireotsit",
+      "gonadotropotsitlar"
+    ]
+  },
+  {
+    "Number": 384,
+    "Text": "Qalqonsimon oldi bezining bosh hujayralari xususiyatini korsating:",
+    "Answers": [
+      "sitoplazmasi bazofil boyaladi",
+      "mitoxondiriyalari kam"
+    ],
+    "Options": [
+      "sitoplazmasi oksofil boyaladi",
+      "mitoxondiriyalari kop"
+    ]
+  },
+  {
+    "Number": 385,
+    "Text": "Qalqonsimon bez oldi bezining bosh hujayralari xususiyati:",
+    "Answers": [
+      "sekretor granulalar tutadi",
+      "oksifil hujayralarida koplab mitoxondriyalar boladi"
+    ],
+    "Options": [
+      "sekretor donachalari yoq",
+      "yosh ulgaygan sari soni kopayadi"
+    ]
+  },
+  {
+    "Number": 386,
+    "Text": "Gipofizga boysinadigan bezlarni korsating:",
+    "Answers": [
+      "qalqonsimon bez",
+      "buyrak usti bezining postloq moddasi"
+    ],
+    "Options": [
+      "buyrak usti bezining magiz moddasi",
+      "qalqonsimon oldi bezi"
+    ]
+  },
+  {
+    "Number": 387,
+    "Text": "Qaysi bezlar faoliyati gipofizga bogliq:",
+    "Answers": [
+      "tuxumdon",
+      "urugdon"
+    ],
+    "Options": [
+      "solak",
+      "ayrisimon"
+    ]
+  },
+  {
+    "Number": 388,
+    "Text": "Gipofizga faoliyatiga bogliq bezlar:",
+    "Answers": [
+      "sut bezi",
+      "qalqonsimon bez"
+    ],
+    "Options": [
+      "qalqonsimon oldi bezi",
+      "ter bezi"
+    ]
+  },
+  {
+    "Number": 389,
+    "Text": "Qalqonsimon bezning parafollikulyar hujayralari joylashgan:",
+    "Answers": [
+      "follikula devorida",
+      "follikulalar orasida"
+    ],
+    "Options": [
+      "tirotsitlar va bazal membrana orasida",
+      "qon tomirlar devorida"
+    ]
+  },
+  {
+    "Number": 390,
+    "Text": "Qalqonsimon bezning parafollikulyar hujayralariga xos xususiyatlar:",
+    "Answers": [
+      "follikulala orasida joylashgan",
+      "kaltsitonin sintezlaydi"
+    ],
+    "Options": [
+      "qon tomirlar devorida joylashgan",
+      "sekretini follikula boshligiga ishlaydi"
+    ]
+  },
+  {
+    "Number": 391,
+    "Text": "Qalqonsimon bezning parafollikulyar hujayralari:",
+    "Answers": [
+      "osmiofil donachalar tutadi",
+      "kaltsitonin sintezlaydi"
+    ],
+    "Options": [
+      "endoplazmatik tor va Golji kompleksi sust rivojlangan",
+      "follikulyar hujayralar bilan birga yodni yutadilar"
+    ]
+  },
+  {
+    "Number": 392,
+    "Text": "Buyrak usti bezi tutamli zonasining xususiyatlari:",
+    "Answers": [
+      "glyukokortikosteroid gormonlar ishlaydi",
+      "endokrinotsitlar radial tasmalar hosil qiladi"
+    ],
+    "Options": [
+      "endokrinotsitlar tor xosil qiladi",
+      "adrenalin ishlaydi"
+    ]
+  },
+  {
+    "Number": 393,
+    "Text": "Buyrak usti bezining tutamli zonasi:",
+    "Answers": [
+      "endokrinotsitlar mitoxondriyalarida kristalari naysimon",
+      "endokrinotsitlar radial tasmalar hosil qiladi"
+    ],
+    "Options": [
+      "gipofizga bogliq emas",
+      "endokrinotsitlar tor hosil qiladi"
+    ]
+  },
+  {
+    "Number": 394,
+    "Text": "Gipofizning xromofob hujayralariga mos javoblarni belgilang:",
+    "Answers": [
+      "eng kop miqdorda",
+      "adenogipofiz regeneratsiyasida ishtirok etadi"
+    ],
+    "Options": [
+      "barcha adenotsitlarning 20% ni tashkil etadi",
+      "intensiv boyaladi"
+    ]
+  },
+  {
+    "Number": 395,
+    "Text": "Gipofizning xromofob hujayralariga xos xususiyatlar:",
+    "Answers": [
+      "sekretor granulalari yoq",
+      "turli darajasida takomillashgan adenotsitlardan iborat"
+    ],
+    "Options": [
+      "neyrogipofizda joylashgan",
+      "regeneratsiyaga uchramaydi"
+    ]
+  },
+  {
+    "Number": 396,
+    "Text": "Pastki kovak vena devoridagi qavatlarining rivojlanish darajasi:",
+    "Answers": [
+      "tashqi qavatda mushaklar yaxshi taraqqiy etgan",
+      "ichki qavatida silliq mushak hujayralarining boylama tutamlari mavjud"
+    ],
+    "Options": [
+      "tashqi qavatda silliq miotsitlar sirkulyar joylashgan",
+      "ichki qavatda silliq mushak hujayralari yoq"
+    ]
+  },
+  {
+    "Number": 397,
+    "Text": "Epikardga oid javoblarni belgilang:",
+    "Answers": [
+      "mezoteliy bilan qoplangan",
+      "koplab qon tomirlar tutadi"
+    ],
+    "Options": [
+      "endoteliy bilan qoplangan",
+      "perikard bilan zich birikkan"
+    ]
+  },
+  {
+    "Number": 398,
+    "Text": "Epikard:",
+    "Answers": [
+      "tashqi kollagen tolali qavati bor",
+      "elatik tolali qavati mavjud"
+    ],
+    "Options": [
+      "kop miqdorda retikulyar tolalar tutadi",
+      "bir qavat prizmatik epiteliy bilan qoplangan"
+    ]
+  },
+  {
+    "Number": 399,
+    "Text": "Kardiomiotsitlar orasidagi oraliq disklarda qanday hujayralararo birikishlar boladi :",
+    "Answers": [
+      "tirqishli tutashish",
+      "desmosomalar"
+    ],
+    "Options": [
+      "qulufli birikmalar",
+      "oddiy birikmalar"
+    ]
+  },
+  {
+    "Number": 400,
+    "Text": "Kardiomiotsitlar orasidagi oraliq disklar:",
+    "Answers": [
+      "zinapoya korinishiga ega",
+      "kardiomiotsitlarni funktsional birlashtiradi"
+    ],
+    "Options": [
+      "alohida kardiomiotsitlarning funktsional izolyatsiyasini taminlaydi",
+      "sinapslardan tuzilgan"
+    ]
+  },
+  {
+    "Number": 401,
+    "Text": "Kardiomiotsitlar orasidagi oraliq disklarda mavjud:",
+    "Answers": [
+      "interdigitatsiyalar",
+      "tirqishli tutashish"
+    ],
+    "Options": [
+      "zich birikmalar",
+      "oddiy birikmalar"
+    ]
+  },
+  {
+    "Number": 402,
+    "Text": "Yurakning atrio-ventrikulyar tuguniga oid bolgan javoblar:",
+    "Answers": [
+      "atipik kardiomiotsitlardan tuzilgan",
+      "tugunning markazida oraliq hujayralar yotadi"
+    ],
+    "Options": [
+      "tipik kardiomiotsitlardan tuzilgan",
+      "asosan Peysmeker hujayralardan tuzilgan"
+    ]
+  },
+  {
+    "Number": 403,
+    "Text": "Yurakning atrio-ventrikulyar tugun hujayralari:",
+    "Answers": [
+      "Peysmeker hujayralarga nisbatan miofibrillalar yaxshi rivojlangan",
+      "T-naychalar tutadi"
+    ],
+    "Options": [
+      "zich birikmalar orqali birikadi",
+      "miofibrillalar tutmaydi"
+    ]
+  },
+  {
+    "Number": 404,
+    "Text": "Limfotsitlarning antigenga bogliq kopayishi va differentsiallanishi qaysi azolarda roy beradi:",
+    "Answers": [
+      "limfatik tugunda",
+      "murtaklarda"
+    ],
+    "Options": [
+      "jigarda",
+      "qizil suyak komigida"
+    ]
+  },
+  {
+    "Number": 405,
+    "Text": "Qaysi organlarda limfotsitlarning antigenga bogliq kopayishi va differentsiallanishi roy beradi:",
+    "Answers": [
+      "Peyer pilakchalarida",
+      "taloqda"
+    ],
+    "Options": [
+      "buyrak usti bezida",
+      "timusda"
+    ]
+  },
+  {
+    "Number": 406,
+    "Text": "Limfotsitlarning antigenga bogliq kopayishi va differentsiallanishi roy beradi:",
+    "Answers": [
+      "tanglay murtagida",
+      "ichakning limfatik tugunlarida"
+    ],
+    "Options": [
+      "sariq ilikda",
+      "buyrak usti bezida"
+    ]
+  },
+  {
+    "Number": 407,
+    "Text": "Timusdagi Gassal tanachalarining tuzilishi:",
+    "Answers": [
+      "epitelioretikulyar hujayralardan tuzilgan",
+      "epetelioretikulotsitlar yirik vakuolalar tutadi"
+    ],
+    "Options": [
+      "retikulyar hujayralarning kontsentrik toplanishi",
+      "B-limfotsitlar va timotsitlardan tashkil topgan"
+    ]
+  },
+  {
+    "Number": 408,
+    "Text": "Timusdagi Gassal tanachalariga xos belgilarni korsating:",
+    "Answers": [
+      "epitelioretikulotsitlar yirik vakuolalar tutadi",
+      "keratin granulalar tutadi"
+    ],
+    "Options": [
+      "timusning postloq moddasida joylashgan",
+      "tarkibida fibroblast va kollagen tolalari boladi"
+    ]
+  },
+  {
+    "Number": 409,
+    "Text": "Timusdagi Gassal tanachalari:",
+    "Answers": [
+      "magiz moddada uchraydi",
+      "ularning miqdori yosh otgan sari oshadi"
+    ],
+    "Options": [
+      "postloq moddada uchraydi",
+      "endoteliotsitlardan iborat"
+    ]
+  },
+  {
+    "Number": 410,
+    "Text": "Limfatik tugunida qanday sinuslar farqlanadi:",
+    "Answers": [
+      "magiz sinusi",
+      "oraliq sinuslar"
+    ],
+    "Options": [
+      "venoz sinus",
+      "parakortikal sinus"
+    ]
+  },
+  {
+    "Number": 411,
+    "Text": "Limfatik tugunda farqlanadi:",
+    "Answers": [
+      "oraliq sinus",
+      "magiz sinusi"
+    ],
+    "Options": [
+      "limfatik tuguncha ichidagi sinus",
+      "parakortikal sinus"
+    ]
+  },
+  {
+    "Number": 412,
+    "Text": "Limfatik tugunda farqlanadi:",
+    "Answers": [
+      "olib keluvchi limfa tomirlari",
+      "olib ketuvchi limfa tomirlari"
+    ],
+    "Options": [
+      "limfatik qinlar",
+      "gilzasimon arteriolalar"
+    ]
+  },
+  {
+    "Number": 413,
+    "Text": "Taloqning oq pulpasida qanday tuzilmalar farqlanadi:",
+    "Answers": [
+      "limfoid tugunchalar",
+      "periarterial zona"
+    ],
+    "Options": [
+      "venoz sinuslar",
+      "taloq tasmalari"
+    ]
+  },
+  {
+    "Number": 414,
+    "Text": "Taloqning oq pulpasida farqlanadi:",
+    "Answers": [
+      "T- limfotsitlar",
+      "B- limfotsitlar"
+    ],
+    "Options": [
+      "epitelioretikulotsitlar",
+      "trabekulyar tomirlar"
+    ]
+  },
+  {
+    "Number": 415,
+    "Text": "Taloqning oq pulpasida uchraydi:",
+    "Answers": [
+      "makrofaglar",
+      "limfatik tugunchalar"
+    ],
+    "Options": [
+      "silliq mushak hujayralari",
+      "venoz sinuslar"
+    ]
+  },
+  {
+    "Number": 416,
+    "Text": "Taloqning qizil pulpasida bor:",
+    "Answers": [
+      "retikulyar toqima",
+      "pulpar tasmalar"
+    ],
+    "Options": [
+      "limfoid follikulalar",
+      "yopqich zona"
+    ]
+  },
+  {
+    "Number": 417,
+    "Text": "Taloqning qizil pulpasida nimalar bor:",
+    "Answers": [
+      "venoz sinuslar",
+      "qon hujayralari"
+    ],
+    "Options": [
+      "kopayuvchi markaz",
+      "marginal zona"
+    ]
+  },
+  {
+    "Number": 418,
+    "Text": "Taloqning qizil pulpasidagi tuzilmalar:",
+    "Answers": [
+      "pulpar tasmalar",
+      "venoz sinuslar"
+    ],
+    "Options": [
+      "kop limfatik follikulalar",
+      "markaziy sinus"
+    ]
+  },
+  {
+    "Number": 419,
+    "Text": "Golji kompleksida boladi:",
+    "Answers": [
+      "sisternalar",
+      "vakuolalar",
+      "vezikulalar"
+    ],
+    "Options": [
+      "kristalar",
+      "ribosomalar",
+      "kiritmalar"
+    ]
+  },
+  {
+    "Number": 420,
+    "Text": "Mikronaychali hujayra tuzilmalari:",
+    "Answers": [
+      "bolinish duki",
+      "sentriolalar",
+      "kiprikchalar"
+    ],
+    "Options": [
+      "mitoxondriyalar",
+      "endoplazmatik tor",
+      "lizosomalar"
+    ]
+  },
+  {
+    "Number": 421,
+    "Text": "Donador endoplazmatik tor:",
+    "Answers": [
+      "oqsil sintezlaydi",
+      "yadroning tashqi qavat bilanbog`langan",
+      "membranali sisternalardan tuzilgan"
+    ],
+    "Options": [
+      "steroid gormonlarni sintezlaydi",
+      "uglevodlar to`playdi",
+      "lizosomalar hosil qiladi"
+    ]
+  },
+  {
+    "Number": 422,
+    "Text": "Plazmolemma funksiyalari:",
+    "Answers": [
+      "chegaralovchi",
+      "retseptor",
+      "transport"
+    ],
+    "Options": [
+      "sekretor granulalar hosil qilish",
+      "ATF sintezlash",
+      "oqsil sintezlash"
+    ]
+  },
+  {
+    "Number": 423,
+    "Text": "Silliq endoplazmatik tor:",
+    "Answers": [
+      "sisterna va vezikulalardan iborat",
+      "ribosomalari yoq",
+      "glikogen sintezida ishtirok etadi"
+    ],
+    "Options": [
+      "proteolitik fermentlar tutadi",
+      "donador EPT hosil qilish manbai",
+      "yadro bilan bog`langan"
+    ]
+  },
+  {
+    "Number": 424,
+    "Text": "Ribosomalar:",
+    "Answers": [
+      "membranasiz organellalar qatoriga kiradi",
+      "erkin va endoplazmatik tor  bilan birlashgan boladi",
+      "oqsil va RNK dan ibirat"
+    ],
+    "Options": [
+      "erkin ribosomalar oqsilni «eksport» uchun sintezlaydi",
+      "membranali organellalar qatoriga kiradi",
+      "subbirliklari sitoplazmada hosil boladi"
+    ]
+  },
+  {
+    "Number": 425,
+    "Text": "Yadro qobig`i:",
+    "Answers": [
+      "membranasi ikki qavatli",
+      "yadro teshikchalarini hosil qiladi",
+      "donador EPT bilan birlashgan"
+    ],
+    "Options": [
+      "bir qavat membranadan iborat",
+      "silliq EPT bilan bog`langan",
+      "uch qavat membranadan iborat"
+    ]
+  },
+  {
+    "Number": 426,
+    "Text": "Bir qavatli kubsimon epiteliy qoplaydi:",
+    "Answers": [
+      "buyrakning yig`uvchinaylarini",
+      "solak bezlarining kiritma naylarini",
+      "bolakchalar aro ot yollarini"
+    ],
+    "Options": [
+      "ot qopini",
+      "quloq oldi bezi chiziqli nayini",
+      "medani"
+    ]
+  },
+  {
+    "Number": 427,
+    "Text": "Kop qavatli muguzlanmaydigan epiteliy qavatlari:",
+    "Answers": [
+      "bazal qavat",
+      "donador qavat",
+      "tikanakli hujayralar"
+    ],
+    "Options": [
+      "kubsimon hujayralar",
+      "endokrin hujayralar",
+      "noksimon hujayralar"
+    ]
+  },
+  {
+    "Number": 428,
+    "Text": "Kiprikli epiteliy uchraydi:",
+    "Answers": [
+      "bronxlarda",
+      "bachadonda",
+      "urug olib chiquvchi kanalchalarda"
+    ],
+    "Options": [
+      "urugdon egri bugri naychalarda",
+      "buyrak nayida",
+      "og`iz boshlig`ida"
+    ]
+  },
+  {
+    "Number": 429,
+    "Text": "Ozgaruvchan epiteliy qoplagan:",
+    "Answers": [
+      "siydik nayini",
+      "buyrak kosachalarini",
+      "buyrak jomchalarini"
+    ],
+    "Options": [
+      "ichakni",
+      "bachadonni",
+      "urug olib chiquvchi naychalarni"
+    ]
+  },
+  {
+    "Number": 430,
+    "Text": "Mioepitelial hujayralar:",
+    "Answers": [
+      "qisqaruvchi filamentlar saqlaydi",
+      "bez oxirlaridan sekret chiqishini taminlaydi",
+      "sut bezining oxirgi bolimlarida boladi"
+    ],
+    "Options": [
+      "meda bezlarida uchraydi",
+      "duksimon shaklga ega",
+      "splanxnotom mezenximasidan rivojlanadi"
+    ]
+  },
+  {
+    "Number": 431,
+    "Text": "Neytrofil granulotsitlar:",
+    "Answers": [
+      "ishqoriy fosfataza – maxsus granulalarining marker fermenti",
+      "yadro 3 – 4 segmentan iborat",
+      "azurofil granulalar tutadi"
+    ],
+    "Options": [
+      "eng kam sonly leykotsitlar",
+      "gistamin sintezlaydi",
+      "gistamindekarboksilaza – nishon fermenti"
+    ]
+  },
+  {
+    "Number": 432,
+    "Text": "Eozinofillarga xos:",
+    "Answers": [
+      "yadro kopincha 2 segmentli",
+      "spetsifik donachalarda – gistaminaza bor",
+      "leykotsitlarning 2 -5 % tashkil etadi"
+    ],
+    "Options": [
+      "spetsifik donachalarda – gistamin",
+      "hujayraviy immunitetni taminlaydi",
+      "bazofil donachalari bor"
+    ]
+  },
+  {
+    "Number": 433,
+    "Text": "Bazofillar ozida tutadi:",
+    "Answers": [
+      "gistamin",
+      "geparin",
+      "gistidindekarboksilaza"
+    ],
+    "Options": [
+      "kristalloid",
+      "gistaminaza",
+      "katalaza"
+    ]
+  },
+  {
+    "Number": 434,
+    "Text": "Monotsitlarni xususiyatlari:",
+    "Answers": [
+      "lizosomalari kop",
+      "qondan biriktiruvchi to`qimaga otadi",
+      "fagotsitoz qiladi"
+    ],
+    "Options": [
+      "gistaminaza bor",
+      "yadrosi segmentlangan",
+      "lipid kiritmalar kop"
+    ]
+  },
+  {
+    "Number": 435,
+    "Text": "Granulotsitlarga xos:",
+    "Answers": [
+      "yadro segmentlangan",
+      "azurofil donachali",
+      "organellalari kam"
+    ],
+    "Options": [
+      "yumaloq yadro tutadi",
+      "peroksisomalar ko`p",
+      "organellalarga boy"
+    ]
+  },
+  {
+    "Number": 436,
+    "Text": "Trombotsitopoez bosqichlari:",
+    "Answers": [
+      "megakariotsit",
+      "megakarioblast",
+      "promegakariotsit"
+    ],
+    "Options": [
+      "miyeloblast",
+      "promiyelotsit",
+      "eritroblast"
+    ]
+  },
+  {
+    "Number": 437,
+    "Text": "Eritrotsitlar tarifida togri:",
+    "Answers": [
+      "sitoplazmasida – gemoglobin granulalari bor",
+      "asosiy funksiyasi – kislorod transporti",
+      "diametri 7,1 – 7,9mkm"
+    ],
+    "Options": [
+      "asosan sharsimon shaklga ega",
+      "fagotsitoz – asosiy funksiyasi",
+      "Golji kompleksi yaxshi taraqqiy etgan"
+    ]
+  },
+  {
+    "Number": 438,
+    "Text": "Trombotsitopoezda:",
+    "Answers": [
+      "hujayralar rivojlanishi davomida yiriklashadi",
+      "ganulalar soni ortadi",
+      "yadro kattalashadi, hamda segmentlarga ajraladi"
+    ],
+    "Options": [
+      "rivojlanishi davomida yadro hajmi kichrayadi",
+      "qon plastinkalari betartib ajraladi",
+      "qon plastinkalarida megakariotsit yadrosining qoldiklari uchraydi"
+    ]
+  },
+  {
+    "Number": 439,
+    "Text": "Zich biriktiruvchi toqima uchraydi:",
+    "Answers": [
+      "payda",
+      "miyaning qattiq pardasida",
+      "boglamlarda"
+    ],
+    "Options": [
+      "terining sorg`ichli qavatida",
+      "miyaning yumshoq pardasida",
+      "taloq stromasida"
+    ]
+  },
+  {
+    "Number": 440,
+    "Text": "Semiz hujayralarga xos:",
+    "Answers": [
+      "allergik reaksiyalarda ishtirok etadi",
+      "kop miqdorda donachalarga ega",
+      "granulalarida geparin, gistamin bor"
+    ],
+    "Options": [
+      "yot jismlarni fagotsitoz qiladi",
+      "osimtali tuzilishga ega",
+      "yadrosi kuchli segmentlangan"
+    ]
+  },
+  {
+    "Number": 441,
+    "Text": "Immun reaksiyalarda ishtirok etuvchi hujayralar:",
+    "Answers": [
+      "makrofag",
+      "T-limfotsit",
+      "B-limfotsit"
+    ],
+    "Options": [
+      "adipotsit",
+      "fibroblast",
+      "fibrotsit"
+    ]
+  },
+  {
+    "Number": 442,
+    "Text": "Gialin tog`ayi uchraydi:",
+    "Answers": [
+      "hiqildoqda",
+      "kekirdakda",
+      "bog`imlarda"
+    ],
+    "Options": [
+      "naysimon suyaklarni diafizida",
+      "bronxiolalarda",
+      "suyak ustki pardada"
+    ]
+  },
+  {
+    "Number": 443,
+    "Text": "Tolali tog`ay joylashgan:",
+    "Answers": [
+      "umurtqalararo diskda",
+      "yarim harakatchan bogimlarda",
+      "gialin tog`ayini paylarga birikish joyida"
+    ],
+    "Options": [
+      "quloq suprasida",
+      "hiqildoq usti tog`ayida",
+      "yirik bronxlarda"
+    ]
+  },
+  {
+    "Number": 444,
+    "Text": "Tolali tog`ayining tuzilishi:",
+    "Answers": [
+      "kollagen tolalari parallel joylashgan",
+      "tog`ay hujayralari zanjirsimon joylashgan",
+      "tog`ay usti pardasi yoq"
+    ],
+    "Options": [
+      "tog`ay usti parda bilan qoplangan",
+      "izogen guruhlar xondroblastlarga boy",
+      "kollagen tolalari tartibsiz joylashgan"
+    ]
+  },
+  {
+    "Number": 445,
+    "Text": "Osteoblastlar xususiyatlari:",
+    "Answers": [
+      "ishqoriy fosfataza kop",
+      "donador EPT va mitoxondriyalar yaxshi rivojlangan",
+      "syyak toqimasining oraliq moddasini hosil qiladi"
+    ],
+    "Options": [
+      "shakliga mos lakunalarda joylashgan",
+      "kop miqdorda lizosomalar tutadi",
+      "organellalar juda kam"
+    ]
+  },
+  {
+    "Number": 446,
+    "Text": "Suyak toqimasining gistologik va anatomik turlari:",
+    "Answers": [
+      "plastinkasimon",
+      "retikulofibroz",
+      "kompakt"
+    ],
+    "Options": [
+      "trabekulyar",
+      "fibroz",
+      "fibroz-elastik"
+    ]
+  },
+  {
+    "Number": 447,
+    "Text": "Suyak toqimasi tog`aydan farqlanadi:",
+    "Answers": [
+      "qon tomirlari bor",
+      "mineralizatsiya darajasi baland",
+      "ossein tolalari bor"
+    ],
+    "Options": [
+      "regeneratsiya xususiyati yoq",
+      "mineral moddalar kam",
+      "izogen guruhlar tutadi"
+    ]
+  },
+  {
+    "Number": 448,
+    "Text": "Suyak toqimasining g`ovak moddasi:",
+    "Answers": [
+      "plastinkasimon tuzilishga ega",
+      "suyak plastinkalari trabekulalar hosil qiladi",
+      "trabekulalar orasida siyrak biriktiruvchi toqima joylashgan"
+    ],
+    "Options": [
+      "qon tomirlari bolmaydi",
+      "trabekulalar orasida tog`ay toqima joylashgan",
+      "osteonlari boladi"
+    ]
+  },
+  {
+    "Number": 449,
+    "Text": "Kardiomiotsitlar turlari:",
+    "Answers": [
+      "sekretor",
+      "otkazuvchi",
+      "qisqaruvchi"
+    ],
+    "Options": [
+      "bazal",
+      "tutamli",
+      "kubsimon"
+    ]
+  },
+  {
+    "Number": 450,
+    "Text": "Yurak mushak toqimasi:",
+    "Answers": [
+      "mioepikardial plastinkadan rivojlanadi",
+      "hujayra tuzilishiga ega",
+      "kondalang-targillikka ega"
+    ],
+    "Options": [
+      "simplastik tuzilishga ega",
+      "miotomdan rivojlanadi",
+      "kardiomiotsitlar duksimon shaklga ega"
+    ]
+  },
+  {
+    "Number": 451,
+    "Text": "Skelet-mushak tolasi:",
+    "Answers": [
+      "tolali tuzilishga ega",
+      "plazmolemma T-naychalar hosil qiladi",
+      "yadrolari periferiyada joylashgan"
+    ],
+    "Options": [
+      "kop miqdorda lizosomalar tutadi",
+      "sarkoplazmatik tor yadro atrofida joylashgan",
+      "T-naychalar sarkoplazmatik tordan iborat"
+    ]
+  },
+  {
+    "Number": 452,
+    "Text": "Otkazuvchi kardiomiotsitlar tuzilishi:",
+    "Answers": [
+      "T-naychalari tizimi rivojlanmagan",
+      "miofibrillalari kam",
+      "mitoxondriyalari mayda"
+    ],
+    "Options": [
+      "miokardning asosiy qismini egallaydi",
+      "peroksisomalari kop",
+      "T- naychalari tizimi rivojlangan"
+    ]
+  },
+  {
+    "Number": 453,
+    "Text": "Mushak tolasi triadasiga togri tarif :",
+    "Answers": [
+      "1 ta T-naycha tutadi",
+      "sarkoplazmatik torning 2 ta sisternasi bor",
+      "T-naychalar Z- chiziq soxasida boladi"
+    ],
+    "Options": [
+      "3 ta T-naycha tutadi",
+      "2 ta miozin ipchalari vaT-naycha tutadi",
+      "sarkoplazmatik retikulumninig 3 ta sisternasidan tuzilgan"
+    ]
+  },
+  {
+    "Number": 454,
+    "Text": "Neyron tarifi:",
+    "Answers": [
+      "olchami 4-6 mkmdan 130 mkmgacha",
+      "neyrofibrillalari bor",
+      "bazofil moddasi bor"
+    ],
+    "Options": [
+      "osimtalari yoq",
+      "oksifil moddasi bor",
+      "yumaloq shaklga ega"
+    ]
+  },
+  {
+    "Number": 455,
+    "Text": "Mikrogliya hujayralari:",
+    "Answers": [
+      "kop lizosomali",
+      "osimtalari tarmoqlangan",
+      "glial makrofaglar hisoblanadi"
+    ],
+    "Options": [
+      "osimtalari yoq",
+      "peroksisomalari kop",
+      "glioblastlardan hosil boladi"
+    ]
+  },
+  {
+    "Number": 456,
+    "Text": "Nerv tolasining miyelin qobigi:",
+    "Answers": [
+      "neyrolemmotsitlar hosil qiladi",
+      "lipidlar tutadi",
+      "kertiklar hosil qilgan"
+    ],
+    "Options": [
+      "astrotsitlar osimtalaridan hosil bolgan",
+      "tolali astrotsitlardan hosil bolgan",
+      "kollagen tolalarga ega"
+    ]
+  },
+  {
+    "Number": 457,
+    "Text": "Kapsulali nerv oxirlari:",
+    "Answers": [
+      "sezuvchi tanachalar",
+      "Fater-Pachini tanachalari",
+      "Krauze kolbalari"
+    ],
+    "Options": [
+      "Xerring tanachalari",
+      "Gassal tanachalari",
+      "motor blyashkalari"
+    ]
+  },
+  {
+    "Number": 458,
+    "Text": "Miyelinli nerv tolasi:",
+    "Answers": [
+      "miyelin qobigi bor",
+      "1 ta oq silindr boladi",
+      "impulslar tezligi120 m/s. gacha"
+    ],
+    "Options": [
+      "lemmotsit yadrosi markazda joylashgan",
+      "miyelin qobig`ini hosil bolishida astrotsitlar ishtirok etadi",
+      "vegetativ nerv tizimida uchraydi"
+    ]
+  },
+  {
+    "Number": 459,
+    "Text": "Dendritlarga xos:",
+    "Answers": [
+      "xromatofil substansiyasi boladi",
+      "kop miqdorda neyrotubulla va neyrofilamentlar saqlaydi",
+      "shoxlanadi"
+    ],
+    "Options": [
+      "kop miqdorda donachalar tutadi",
+      "shoxlanmaydi",
+      "koplab lizosomalar tutadi"
+    ]
+  },
+  {
+    "Number": 460,
+    "Text": "Ependimotsitlar tarifida tog`ri:",
+    "Answers": [
+      "orqa miya kanalini va miya qorinchalari devorini qoplaydi",
+      "serebrospinal suyuqligini hosil bolishda ishtirok etadi",
+      "apikal yuzasida kiprikchalar bor"
+    ],
+    "Options": [
+      "miya pardalar ostida joylashgan",
+      "gematoensefalik tosiq tarkibiga kiradi",
+      "miyelin hosil bolishida ishtirok etadi"
+    ]
+  },
+  {
+    "Number": 461,
+    "Text": "Neyron yadrosiga togri tarif:",
+    "Answers": [
+      "neyron odatda 1 ta yadroli",
+      "xromatin disperslangan",
+      "vegetativ gangliylarda kop yadroli neyronlar uchraydi"
+    ],
+    "Options": [
+      "neyron odatda kop yadroli",
+      "xromatin kuchli spirallangan",
+      "yadrochalar 3 dan 7 tagacha boladi"
+    ]
+  },
+  {
+    "Number": 462,
+    "Text": "Aksonga xos xususiyatlar:",
+    "Answers": [
+      "asosan terminal qismida shoxlanadi",
+      "akson tepaligi mavjud",
+      "mitoxondriyalari bor"
+    ],
+    "Options": [
+      "xromatofil substansiyasi boladi",
+      "koplab lizosomalar tutadi",
+      "mitoxondriyalari juda kam"
+    ]
+  },
+  {
+    "Number": 463,
+    "Text": "Neyrondagi xromatofil substansiya:",
+    "Answers": [
+      "anilin boyoqlar bilan boyalganda aniqlanadi",
+      "perikarionda hamda dendritlarda joylashadi",
+      "RNK borligi sababli bazofil boyaladi"
+    ],
+    "Options": [
+      "asosan aksonda va kam holatlarda dendritda joylashadi",
+      "tigroid modda tarkibiga silliq EPT kiradi",
+      "lipofussin toplanishi bilan ifodalanadi"
+    ]
+  },
+  {
+    "Number": 464,
+    "Text": "Oligodendrotsitlar:",
+    "Answers": [
+      "eng kop uchraydigan neyrogliya hujayrasi",
+      "neyronlarni oziqlantirishda qatnashadi",
+      "nerv tolasining hosil qilishda ishtirok etadi"
+    ],
+    "Options": [
+      "kop osimtali hujayralar",
+      "dendrit va aksonlarga ega",
+      "kop yadroli yirik hujayralar"
+    ]
+  },
+  {
+    "Number": 465,
+    "Text": "Nerv toqimasi rivojlanadi:",
+    "Answers": [
+      "nerv nayidan",
+      "ganglioz plastinkadan",
+      "ektodermaning dorsal qismidan"
+    ],
+    "Options": [
+      "splanxnotomdan",
+      "nefrotomdan",
+      "sklerotomdan"
+    ]
+  },
+  {
+    "Number": 466,
+    "Text": "Gipofizning oraliq qismida:",
+    "Answers": [
+      "endokrinotsitlar tor tasmalar hosil qilib joylashgan",
+      "melanotrop hujayralar mavjud",
+      "lipotrop gormon ishlab chiqariladi"
+    ],
+    "Options": [
+      "follikulalarda gormonlartoplanadi",
+      "tireotrop gormonishlab chiqariladi",
+      "neyrosekretor hujaralarning aksonlari tugaydi"
+    ]
+  },
+  {
+    "Number": 467,
+    "Text": "Gipofizning orqa bolagi tuzilishida togri javobni korsating:",
+    "Answers": [
+      "gipotalamusning neyresekretor hujayralari aksonlarini tutadi",
+      "glial hujayralar tutadi",
+      "Xerring tanachalar tutadi"
+    ],
+    "Options": [
+      "endokrin hujayralar follikulalar hosil qiladi",
+      "parenximasini neyroendokrin hujayralar tashqil qiladi",
+      "parenximasini epetelial hujayralar tashqil etadi"
+    ]
+  },
+  {
+    "Number": 468,
+    "Text": "Buyrak usti bezning tutamli va torsimon zonalariga xos:",
+    "Answers": [
+      "lipid kiritmalari kop",
+      "mitoxondriyalar vezikulyar kristali",
+      "agranulyar endoplazmatik tor yaxshi rivojlangan"
+    ],
+    "Options": [
+      "mitoxondriyalar plastinkasimon kristali",
+      "hujayra ichi naychali",
+      "oqsil kiritmalar"
+    ]
+  },
+  {
+    "Number": 469,
+    "Text": "Qalqonsimon bezning giperfunksiyasida:",
+    "Answers": [
+      "follikula devori burmalar hosil qiladi",
+      "follikulyar hujayralar silindrsimon shaklda",
+      "follikul kolloidida vakuolalar hosil boladi"
+    ],
+    "Options": [
+      "follikul kolloidi zichlashadi",
+      "follikul olchamlari kattalashadi",
+      "tireotsit mikrovorsinkalarining soni kamayadi"
+    ]
+  },
+  {
+    "Number": 470,
+    "Text": "Gipofizning gonadotrop hujayralari quyidagi faoliyatlarni boshqaradi:",
+    "Answers": [
+      "ovogenezni",
+      "spermatogenezni",
+      "jinsiy gormonlar hosil bolishini"
+    ],
+    "Options": [
+      "buyrak usti bezining postloq moddasini",
+      "qalqonsimon bez funksiyasini",
+      "buyrak usti bezining magiz moddasini"
+    ]
+  },
+  {
+    "Number": 471,
+    "Text": "Qalqonsimon bez oldi bezining bosh hujayralari xususiyati:",
+    "Answers": [
+      "sitoplazmasi bazofil",
+      "kop miqdorda ribosoma va polisomalarga ega",
+      "sekretor granulalar tutadi"
+    ],
+    "Options": [
+      "donador endoplazmatik tor sust rivojlangan",
+      "sitoplazmasi oksifil",
+      "sekretor donachalari yoq"
+    ]
+  },
+  {
+    "Number": 472,
+    "Text": "Buyrak usti bezining taraqqiyotida ishtirok etadi:",
+    "Answers": [
+      "selomik epiteliy",
+      "ganglioz plastinka",
+      "mezenxima"
+    ],
+    "Options": [
+      "plakodalar",
+      "somitlar",
+      "prexordal plastinka"
+    ]
+  },
+  {
+    "Number": 473,
+    "Text": "Buyrak usti bezining postloq moddasi:",
+    "Answers": [
+      "selomik epiteliydan rivojlanadi",
+      "uchta zonaga bolinadi",
+      "kam differensiallashgan hujayralar qavati tutadi"
+    ],
+    "Options": [
+      "oqsil gormonlari ishlab chiqaradi",
+      "endokrin hujayralari nerv toqimasiga kiradi",
+      "regulyatsiyasi gipofizga bog`liq emas"
+    ]
+  },
+  {
+    "Number": 474,
+    "Text": "Mushaksiz venalar:",
+    "Answers": [
+      "kozning tor pardasi venalari",
+      "suyak venalari",
+      "miya yumshoq pardasi venalari"
+    ],
+    "Options": [
+      "yuqori kovak venasi",
+      "son venasi",
+      "pstki kovak vena"
+    ]
+  },
+  {
+    "Number": 475,
+    "Text": "Yurakning otkazuvchi tizimi hujayralari:",
+    "Answers": [
+      "Peysmeker hujayralari",
+      "oraliq hujayralar",
+      "Purkinye tolalari"
+    ],
+    "Options": [
+      "Xerring tanachalari",
+      "kiritma hujayralar",
+      "tipik kardiomiotsitlar"
+    ]
+  },
+  {
+    "Number": 476,
+    "Text": "Kapillyar devorida mavjud:",
+    "Answers": [
+      "endoteliotsitlar",
+      "peritsitlar",
+      "bazal membrana"
+    ],
+    "Options": [
+      "ichki elastik membrana",
+      "silliq mushak hujayralari",
+      "endoteliy osti qavati"
+    ]
+  },
+  {
+    "Number": 477,
+    "Text": "Arteriola devorining xususiyatlari:",
+    "Answers": [
+      "orta pardada silliq mushak hujayralari 1-2 qavatga ega",
+      "ichki elastik membrane bor",
+      "subendoteliy qavati yupqa"
+    ],
+    "Options": [
+      "tashqi elastik membrana bor",
+      "darchasimon membranalar bor",
+      "silliq miotsitlar tutmaydi"
+    ]
+  },
+  {
+    "Number": 478,
+    "Text": "Arteriya diametri kichiklashgani sari:",
+    "Answers": [
+      "orta qavat yupqalashadi",
+      "tashqi elastik membrana yoqoladi",
+      "silliq mushak hujayralari qavati kamayadi"
+    ],
+    "Options": [
+      "elastik tolalar kopayadi",
+      "ichki va tashqi elastik membranalar saqlanadi",
+      "endoteliy osti qavat yoqoladi"
+    ]
+  },
+  {
+    "Number": 479,
+    "Text": "Mushak elementlari sust taraqqiy etgan venalar:",
+    "Answers": [
+      "boyin venasi",
+      "yuqori kavak venasi",
+      "yuz venasi"
+    ],
+    "Options": [
+      "pastki kovak vena",
+      "yelka venasi",
+      "taloq venasi"
+    ]
+  },
+  {
+    "Number": 480,
+    "Text": "Limfatik kapillyarlar tuzilishining xususiyatlari:",
+    "Answers": [
+      "bir tomonlama berk",
+      "devorida bazal membrana bolmaydi",
+      "yuzasi keng"
+    ],
+    "Options": [
+      "silliq miotsitlar tutadi",
+      "endoteliy osti qavati mavjud",
+      "endoteliotsitlar bazal membranada yotadi"
+    ]
+  },
+  {
+    "Number": 481,
+    "Text": "Yurakning otkazuvchi hujayralari joylashagan:",
+    "Answers": [
+      "endokard ostida",
+      "miokard orasida",
+      "siyrak tolali biriktiruvchi toqima bilanoralgan"
+    ],
+    "Options": [
+      "perikardda",
+      "miokard va epikard orasida",
+      "pay tolalarida"
+    ]
+  },
+  {
+    "Number": 482,
+    "Text": "Kokrak limfa yoli tuzilishining xususiyatlari:",
+    "Answers": [
+      "devori diafragma sohasida yaxshi rivojlangan",
+      "ichki va orta pardalari yupqa",
+      "klapanlarga ega"
+    ],
+    "Options": [
+      "mushak qavatlari qalinligi distal yonalishda ortib boradi",
+      "klapanlar yoq",
+      "devori butun uzunligi boylab bir xil tuzilgan"
+    ]
+  },
+  {
+    "Number": 483,
+    "Text": "Timusdan chiqqan T-limfotsitlar joylashadi:",
+    "Answers": [
+      "limfatik tugunlarni parakortikal zonasida",
+      "taloq oq pulpasining periarterial zonasida",
+      "Peyer pilakchalarining follikulalari orasida"
+    ],
+    "Options": [
+      "limfatik tugunining mag`iz tasmalarida",
+      "taloqning qizil pulpasida",
+      "limfatik tugunlar sinuslarida"
+    ]
+  },
+  {
+    "Number": 484,
+    "Text": "T- limfotsitlar mikromuxitini hosil qiladi:",
+    "Answers": [
+      "retikulyar hujayralar",
+      "makrofaglar",
+      "interdigitirlovchi hujayralar"
+    ],
+    "Options": [
+      "eritrotsit",
+      "plazmotsitlar",
+      "neytrofillar"
+    ]
+  },
+  {
+    "Number": 485,
+    "Text": "Limfatik tugun follikullasining kopayishi markazida bor:",
+    "Answers": [
+      "limfoblastlar",
+      "makrofaglar",
+      "dendritik hujayralar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "neytofillar",
+      "plazmotsitlar"
+    ]
+  },
+  {
+    "Number": 486,
+    "Text": "Limfa tugunlari mag`iz tasmalarida:",
+    "Answers": [
+      "plazmotsitlar hosil boladi",
+      "qon tomirlar otadi",
+      "makrofaglar mavjud"
+    ],
+    "Options": [
+      "T – zona joylashgan",
+      "periarteial qin joylashgan",
+      "interdigitirlovchi hujayralar bor"
+    ]
+  },
+  {
+    "Number": 487,
+    "Text": "Taloqdagi venoz sinuslarning xususiyatlari:",
+    "Answers": [
+      "bazal membranasi uzuq-yuluq",
+      "peritsitlar yoq",
+      "sfinkterlar bor"
+    ],
+    "Options": [
+      "ichki elastik membrana bor",
+      "mushak qavati boylama joylashgan",
+      "bazal membrana uzluksiz"
+    ]
+  },
+  {
+    "Number": 488,
+    "Text": "Taloqning tayanch toqimasini hosil qiladi:",
+    "Answers": [
+      "kapsula",
+      "trabekulalar",
+      "retikulyar toqima"
+    ],
+    "Options": [
+      "periarterial qin",
+      "limfatik tugunchalar",
+      "epiteliy toqima"
+    ]
+  },
+  {
+    "Number": 489,
+    "Text": "Taloqning T-ga tobe zonasi:",
+    "Answers": [
+      "markaziy arteriya atrofida joylashgan",
+      "asosan T-limfotsitlardan tashkil topgan",
+      "interdigitirlovchi hujayralar tutadi"
+    ],
+    "Options": [
+      "plazmatik hujayralar tutadi",
+      "qizil pulpada joylashgan",
+      "dendritik hujayralardan iborat"
+    ]
+  },
+  {
+    "Number": 490,
+    "Text": "Timusning yoshga kora involyutsiyasida:",
+    "Answers": [
+      "limfotsitlar miqdori kamayadi",
+      "postloq va mag`iz moddalari orasidagi chegara aniq korinmaydi",
+      "retikuloepitelial hujayralar yiriklashadii"
+    ],
+    "Options": [
+      "epitelial toqima kamayib boradi",
+      "limfotsitlar soni kopayadi",
+      "limfotsitlar soni ozgarmaydi"
+    ]
+  },
+  {
+    "Number": 491,
+    "Text": "Normal qonda quyidagi granulotsitlarning turi boladi:",
+    "Answers": [
+      "tayoqcha yadroli",
+      "metamiyelotsitlar",
+      "segmentyadroli"
+    ],
+    "Options": [
+      "promiyelotsitlar",
+      "miyelotsitlar",
+      "miyeloblastlar"
+    ]
+  },
+  {
+    "Number": 492,
+    "Text": "Qaysi hujayralar biriktiruvchi toqimaga migratsiya qiladi:",
+    "Answers": [
+      "limfotsitlar",
+      "neytrofillar",
+      "monotsitlar"
+    ],
+    "Options": [
+      "fibroblastlar",
+      "eritrotsitlar",
+      "trombotsitlar"
+    ]
+  },
+  {
+    "Number": 493,
+    "Text": "Kollagen sintezlovchi hujayralarni korsating:",
+    "Answers": [
+      "fibroblastlar",
+      "xondroblastlar",
+      "osteoblastlar"
+    ],
+    "Options": [
+      "makrofaglar",
+      "plazmotsitlar",
+      "adipotsitlar"
+    ]
+  },
+  {
+    "Number": 494,
+    "Text": "Naysimon suyaklarning diafiz qismi:",
+    "Answers": [
+      "suyak usti pardasi bilan qoplangan",
+      "osteonlar boylama joylashgan",
+      "endost suyak komigi boshligini qoplaydi"
+    ],
+    "Options": [
+      "dagal tolalari suyakdan iborat",
+      "govak suyakdan tashqil topgan",
+      "diafiz boshligi doim qizil suyak komigi bilan tolib turadi"
+    ]
+  },
+  {
+    "Number": 495,
+    "Text": "Silliq mushak toqimasi:",
+    "Answers": [
+      "ixtiyorsiz qisqaradi",
+      "boshliq azolar devorining mushak pardasini hosil qiladi",
+      "regeneratsiya qilish xususiyatiga ega"
+    ],
+    "Options": [
+      "somatik nerv sistemasi tomonidan boshqariladi",
+      "qisqarishi gormonlar tasiriga boysinmaydi",
+      "mushak tolalardan tuzilgan"
+    ]
+  },
+  {
+    "Number": 496,
+    "Text": "Neyronlarning morfologik turlari:",
+    "Answers": [
+      "multipolyar",
+      "psevdounipolyar",
+      "bipolyar"
+    ],
+    "Options": [
+      "retseptor",
+      "ildizchali",
+      "afferent"
+    ]
+  },
+  {
+    "Number": 497,
+    "Text": "Neyroglial hujayralarning turlari:",
+    "Answers": [
+      "oligodendrogliotsitlar",
+      "ependimotsitlar",
+      "astrotsitlar"
+    ],
+    "Options": [
+      "ganglioz",
+      "neyroblastlar",
+      "fibrotsitlar"
+    ]
+  },
+  {
+    "Number": 498,
+    "Text": "Psevdounipolyar neyronlar:",
+    "Answers": [
+      "bipolyar neyronlarga kiradi",
+      "afferent hisoblanadi",
+      "osiqchalari T-shaklida ajraladi"
+    ],
+    "Options": [
+      "vegetativ nerv tugunlarida uchraydi",
+      "efferent hisoblanadi",
+      "korinishi ozgargan multipolyar neyronlar"
+    ]
+  },
+  {
+    "Number": 499,
+    "Text": "Sinaps tuzilishida farqlanadi:",
+    "Answers": [
+      "presinaptik membrana",
+      "postsinaptik membrana",
+      "sinaptik tirqish"
+    ],
+    "Options": [
+      "tonofilamentlar",
+      "postsinaptikpufakchalar",
+      "kolloid"
+    ]
+  },
+  {
+    "Number": 500,
+    "Text": "Bosh miya postlogida qanday tolalar farqlanadi:",
+    "Answers": [
+      "assotsiativ",
+      "proyeksion",
+      "komissural"
+    ],
+    "Options": [
+      "moxsimon",
+      "periferik",
+      "ormalovchi"
+    ]
+  },
+  {
+    "Number": 501,
+    "Text": "Sinusoid kapillyarlar:",
+    "Answers": [
+      "qizil suyak komigida joylashgan",
+      "uzuq-yuluq bazal membranaga ega",
+      "endotelial hujayralar orasida tirqishlar boladi"
+    ],
+    "Options": [
+      "endotelial hujayralar uymaloq shaklda",
+      "devorida silliq mushak hujayralar tutadi",
+      "mushak toqimasida joylashgan"
+    ]
+  },
+  {
+    "Number": 502,
+    "Text": "Postkapillyar venula:",
+    "Answers": [
+      "ichki yuzasini endotelial hujayralar qoplaydi",
+      "devorida peritsitlar boladi",
+      "devori orqali leykotsitlar otadi"
+    ],
+    "Options": [
+      "endotelial hujayralar bazal membranada yotmaydi",
+      "orta qavati silliq mushak hujayralari tutadi",
+      "tashqi qavatida silliq mushak hujayralari boladi"
+    ]
+  },
+  {
+    "Number": 503,
+    "Text": "Limfatik tugunlarning parakortikal zonasida asosan joylashadi:",
+    "Answers": [
+      "T- limfotsitlar",
+      "interdigitirlovchi hujayralar",
+      "T- killerlar"
+    ],
+    "Options": [
+      "dendritli hujayralar",
+      "B-limfotsitlar",
+      "B-limfoblastlar"
+    ]
+  },
+  {
+    "Number": 504,
+    "Text": "Limfatik tugunlarning magiz moddasining tuzilishi:",
+    "Answers": [
+      "magiz tasmalari",
+      "magiz sinuslari",
+      "trabekulalar"
+    ],
+    "Options": [
+      "qirgoq sinuslari",
+      "limfoid follikulalar",
+      "venoz sinuslari"
+    ]
+  },
+  {
+    "Number": 505,
+    "Text": "Bir membranali organellaraga kiradi:",
+    "Answers": [
+      "endoplazmatik tor",
+      "Golji kompleksi",
+      "lizosoma"
+    ],
+    "Options": [
+      "mitoxondriya",
+      "ribosoma",
+      "sentriola"
+    ]
+  },
+  {
+    "Number": 506,
+    "Text": "Donador leykotsitlarga kiradi:",
+    "Answers": [
+      "neytrofillar",
+      "eozinofillar",
+      "bazofillar"
+    ],
+    "Options": [
+      "T-limfotsitlar",
+      "monotsitlar",
+      "B-limfotsitlar"
+    ]
+  },
+  {
+    "Number": 507,
+    "Text": "Maxsus xususiyatga ega biriktiruvchi toqimalarni korsating:",
+    "Answers": [
+      "yog",
+      "retikulyar",
+      "shilliq"
+    ],
+    "Options": [
+      "suyak",
+      "tog`ay",
+      "qon"
+    ]
+  },
+  {
+    "Number": 508,
+    "Text": "Mitoxondriya strukturasida farqlanadi:",
+    "Answers": [
+      "tashqi membrana",
+      "ichki membrana",
+      "kristalar"
+    ],
+    "Options": [
+      "ukleoidlar",
+      "vezikulalar",
+      "kiritmalar"
+    ]
+  },
+  {
+    "Number": 509,
+    "Text": "Lizosoma turlari:",
+    "Answers": [
+      "birlamchi",
+      "ikkilamchi",
+      "autofagosoma"
+    ],
+    "Options": [
+      "uchlamchi",
+      "diktiosoma",
+      "osmiofil tanachalar"
+    ]
+  },
+  {
+    "Number": 510,
+    "Text": "Xujayra membranasi necha kavat lipiddan iborat",
+    "Answers": [
+      "2 qavat"
+    ],
+    "Options": [
+      "1 qavat",
+      "3 qavat",
+      "lipid tutmaydi",
+      "4 qavat"
+    ]
+  },
+  {
+    "Number": 511,
+    "Text": "Kaysi tuzilma xisobiga hujayra ichiga moddalarning transporti amalga oshadi",
+    "Answers": [
+      "plazmolemma"
+    ],
+    "Options": [
+      "xujayralararo modda",
+      "lizosomalar",
+      "ribosomalar",
+      "mitoxondirya"
+    ]
+  },
+  {
+    "Number": 512,
+    "Text": "Plazmolemma qanday vazifalarni bajarmaydi",
+    "Answers": [
+      "oqsil sintezi"
+    ],
+    "Options": [
+      "retseptor",
+      "xujayralarning ozaro birikishini taminlaydi",
+      "transport",
+      "plazmolemma"
+    ]
+  },
+  {
+    "Number": 513,
+    "Text": "Membranali organellalarga kirmaydi",
+    "Answers": [
+      "ribosoma va polisomalar"
+    ],
+    "Options": [
+      "mitoxondriyalar",
+      "endoplazmatik tur va lizosomalar",
+      "golji apparati",
+      "transport"
+    ]
+  },
+  {
+    "Number": 514,
+    "Text": "Donador endoplazmatik turning vazifasi",
+    "Answers": [
+      "eksport uchun oksillar sintezi"
+    ],
+    "Options": [
+      "uglevodlar sintezi",
+      "endogen va ekzogen moddalarni parchalash",
+      "retseptor",
+      "hamma javob togri"
+    ]
+  },
+  {
+    "Number": 515,
+    "Text": "Golji apparati qatnashadi",
+    "Answers": [
+      "tayyor maxsulotni orash va sekretor xujayralardan chiqarish"
+    ],
+    "Options": [
+      "fagotsitoz",
+      "moddalar transportida",
+      "uglevodlar sintezida",
+      "ATF sintezi"
+    ]
+  },
+  {
+    "Number": 516,
+    "Text": "Bolinish dukini hosil qilishda kaysi organella ishtirok etadi",
+    "Answers": [
+      "sentriola"
+    ],
+    "Options": [
+      "ribosoma",
+      "endoplazmatik tur",
+      "lizosoma",
+      "mitoxondirya"
+    ]
+  },
+  {
+    "Number": 517,
+    "Text": "Jigar va buyrak hujayralarida kop, oval shakldagi, markazida kristallsimon tuzilmaga ega matriks  tutuvchi organella:",
+    "Answers": [
+      "Peroksisoma"
+    ],
+    "Options": [
+      "lizosoma",
+      "keratinosoma",
+      "sarkosoma",
+      "EPT"
+    ]
+  },
+  {
+    "Number": 518,
+    "Text": "Mitoxonriyalar  (notogri javobni korsating):",
+    "Answers": [
+      "Bolinish dukini hosil qiladi"
+    ],
+    "Options": [
+      "ATF sintez kiluvchi organella",
+      "Ichki membranasi kristalar xosil kiladi",
+      "Yarim xayet xujayra",
+      "Energiya almashinuviga qatnashadi"
+    ]
+  },
+  {
+    "Number": 519,
+    "Text": "Ribosomalar (notogri javobni korsating):",
+    "Answers": [
+      "13 ta oqsil subbirliklaridan iborat"
+    ],
+    "Options": [
+      "Katta va kichik subbirlikdan iborat",
+      "Oqsil va RNK saqlaydi",
+      "Ularning toplami polisoma deyiladi",
+      "Rnk saqlaydi"
+    ]
+  },
+  {
+    "Number": 520,
+    "Text": "Membranali organellalarga kiradi:",
+    "Answers": [
+      "mitoxondriya"
+    ],
+    "Options": [
+      "sentriolalar",
+      "ribosomalar",
+      "mikronaychalar",
+      "HJT"
+    ]
+  },
+  {
+    "Number": 521,
+    "Text": "Membranasiz organellalarga kiradi:",
+    "Answers": [
+      "Ribosoma, polisomalar"
+    ],
+    "Options": [
+      "donador endoplazmatik tor",
+      "mitoxondriya",
+      "silliq endoplazmatik tor.",
+      "yadro"
+    ]
+  },
+  {
+    "Number": 522,
+    "Text": "Plazmolemma bu:",
+    "Answers": [
+      "Xujayraning tashqi membranasi"
+    ],
+    "Options": [
+      "Xujayraning matriksi",
+      "Tarkibida organellalar va kiritmalar tutadi",
+      "Oqsil sintezida ishtirok etadi.",
+      "Oqsil sintezlovchi"
+    ]
+  },
+  {
+    "Number": 523,
+    "Text": "Yadroning tarkibi (notogri javob):",
+    "Answers": [
+      "Oolemma"
+    ],
+    "Options": [
+      "xromatin",
+      "yadrocha",
+      "karioplazma",
+      "lizasoma"
+    ]
+  },
+  {
+    "Number": 524,
+    "Text": "Lizosomalarning turlarini sanang(notogri javob):",
+    "Answers": [
+      "peroksisomalar"
+    ],
+    "Options": [
+      "Autofagosomalar",
+      "geterofagosomalar",
+      "telelolizosomalar",
+      "togri javob yoq"
+    ]
+  },
+  {
+    "Number": 525,
+    "Text": "Toqimalarga xos bolmagan  tarifni korsating:",
+    "Answers": [
+      "Tuqimada xujayra va xujayra bulmagan tuzilmalar umumiy tuzilishga va kelib chikishga ega emas"
+    ],
+    "Options": [
+      "Tuqimalar -xujayra va xujayra bulmagan tuzilmalarni filogenetik tashkil topgan tizimi",
+      "Ularda xujayra va xujayra bulmagan tuzilmalar umumiy tuzilishga va kelib chiqishga ega",
+      "Tuqimadagi xujayralar malum bir funksiyalarni bajarishga moslashgan",
+      "Xujayralar bazal membranada yotadi, qon tomirlar bulmaydi"
+    ]
+  },
+  {
+    "Number": 526,
+    "Text": "Epiteliy tuqimasiga xos bulmagan tarifni  kursating:",
+    "Answers": [
+      "Xujayralar orasida xujayralararo modda juda kup, qon tomirlarga boy,  regeneratsiya qobiliyati yoq"
+    ],
+    "Options": [
+      "Xujayralar bazal membranada yotadi, qon tomirlar bulmaydi,",
+      "Regeneratsiya qobiliyati yuqori",
+      "Xujayralari qutblangan (apikal va bazal yuzalariga ega)",
+      "Tuqimadagi xujayralar malum bir funksiyalarni bajarishga moslashgan"
+    ]
+  },
+  {
+    "Number": 527,
+    "Text": "Ushbu tarif qaysi epiteliy tuqimasi uchun xos:",
+    "Answers": [
+      "Mezoteliy"
+    ],
+    "Options": [
+      "Ichak epiteliysi",
+      "Buyrak kanalchalari epiteliysi",
+      "Teri epiteliysi",
+      "Siydik yullari epiteliysi"
+    ]
+  },
+  {
+    "Number": 528,
+    "Text": "Ushbu tarif qaysi epiteliy tuqimasi uchun xos:",
+    "Answers": [
+      "Bir qavatli jiyakli epiteliy"
+    ],
+    "Options": [
+      "Mezoteliy",
+      "Buyrak kanalchalari epiteliysi",
+      "Teri epiteliysi",
+      "Siydik yullari epiteliysi"
+    ]
+  },
+  {
+    "Number": 529,
+    "Text": "Ushbu tarif qaysi epiteliy toqimasi uchun xos:",
+    "Answers": [
+      "Kup qavatli yassi muguzlanmaydigan epiteliy"
+    ],
+    "Options": [
+      "Bir qavatli jiyakli  epiteliy",
+      "Buyrak kanalchalari epiteliysi",
+      "Teri epiteliysi",
+      "Siydik yullari epiteliysi"
+    ]
+  },
+  {
+    "Number": 530,
+    "Text": "Ushbu tarif qaysi epiteliy toqimasi uchun xos:",
+    "Answers": [
+      "Kup qavatli yassi muguzlanadigan epiteliy"
+    ],
+    "Options": [
+      "Bir qavatli jiyakli  epiteliy",
+      "Kup qavatli yassi muguzlanmaydigan epiteliy",
+      "Buyrak kanalchalari epiteliysi",
+      "Siydik yullari epiteliysi. Ushbu tarif qaysi epiteliy tuqimasi uchun xos:"
+    ]
+  },
+  {
+    "Number": 531,
+    "Text": "Siydik chiqaruv yullarini (buyrak kosachalari, siydik naylari, qovuq) qoplaydi. Bazal, oraliq va yopqich qavatlardan iborat. Azo siydikka tulganda epiteliy ingichkalashadi, azo siydikdan bushalganda epiteliy yugonlashadi.",
+    "Answers": [
+      "Uґzgaruvchan epiteliy"
+    ],
+    "Options": [
+      "Kup qavatli yassi muguzlanadigan epiteliy",
+      "Bir qavatli jiyakli  epiteliy",
+      "Kup qavatli yassi muguzlanmaydigan epiteliy",
+      "Buyrak kanalchalari epiteliysi"
+    ]
+  },
+  {
+    "Number": 532,
+    "Text": "Ekzokrin bezlarga xos bulmagan tarifni  korsating:",
+    "Answers": [
+      "Bosh yoki proksimal bulim va mezonefral yoki Volfov naylaridan iborat"
+    ],
+    "Options": [
+      "Sekretor yoki oxirgi bulimiga ega",
+      "Chiqaruv naylari - kiritma, bulaklararo va umumiy chiqaruv naylarga bulinadi",
+      "Sekretor bulimi - alveolyar, naysimon yoki aralash bulishi mumkin",
+      "Sekret tarkibi - oqsil, shilliq va aralash bulishi mumkin"
+    ]
+  },
+  {
+    "Number": 533,
+    "Text": "Bez xujayrasidan sekret ajralib chiqishi  turlariga kirmaydi:",
+    "Answers": [
+      "Neyrokrin (xujayra tulik yemiriladi)"
+    ],
+    "Options": [
+      "Merokrin (xujayra yemirilmaydi)",
+      "Ekkrin (xujayra yemirilmaydi)",
+      "Golokrin (xujayra toliq yemiriladi)",
+      "Apokrin (xujayra qisman yemiriladi)"
+    ]
+  },
+  {
+    "Number": 534,
+    "Text": "Bez xujayrasi sekretor siklining asosiy fazalariga kirmaydi:",
+    "Answers": [
+      "Begona moddalarni yutilishi va ularni lizosomalarda parchalanishi,"
+    ],
+    "Options": [
+      "Kerak moddalarni (aminokislota,karbonsuvlar, yog kislotalari,tuzlar,suv) xujayraga kirishi",
+      "Xujayra organellalarida sekretor maxsulotni sintezi",
+      "Goldji kompleksida sekretor maxsulotni yetilishi",
+      "Xujayrada sekretor maxsulotning tuplanishi va xujayradan chiqishi"
+    ]
+  },
+  {
+    "Number": 535,
+    "Text": "Tayanch-trofik tukimalarning asosiy xususiyatlari va vazifalarini kursating:",
+    "Answers": [
+      "ularning xammasi mezenximadan rivojlanadi;",
+      "ularga xujayralar va xujayralar aro moddaning borligi xos;",
+      "tayanch trofik transport va ximoya vazifalarini bajaradi;",
+      "tez regeneratsiya kobiliyatiga ega;"
+    ],
+    "Options": [
+      "ularning xammasi entodermadan rivojlanadi;",
+      "ularga xujayralararo moddaning bulmasligi xos;",
+      "ajratish va kiskarish vazifasini bajaradi;",
+      "regeneratsiya kobiliyati yoq."
+    ]
+  },
+  {
+    "Number": 536,
+    "Text": "Biriktiruvchi tukimaning 4ta asosiy funksiyasini kursating:",
+    "Answers": [
+      "mexanik tayanch;",
+      "trofik;",
+      "ximoya;",
+      "plastik;"
+    ],
+    "Options": [
+      "sekretor;",
+      "endokrin;",
+      "ekskretor;",
+      "dezintoksiksion (zararsizlantirish)."
+    ]
+  },
+  {
+    "Number": 537,
+    "Text": "Siyrak tolali shakllanmagan biriktiruvchi tukimaning umumiy xarakterli bulgan xususiyatlarini bering (4):",
+    "Answers": [
+      "tolalari kam xujayra elementlari kup;",
+      "tolalarning betartib joylashishi;",
+      "yukori plastik va adaptatsion imkoniyatga ega;",
+      "xamma organ tarkibida buladi kon tomir devorlari buylab joylashadi;"
+    ],
+    "Options": [
+      "kon yaratuvchi azolar stromasini xosil kiladi;",
+      "tolalarga boy xujayra elementlari kam;",
+      "tolalari malum tartibda joylashgan;",
+      "regeneratsiya kobiliyati past."
+    ]
+  },
+  {
+    "Number": 538,
+    "Text": "Siyrak tolali shakllanmagan biriktiruvchi tukimaning 4 ta asosiy xujayra elementlarini kursating:",
+    "Answers": [
+      "fibroblastlar;",
+      "makrofaglar;",
+      "semiz xujayralar;",
+      "plazmatik xujayralar;"
+    ],
+    "Options": [
+      "xondroblastlar;",
+      "xondrotsitlar;",
+      "osteoblastlar;",
+      "osteotsitlar."
+    ]
+  },
+  {
+    "Number": 539,
+    "Text": "fibroblastlarning morfo-funksional belgilarini kursating (4):",
+    "Answers": [
+      "osimtalarga ega yirik notugri shaklli;",
+      "sitoplazmasida gialoplazmadan iborat ektoplazma va organellalar tutuvchi endoplazma kismlari ajratiladi;",
+      "yaxshi rivojlangan donador EPT Golji kompleksi tutadi;",
+      "xujayralararo modda sintezlaydi;"
+    ],
+    "Options": [
+      "sitoplazmasi lizosoma fagosoma va pinotsitoz pufakchalarga boy;",
+      "konussimon shaklga ega sitoplazmasida zimogen va gomogen zonalar farklanadi;",
+      "donador endoplazmatik tur Golji kompleksi kuchsiz rivojlangan;",
+      "ximoya vazifasini bajaradi (fagotsitoz biologik aktiv moddalar ishlab chikaradi)."
+    ]
+  },
+  {
+    "Number": 540,
+    "Text": "Makrofaglarga xos xususiyatlar:",
+    "Answers": [
+      "yumalok yeki ovalsimon shaklli, usimtalarga ega;",
+      "amebasimon xarakatlanish kobiliyatiga ega;",
+      "sitoplazmasi lizosoma fagosoma va pinotsitoz pufakchalarga boy;",
+      "plazmolemmasida yet zarrachasini tanib olish imkonini beruvchi Fe va Sz retseptorlari tutadi;"
+    ],
+    "Options": [
+      "sitoplazmasida gialoplazmadan iborat ektoplazma va organellalar tutuvchi endoplazma kismlari ajratiladi;",
+      "yaxshi rivojlangan donador EPT Golji kompleksi tutadi;",
+      "xujayralararo modda sintezlaydi;",
+      "V-limfotsitlardan xosil buladi."
+    ]
+  },
+  {
+    "Number": 541,
+    "Text": "Plazmatik xujayraning morfo-funksional belgilarini kursating (4):",
+    "Answers": [
+      "oval yeki yumalok shaklli yadrosi ekssentrik joylashgan;",
+      "endoplazmatik tur Golji kompleksi erkin ribosomalar juda yaxshi rivojlangan;",
+      "V-limfotsitlardan xosil buladi;",
+      "antitelo ishlab chikaradi;"
+    ],
+    "Options": [
+      "xujayraviy immunitetni taminlaydi;",
+      "kon monotsitlaridan xosil buladi;",
+      "biriktiruvchi tukima xujayralararo moddasini sintezlaydi;",
+      "sitoplazmasi lizosoma fagosoma va pinotsitoz pufakchalarga boy."
+    ]
+  },
+  {
+    "Number": 542,
+    "Text": "Tukima bazofillari (semiz xujayralar) uchun xos belgilarni kursating (4):",
+    "Answers": [
+      "yirik notugri dumalok shaklga ega;",
+      "sitoplazmasida 0,Z-10 mkm atrofida yirik gomogen donachalari bor;",
+      "donachalarning tarkibida geparin, gistamin, seratonin bor;",
+      "donachalar donador plastinkasimon va aralash bulishi mumkin;"
+    ],
+    "Options": [
+      "organellalari kuchli rivojlangan;",
+      "immunkompetent xujayralarga antigen xakida malumot yetkazadi;",
+      "V-limfotsitlardan xosil buladi;",
+      "sitoplazmasi turli fermentlar tutadi nishon fermenti - kislotali fosfataza."
+    ]
+  },
+  {
+    "Number": 543,
+    "Text": "Oq yog xujayrasi uchun xos xususiyatlarni korsating (4):",
+    "Answers": [
+      "sharsimon oval shaklga ega;",
+      "organellalari yadrosi chetga surilgan bulib sitoplazmasi yirik yeg tomchisi bilan tulgan;",
+      "asosan kon tomirlari buylab joylashadi;",
+      "toplanib oq yog toqimasini xosil kiladi;"
+    ],
+    "Options": [
+      "chozinchok shaklga ega;",
+      "mayda yeg tomchilari butun sitoplazma boylab tarqalgan;",
+      "mitoxondriyalari sitoxromga boy;",
+      "termoregulyatsiya vazifasini bajaradi."
+    ]
+  },
+  {
+    "Number": 544,
+    "Text": "Endoteliy xujayralarining morfofunksional belgilarini kursating:",
+    "Answers": [
+      "yassi shaklga ega bulib bazal membranada joylashadi;",
+      "sitoplazmasi kup mikdorda pinotsitoz pufakchalari saklaydi fenestralar xosil kiladi;",
+      "kon va limfa tomirlarining ichki kavatini tashkil etadi;",
+      "tukimalar va kon orasida moddalar almashinuvida ishtirok etadi;"
+    ],
+    "Options": [
+      "usimtali notugri shaklga ega;",
+      "bazal membrana yeriklarida joylashadi;",
+      "kapillyarlar yuzasini torayishi yeki kengayishini boshkaradi;",
+      "kapillyar devorining urta kavatini xosil kiladi."
+    ]
+  },
+  {
+    "Number": 545,
+    "Text": "Peritsitlar uchun xos belgilar:",
+    "Answers": [
+      "usimtali notugri shaklga ega;",
+      "bazal membrana yeriklarida joylashadi;",
+      "kapillyarlar yuzasini torayishi yeki kengayishini boshkaradi;",
+      "kapillyar devorining urta kavatini xosil kiladi;"
+    ],
+    "Options": [
+      "yassi shaklga ega bulib bazal membranada joylashadi;",
+      "sitoplazmasi kup mikdorda pinotsitoz pufakchalari saklaydi fenestralar xosil kiladi;",
+      "kon va limfa tomirlarining ichki kavatini tashkil etadi;",
+      "tukimalar va kon orasida moddalar almashinuvida ishtirok etadi."
+    ]
+  },
+  {
+    "Number": 546,
+    "Text": "Kollagen tolalar uchun xos belgilarni kursating:",
+    "Answers": [
+      "tarkibida fibrillyar oksil - kollagen tutadi;",
+      "fibroblastlar tomonidan sintezlanadi;",
+      "kam mikdorda oltingugurt saklovchi aminokislotalar tutadi;",
+      "kundalang chiziklikka ega;"
+    ],
+    "Options": [
+      "chuziluvchan shu bilan birga uzilishi xam oson;",
+      "kundalang chiziklikka ega emas;",
+      "elastin oksili tutadi;",
+      "kumush tuzlari bilan impregnatsiya kilinganda kurinadi."
+    ]
+  },
+  {
+    "Number": 547,
+    "Text": "Elastik tolalarning xususiyatlarini kursating:",
+    "Answers": [
+      "chuziluvchan shu bilan birga uzilishi xam oson;",
+      "kundalang chiziklikka ega emas;",
+      "elastin oksilidan tuzilgan;",
+      "kollagen tolalarga nisbatan ingichkarok;"
+    ],
+    "Options": [
+      "juda pishik va chuzilmaydi;",
+      "suyultirilgan ishkor va kislotalarda shishadi;",
+      "ximiyaviy tarkibi xususiyatlariga kura 12 turi farklanadi;",
+      "kundalang chiziklikka ega."
+    ]
+  },
+  {
+    "Number": 548,
+    "Text": "Zich tolali shakllanmagan biriktiruvchi tukimaning xususiyatlarini kursating:",
+    "Answers": [
+      "tolalari kup xujayra elementlari kam;",
+      "tolalari betartib joylashgan;",
+      "tolalari orasida fibroblastlar makrofaglartukima bazofillari joylashadi;",
+      "terining tursimon kavati bugim xaltachalari biriktiruvchi tukimasida uchraydi;"
+    ],
+    "Options": [
+      "xujayra elementlari kup tolalari kam;",
+      "tolalari malum bir tartibda joylashgan;",
+      "kon va limfa tomirlari atrofida joylashgan;",
+      "barcha azolar stromasini xosil kiladi."
+    ]
+  },
+  {
+    "Number": 549,
+    "Text": "Maxsus xususiyatga ega bulgan biriktiruvchi tukima turlarini kursating:",
+    "Answers": [
+      "retikulyar tukima;",
+      "yog tukimasi;",
+      "pigment tukima;",
+      "shillik tukima;"
+    ],
+    "Options": [
+      "togay tukimasi;",
+      "suyak tukimasi;",
+      "siyrak tolali biriktiruvchi tukima;",
+      "zich tolali biriktiruvchi tukima."
+    ]
+  },
+  {
+    "Number": 550,
+    "Text": "Sillik mushak xujayralarining morfofunksional xususiyatlarini kursating (4):",
+    "Answers": [
+      "chuzik duksimon shakliga ega uzunligi 20-500  mkm kalinligi  5-8mkm atrofida",
+      "yadrosi tayekchasimon shaklda xujayra markazida joylashgan",
+      "kam mikdorda  Golji kompleksi endoplazmatik tur kuchli rivojlangan V.mitoxondriyalar miofibrillalar tutadi",
+      "sitoplazmasi pinotsitoz  pufakchalari xosil kiladi bularda kalsiy ionlari saklanadi"
+    ],
+    "Options": [
+      "yumalok shaklga ega diametri 10-20 mkm atrofida",
+      "ovalsimon yadrosi ekssentrik joylashadi",
+      "kiskaruvchi apparatida miofibrillalar A va I disklar xosil kiladi",
+      "plazmolemmasi T- naychalar sistemasini xosil kiladi"
+    ]
+  },
+  {
+    "Number": 551,
+    "Text": "Sillik miotsit miofibrillalarining morfofunksional xususiyatlarini kursating (4)",
+    "Answers": [
+      "aktin va miozin protofibrillalaridan tuzilgan",
+      "aktin protofibrillalari sitoplazmada buylamasiga yeki burchak ostida joylashgan",
+      "aktin iplarining birikkan kismida elektron zich tanachalar uchraydi",
+      "miozin protofibrillalari  sitoplazmasida buylama joylashgan"
+    ],
+    "Options": [
+      "aktin  va miozin protofibrillalari A- va I-disklarni xosil kiladi",
+      "aktin va miozin iplari uzaro telofragma va mezofragmalar orkali birikadi",
+      "xar bir aktin ipi atrofida 3 ta miozin iplari joylashadi",
+      "sarkomer - sillik miotsit miofibrillalarining struktur-funksional birligidir"
+    ]
+  },
+  {
+    "Number": 552,
+    "Text": "Kundalang targil skelet mushagining morfofunksional xususiyatlari (4):",
+    "Answers": [
+      "skelet til tanglay nafas olish mushaklarini xosil kiladi",
+      "miotomdan rivojlanadi",
+      "struktur birligi miosimplast va miosatellitlardan iborat",
+      "kundalang-targillikka ega"
+    ],
+    "Options": [
+      "simpatik nerv sistemasi tomonidan innervatsiya kilinadi",
+      "xujayra tuzilishiga ega",
+      "medaingichka ichaksiydik pufagi tomirlar devorida joylashgan",
+      "parasimpatik nerv  sistemasi  tomonidan  innervatsiya kilinadi"
+    ]
+  },
+  {
+    "Number": 553,
+    "Text": "Kundalang-targil skelet mushagi tolalari (4):",
+    "Answers": [
+      "miosimplast va miosatellitlardan tuzilgan",
+      "simplast plazmolemma va bazal membranadan iborat sarkolemma bilan uralgan",
+      "tolalar chuzik silindrsimon shaklga ega uzunligi 200-300 mkmdiametri 50-70 mkm atrofida",
+      "yadrolari (bir necha ming atrofida) tola chekkasida joylashganchuzik shaklga ega"
+    ],
+    "Options": [
+      "organellalari juda kuchsiz rivojlangan",
+      "maxsus organellalar - tonofibrillalar tutadi",
+      "miosatellitotsit miofibrilla va T-naychalar triada xosil kiladi",
+      "1 ta duksimon chuzik yadrosi xujayra markazida joylashadi"
+    ]
+  },
+  {
+    "Number": 554,
+    "Text": "Kundalang-targil yurak mushagi (4):",
+    "Answers": [
+      "splanxnatomning mioepikardial plastinkasidan rivojlanadi",
+      "xujayra (kardiomiotsit)lardan tuzilgan",
+      "kiskaruvchi utkazuvchi va sekretor kardiomiotsitlar farklanadi",
+      "jaroxatlangandan keyin kardiomiotsitlar kayta tiklanmaydijaroxat"
+    ],
+    "Options": [
+      "urnida biriktiruvchi tukimali chandik xosil buladi",
+      "mezenximadan tarakkiy etadi",
+      "miosatellitotsitlar xisobiga regeneratsiya kilinadi",
+      "oralik plastinkalari kundalang-targillikni yuzaga keltiradi"
+    ]
+  },
+  {
+    "Number": 555,
+    "Text": "Kiskaruvchi  kardiomiotsitlarning struktur-funksional xususiyatlarini kursating (4):",
+    "Answers": [
+      "chuzik silindrsimon shaklga egauzunligi 100-150 mkm atrofida",
+      "kardiomiotsitlarning uchlari birikibanastomozlanuvchi tolalar xosil  kiladi",
+      "kardiomiotsitlar uzaro desmosoma va neksuslari mavjud oralik plastinkalar orkali birikadi",
+      "kiskaruvchi apparati tuzilishi jixatdan skelet mushagi miofibrillalariga uxshash"
+    ],
+    "Options": [
+      "yirik yumalok xujayralar (ulchamlari 20-500 mam atrofida)",
+      "kup mikdordagi(bir necha ming) yadrolari ekssentrik joylashgan",
+      "organellalari kuchsiz rivojlangan",
+      "sekretor granulalar tutadi"
+    ]
+  },
+  {
+    "Number": 556,
+    "Text": "Utkazuvchi (atipik) kardiomiotsitlarning asosiy farklovchi belgilarini kursating(4)",
+    "Answers": [
+      "kiskaruvchi kardiomiotsitlarga nisbatan ancha yirik(uzunligi 100 mkm kalinligi 50 mkm atrofida)",
+      "sitoplazmasida barcha organellalar mavjud miofibrillalar esa juda kam",
+      "sitolemmasi T-naychalar sistemasini xosil kilmaydi",
+      "impulsni kiskaruvchi kardiomiotsitlarga utkazib beradi"
+    ],
+    "Options": [
+      "miosimplast tuzilishiga ega",
+      "sitolemmasi T-naychalar sistemasini xosil kiladi",
+      "miofibrillalari sillik miotsitlar miofibrillalariga  uxshash  tuzilgan",
+      "miofirillari juda kuchli rivojlangan."
+    ]
+  },
+  {
+    "Number": 557,
+    "Text": "Neyronning usimta soniga karab klassifikatsiyasi (4):",
+    "Answers": [
+      "unipolyar – bir usimtali, embrion rivojlanish davrida buladi",
+      "bipolyar – bitta akson va bitta dendritdan iborat",
+      "multipolyar – bitta akson va bir nechta dendritdan iborat",
+      "psevdounipolyar yeki yelgon usimtalar xujayra tanasidan chikib, akson va dendritni u umumiy glial parda bilan uraydi"
+    ],
+    "Options": [
+      "unipolyar – bitta akson va bitta dendritdan iborat",
+      "multipolyar – kup usimtalarga ega aksonlardan iborat",
+      "psevdounipolyar –usimtalari yuk",
+      "bipolyar- bitta akson va bir nechta dendritdan iborat"
+    ]
+  },
+  {
+    "Number": 558,
+    "Text": "Aksonning tuzilishi (4):",
+    "Answers": [
+      "shoxlanmayd",
+      "butun uzunligi buyicha bir xil yunalishga ega",
+      "oxiri konussimon kengayib akson tepaligi xosil kiladi",
+      "aksonda elektron mikroskop ostida kopgina neyrofilamentlarni va mikronaychalarni, sillik endoplazmatik torni boylama kristali mitoxondriyalarni korish mumkin"
+    ],
+    "Options": [
+      "donador endoplazmatik tur va Goldji kompleksi yaxshi rivojlangan",
+      "retseptordan neyron tanasiga impuls olib boradi",
+      "kop mikdorda shoxlanadi",
+      "boy-boyiga kalinligi bir xil emas, sinaps xosil buladigan joyda bortmalar  mavjud"
+    ]
+  },
+  {
+    "Number": 559,
+    "Text": "Dendritning tuzilishi (4):",
+    "Answers": [
+      "shoxlanadi",
+      "boy-buyiga bir xil yogonlikka ega bolmay, bazi joylarda sinaps dombogi xosil boladi",
+      "elektron mikroskopda dendritlarda mikronaychalar kam mikdorda neyrofilament, mitoxondriya, silliq va donador endoplazmatik tor, ribosoma korinadi",
+      "neyron tanasiga impuls olib keladi"
+    ],
+    "Options": [
+      "shoxlanmaydi",
+      "boyi-buyiga bir xil yogonlikka ega",
+      "boshlanish qismida konussimon kengayma xosil kiladi",
+      "neyron tanasidan impuls olib ketadi."
+    ]
+  },
+  {
+    "Number": 560,
+    "Text": "Neyrosekretor xujayralarning tuzilishi (4):",
+    "Answers": [
+      "ikki yoki undan ortik yadro tutadi",
+      "xamma osimtalarning boshida donador endoplazmatik tor va Goldji kompleksi bolib, aksonni dendritdan ajratish qiyin",
+      "mitoxondriya kristalari naysimon",
+      "xujayra sitoplazmasida lizosoma va mulvezikulyar tanachalar boladi"
+    ],
+    "Options": [
+      "ozida 10 ga yaqin yadro tutadi",
+      "akson va dendrit osiqlari aniq farqlanadi",
+      "mitoxondriya kristalari bortmalar shaklida",
+      "xujayra neyroplazmasida lizosoma bolmaydi"
+    ]
+  },
+  {
+    "Number": 561,
+    "Text": "Makrogliya funksiyalari (4):",
+    "Answers": [
+      "tayanch",
+      "trofik",
+      "ximoya",
+      "chegaralovchi – boshka toqimalardan ajratib turadi"
+    ],
+    "Options": [
+      "nerv tolalarining ajralishida ishtirok etadi",
+      "ekskretor (ependimogliya) vazifa bajaradi",
+      "fagotsitoz",
+      "Impuls utkazish"
+    ]
+  },
+  {
+    "Number": 562,
+    "Text": "Mikrogliya xususiyatlari (4):",
+    "Answers": [
+      "kondagi monotsitlardan rivojlanadi",
+      "notogri shakldagi xujayralar",
+      "amebasimon xarakatlanish natijasida xujayra shaklini uzgartiradi",
+      "fagotsitoz xususiyatiga ega"
+    ],
+    "Options": [
+      "xujayra tasirlanganda usimtalari chuzilib kattalashadi",
+      "tayanch funksiyasini bajaradi",
+      "ximoya funksiyasini bajaradi",
+      "fagotsitoz xususiyatiga ega emas."
+    ]
+  },
+  {
+    "Number": 563,
+    "Text": "Sinaps - neyronlararo sinaps klassifikatsiyasi (4):",
+    "Answers": [
+      "aksondendritik - birinchi neyronning aksonniikkinchi neyron dendriti bilan sinaps xosil kilishi",
+      "aksonatik - birinchi neyronning aksoni ikkinchi neyronning tanasida tugaydi",
+      "aksoaksonal - birinchi neyron aksoni ikkinchi neyron aksoniga tutashadi",
+      "presinaptik kismda - akson oxirida kengayma xosil kiladi"
+    ],
+    "Options": [
+      "postsinaptik kism - presinaptik membrana davomi",
+      "sinaps bushligi - pre- va postsinaptik orasida joylashgan kengligi 100nm bulgan bushlik",
+      "aksoaksonal sinaps kuzgatuvchi sinaps",
+      "aksodendritik sinaps - tormozlovchi sinaps"
+    ]
+  },
+  {
+    "Number": 564,
+    "Text": "Sinapsning kimeviy mediatorlar tarkibiga kura turlari (4):",
+    "Answers": [
+      "xolinergik - atsetilxolin ajratadi",
+      "adrenergik ajratadi - adrenalin va noradrenalin ajratadi",
+      "peptidergik - mediator sifatida xar xil peptidlar ajratadi",
+      "purinergik - mediator vazifasini ATF va uning maxsuloti bajaradi"
+    ],
+    "Options": [
+      "sinapslar mediator sifatida xar xil monosaxaridlar ajratadi",
+      "Ye.xolinergik - Noradrenalin va adrenalin ajratadi",
+      "J.adrenergik - atsetilxolin ajratadi",
+      "Z.purinergik - mediator sifatida purin kislota ajratadi"
+    ]
+  },
+  {
+    "Number": 565,
+    "Text": "Miyelinsiz nerv tolalaridan impulsning otish tezligi:",
+    "Answers": [
+      "1-2 m/s"
+    ],
+    "Options": [
+      "5-120 m/s",
+      "20-30 m/s",
+      "50-100 m/s",
+      "30-40 m/s"
+    ]
+  },
+  {
+    "Number": 566,
+    "Text": "Miyelinli nerv tolalaridan impulsning otish tezligi:",
+    "Answers": [
+      "5-120 m/s"
+    ],
+    "Options": [
+      "30-40 m/s",
+      "10-20 m/s",
+      "1-2 sm/s",
+      "3-5m/s"
+    ]
+  },
+  {
+    "Number": 567,
+    "Text": "Nerv tolasini hosil qilishda ishtirok etadi:",
+    "Answers": [
+      "neyrolemmotsitlar"
+    ],
+    "Options": [
+      "ependimotsitlar",
+      "mikrogliotsitlar",
+      "tolali astrotsitlar",
+      "neyronlararo sinapslarda"
+    ]
+  },
+  {
+    "Number": 568,
+    "Text": "Ranve bogiqlari uchraydi:",
+    "Answers": [
+      "miyelinli nerv tolasida"
+    ],
+    "Options": [
+      "miyelinsiz nerv tolasida",
+      "erkin nerv oxirlarida",
+      "impuls otkazmaslik"
+    ]
+  },
+  {
+    "Number": 569,
+    "Text": "Kabel tipidagi nerv tolalarini hosil qiladi:",
+    "Answers": [
+      "miyelinsiz nerv tolalari"
+    ],
+    "Options": [
+      "miyelinli nerv tolalari",
+      "perinevriy",
+      "endonevriy"
+    ]
+  },
+  {
+    "Number": 570,
+    "Text": "Miyelinli nerv tolalari uchun xos:",
+    "Answers": [
+      "impulsning sakrab-sakrab saltator otkazilishi"
+    ],
+    "Options": [
+      "impulsning bir tekisda otkazilishi",
+      "impulsning sekin otkazilishi",
+      "impuls otkazmaslik",
+      "Yonma-yon yonalishga ega bolgan venalarga nisbatan elastik tolalar koproq tutadi."
+    ]
+  },
+  {
+    "Number": 571,
+    "Text": "Mushak tipidagi arteriya uchun xos emas:",
+    "Answers": [
+      "Tashqi elastik membrana ichkisidan kuchliroq rivojlangan;"
+    ],
+    "Options": [
+      "Orta qavatida spiral yonalgan silliq mushak hujayralari tutadi;",
+      "Andventitsiya qavatida kop miqdaoda nerv tolalari tutadi;",
+      "Azolarda qon oqishi tezligini nazorat qiladi;",
+      "Yonma-yon yonalishga ega bolgan venalarga nisbatan elastik tolalar koproq tutadi."
+    ]
+  },
+  {
+    "Number": 572,
+    "Text": "Elastik tipidagi arteriya uchun xos emas:",
+    "Answers": [
+      "Endoteliy osti qavatida silliq mushak hujayralari gurux bolib joylashgan;"
+    ],
+    "Options": [
+      "Ichki va orta qavatlar chegarasida kuchli elastik tolalar qavati joylashgan;",
+      "Endoteliy osti qavati zich tolali shakllangan biriktiruvchi toqimadan iborat;",
+      "Orta qavatida darchali elastik membranalar tutadi;",
+      "Orta qavatdagi silliq mushak hujayralari elastin va kollagen sintezlaydi."
+    ]
+  },
+  {
+    "Number": 573,
+    "Text": "Aortaning tashqi devoriga xos emas:",
+    "Answers": [
+      "Vasa vasorum  tutmaydi;"
+    ],
+    "Options": [
+      "Elastik va kollagen tolalar tutamlari boylama yoki spiral joylashgan;",
+      "Nerv tolalar va nerv oxirlari bor;",
+      "Tolali biriktiruvchi toqima hujayralarini tutadi.",
+      "hamma javoblar togri"
+    ]
+  },
+  {
+    "Number": 574,
+    "Text": "Arteriolalar uchun xos emas:",
+    "Answers": [
+      "Tashqi qavatini Vasa vasorum qon bilan taminlaydi;"
+    ],
+    "Options": [
+      "Ichki elastik membranasi endoteliy hujayralarini silliq mushak hujayralaridan ajratadi;",
+      "Boshligining torayishi silliq mushak hujayralarining qisqarishi hisobiga amalga oshadi;",
+      "Silliq mushak hujayrlari angiotenzin-II retseptorlarini tutadi;",
+      "Kapillyarlarga davom etadi."
+    ]
+  },
+  {
+    "Number": 575,
+    "Text": "Elastik tipdagi arteriyaga xos emas:",
+    "Answers": [
+      "Peritsitlar;"
+    ],
+    "Options": [
+      "Silliq mushak hujayralari;",
+      "Elastik membranalar;",
+      "Elastik tolalar;",
+      "Fibroblastlar."
+    ]
+  },
+  {
+    "Number": 576,
+    "Text": "Mikrotsirkulyator oqimga xos emas:",
+    "Answers": [
+      "AVA devorida silliq mushak hujayralari bolmaydi;"
+    ],
+    "Options": [
+      "Prekapillyar sfinkterlar kapillyarlarda qon oqish tezligini boshqaradi;",
+      "Barcha tomirlardagi qonning oqish hajmini arteriolalar devoridagi silliq mushak hujayralarining tonusi boshqaradi;",
+      "Prekapillyar arteriola va postkapillyar venulalardan tashkil topgan;",
+      "AVA mayda arteriya va venalarni ozaro boglaydi."
+    ]
+  },
+  {
+    "Number": 577,
+    "Text": "Fenestrlangan endoteliyga ega kapillyarlarga xos emas:",
+    "Answers": [
+      "Fenestrlar enoteliy hujayralar orasidagi yoriq;"
+    ],
+    "Options": [
+      "Endokrin bezlarda uchraydi;",
+      "Fenestrlar endoteliy orqali moddalar transportini osonlashtiradi;",
+      "Pinotsitoz pufakchalar endoteliy orqali chiqindilarni transport qiladi;",
+      "Uzluksiz bazal membranaga ega."
+    ]
+  },
+  {
+    "Number": 578,
+    "Text": "Kapillyardarga xos emas:",
+    "Answers": [
+      "Tarkibidagi silliq mushak hujayrlari qon bosimini boshqaradi."
+    ],
+    "Options": [
+      "Organizmda ularning uzluksiz hosil bolishi roy beradi;",
+      "Peritsitlar tutadi;",
+      "Uzluksiz endoteoiyli kapillyarlar yaxlit bazal membranaga ega;",
+      "Sinusoid tipdagi kapillyarlar qon yaratuvchi azolarda joylashgan;"
+    ]
+  },
+  {
+    "Number": 579,
+    "Text": "Gemato-ensefalik barer hosil boladi:",
+    "Answers": [
+      "Sinusoid tipdagi kapillyarlarning endoteliysidan."
+    ],
+    "Options": [
+      "Uzluksiz endoteliy va oligodendrotsitlarning osimtalaridan iborat;",
+      "Astrotsitlarning oyoqchalaridan;",
+      "Uzluksiz endoteliydan;",
+      "Fenestrlangan endoteliydan;"
+    ]
+  },
+  {
+    "Number": 580,
+    "Text": "Kapillyarlarning endoteliysiga xos emas:",
+    "Answers": [
+      "Oraliq filamentlari sitokeratinlardan iborat;"
+    ],
+    "Options": [
+      "Pinotsitoz pufakchalar tutadi;",
+      "Miyada zich kontakt yoli bilan tutashgan;",
+      "Bazal membrana bilan yarim desmosomalar yordamida birlashgan;",
+      "Angiogen omillarga nisbatan retseptorlar tutadi."
+    ]
+  },
+  {
+    "Number": 581,
+    "Text": "Endoteliy hujayralariga xos emas:",
+    "Answers": [
+      "Silliq mushak hujayralarining tonusini boshqaradi;"
+    ],
+    "Options": [
+      "Mezenximadan hosil boladi;",
+      "Kopayuvchi hujayra populyatsiyasi;",
+      "Trombotsitlarning adgeziyasiga tosqinlik qiladi;",
+      "Villibrand faktorini sintezlaydi."
+    ]
+  }
+]

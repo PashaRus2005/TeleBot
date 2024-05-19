@@ -1,0 +1,7723 @@
+﻿[
+  {
+    "Number": 1,
+    "Text": "Yangi tugilgan chaqaloqda nafas soni qancha buladi",
+    "Answers": [
+      "40-50"
+    ],
+    "Options": [
+      "20-40",
+      "60-80",
+      "80-100",
+      "120-140"
+    ]
+  },
+  {
+    "Number": 2,
+    "Text": "normal tugilgan bolaning kokrak aylanasi",
+    "Answers": [
+      "32-34 sm"
+    ],
+    "Options": [
+      "34-36 sm",
+      "36-38 sm",
+      "38-40 sm",
+      "28-30 sm"
+    ]
+  },
+  {
+    "Number": 3,
+    "Text": "Fiziologik shartsiz reflekslarga kirmaydigan refleksni korsating:",
+    "Answers": [
+      "korneal"
+    ],
+    "Options": [
+      "sorish",
+      "emaklash",
+      "tayanch",
+      "himoya"
+    ]
+  },
+  {
+    "Number": 4,
+    "Text": "Apgar shkalasi boyicha chaqaloqlar  yurak urishi  2 ball bilan baxolanganda, yurak urish sonini",
+    "Answers": [
+      "100 va undan kop"
+    ],
+    "Options": [
+      "100 dan kam",
+      "80 dan 100 gacha",
+      "80 dan kam",
+      "60 dan kam"
+    ]
+  },
+  {
+    "Number": 5,
+    "Text": "Chaqaloqlik davri tugilgan kundan –qaysi kungacha davom etadi:",
+    "Answers": [
+      "xayotining 28 kuni"
+    ],
+    "Options": [
+      "30 kuni",
+      "xayotining 40 kuni",
+      "xayotining birinchi 7 kunligi",
+      "xayotining birinchi 10 kunligi"
+    ]
+  },
+  {
+    "Number": 6,
+    "Text": "Erta neonatal davrni davomiyligini korsating:",
+    "Answers": [
+      "xayotining birinchi  7 kunligi"
+    ],
+    "Options": [
+      "xayotining birinchi 5 kunligi",
+      "tugilgandan 28 kunlikgacha",
+      "xayotining birinchi 10 kunligi",
+      "xayotining birinchi 15 kunligi"
+    ]
+  },
+  {
+    "Number": 7,
+    "Text": "Soglom tugilgan chaqaloqlarni Apgar shkalasi boyicha qanday baxolanadi:",
+    "Answers": [
+      "8-10 ball"
+    ],
+    "Options": [
+      "4-10 ball",
+      "3-8 ball",
+      "10-14 ball",
+      "12-14 ball"
+    ]
+  },
+  {
+    "Number": 8,
+    "Text": "Chaqaloqlarning tranzitor yoki chegaraviy xolatlariga quyidagilar kiradi:",
+    "Answers": [
+      "tana vaznini fiziologik kamayishi"
+    ],
+    "Options": [
+      "omfalit",
+      "chala tugilganlik",
+      "vezikulopustulez",
+      "tugma karlik"
+    ]
+  },
+  {
+    "Number": 9,
+    "Text": "Tana vaznini maksimal fiziologik kamayishi tashkil etadi (chaqaloq tana vaznini %):",
+    "Answers": [
+      "5-8%"
+    ],
+    "Options": [
+      "10%",
+      "2%",
+      "15%",
+      "13%"
+    ]
+  },
+  {
+    "Number": 10,
+    "Text": "Chala tugilgan bola belgilarini korsating:",
+    "Answers": [
+      "gestatsion yoshi 37 xaftadan kam, tana vazni 2500g  kam."
+    ],
+    "Options": [
+      "istalgan gestatsiya muddatida tugilgan, tugilganda tana vazni 2,5 kgdan kam.",
+      "muddatida tugilgan, tana vazni 2,5 kgdan kam",
+      "tana vazni 3,0 kg bilan  tugilgan bola",
+      "tana vazni 2,5 kg bilan  tugilgan bola"
+    ]
+  },
+  {
+    "Number": 11,
+    "Text": "YUNISEF ekspertlari xulosalariga kora kokrak suti bilan boqishning nechta",
+    "Answers": [
+      "10"
+    ],
+    "Options": [
+      "3",
+      "8",
+      "7",
+      "9"
+    ]
+  },
+  {
+    "Number": 12,
+    "Text": "Apgar shkalasi boyicha ogir asfiksiyani baholashda qoyiladigan ballni korsating:",
+    "Answers": [
+      "0-3 ball"
+    ],
+    "Options": [
+      "4-6 ball",
+      "2-5 ball",
+      "8 ball",
+      "3-7 ball"
+    ]
+  },
+  {
+    "Number": 13,
+    "Text": "Quyidagi sanab otilgan mikroorganizmlardan qaysi biri xomila ichi infektsiyalarga",
+    "Answers": [
+      "protey"
+    ],
+    "Options": [
+      "gerpes virusi",
+      "qizilcha virusi",
+      "gepatit virusi",
+      "qizamiq virusi"
+    ]
+  },
+  {
+    "Number": 14,
+    "Text": "Platsentaning funktsiyalarini korsating:",
+    "Answers": [
+      "transport va nafas olish"
+    ],
+    "Options": [
+      "fermentlarni xosil qilish",
+      "immunologik",
+      "qon xosil qilish",
+      "filtratsion"
+    ]
+  },
+  {
+    "Number": 15,
+    "Text": "Chaqaloqlar asfiksiyasida otqaziladigan reanimatsiyaning A-qadamini korsating:",
+    "Answers": [
+      "nafas olish yollarini otqazuvchanligini tiklash"
+    ],
+    "Options": [
+      "tashqi nafasni tiklash",
+      "gemodinamik buzilishlarni  korrektsiyasi",
+      "xarorat rejimi regulyatsiyasi",
+      "gemoglobinni kotarish"
+    ]
+  },
+  {
+    "Number": 16,
+    "Text": "Kokrak suti bilan boqishda ona tomonidan kuzatiladigan qiyinchiliklarni korsating:",
+    "Answers": [
+      "kokrak sorgichlarining notogri shakli"
+    ],
+    "Options": [
+      "quyon  labi",
+      "bori tanglagi",
+      "chalalik",
+      "katta  kokrak"
+    ]
+  },
+  {
+    "Number": 17,
+    "Text": "Chaqaloqlar asfiksiyasida otkaziladigan reanimatsiyaning B-qadamini korsating:",
+    "Answers": [
+      "tashqi nafasni tiklash"
+    ],
+    "Options": [
+      "nafas yollarini tiklash",
+      "metabolik buzilishlar korrektsiyasi",
+      "nafas yollarini tiklash va metabolik buzilishlar korrektsiyasi",
+      "nafas olish yollarini otqazuvchanligini tiklamaslik"
+    ]
+  },
+  {
+    "Number": 18,
+    "Text": "Chaqaloqlar asfiksiyasida otkaziladigan reanimatsiyaning S- qadamini korsating:",
+    "Answers": [
+      "gemodinamik va metabolik buzilishlarni davolash"
+    ],
+    "Options": [
+      "ogiz boshligini tozalash",
+      "tashqi nafasni tiklash",
+      "opkaning suniy ventilyatsiyasi",
+      "nafas olish yollarini otqazuvchanligini tiklash"
+    ]
+  },
+  {
+    "Number": 19,
+    "Text": "Chaqaloqning xolatini birlamchi baholaydigan shkalani korsating:",
+    "Answers": [
+      "Apgar shkalasi"
+    ],
+    "Options": [
+      "Kramer shkalasi",
+      "Sil`verman shkalasi",
+      "Dubovich shkalasi",
+      "Botkin shkalasi"
+    ]
+  },
+  {
+    "Number": 20,
+    "Text": "Shartsiz fiziologik reflekslarga kirmaydi:",
+    "Answers": [
+      "Grefe simptomi"
+    ],
+    "Options": [
+      "tayanch refleksii",
+      "sorish refleksi",
+      "ximoya refleksi",
+      "Moro refleksi"
+    ]
+  },
+  {
+    "Number": 21,
+    "Text": "Chaqaloqlik davri fiziologik xolatlariga kirmaydi:",
+    "Answers": [
+      "omfalit"
+    ],
+    "Options": [
+      "fiziologik sariqlik",
+      "buyrak siydik infarct",
+      "jinsiy kriz",
+      "tranzitor disbakterioz"
+    ]
+  },
+  {
+    "Number": 22,
+    "Text": "Chaqaloqlik davri tugilgan kundan –qaysi kungacha davom etadi:",
+    "Answers": [
+      "xayotining 28 kuni"
+    ],
+    "Options": [
+      "30 kuni",
+      "xayotining 40 kuni",
+      "xayotining birinchi 7 kunligi",
+      "xayotining birinchi 10 kunligi"
+    ]
+  },
+  {
+    "Number": 23,
+    "Text": "Bola hayotining birinchi oyligida necha marotaba emizilishini korsating:",
+    "Answers": [
+      "bola talabiga kora, kunduzi va kechqurun"
+    ],
+    "Options": [
+      "xar 3 soatda",
+      "xar 3 soatda, kechqurun tanaffus bilan",
+      "sutkada 5-6 mahal",
+      "har  8 soatda"
+    ]
+  },
+  {
+    "Number": 24,
+    "Text": "Yetuk tugilgan chaqaloqlarda fiziologik sariqlik muddati davom etadi:",
+    "Answers": [
+      "2 xafta"
+    ],
+    "Options": [
+      "3 xaftagacha",
+      "kuzatilmaydi",
+      "4 xaftagacha",
+      "5 haftagacha"
+    ]
+  },
+  {
+    "Number": 25,
+    "Text": "Ikki kunlik chaqaloqning gemoglobin korsatkichini korsating:",
+    "Answers": [
+      "180-240 g/l"
+    ],
+    "Options": [
+      "90-110 g/l",
+      "100-140 g/l",
+      "110-130 g/l",
+      "80-120 g/l"
+    ]
+  },
+  {
+    "Number": 26,
+    "Text": "Opportunistik infektsiyalarga kiradigan mikroorganizmni korsating:",
+    "Answers": [
+      "kox tayoqchasi"
+    ],
+    "Options": [
+      "difteriya",
+      "qizilcha",
+      "qoqshol",
+      "kok yotal"
+    ]
+  },
+  {
+    "Number": 27,
+    "Text": "Gipogalaktiyada laktatsiyani oshiruvchi usullarni sanab oting:",
+    "Answers": [
+      "tez-tez kokrakga qoyish va bola «talab qilganda» emizish"
+    ],
+    "Options": [
+      "tanaffus bilan bolani emizish",
+      "onani emizish vaqtini chegaralanishi",
+      "qoshimcha butilkadan emizishni kiritish",
+      "homiladorlik"
+    ]
+  },
+  {
+    "Number": 28,
+    "Text": "Opportunistik infektsiyalarga kiritilgan mikroorganizmni korsating:",
+    "Answers": [
+      "gerpes"
+    ],
+    "Options": [
+      "protey",
+      "sitomegaliya",
+      "stafillokokk",
+      "streptokok"
+    ]
+  },
+  {
+    "Number": 29,
+    "Text": "Chaqaloqlar sariqligini baxolash (shkalani avtori) qanday nomlanadi:",
+    "Answers": [
+      "Kramer shkalasi"
+    ],
+    "Options": [
+      "Apgar shkalasi",
+      "Sil`verman shkalasi",
+      "Dubovich shkalasi",
+      "botkin shkalasi"
+    ]
+  },
+  {
+    "Number": 30,
+    "Text": "BTSJni birinchi vaktsinatsiyasi vaqtini korsating:",
+    "Answers": [
+      "xayotining 3-5 kuni"
+    ],
+    "Options": [
+      "xayotining 12-13 kuni",
+      "xayotining 6-kuni",
+      "xayotining7-8-kuni",
+      "xayotining 9-11 kuni"
+    ]
+  },
+  {
+    "Number": 31,
+    "Text": "Soglom tugilgan chaqaloqning tugilgandagi tana vazni 3 kg, xayotining 5-kuni vazni 150",
+    "Answers": [
+      "5 %"
+    ],
+    "Options": [
+      "10%",
+      "7 %",
+      "3%",
+      "2%"
+    ]
+  },
+  {
+    "Number": 32,
+    "Text": "Apgar shkalasi buyicha orta darajadagi asfiksiya qanday baxolanishini korsating:",
+    "Answers": [
+      "4-6 ball"
+    ],
+    "Options": [
+      "8-10 ball",
+      "3-5 ball",
+      "0-3 ball",
+      "1-2 ball"
+    ]
+  },
+  {
+    "Number": 33,
+    "Text": "Apgar shkalasi boyicha ogir darajadagi asfiksiya qanday baxolanishini korsating:",
+    "Answers": [
+      "0-3 ball"
+    ],
+    "Options": [
+      "3-6 ball",
+      "2-5 ball",
+      "5 ball",
+      "1-2 ball"
+    ]
+  },
+  {
+    "Number": 34,
+    "Text": "Birinchi darajali gipotrofiya uchun xarakterli tana vazni defitsiti xisoblanadi:",
+    "Answers": [
+      "11-20%"
+    ],
+    "Options": [
+      "5%",
+      "10%",
+      "21-30%",
+      "30-40%"
+    ]
+  },
+  {
+    "Number": 35,
+    "Text": "Chaqaloqlar fiziologik sariqligida eng effektiv  usul xisoblanadi:",
+    "Answers": [
+      "kokrak suti bilan emizish"
+    ],
+    "Options": [
+      "fermentoterapiya",
+      "refleksoterapiya",
+      "antibiotikoterapiya",
+      "gidroterapiya"
+    ]
+  },
+  {
+    "Number": 36,
+    "Text": "Chaqaloqlar gemolitik  kasalligining asosiy sababi xisoblanadi:",
+    "Answers": [
+      "rezus-faktor boyicha tugri kelmaslik"
+    ],
+    "Options": [
+      "xomila ichi infektsiyasi",
+      "kindikni erta boglanishi",
+      "gemotransfuziya",
+      "TORCH-infeksiya"
+    ]
+  },
+  {
+    "Number": 37,
+    "Text": "Chala tugilgan chaqaloqlardi fiziologik sariqlik qancha davom etishi mumkin:",
+    "Answers": [
+      "3-xaftagacha"
+    ],
+    "Options": [
+      "5 xafta",
+      "4 xafta",
+      "6 xafta",
+      "7 xafta"
+    ]
+  },
+  {
+    "Number": 38,
+    "Text": "Chaqaloqlarda jinsiy kriz korinishi qanday:",
+    "Answers": [
+      "mastit"
+    ],
+    "Options": [
+      "omfalit",
+      "uveit",
+      "buyrak siydik infarkti",
+      "mensturatsiya"
+    ]
+  },
+  {
+    "Number": 39,
+    "Text": "Chaqaloqlarda jinsiy kriz qanday korinishda boladi:",
+    "Answers": [
+      "metroragiyalar"
+    ],
+    "Options": [
+      "tana vazni maksimal kamayishi",
+      "ichak katari",
+      "sklerema",
+      "sariqlik"
+    ]
+  },
+  {
+    "Number": 40,
+    "Text": "Ona tomonidan bolani kokrak suti bilan emizishga absolyut qarshi korsatma:",
+    "Answers": [
+      "SPID"
+    ],
+    "Options": [
+      "onaning otkir infektsiyalari",
+      "surunkali somatik kasalliklarni qozishi",
+      "gipertermiya",
+      "kichik kokrak"
+    ]
+  },
+  {
+    "Number": 41,
+    "Text": "Kokrak suti bilan emizishni afzalliklariga kiradi:",
+    "Answers": [
+      "infektsiyadan ximoya"
+    ],
+    "Options": [
+      "allergiyaga moyillik",
+      "ichak disfunkiyalari",
+      "paratrofiya",
+      "gipotrofiya"
+    ]
+  },
+  {
+    "Number": 42,
+    "Text": "Bolani erta suniy ovkatlantirishda rivojlanishi mumkin:",
+    "Answers": [
+      "ichak disfunktsiyasi"
+    ],
+    "Options": [
+      "psixomotor rivojlanishi meyorda",
+      "statistik funktsiyalarning rivojlanishi oldinda",
+      "ona bilan mustaxkam boglanishi",
+      "immun tanqislik"
+    ]
+  },
+  {
+    "Number": 43,
+    "Text": "Oksitotsin refleksini vazifasi quyidagicha:",
+    "Answers": [
+      "emizish vaqtida  laktatsiyani kuchaytirish"
+    ],
+    "Options": [
+      "emizishdan  keyin  laktatsiyani kuchaytirish",
+      "laktatsiyani pasaytirish",
+      "bachadon qisqarishiga tosqinlik qilish",
+      "kokrakni kattalashtirish"
+    ]
+  },
+  {
+    "Number": 44,
+    "Text": "Prolaktin refleksini vazifasi xisoblanadi:",
+    "Answers": [
+      "emizishdan keyin laktatsiyani kuchaytirish (sekretsiya), ayniksa kechqurun"
+    ],
+    "Options": [
+      "emizish vaqtida laktatsiyani kuchaytirish",
+      "laktatsiyani tormozlash",
+      "laktatsiyani toxtatish",
+      "kokrakni kattalashtirish"
+    ]
+  },
+  {
+    "Number": 45,
+    "Text": "Kokrak suti bilan emizishni afzalliklariga kiradi:",
+    "Answers": [
+      "tolaqonli ovqatlanish"
+    ],
+    "Options": [
+      "kop kazein tutadi",
+      "mikroelementlar miqdori yetishmaydi",
+      "bakteritsid xususiyatga ega emas",
+      "kokrakni kattalashtirish"
+    ]
+  },
+  {
+    "Number": 46,
+    "Text": "Kokrak suti bilan emizishni afzalliklariga kirmaydi:",
+    "Answers": [
+      "oqishida kamchiliklar"
+    ],
+    "Options": [
+      "sterillik",
+      "tolaqonli ovkatlanish",
+      "infeksiyadan ximoya",
+      "immunitet"
+    ]
+  },
+  {
+    "Number": 47,
+    "Text": "Kokrak sutini afzalliklari sigir sutidan qanday farqlanadi:",
+    "Answers": [
+      "albumin korinishidagi oqsillarning yengil xazm bolishi"
+    ],
+    "Options": [
+      "toyingan yog kislotalarning yuqori tarkibda bolishi",
+      "energetik qiymatining pastligi",
+      "immunoglobulin A kontsentratsiyasining pastligi",
+      "stirilligi"
+    ]
+  },
+  {
+    "Number": 48,
+    "Text": "Ona suti  afzalliklariga kiradi",
+    "Answers": [
+      "toyinmagan yog kislotalarning kop miqdorda bolishi"
+    ],
+    "Options": [
+      "toyinmagan yog kislotalarning kam miqdorda bolishii",
+      "a-laktoza tutishi",
+      "yirik dispersli kazein tutishi",
+      "stirilligi"
+    ]
+  },
+  {
+    "Number": 49,
+    "Text": "Kokrak suti bilan emizishda bola tomonidan absolyut qarshi korsatma bolib xisoblanadi :",
+    "Answers": [
+      "bosh miya tugma jaroxati, asfiksiya"
+    ],
+    "Options": [
+      "otit",
+      "lablar va qattiq tanglay yirtilganligi",
+      "til boylamining qisqaligi",
+      "tishsizlik"
+    ]
+  },
+  {
+    "Number": 50,
+    "Text": "Kokrak suti bilan emizishni afzalliklariga kiradi:",
+    "Answers": [
+      "bola psixomotor rivojlanishining tez kotarilishi"
+    ],
+    "Options": [
+      "diareyaga moyillik",
+      "paratrofiya",
+      "tosatdan olim xolati xavfi",
+      "gipogonadizm"
+    ]
+  },
+  {
+    "Number": 51,
+    "Text": "Kokrak suti bilan emizish uchun qarshi korsatma bola olmaydi (ona tomonidan):",
+    "Answers": [
+      "tugruqdan keyingi depressiya"
+    ],
+    "Options": [
+      "tuberkulezning ochiq shakli",
+      "buyrak, qon va yurak kasalliklarining dekompensirlangan shakllari",
+      "xavfli osmalar",
+      "OIV"
+    ]
+  },
+  {
+    "Number": 52,
+    "Text": "Apgar shkalasini baxolash  kriteriylariga kirmaydi:",
+    "Answers": [
+      "chalalik darajasi"
+    ],
+    "Options": [
+      "yurak urish chastotasi",
+      "nafas olish chastotasi",
+      "mushak tonusi",
+      "teri rangi"
+    ]
+  },
+  {
+    "Number": 53,
+    "Text": "Chala tugilganlik morfologik belgilariga kiradi:",
+    "Answers": [
+      "tana vazni kamligi"
+    ],
+    "Options": [
+      "jigarni funktsional yetilmaganligi",
+      "nafas buzilish sindromi",
+      "toksik eritema",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 54,
+    "Text": "Chala tugilganlik morfologik belgilariga kiradi:",
+    "Answers": [
+      "tana tuzilishi proportsional emasligi"
+    ],
+    "Options": [
+      "gipotermiyaga moyillik",
+      "nafas tezlashgani ( taxipnoe)",
+      "tez-tez qusishi (qalqishi)",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 55,
+    "Text": "Chaqaloqlar fiziologik shartsiz reflekslarini korsating(oral avtomatizm):",
+    "Answers": [
+      "qidiruv"
+    ],
+    "Options": [
+      "emaklash",
+      "avtomati yurish",
+      "ximoya",
+      "babinskiy"
+    ]
+  },
+  {
+    "Number": 56,
+    "Text": "Chaqaloqlar fiziologik shartsiz reflekslarini korsating (spinal avtomatizm):",
+    "Answers": [
+      "ximoya"
+    ],
+    "Options": [
+      "qidiruv",
+      "surish",
+      "xartum",
+      "emaklash"
+    ]
+  },
+  {
+    "Number": 57,
+    "Text": "Chala tugilgan Chaqaloq  1 darajasi qanday vaznga ega:",
+    "Answers": [
+      "2500-2001"
+    ],
+    "Options": [
+      "2000-1501",
+      "1500-1000",
+      "1000 dan kam",
+      "3000-2501"
+    ]
+  },
+  {
+    "Number": 58,
+    "Text": "Tugruqxonada Chaqaloqlarga qilinadigan vaktsinatsiya turini korsating:",
+    "Answers": [
+      "VGV,BTSJ, OPV"
+    ],
+    "Options": [
+      "AKDS,KPK",
+      "PENTAVAKS, VGA",
+      "KKV, ADS-M",
+      "AKDS, ADS-M"
+    ]
+  },
+  {
+    "Number": 59,
+    "Text": "2 daraja chala tugilgan Chaqaloq tana vazni:",
+    "Answers": [
+      "2000-1501"
+    ],
+    "Options": [
+      "2500-2001",
+      "1500-1000",
+      "1000 dan kam",
+      "3000-2501"
+    ]
+  },
+  {
+    "Number": 60,
+    "Text": "3 daraja chala tugilgan Chaqaloq tana vazni:",
+    "Answers": [
+      "1500-1000"
+    ],
+    "Options": [
+      "2500-2001",
+      "2000-1501",
+      "1000 dan kam",
+      "3000-2501"
+    ]
+  },
+  {
+    "Number": 61,
+    "Text": "3 oylik bola:",
+    "Answers": [
+      "Moro  refleksi saqlangan"
+    ],
+    "Options": [
+      "Reflektor emaklash sinxron saqlangan",
+      "orqasidan yon tomoniga agdariladi",
+      "yoruglik qarab ogiriladi.",
+      "izlash."
+    ]
+  },
+  {
+    "Number": 62,
+    "Text": "4 daraja chala tugilgan chaqaloq tana vazni:",
+    "Answers": [
+      "1000 dan kam"
+    ],
+    "Options": [
+      "2500-2001",
+      "2000-1501",
+      "1500-1000",
+      "3000-2501"
+    ]
+  },
+  {
+    "Number": 63,
+    "Text": "Faqat kokrak suti bilan emizish - bu:",
+    "Answers": [
+      "faqat ona suti bilan emizish"
+    ],
+    "Options": [
+      "ona va donor suti bilan",
+      "ona suti +qaynatilgan suv",
+      "ona suti+soklar"
+    ]
+  },
+  {
+    "Number": 64,
+    "Text": "Oz vaqtida tugilgan soglom Chaqaloqning tana vazni teng:",
+    "Answers": [
+      "2500-4000"
+    ],
+    "Options": [
+      "2500- 2001",
+      "2000-1500",
+      "1500-1000",
+      "3000-3501"
+    ]
+  },
+  {
+    "Number": 65,
+    "Text": "Kokrak bilan emizishga absolyut qarshi korsatma bolib xisoblanadi:",
+    "Answers": [
+      "onada tuberkulezni ochiq shakli"
+    ],
+    "Options": [
+      "onada yurak kon-tomir kasalliklari",
+      "onada buyrak kasalliklari",
+      "onada URVI",
+      "TORCH-infeksiya"
+    ]
+  },
+  {
+    "Number": 66,
+    "Text": "Bolaning  ogiz burchaklarini silaganda lablarining pasayishi, tilning chetlarini boshini silagandan keyin tomonga yonalishi kuzatiladi:",
+    "Answers": [
+      "kidiruv."
+    ],
+    "Options": [
+      "Babkin refleksii",
+      "Galanta refleksii",
+      "Xartumcha refleksii",
+      "Moro refleksi"
+    ]
+  },
+  {
+    "Number": 67,
+    "Text": "Chalalikga olib keluvchi sotsial-biologik faktorni kursating:",
+    "Answers": [
+      "onaning yoshi (17 dan kichik, 35 dan katta)"
+    ],
+    "Options": [
+      "onaning zararli odatlari",
+      "onaning ekstragenital kasalliklari",
+      "onada buyrak-siydik tizimi surunkali kasalliklari",
+      "katta yoshdagi ota"
+    ]
+  },
+  {
+    "Number": 68,
+    "Text": "Chalalikga olib keluvchi sotsial-ekonomik faktorni kursating:",
+    "Answers": [
+      "zararli odatlari"
+    ],
+    "Options": [
+      "onaning yoshi",
+      "gestozlar",
+      "oldingi abortlar",
+      "otaning yoshi"
+    ]
+  },
+  {
+    "Number": 69,
+    "Text": "Chalalikga olib keluvchi klinik faktorlarni kursating:",
+    "Answers": [
+      "4 xaftadan kup kuzatiladigan gestozlar"
+    ],
+    "Options": [
+      "onaning yoshi (17yoshdan kichik va 35 yoshdan katta)",
+      "chekish",
+      "narkotik va  alkogol qabul qilishi",
+      "otaning yoshi"
+    ]
+  },
+  {
+    "Number": 70,
+    "Text": "Bolaning ogziga asta urganda ogiz aylanasimon mushaklarining qisqarishi yuzaga kelib, lablarini chonchaytirib oladi",
+    "Answers": [
+      "Xartumcha refleksi"
+    ],
+    "Options": [
+      "Moro refleksi",
+      "Qorning refleksi",
+      "Orbiqulyar palpebral refleksi",
+      "surish."
+    ]
+  },
+  {
+    "Number": 71,
+    "Text": "Chalalik bolib tugilishga olib keluvchi sotsial-biologik faktorni kursating:",
+    "Answers": [
+      "onaning «defitsitli» oziklanishi"
+    ],
+    "Options": [
+      "gestozlar",
+      "professional zararliklari",
+      "onaning ekstragenital kasalliklari",
+      "otaning yoshi"
+    ]
+  },
+  {
+    "Number": 72,
+    "Text": "Chaqaloqda issiqlik zanjiri zvenosini sanab oting:",
+    "Answers": [
+      "teri-teriga kontakti"
+    ],
+    "Options": [
+      "xomiladorning tolaqonli oziqlanishi",
+      "kokrak suti bilan emizish",
+      "nasliy moyillik",
+      "nurlanish"
+    ]
+  },
+  {
+    "Number": 73,
+    "Text": "Chaqaloqda issiklik zanjiri zvenosini sanab uting:",
+    "Answers": [
+      "issik kiyim"
+    ],
+    "Options": [
+      "xomiladorning tulakonli oziklanishi",
+      "kokrak suti bilan emizish",
+      "nasliy moyillik",
+      "nurlanish"
+    ]
+  },
+  {
+    "Number": 74,
+    "Text": "Bola otirgan holatdan yotgan holatga bemalol otadi:",
+    "Answers": [
+      "6oylik"
+    ],
+    "Options": [
+      "2 yilligida",
+      "7 oyligida",
+      "8 oyligida",
+      "9 oylik"
+    ]
+  },
+  {
+    "Number": 75,
+    "Text": "Chaqaloqda issiklik zanjiri zvenosini sanab uting:",
+    "Answers": [
+      "yoruglik nuri issikligi"
+    ],
+    "Options": [
+      "xomiladorning  tolakonli oziqlanishi",
+      "kokrak suti bilan emizish",
+      "nasliy moyillik",
+      "nurlanish"
+    ]
+  },
+  {
+    "Number": 76,
+    "Text": "Ekstremal kam tana vazn bilan tugilgan bola qanday tana vazniga ega:",
+    "Answers": [
+      "1000 dan past"
+    ],
+    "Options": [
+      "2500-1500",
+      "1500-1000",
+      "2500-3000",
+      "5000"
+    ]
+  },
+  {
+    "Number": 77,
+    "Text": "Tugilganda juda kam tana vazniga ega bolgan bola tana massasi nechaga teng:",
+    "Answers": [
+      "1500-1000"
+    ],
+    "Options": [
+      "2500-1500",
+      "1000 dan past",
+      "2500-3000",
+      "500"
+    ]
+  },
+  {
+    "Number": 78,
+    "Text": "Chalalikning morfologik belgilariga kiradi:",
+    "Answers": [
+      "kop miqdorda lanugo"
+    ],
+    "Options": [
+      "surish refleksi sustligi",
+      "tana vaznini  fiziologik kup miqdorda yuqotishi",
+      "nafas olish xarakatlarining yuzakiligi",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 79,
+    "Text": "Chalalikning funksional belgilariga kiradi:",
+    "Answers": [
+      "surish refleksini sustligi"
+    ],
+    "Options": [
+      "tana tuzilishi noproportsionalligi",
+      "kup mikdorda lanugo",
+      "katta va kichik likildoklar ochikligi",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 80,
+    "Text": "Chalalikning morfologik belgilariga kiradi:",
+    "Answers": [
+      "quloq supralarini yumshoqligi, tirnoqlar yetilmaganligi"
+    ],
+    "Options": [
+      "yiglashi sustligi",
+      "mushak tonusi sustligi",
+      "xolsizlik, uyquchanlik",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 81,
+    "Text": "Chalalikning funksional belgilariga kiradi:",
+    "Answers": [
+      "xolsizlik, uykuchanlik"
+    ],
+    "Options": [
+      "tana tuzilishi noproportsionalligi",
+      "kop miqdorda lanugo",
+      "kala suyagining choklari ochiqligi",
+      "asfiksiya"
+    ]
+  },
+  {
+    "Number": 82,
+    "Text": "4 oylik bolani vaznini topish formulasini toping:",
+    "Answers": [
+      "TV+(800 x n(bolani yoshi oylarda))"
+    ],
+    "Options": [
+      "(800  6)+100 (n(bolani yoshi oylarda))-6)",
+      "10,5kg+2 xn(bolani yoshi oylarda))",
+      "TV+(200 xn(bolani yoshi oylarda)))"
+    ]
+  },
+  {
+    "Number": 83,
+    "Text": "Tugilganda juda kam tana vaznga ega chaqaloqlarni isitish usullariga kirmaydi:",
+    "Answers": [
+      "matrascha"
+    ],
+    "Options": [
+      "inkubator",
+      "issiklik nurlari",
+      "oldindan isitilgan kiyim",
+      "lampa"
+    ]
+  },
+  {
+    "Number": 84,
+    "Text": "1 darajali chalalik:",
+    "Answers": [
+      "2500-2000 gr"
+    ],
+    "Options": [
+      "1500-1000 gr",
+      "1000 dan kam",
+      "2500-3000gr",
+      "500gr"
+    ]
+  },
+  {
+    "Number": 85,
+    "Text": "4 oylik normal 50 sm tugilgandagi boyi uzunligi, xozirgi boyini uzunligini toping",
+    "Answers": [
+      "61,  5 sm"
+    ],
+    "Options": [
+      "58 sm",
+      "56 sm",
+      "65 sm"
+    ]
+  },
+  {
+    "Number": 86,
+    "Text": "Prenatal gipotrofiyaning II darajasini korsating",
+    "Answers": [
+      "15%-20%"
+    ],
+    "Options": [
+      "20%-30%",
+      "30 %-40%",
+      "40-50%",
+      "50% dan yuqori"
+    ]
+  },
+  {
+    "Number": 87,
+    "Text": "5 oylik normal 50 sm tugilgandagi boyi uzunligi, xozirgi boyini uzunligini toping",
+    "Answers": [
+      "64sm"
+    ],
+    "Options": [
+      "61,  5 sm",
+      "58 sm",
+      "56 sm",
+      "65 sm"
+    ]
+  },
+  {
+    "Number": 88,
+    "Text": "Yangi tugilgan chaqaloqlarning orqa miya uzunligi",
+    "Answers": [
+      "14 sm"
+    ],
+    "Options": [
+      "20 sm",
+      "30 sm",
+      "25 sm",
+      "10sm"
+    ]
+  },
+  {
+    "Number": 89,
+    "Text": "Yangi tugilgan chaqaloqlarning birinchi kunida qaysi holat kuzatiladi",
+    "Answers": [
+      "oligouriya"
+    ],
+    "Options": [
+      "poliuriya",
+      "anuriya",
+      "gemoturiya",
+      "pallakuriya"
+    ]
+  },
+  {
+    "Number": 90,
+    "Text": "1 yoshli bola bosh miyasi tana vaznini necha qismini egallaydi",
+    "Answers": [
+      "1/11-1/12"
+    ],
+    "Options": [
+      "1/15-1/15",
+      "1/40-1/41",
+      "1/50-I/55"
+    ]
+  },
+  {
+    "Number": 91,
+    "Text": "CHaqaloqlarda siydik miqdori ml-da:",
+    "Answers": [
+      "90-110 ml."
+    ],
+    "Options": [
+      "30-50 ml",
+      "60-80 ml",
+      "120-140 ml",
+      "150-170 ml"
+    ]
+  },
+  {
+    "Number": 92,
+    "Text": "Bolaning tana vazni 20-30% kamayib ketgan, gipotrofiya nechanchi  darajasi",
+    "Answers": [
+      "III daraja"
+    ],
+    "Options": [
+      "II daraja",
+      "I daraja",
+      "I daraja",
+      "IV daraja"
+    ]
+  },
+  {
+    "Number": 93,
+    "Text": "CHaqaloqlarda ogiz boshligi",
+    "Answers": [
+      "kichkina"
+    ],
+    "Options": [
+      "katta",
+      "chaynak mushaklari yaxshi",
+      "lab mushaklar yaxshi rivojlangan",
+      "tili kichik"
+    ]
+  },
+  {
+    "Number": 94,
+    "Text": "Bolalarda arterial bosimi aniqlash formulasini toping",
+    "Answers": [
+      "90+2n"
+    ],
+    "Options": [
+      "20+2n",
+      "50+2n",
+      "70+2n",
+      "30+2n"
+    ]
+  },
+  {
+    "Number": 95,
+    "Text": "Gipotrofiyani ekzogen sababini kursating:",
+    "Answers": [
+      "alimentar faktor"
+    ],
+    "Options": [
+      "OIT tugma rivojlanish nuksonlari",
+      "perinatal entsefalopatiya",
+      "endokrin kasalliklar",
+      "TORCH-infeksiya"
+    ]
+  },
+  {
+    "Number": 96,
+    "Text": "Gipotrofiyani endogen sababini kursating:",
+    "Answers": [
+      "OIT tugma rivojlanish nuksonlari"
+    ],
+    "Options": [
+      "alimentar faktor",
+      "infektsion faktor",
+      "toksik factor",
+      "TORCH-infeksiya"
+    ]
+  },
+  {
+    "Number": 97,
+    "Text": "Yangi tugilgan bolalarda 1 minutda nafas olish soni",
+    "Answers": [
+      "40-60"
+    ],
+    "Options": [
+      "60-75",
+      "20-25",
+      "18-20",
+      "30-35"
+    ]
+  },
+  {
+    "Number": 98,
+    "Text": "Gipotrofiyani ekzogen sababini kursating:",
+    "Answers": [
+      "anoreksiya"
+    ],
+    "Options": [
+      "perinatal entsefalopatiya",
+      "modda almashinuvi nasliy anomaliyalari",
+      "diatezlar",
+      "nasliy faktor"
+    ]
+  },
+  {
+    "Number": 99,
+    "Text": "Gipotrofiyani endogen sababini kursating:",
+    "Answers": [
+      "yurak kon-tomir rivojlanish tugma nuksonlari."
+    ],
+    "Options": [
+      "alimentar faktor",
+      "infektsiyalari",
+      "anoreksiya",
+      "diatezlar"
+    ]
+  },
+  {
+    "Number": 100,
+    "Text": "Gipotrofiyani ekzogen sababini kursating:",
+    "Answers": [
+      "toksik faktor"
+    ],
+    "Options": [
+      "perinatal entsefalopatiyalar",
+      "TYUN",
+      "immunodefitsit xolatlar",
+      "nasliy faktor"
+    ]
+  },
+  {
+    "Number": 101,
+    "Text": "Birinchi darajali gipotrofiya uchun xarakterli tana vazni defitsiti xisoblanadi:",
+    "Answers": [
+      "11-20%"
+    ],
+    "Options": [
+      "5%",
+      "10%",
+      "21-30%",
+      "30-40%"
+    ]
+  },
+  {
+    "Number": 102,
+    "Text": "Ikkinchi darajali gipotrofiya uchun tana vazni defitsiti:",
+    "Answers": [
+      "20-30%"
+    ],
+    "Options": [
+      "5%",
+      "15%",
+      "50%dan yuqori",
+      "30-40%"
+    ]
+  },
+  {
+    "Number": 103,
+    "Text": "Pulьs 1 yoshli bolada",
+    "Answers": [
+      "120"
+    ],
+    "Options": [
+      "140-160",
+      "120-140",
+      "90-100",
+      "80-90"
+    ]
+  },
+  {
+    "Number": 104,
+    "Text": "Uchinchi darajali gipotrofiya uchun xarakterli xisoblanadi:",
+    "Answers": [
+      "Osishdan toxtashi"
+    ],
+    "Options": [
+      "osishni buzilishi yoq",
+      "osishdan orqada qolish",
+      "norma",
+      "semizlik"
+    ]
+  },
+  {
+    "Number": 105,
+    "Text": "2 darajali gipotrofiya uchun xarakterli:",
+    "Answers": [
+      "qorinda va qol-oyoqlarda teri osti yog qavatining yoqligi"
+    ],
+    "Options": [
+      "Qorinda teri osti yog qavatining kamayishi",
+      "2Teri va kuruk suyak",
+      "tana massasi va boy uzunligining birgalikda kamayishi",
+      "semizlik"
+    ]
+  },
+  {
+    "Number": 106,
+    "Text": "Gipostatura-bu:",
+    "Answers": [
+      "tana massasi va buy uzunligining birgalikda kamayishi"
+    ],
+    "Options": [
+      "tana massasi va buy uzunligining oshishi",
+      "boy osishiga nisbatan tana massasining kamayishi",
+      "semizlik turi",
+      "kaxeksiya"
+    ]
+  },
+  {
+    "Number": 107,
+    "Text": "Axamiyatga ega bolgan allergenlarga kiradi:",
+    "Answers": [
+      "sigir suti, manniy yormasi, tuxum"
+    ],
+    "Options": [
+      "kefir",
+      "joxori yormasi",
+      "ona suti",
+      "atr hidi"
+    ]
+  },
+  {
+    "Number": 108,
+    "Text": "Pulьs 5 yoshli bolada",
+    "Answers": [
+      "100"
+    ],
+    "Options": [
+      "110-120",
+      "80-85",
+      "70-75",
+      "120-130"
+    ]
+  },
+  {
+    "Number": 109,
+    "Text": "Pulьs 5 yoshli bolada",
+    "Answers": [
+      "100"
+    ],
+    "Options": [
+      "110-120",
+      "80-85",
+      "70-75",
+      "120-130"
+    ]
+  },
+  {
+    "Number": 110,
+    "Text": "Yangi tugilgan chaqaloqning ortacha boyining uzunligi",
+    "Answers": [
+      "46-56 sm"
+    ],
+    "Options": [
+      "50-52 sm",
+      "40-44 sm",
+      "40-50 sm",
+      "50-60sm"
+    ]
+  },
+  {
+    "Number": 111,
+    "Text": "Yangi tugilgan chaqaloqlarni bosh aylanasi ortacha sm",
+    "Answers": [
+      "34-36 sm"
+    ],
+    "Options": [
+      "32-34 sm",
+      "30-32 sm",
+      "28-30 sm",
+      "40-45sm"
+    ]
+  },
+  {
+    "Number": 112,
+    "Text": "5 yoshli  bolaning 1 minutda tomir urishi",
+    "Answers": [
+      "100"
+    ],
+    "Options": [
+      "140-160",
+      "135-140",
+      "120-125",
+      "85"
+    ]
+  },
+  {
+    "Number": 113,
+    "Text": "Raxit rivojlanishiga olib keluvchi faktorlar xisoblanadi:",
+    "Answers": [
+      "noratsional suniy ovkatlantirish"
+    ],
+    "Options": [
+      "fakat kokrak suti bilan emizish",
+      "vitamin D qabuli",
+      "vitamin D dozasini oshirib yuborish",
+      "issiq urish"
+    ]
+  },
+  {
+    "Number": 114,
+    "Text": "1 yoshli bolaning  ortacha boyin uzunligi .",
+    "Answers": [
+      "72-75 sm"
+    ],
+    "Options": [
+      "40-44sm",
+      "50-58sm",
+      "46-50sm",
+      "60-66sm"
+    ]
+  },
+  {
+    "Number": 115,
+    "Text": "2 yoshli bolaning bosh aylanasi ortacha sm",
+    "Answers": [
+      "43 sm"
+    ],
+    "Options": [
+      "32-34 sm",
+      "30-32 sm",
+      "28-30 sm",
+      "56sm"
+    ]
+  },
+  {
+    "Number": 116,
+    "Text": "10 yoshli bolaning kukrak kafasining ulchami",
+    "Answers": [
+      "63 sm"
+    ],
+    "Options": [
+      "36-38 sm",
+      "56 sm",
+      "65 sm",
+      "76sm"
+    ]
+  },
+  {
+    "Number": 117,
+    "Text": "Refleks Bauerni yoqolishi",
+    "Answers": [
+      "4oylikda"
+    ],
+    "Options": [
+      "3 oylikda",
+      "6 oylikda",
+      "5 oylikda"
+    ]
+  },
+  {
+    "Number": 118,
+    "Text": "III darajali chala tugilgan chaqaloq vazni",
+    "Answers": [
+      "1000- 1500gr"
+    ],
+    "Options": [
+      "1000 gr",
+      "2000-2100 gr",
+      "2500-2550 gr",
+      "900-950gr"
+    ]
+  },
+  {
+    "Number": 119,
+    "Text": "Soglom chaqaloqlarda fiziologik vazn yoqotish necha% ni tashkil qiladi",
+    "Answers": [
+      "5-8%"
+    ],
+    "Options": [
+      "8-10%",
+      "10-12%",
+      "3-4 %",
+      "16-99%"
+    ]
+  },
+  {
+    "Number": 120,
+    "Text": "1 yoshli bolalarda teri osti yog qavati:",
+    "Answers": [
+      "tananing barcha qismlarida bir xilda taqsimlashgan"
+    ],
+    "Options": [
+      "gipotrofiyada 1 darajada juda kamayadi",
+      "gipotrofiyada oxirgi darajasida qorinda kamayadi",
+      "Kop miqdorda qattiq yog kislotalari bor",
+      "kongir yog"
+    ]
+  },
+  {
+    "Number": 121,
+    "Text": "CHaqaloqlar asfiktsiyasi baxolanadi",
+    "Answers": [
+      "Apgar shkalasi"
+    ],
+    "Options": [
+      "Silьverman shkalasi",
+      "Dubovich shkalasi",
+      "Sulьkovich sinamasi"
+    ]
+  },
+  {
+    "Number": 122,
+    "Text": "CHaqaloqlar fiziologik sarikligini xarakterliligi",
+    "Answers": [
+      "chaqaloqni 2-3 kunligida terisini sargayishi"
+    ],
+    "Options": [
+      "peshob rangini ozgarishi",
+      "najasni okish rangdaligi",
+      "jigarni kattalashishi",
+      "talok kattalashishi."
+    ]
+  },
+  {
+    "Number": 123,
+    "Text": "Bauerning emaklash fenomeni qaysi yoshda aniqlanmaydi",
+    "Answers": [
+      "5-6 oylik"
+    ],
+    "Options": [
+      "3 oylik",
+      "2 oylik",
+      "1 oylik",
+      "7 oylik"
+    ]
+  },
+  {
+    "Number": 124,
+    "Text": "Bola bir oylik",
+    "Answers": [
+      "Babinskiy refleksi saqlangan"
+    ],
+    "Options": [
+      "eshitish yaxshi",
+      "aniq nistagi saqlangan",
+      "Qorninga simptomi yoqolgan",
+      "bir necha minut davomida boshini tutib turadi"
+    ]
+  },
+  {
+    "Number": 125,
+    "Text": "6 yoshli bolaning  buy  uzunligi  kaysi formuladan aniklaniladi.",
+    "Answers": [
+      "100+6(4-n)"
+    ],
+    "Options": [
+      "100-8(4-n)",
+      "45-2(6-n)",
+      "45+0,5(n-6)",
+      "63+3(n-10)"
+    ]
+  },
+  {
+    "Number": 126,
+    "Text": "6 oylik bolaning  kukrak kafasi aylanasi  nechiga (sm) teng:",
+    "Answers": [
+      "45sm"
+    ],
+    "Options": [
+      "63sm",
+      "50sm",
+      "66sm",
+      "68sm"
+    ]
+  },
+  {
+    "Number": 127,
+    "Text": "3 yoshli bolaning  kukrak kafasi aylanasi  nechiga (sm) teng:",
+    "Answers": [
+      "53,5sm"
+    ],
+    "Options": [
+      "45sm",
+      "50sm",
+      "66sm",
+      "68sm"
+    ]
+  },
+  {
+    "Number": 128,
+    "Text": "3 oylik  bolaning  kukrak kafasi aylanasi  nechiga (sm) teng:",
+    "Answers": [
+      "43 sm"
+    ],
+    "Options": [
+      "45sm",
+      "50sm",
+      "66sm",
+      "68sm"
+    ]
+  },
+  {
+    "Number": 129,
+    "Text": "5 yoshli bolaning  bosh  aylanasi  nechiga (sm) teng:",
+    "Answers": [
+      "50sm"
+    ],
+    "Options": [
+      "53,5sm",
+      "45sm",
+      "66sm",
+      "68sm"
+    ]
+  },
+  {
+    "Number": 130,
+    "Text": "3 yoshli bolaning  bosh aylanasi  kaysi formuladan topiladi:",
+    "Answers": [
+      "50-1(5-n)"
+    ],
+    "Options": [
+      "100+6(4-n)",
+      "63+3(n-10)",
+      "45+0,5(n-6)",
+      "63-1,5(n-10)"
+    ]
+  },
+  {
+    "Number": 131,
+    "Text": "10 yoshli bola ortacha tana vazni",
+    "Answers": [
+      "30 kg"
+    ],
+    "Options": [
+      "10kg",
+      "20 kg",
+      "40 kg",
+      "35 kg"
+    ]
+  },
+  {
+    "Number": 132,
+    "Text": "Stupor  nima bu…..",
+    "Answers": [
+      "CHukur uyku, karaxtlik"
+    ],
+    "Options": [
+      "yuzaki uyku",
+      "jaxli chikishi",
+      "uykusizlik",
+      "injiklik"
+    ]
+  },
+  {
+    "Number": 133,
+    "Text": "Dog  bu.......",
+    "Answers": [
+      "chegaralangan soxalarda terning rangi uzgarishi"
+    ],
+    "Options": [
+      "tananing barcha qismlarida bir xilda taqsimlanishi",
+      "CHegaralangan soxalarda terning rangi okarishi",
+      "CHegaralangan soxalarda terning burtib chikishi",
+      "CHegaralangan soxalarda terning utkir yalliglanishi"
+    ]
+  },
+  {
+    "Number": 134,
+    "Text": "Papula bu.....",
+    "Answers": [
+      "chegaralangan, teri satxidan biroz kutarilishi."
+    ],
+    "Options": [
+      "zich, bushliksiz element",
+      "chaqaloqlarda sariqlik",
+      "igarga bogliq sarikliklar",
+      "terining kukarishi"
+    ]
+  },
+  {
+    "Number": 135,
+    "Text": "Qavariq bu.....",
+    "Answers": [
+      "otkir yalliglanishli element"
+    ],
+    "Options": [
+      "chegaralangan, teri satxidan biroz kutarilishi.",
+      "Zich, bushliksiz element",
+      "CHegaralangan zich",
+      "terining kukarishi"
+    ]
+  },
+  {
+    "Number": 136,
+    "Text": "CHaqaloqning ter bezlari kachon  qisman ishlay boshlaydi",
+    "Answers": [
+      "5 oylikda"
+    ],
+    "Options": [
+      "6 yoshda",
+      "7 oyda",
+      "2 yoshda",
+      "1 yoshda"
+    ]
+  },
+  {
+    "Number": 137,
+    "Text": "CHaqaloqning ter bezlari kachon  butunlay  ishlay boshlaydi",
+    "Answers": [
+      "7 yoshda"
+    ],
+    "Options": [
+      "6 yoshda",
+      "7 oyda",
+      "2 yoshda",
+      "1 yoshda"
+    ]
+  },
+  {
+    "Number": 138,
+    "Text": "Qaysi yoshda ogiz , bel , tayanch , avtomatik yurish ,emaklash va yulib olshi reflekslari aniqlanadi",
+    "Answers": [
+      "4oylikda"
+    ],
+    "Options": [
+      "1oylikda",
+      "3oylikda",
+      "2oylikda",
+      "5oylikda"
+    ]
+  },
+  {
+    "Number": 139,
+    "Text": "Nerv xujayralarining , orqa miya va pereferik , nervlarining birlamchi differensirovkasi  qaysi yoshda tugallanadi",
+    "Answers": [
+      "1-3 yoshda"
+    ],
+    "Options": [
+      "10 - 11 yoshda",
+      "4 - 5 yoshda",
+      "6 -8 yoshda",
+      "xammasi"
+    ]
+  },
+  {
+    "Number": 140,
+    "Text": "Yangi tugilgan chaqaloqning umurtkasiga xos emas",
+    "Answers": [
+      "birortasi xam"
+    ],
+    "Options": [
+      "boyin lordozi",
+      "kokrak kifozi",
+      "bel lordozi",
+      "dumgaza lordozi"
+    ]
+  },
+  {
+    "Number": 141,
+    "Text": "Ona sutining tarkibida quyidagi oqsil oz",
+    "Answers": [
+      "kazein"
+    ],
+    "Options": [
+      "tistin",
+      "tirazin",
+      "glikogen",
+      "alьbumin"
+    ]
+  },
+  {
+    "Number": 142,
+    "Text": "2yoshgacha bolada yurakning yuqori absolyut chegarasi joylashgan",
+    "Answers": [
+      "2 qovurga"
+    ],
+    "Options": [
+      "1qovurga",
+      "3 qovurga",
+      "4 qovurga",
+      "1 qovurga"
+    ]
+  },
+  {
+    "Number": 143,
+    "Text": "Bola 2 oylikda ......",
+    "Answers": [
+      "boshini yaxshi tutadi"
+    ],
+    "Options": [
+      "uzi erkin otiradi",
+      "Qorninga siptomi saqlangan",
+      "emaklash fenomeni yoqolgan",
+      "eьtibor qilishga jilmayishi bilan javob beradi"
+    ]
+  },
+  {
+    "Number": 144,
+    "Text": "Bolaning tana vazni 20-30% kamayib",
+    "Answers": [
+      "III daraja"
+    ],
+    "Options": [
+      "II daraja",
+      "I daraja",
+      "I daraja",
+      "IV daraja"
+    ]
+  },
+  {
+    "Number": 145,
+    "Text": "Apgar shkalasi boyicha asfiksiya ogir",
+    "Answers": [
+      "xammasi togri"
+    ],
+    "Options": [
+      "nafas yoq",
+      "pulьs yoq",
+      "teri kukimtir",
+      "teri okimtir"
+    ]
+  },
+  {
+    "Number": 146,
+    "Text": "Normada opka ustida perkutor tovush boladi",
+    "Answers": [
+      "aniq opka tovushi"
+    ],
+    "Options": [
+      "kutisimon tovush",
+      "son tumtokligi",
+      "timpaniq tovush",
+      "tumtoklashgan tovush"
+    ]
+  },
+  {
+    "Number": 147,
+    "Text": "Qaysi davrda tugilgan bola chala tugilgan deb",
+    "Answers": [
+      "28 va 38 xafta orasida"
+    ],
+    "Options": [
+      "38 va 39 xafta orasida",
+      "39 va 40 xafta orasida",
+      "40 va 41 xafta orasida",
+      "41 va 42 xafta orasida"
+    ]
+  },
+  {
+    "Number": 148,
+    "Text": "Orta quloqning yalliglanishi bolalarda kop uchrashining sababi",
+    "Answers": [
+      "Evstaxiev nayi keng , kalta , gorizontal joylashgan"
+    ],
+    "Options": [
+      "burun yulari tor",
+      "Evstaxiev nayi uzun , ingichka vertikal joylashgan",
+      "govak toqimaning rivojlanmaganligi"
+    ]
+  },
+  {
+    "Number": 149,
+    "Text": "Taxiepnoz termini deb tushuniladi",
+    "Answers": [
+      "nafas olishni tezlashishi"
+    ],
+    "Options": [
+      "nafas olishning seknlashishi",
+      "nafas olishni chuqurlashishi",
+      "tuxtab - tuxtab nafas olish",
+      "nafas olishning ritmini buzilishi"
+    ]
+  },
+  {
+    "Number": 150,
+    "Text": "Tezlashgan, chuqur,betuxtov nafasga aytiladi",
+    "Answers": [
+      "Biot"
+    ],
+    "Options": [
+      "Kusmaul /kuvilgan xayvon nafasi/",
+      "CHeyn-stoks",
+      "Taxipnoe",
+      "Bradipnoe"
+    ]
+  },
+  {
+    "Number": 151,
+    "Text": "Asta-sekin nafas chuqurligi va tezligi   oshib borib,song",
+    "Answers": [
+      "CHeyn-stoks nafasi"
+    ],
+    "Options": [
+      "Kussmaul nafasi",
+      "Biot nafasi",
+      "Taxipnoe",
+      "Bradipnoe"
+    ]
+  },
+  {
+    "Number": 152,
+    "Text": "Bola bir yoshga tolganda tana massasi bolishi kerak:",
+    "Answers": [
+      "10 kg"
+    ],
+    "Options": [
+      "8kg",
+      "9 kg",
+      "13kg",
+      "15 kg"
+    ]
+  },
+  {
+    "Number": 153,
+    "Text": "\"taxipnoe\" termini bu",
+    "Answers": [
+      "Nafasni tezlashishi"
+    ],
+    "Options": [
+      "Nafasni syokinlashishi",
+      "Nafasni chuqurlashishi",
+      "Yuzaki nafas",
+      "Aritmik nafas"
+    ]
+  },
+  {
+    "Number": 154,
+    "Text": "Tana xarorati 1s oshganda pulьs kopayadi",
+    "Answers": [
+      "10 taga"
+    ],
+    "Options": [
+      "5 taga",
+      "20 taga",
+      "30 taga",
+      "40 taga"
+    ]
+  },
+  {
+    "Number": 155,
+    "Text": "Birinchi darajada chala tugilganligiga",
+    "Answers": [
+      "2001g dan 2500 gacha"
+    ],
+    "Options": [
+      "1000g dan 1200 gacha",
+      "1300g dan 1500 gacha",
+      "1500g dan 1700 gacha",
+      "1800g dan 1900 gacha"
+    ]
+  },
+  {
+    "Number": 156,
+    "Text": "Bolani qolda tutib , uni biodaniga pastga",
+    "Answers": [
+      "Moro refleksi"
+    ],
+    "Options": [
+      "Qorninga simptomi",
+      "Galanta refleksi",
+      "Bauer refleksi",
+      "Tayanch refleksi"
+    ]
+  },
+  {
+    "Number": 157,
+    "Text": "CHaqaloqlarning umurtkalar orasini",
+    "Answers": [
+      "galanta refleksi"
+    ],
+    "Options": [
+      "moro refleksi",
+      "perez refleksi",
+      "peyper refleksi",
+      "Bauer refleksi"
+    ]
+  },
+  {
+    "Number": 158,
+    "Text": "Erta yoshli bolalarda terining fiziologik xususiyatlari",
+    "Answers": [
+      "matseratsiyaga moyilligi"
+    ],
+    "Options": [
+      "maxalliy termoregulyatsiya saqlangan",
+      "maxalliy shish termoregulyatsiyasi yoq",
+      "terining shish shikastlanishi",
+      "terining yengil infektsiyalanishi"
+    ]
+  },
+  {
+    "Number": 159,
+    "Text": "Isitmani kanday turlari mavjud:",
+    "Answers": [
+      "Hammasi"
+    ],
+    "Options": [
+      "Doimiy",
+      "Atipik",
+      "Subfebril",
+      "Giperpiret"
+    ]
+  },
+  {
+    "Number": 160,
+    "Text": "Isitmaning biologik foydasi:",
+    "Answers": [
+      "Interferon stimulyatsiyasi"
+    ],
+    "Options": [
+      "Yalliglanish uchogida katabolizm jaraenini kuchayishi",
+      "Antibakterial terapiyaning effektivligi",
+      "MNS faoliyatini susayishi",
+      "MNS kuchayishi"
+    ]
+  },
+  {
+    "Number": 161,
+    "Text": "Tovondan  shtrixsimon chizik utkazish natijasida  barmoqlarning yelpigichsimon",
+    "Answers": [
+      "Babinskiy"
+    ],
+    "Options": [
+      "Galant",
+      "Babkina",
+      "Bauera",
+      "Brudzinskiy"
+    ]
+  },
+  {
+    "Number": 162,
+    "Text": "Barmoq bilan Chaqaloq labiga sekin tegilsa,  lablarning chuchchayishi kuzatiladi. Bu",
+    "Answers": [
+      "Xartum"
+    ],
+    "Options": [
+      "Babinskiy",
+      "Bauera",
+      "Peresa",
+      "Brudzinskiy"
+    ]
+  },
+  {
+    "Number": 163,
+    "Text": "4 oydan 6 oygacha bolgan bolalarining sutkalik sutga extiyojini topish formulasi",
+    "Answers": [
+      "1: 8 vazn"
+    ],
+    "Options": [
+      "1:7vazn",
+      "1:5vazn",
+      "1:6vazn",
+      "1:10vazn"
+    ]
+  },
+  {
+    "Number": 164,
+    "Text": "7-8 kunlik bolaning sutkalik sutga bolgan extiyojini topish Zaytsev formulasi",
+    "Answers": [
+      "2% vazn oraligi"
+    ],
+    "Options": [
+      "P. 10=M",
+      "1:7 vazn oraligi",
+      "1:5 vazn oraligi",
+      "P. 70 yoki /80/ M"
+    ]
+  },
+  {
+    "Number": 165,
+    "Text": "1 yoshdan katta bolalarda 4 martalik ovqatlanishda tushlik ovqat sutkalik ovqatning necha % tashkil qilish kerak",
+    "Answers": [
+      "20%"
+    ],
+    "Options": [
+      "25%",
+      "15%",
+      "30-35%",
+      "10%"
+    ]
+  },
+  {
+    "Number": 166,
+    "Text": "1-1,5 yoshdan katta bola necha marta ovqatlanadi",
+    "Answers": [
+      "4marta"
+    ],
+    "Options": [
+      "7 marta",
+      "8 marta",
+      "5 marta",
+      "6 marta"
+    ]
+  },
+  {
+    "Number": 167,
+    "Text": "Yangi tugilgan soglom chaqaloq bosh aylanasi teng:",
+    "Answers": [
+      "34-36 sm"
+    ],
+    "Options": [
+      "30-32sm",
+      "36-40 sm",
+      "34-38sm",
+      "28-30 sm"
+    ]
+  },
+  {
+    "Number": 168,
+    "Text": "Yangi tugilgan chaqaloqlarda mongol doglari asoslanadi:",
+    "Answers": [
+      "pigment xosil qiluvchi xujayralar borligi"
+    ],
+    "Options": [
+      "vitiligo",
+      "giperbilirubinemiya",
+      "qon quyilishi",
+      "giperkeratoz"
+    ]
+  },
+  {
+    "Number": 169,
+    "Text": "CHaqaloqlarda siydik miqdori ml-da:",
+    "Answers": [
+      "90-110 ml."
+    ],
+    "Options": [
+      "30-50 ml",
+      "60-80 ml",
+      "120-140 ml",
+      "150-170 ml"
+    ]
+  },
+  {
+    "Number": 170,
+    "Text": "Prenatal gipotrofiyaning 2 darajasini korsating",
+    "Answers": [
+      "15% - 20%"
+    ],
+    "Options": [
+      "7,5 - 10%",
+      "12%- 15%",
+      "25% - 30%",
+      "30 dan yuqori"
+    ]
+  },
+  {
+    "Number": 171,
+    "Text": "CHaqaloqlik davri necha kun davom etadi",
+    "Answers": [
+      "28 kun"
+    ],
+    "Options": [
+      "3 kun",
+      "10 kun",
+      "20 kun",
+      "40 kun"
+    ]
+  },
+  {
+    "Number": 172,
+    "Text": "Tabiy ovqatlantirishda 4 -6 oygacha bolgan bolalarda yogga bolgan sutkalik extiyoj g /kg",
+    "Answers": [
+      "6,0 g/kg"
+    ],
+    "Options": [
+      "5,0g/kg",
+      "5,5g/kg",
+      "7,0g/kg",
+      "6,5g/kg"
+    ]
+  },
+  {
+    "Number": 173,
+    "Text": "12 oylik bolalarning yogga bolgan extiyoji tabiy ovqatlanishda",
+    "Answers": [
+      "7,0g/kg"
+    ],
+    "Options": [
+      "6,0g/kg",
+      "5,5g/kg",
+      "6,5g/kg",
+      "5,0g/kg"
+    ]
+  },
+  {
+    "Number": 174,
+    "Text": "Ona bolani mutlok emizishi mumkin bolmagan holatga kirmaydi",
+    "Answers": [
+      "Xomiladorlikdan avval onada sifilis  aniqlangan"
+    ],
+    "Options": [
+      "buyrak yetishmasligi ogir holati",
+      "Yurak yetishmasligini ogir holati",
+      "Yomon sifatli usma kasalligi",
+      "Onada psixik kasal bolganda"
+    ]
+  },
+  {
+    "Number": 175,
+    "Text": "Bir litr birinchi ogiz suti tarkibidagi  oqsil, yeg, qarbon suvga (gr) mos kelishini korsating",
+    "Answers": [
+      "40-50 va 75- va 65"
+    ],
+    "Options": [
+      "50-60 va 70 va 60",
+      "60-65 va 60 va 55",
+      "65-70 va 50 va 50",
+      "80-132 va 35 va 45"
+    ]
+  },
+  {
+    "Number": 176,
+    "Text": "Bir litr ael suti tarkibidagi (oqsil, yeg, karbon suvlara gr) mos kelishini aniq lang",
+    "Answers": [
+      "10 va 30 va 80"
+    ],
+    "Options": [
+      "15 va 35 va 74",
+      "20 va 45 va 70",
+      "25 va 50 va 60",
+      "30 va 40 va 50"
+    ]
+  },
+  {
+    "Number": 177,
+    "Text": "Soglom tugilgan chaqaloqni tugilgandan   keyin necha soatda emizish kerak",
+    "Answers": [
+      "Birinchi 2 soat ichida"
+    ],
+    "Options": [
+      "6-10 soatdan keyin",
+      "24 soatdan keyin",
+      "12-24 soatdan keyin",
+      "48 soatdan keyin"
+    ]
+  },
+  {
+    "Number": 178,
+    "Text": "3 oyda bola  tugilganda boyi 50sm xozirgi tana uzunligi nechaga teng",
+    "Answers": [
+      "59sm"
+    ],
+    "Options": [
+      "53sm",
+      "56sm",
+      "62sm",
+      "65sm"
+    ]
+  },
+  {
+    "Number": 179,
+    "Text": "Yangi tugilgan chaqaloq yetuklik kriteriylari:",
+    "Answers": [
+      "fiziogik reflekslar chaqiriladi"
+    ],
+    "Options": [
+      "gipotermiyaga moyillik",
+      "gipertermiyaga moyillik",
+      "xarakat aktivligi yaqqol emas",
+      "tuk bilan qoplanganligi"
+    ]
+  },
+  {
+    "Number": 180,
+    "Text": "Agar bola 49 sm uzunligi bilan tugilgan bolsa  6 oyda uning tana uzunligi nechaga teng",
+    "Answers": [
+      "65.5 sm"
+    ],
+    "Options": [
+      "53 sm",
+      "56 sm",
+      "59 sm",
+      "62 sm"
+    ]
+  },
+  {
+    "Number": 181,
+    "Text": "Chaqaloqlar fiziologik shartsiz reflekslari (oral avtomatizmi):",
+    "Answers": [
+      "xartum"
+    ],
+    "Options": [
+      "emaklash",
+      "avtomatik yurish",
+      "Moro",
+      "himoya"
+    ]
+  },
+  {
+    "Number": 182,
+    "Text": "Agar bola 50 sm uzunlik bilan tugilgan  bolsa 1 yoshda uning tana uzunligi nechaga teng",
+    "Answers": [
+      "74 sm"
+    ],
+    "Options": [
+      "59 sm",
+      "65.5 sm",
+      "66.5 sm",
+      "85 sm"
+    ]
+  },
+  {
+    "Number": 183,
+    "Text": "Bola tanasini uzunligi qaysi yoshda ikki  baravar kopayadi",
+    "Answers": [
+      "4 yoshda"
+    ],
+    "Options": [
+      "8 yoshda",
+      "3 yoshda",
+      "5 yoshda",
+      "6 yoshda"
+    ]
+  },
+  {
+    "Number": 184,
+    "Text": "Bosh barmoq bilan bola tener oldi kafti  bosib",
+    "Answers": [
+      "Babkin refleksi"
+    ],
+    "Options": [
+      "Robinson refleksi",
+      "Moro refleksi",
+      "Babinskiy refleksi",
+      "Kernig refleksi"
+    ]
+  },
+  {
+    "Number": 185,
+    "Text": "Gipotrofiyada asosiy davolash printsiplari bu-:",
+    "Answers": [
+      "dietoterapiya"
+    ],
+    "Options": [
+      "antibiotiklar",
+      "antigipoksantlar",
+      "talvasaga qarshi preparatlar",
+      "fototerapiya"
+    ]
+  },
+  {
+    "Number": 186,
+    "Text": "Bola kaftiga barmoq yoki oyinchok tegizilganda u",
+    "Answers": [
+      "Robinson refleksi"
+    ],
+    "Options": [
+      "Babkin refleksi",
+      "Moro refleksi",
+      "Bauer refleksi",
+      "Babinskiy refleksi"
+    ]
+  },
+  {
+    "Number": 187,
+    "Text": "CHaqaloq bola yonoq suyaklariga urib korilganda ogiz",
+    "Answers": [
+      "Orbikulopalpebral refleksi"
+    ],
+    "Options": [
+      "Babkin refleksi",
+      "Xvostek refleksi",
+      "Robinson refleksi",
+      "Moro refleksi"
+    ]
+  },
+  {
+    "Number": 188,
+    "Text": "6 oylikgacha bola uchun  xar oyda qoshiladigan ortacha massani korsating:",
+    "Answers": [
+      "800 gr"
+    ],
+    "Options": [
+      "900 gr",
+      "400 gr",
+      "600 gr",
+      "500 gr"
+    ]
+  },
+  {
+    "Number": 189,
+    "Text": "6 oydan katta bola uchun  xar oyda kushiladigan urtacha massani kursating:",
+    "Answers": [
+      "400 gr"
+    ],
+    "Options": [
+      "900 gr",
+      "800 gr",
+      "600 gr",
+      "500 gr"
+    ]
+  },
+  {
+    "Number": 190,
+    "Text": "BTSJ privivkasi qilinganda postvaksinal asorat bolib xisoblanadi:",
+    "Answers": [
+      "sovuq abses"
+    ],
+    "Options": [
+      "zotiljam",
+      "regionar limfadenit",
+      "talvasalar",
+      "sepsis"
+    ]
+  },
+  {
+    "Number": 191,
+    "Text": "Bolalarda gipertermiyani davolash uchun asosan qollaniladi:",
+    "Answers": [
+      "paratsetamol"
+    ],
+    "Options": [
+      "gormonoterapiya",
+      "antibiotik",
+      "analgin",
+      "aspirin"
+    ]
+  },
+  {
+    "Number": 192,
+    "Text": "Antipiretiklarga kiradi:",
+    "Answers": [
+      "paratsetamol"
+    ],
+    "Options": [
+      "noshpa",
+      "etazol",
+      "ampitsillin",
+      "isoniasid"
+    ]
+  },
+  {
+    "Number": 193,
+    "Text": "Ekzogen pirogenlarni korsating:",
+    "Answers": [
+      "bakteriya va uning  toksinlari"
+    ],
+    "Options": [
+      "makrofaglar",
+      "monositlar",
+      "neytrofillar",
+      "eozinofil"
+    ]
+  },
+  {
+    "Number": 194,
+    "Text": "Fiziologik sariqlik sababi xisoblanadi:",
+    "Answers": [
+      "ozida NvF tutgan eritrotsitlar gemolizini yuqoriligi"
+    ],
+    "Options": [
+      "antigen-antitelo reaktsiyasi",
+      "AVO tizimi boyicha ona va bola qoni togri kelmasligi",
+      "rezus-konflikt",
+      "rezus-moslik"
+    ]
+  },
+  {
+    "Number": 195,
+    "Text": "Chaqaloqlar fiziologik sariqligi sabablariga kiradi:",
+    "Answers": [
+      "chaqaloqda jigarning konyugatsiyalash funktsiyasini yetilmaganligi"
+    ],
+    "Options": [
+      "virusli  infektsiya",
+      "xomila ichi infektsiyasi",
+      "kokrakga kech qoyish",
+      "bakterial infektsiya"
+    ]
+  },
+  {
+    "Number": 196,
+    "Text": "Isitmaning foydali tomonlari :",
+    "Answers": [
+      "Himoya immune faktorlarini kuchini kuchaytirish"
+    ],
+    "Options": [
+      "Taxikardiya",
+      "Giperglikemiya",
+      "Ter ajralishining kuchayishi",
+      "Periferik qon tomirlarning kengayishi"
+    ]
+  },
+  {
+    "Number": 197,
+    "Text": "Noinfeksion isitma – bu :",
+    "Answers": [
+      "Xavfli osmalar"
+    ],
+    "Options": [
+      "Virusli gepatit",
+      "Gemolitik anemiya",
+      "sepsis",
+      "revmatik isitma"
+    ]
+  },
+  {
+    "Number": 198,
+    "Text": "Qanday patalogik jarayonlarda noinfeksion isitma rivojlanishi mumkin?",
+    "Answers": [
+      "Revmatik isitma"
+    ],
+    "Options": [
+      "Toqima nekrozida",
+      "Tireoid gormonlar giperproduksiyasida",
+      "Fizik yoki ximik faktorlar tomonidan chaqirilgan yalliglanishda",
+      "Yomon sifatli osmalarda"
+    ]
+  },
+  {
+    "Number": 199,
+    "Text": "noaniq genezli isitmaning 90 % - bu :",
+    "Answers": [
+      "BTDK"
+    ],
+    "Options": [
+      "Revmatik isitma",
+      "Yurak kasalliklari",
+      "Respirator infeksiyalar",
+      "anemiya"
+    ]
+  },
+  {
+    "Number": 200,
+    "Text": "Endogen pirogen – bu",
+    "Answers": [
+      "Interleykin 1 va 6"
+    ],
+    "Options": [
+      "Viruslar",
+      "Bakteriyalar",
+      "Zamburuglar",
+      "Sodda jonvorlar"
+    ]
+  },
+  {
+    "Number": 201,
+    "Text": "Endogen pirogen – bu",
+    "Answers": [
+      "Nekrozlangan osmalar faktori"
+    ],
+    "Options": [
+      "Viruslar",
+      "Bakteriyalar",
+      "Zamburuglar",
+      "Sodda jonvorlar"
+    ]
+  },
+  {
+    "Number": 202,
+    "Text": "Pirogen hususiyatga ega emas :",
+    "Answers": [
+      "leykositlar"
+    ],
+    "Options": [
+      "nekrozlangan osmalar faktori",
+      "Interleykin 1va 6",
+      "Interferonlar",
+      "makrofaglar"
+    ]
+  },
+  {
+    "Number": 203,
+    "Text": "Termoregulyatsiyada asosiy ahamiyatga ega:",
+    "Answers": [
+      "Bosh miya postlogi"
+    ],
+    "Options": [
+      "Miya qorinchalari",
+      "Orqa miya",
+      "Miyacha"
+    ]
+  },
+  {
+    "Number": 204,
+    "Text": "Yangi tugʻilgan yosh Oʻgʻil bolalarda bosh miya ogʻirligi qancha?",
+    "Answers": [
+      "390"
+    ],
+    "Options": [
+      "250",
+      "380",
+      "450"
+    ]
+  },
+  {
+    "Number": 205,
+    "Text": "Yangi tugʻilgan yosh Qiz bolalarda bosh miya ogʻirligi qancha?",
+    "Answers": [
+      "355"
+    ],
+    "Options": [
+      "350",
+      "260",
+      "369"
+    ]
+  },
+  {
+    "Number": 206,
+    "Text": "Bollarda afferent toʻqimalar muelinizatsiya necha oyligidan boshlanadi?",
+    "Answers": [
+      "2 oy"
+    ],
+    "Options": [
+      "3 oy",
+      "4 oy",
+      "1 oy"
+    ]
+  },
+  {
+    "Number": 207,
+    "Text": "Bolalarda efferent toʻqimalar necha oyligidan boshlanadi?",
+    "Answers": [
+      "4-5 yoshdan 7-8 yoshgacha"
+    ],
+    "Options": [
+      "7-8 oy",
+      "8-9 oy",
+      "1-2 oy"
+    ]
+  },
+  {
+    "Number": 208,
+    "Text": "Bolalarda miyyaning burishlar,egatlar va choklarning tuzilishi necha oylikda huddi kattalarnikidek boʻladi?",
+    "Answers": [
+      "6-8 yoshda"
+    ],
+    "Options": [
+      "3 oy",
+      "4 oy",
+      "3-4 yoshda"
+    ]
+  },
+  {
+    "Number": 209,
+    "Text": "shart reflekslar necha oydan rivojlanadi?",
+    "Answers": [
+      "2 oy"
+    ],
+    "Options": [
+      "3 oy",
+      "8 oy",
+      "6 oy"
+    ]
+  },
+  {
+    "Number": 210,
+    "Text": "Qaysi refleks 4 oyligida yoʻqoladi?",
+    "Answers": [
+      "Moro"
+    ],
+    "Options": [
+      "robinson",
+      "oyoq",
+      "kerinng"
+    ]
+  },
+  {
+    "Number": 211,
+    "Text": "kerring refleksiga taʼrif bering?",
+    "Answers": [
+      "Oyoqni toz sohasidan yoza boshlamaydi"
+    ],
+    "Options": [
+      "qollarini bukish refleksi",
+      "yuziga qoʻllarini olib borish refleksi",
+      "qoʻllarini quchoqlaganday birlashtirish"
+    ]
+  },
+  {
+    "Number": 212,
+    "Text": "Babkin refleksi?",
+    "Answers": [
+      "Kaft- ogʻiz refleksi"
+    ],
+    "Options": [
+      "oyoq refleksi",
+      "Qoʻllarni bukish refleksi",
+      "yuz refleksi"
+    ]
+  },
+  {
+    "Number": 213,
+    "Text": "Bolalarda jilmayish qachon paydo boʻladi?",
+    "Answers": [
+      "5 haftaligida"
+    ],
+    "Options": [
+      "4 oy",
+      "6 haftaligida",
+      "8 oyligida"
+    ]
+  },
+  {
+    "Number": 214,
+    "Text": "Bolalar boshini necha oyligidan tuta oladi?",
+    "Answers": [
+      "2 oy"
+    ],
+    "Options": [
+      "6 oy",
+      "8 oy",
+      "9 oy"
+    ]
+  },
+  {
+    "Number": 215,
+    "Text": "Bolalar necha oyligidan oʻtira olishdi?",
+    "Answers": [
+      "6 oy"
+    ],
+    "Options": [
+      "5 oy",
+      "1 yosh",
+      "9 oy"
+    ]
+  },
+  {
+    "Number": 216,
+    "Text": "Bolalar necha oylikdan emaklay boshlaydi?",
+    "Answers": [
+      "7 oy"
+    ],
+    "Options": [
+      "6 oy",
+      "12 oy",
+      "3 oy"
+    ]
+  },
+  {
+    "Number": 217,
+    "Text": "Bolalarda necha yoshda oʻziga xonlik boshlaydi va qiziqon  boʻladi?",
+    "Answers": [
+      "4-5 yosh"
+    ],
+    "Options": [
+      "8-9 yosh",
+      "5-6 oy",
+      "2-3 oy"
+    ]
+  },
+  {
+    "Number": 218,
+    "Text": "Bolalar qachon yura boshlaydi?",
+    "Answers": [
+      "9,5 oy"
+    ],
+    "Options": [
+      "3-4 oy",
+      "5-6 oy",
+      "8 oyligida"
+    ]
+  },
+  {
+    "Number": 219,
+    "Text": "Bola ruhiyatini rivojlanish nechi bosqichga boʻlinadi?",
+    "Answers": [
+      "4 bosqichga"
+    ],
+    "Options": [
+      "6 bosqichga",
+      "8 ga",
+      "10 bosqichga"
+    ]
+  },
+  {
+    "Number": 220,
+    "Text": "Motor faoliyat qachon boshlanadi?",
+    "Answers": [
+      "Birinchi yilida"
+    ],
+    "Options": [
+      "3 oyligida",
+      "6 oyligida",
+      "9 oyligida"
+    ]
+  },
+  {
+    "Number": 221,
+    "Text": "bolalar ruhiyatini rivojlanishning ikkinchi bosqichi qancha davom etadi ?",
+    "Answers": [
+      "Bir yoshdan uch yoshgacha"
+    ],
+    "Options": [
+      "ikki oylikdan bir yoshgacha",
+      "toʻrt oylikdan bir yarim yoshgacha",
+      "bir yoshdan ikki yoshgacha"
+    ]
+  },
+  {
+    "Number": 222,
+    "Text": "Affektli  davr nechinchi bosqichga toʻri keladi?",
+    "Answers": [
+      "Uchinchi bosqichga"
+    ],
+    "Options": [
+      "birinchi bosqichga",
+      "ikkinchi bosqichga",
+      "toʻrtinchi bosqichga"
+    ]
+  },
+  {
+    "Number": 223,
+    "Text": "idiator davr bu- ?",
+    "Answers": [
+      "Bola fikrini oldindan aniqlash"
+    ],
+    "Options": [
+      "aqliy faoliyat",
+      "jismoniy faoliyat",
+      "boshlangʻich davr"
+    ]
+  },
+  {
+    "Number": 224,
+    "Text": "Impriting  bu nima?",
+    "Answers": [
+      "Xotirada tez saqlab qolish"
+    ],
+    "Options": [
+      "esdan chiqarish",
+      "shartli reflekslar hosil boʻlishi",
+      "shartsiz reflekslar hosil boʻlishi"
+    ]
+  },
+  {
+    "Number": 225,
+    "Text": "stupur bu qanday holat?",
+    "Answers": [
+      "Qoʻzgʻalish qiyin javob refleksi yoʻq"
+    ],
+    "Options": [
+      "oson qoʻzgʻaladi",
+      "javob reaksiya bor",
+      "mimika reflekslar bor"
+    ]
+  },
+  {
+    "Number": 226,
+    "Text": "koma- qanday holat ?",
+    "Answers": [
+      "Yorugʻlikga javob reaksiya  yoʻq"
+    ],
+    "Options": [
+      "javob reaksiya bor",
+      "Uyqu holati",
+      "tinchlanish davri"
+    ]
+  },
+  {
+    "Number": 227,
+    "Text": "somlonentlik bu qanday davr?",
+    "Answers": [
+      "Uyquchanlik va zyiflk davri"
+    ],
+    "Options": [
+      "pay refleksi",
+      "kaft va yuz refleksi",
+      "Kerrining refleksi"
+    ]
+  },
+  {
+    "Number": 228,
+    "Text": "Krizis bu nima?",
+    "Answers": [
+      "Bu burilish  toʻsatdan yuz bergn oʻzgarish"
+    ],
+    "Options": [
+      "bu oʻz fikrini bayon etilmaslik",
+      "qaygʻurish refleksi",
+      "hissiyotlarda keskin oʻzgarishlar"
+    ]
+  },
+  {
+    "Number": 229,
+    "Text": "krizis nechiga boʻlinadi?",
+    "Answers": [
+      ". 2 ga"
+    ],
+    "Options": [
+      "3ga",
+      "4 ga",
+      "6 ha"
+    ]
+  },
+  {
+    "Number": 230,
+    "Text": "Birlamchi kirizis nechi yoshlar oraligʻida boʻladi?",
+    "Answers": [
+      "2-7.5 yoshlarda"
+    ],
+    "Options": [
+      "5 yoshlarda",
+      "4-6 yoshlarda",
+      "12-13 yoshlarda"
+    ]
+  },
+  {
+    "Number": 231,
+    "Text": "Ikkilamchi krizis nechi yosh oraligʻida boʻlib oʻtadi?",
+    "Answers": [
+      "12-15 yoshlar"
+    ],
+    "Options": [
+      "11-13 yoshlar",
+      "16-17 yoshlar",
+      "9-19 yoshlar oraligʻida"
+    ]
+  },
+  {
+    "Number": 232,
+    "Text": "Jinsiy metamarfoz qaysi davrida paydo boʻladi?",
+    "Answers": [
+      "Ikkilamchi krizisda"
+    ],
+    "Options": [
+      "birlamchi krizisda",
+      "uchlamchi krizisda",
+      "toʻrtinchi krizisda"
+    ]
+  },
+  {
+    "Number": 233,
+    "Text": "Necha oylikda\" sensor nutq\" rivojlanadi?",
+    "Answers": [
+      "7-8 oylikda"
+    ],
+    "Options": [
+      "5-6 oylikda",
+      "9-10 oylikda",
+      "1-2 oylikda"
+    ]
+  },
+  {
+    "Number": 234,
+    "Text": "Bolalarda oģriqni sezuvchanlik qachondan boshlanadi",
+    "Answers": [
+      "homiladorlikning 3 oyligida"
+    ],
+    "Options": [
+      "homiladorlikning 6 oyligida",
+      "tuģulgandan keyin",
+      "homiladorlikning 1 oyligida"
+    ]
+  },
+  {
+    "Number": 235,
+    "Text": "Bolalar qachondan emaklay boshlaydi",
+    "Answers": [
+      "7 oyligidan"
+    ],
+    "Options": [
+      "6 oyligidan",
+      "4 oyligidan",
+      "1 yoshdan"
+    ]
+  },
+  {
+    "Number": 236,
+    "Text": "Bolalarda taktil sezgining rivojlanishi qachondan boshlanadi",
+    "Answers": [
+      "homidorlikning 5-6 haftalikdan"
+    ],
+    "Options": [
+      "1 yoshdan",
+      "2 yoshdan",
+      "6 oylikdan"
+    ]
+  },
+  {
+    "Number": 237,
+    "Text": "Tam sezish sezgisi bolalarda qachon töliq rivojlanadi",
+    "Answers": [
+      "4-5 oylikdan"
+    ],
+    "Options": [
+      "4-5 yoshdan",
+      "homiladorlikning 4 -5 haftadan",
+      "tuģilgan zahoti"
+    ]
+  },
+  {
+    "Number": 238,
+    "Text": "Tranzitor gipotermiya nima",
+    "Answers": [
+      "tuģulgandan keyingi fiziologik harorat tushishi"
+    ],
+    "Options": [
+      "tuģulgandan keyin patalogik  harorat tushishi",
+      "tuģulgandan keyin patalogik  harorat kötarilishi",
+      "tuģulgandan keyin fiziologik harorat kötarilishi"
+    ]
+  },
+  {
+    "Number": 239,
+    "Text": "Kapsulali nerv oxirlari va  erkin nerv oxirlari qaysi sezgini sezishni taminlaydi",
+    "Answers": [
+      "teri sezgisini taminlaydi"
+    ],
+    "Options": [
+      "taktil sezgini  taminlaydi",
+      "korish sezgisini taminlaydi",
+      "eshitish sezgisini taminlaydi"
+    ]
+  },
+  {
+    "Number": 240,
+    "Text": "Bola hayotining 1-kunida qanaqa kõrish hos boladi",
+    "Answers": [
+      "gipermetropiya"
+    ],
+    "Options": [
+      "miopiya",
+      "astigmatizm",
+      "töģri javob yöq"
+    ]
+  },
+  {
+    "Number": 241,
+    "Text": "Bolalar qachondan  ona sutini hidini taniydi",
+    "Answers": [
+      "bola hayotining 1 haftasida"
+    ],
+    "Options": [
+      "bola hayoting 5 haftasida",
+      "bola hayotining 9 haftasida",
+      "bola hayotining 1 oyligida"
+    ]
+  },
+  {
+    "Number": 242,
+    "Text": "Isib ketish  va suv ichish tartibini  buzilishi natijasida chaqaloqlarda qaysi kasallik kelib chiqadi",
+    "Answers": [
+      "tranzitor lixoradka"
+    ],
+    "Options": [
+      "miopiya",
+      "gipotoniya",
+      "hech narsa röy bermaydi"
+    ]
+  },
+  {
+    "Number": 243,
+    "Text": "Gipermetropiya nima",
+    "Answers": [
+      "uzoqdan kõrish"
+    ],
+    "Options": [
+      "yaqindan körish",
+      "astigmatizm",
+      "hammasi töģri"
+    ]
+  },
+  {
+    "Number": 244,
+    "Text": "Bolalarda qachondan nutq rivojlanadi",
+    "Answers": [
+      "18-24 oyligidan"
+    ],
+    "Options": [
+      "homiladorlik vaqtidan",
+      "6-oylikdan",
+      "tuģilgan vaqtidan boshlab"
+    ]
+  },
+  {
+    "Number": 245,
+    "Text": "Nutq rivojlanishining nechta bosqichi farqlanadi",
+    "Answers": [
+      "3 bosqich"
+    ],
+    "Options": [
+      "2 bosqich",
+      "4 bosqich",
+      "1 bosqich"
+    ]
+  },
+  {
+    "Number": 246,
+    "Text": "Emmetropiya bolalarda qachondan kuzatiladi",
+    "Answers": [
+      "9 -12 yoshda"
+    ],
+    "Options": [
+      "15 yoshda",
+      "7 yoshda",
+      "hammasi tõgri"
+    ]
+  },
+  {
+    "Number": 247,
+    "Text": "Tögri javobni belgilang",
+    "Answers": [
+      "bolalarda sovutish reflekslari isitishga qaraganda 70 marta yuqori"
+    ],
+    "Options": [
+      "bolalarda  teri sezgisi 2 yoshdan boshlanadi",
+      "körish sezgisi 1 yoshdan boshlanadi",
+      "tõri javob yoq"
+    ]
+  },
+  {
+    "Number": 248,
+    "Text": "Bolalar necha yoshdan boshlanģich öqishga tayyor bõladi",
+    "Answers": [
+      "4 yoshda"
+    ],
+    "Options": [
+      "1 yoshda",
+      "1-oylikdan",
+      "2-haftaligida"
+    ]
+  },
+  {
+    "Number": 249,
+    "Text": "NE III darajasi klinik xarkterlanadi:",
+    "Answers": [
+      "Teri rangi mramorligi"
+    ],
+    "Options": [
+      "Nafas sonining normadan 150%ga oshishi",
+      "Tarkalgan tsianoz,",
+      "Yordamchi mushaklar ishtirokisiz xansirash,",
+      "Perioral tsianoz"
+    ]
+  },
+  {
+    "Number": 250,
+    "Text": "NE II darajasini klinik bulgilari xarakterlanadi:",
+    "Answers": [
+      "Doimiy xansirash, Akrotsianoz"
+    ],
+    "Options": [
+      "Tinch paytda xansirash kuzatilmaydi, Perioral doimiy bulmagan tsianoz",
+      "Pulьs bilan nafas nisbati 2:1",
+      "kukarish",
+      "TSionoz"
+    ]
+  },
+  {
+    "Number": 251,
+    "Text": "Simptom Arkavina  qaysi limfa tuguni kattalashuvi",
+    "Answers": [
+      "bronxopulьmonal"
+    ],
+    "Options": [
+      "parareal",
+      "bifurkatsion",
+      "umrov osti"
+    ]
+  },
+  {
+    "Number": 252,
+    "Text": "NE I  darajasining klinikasi xarkterlanadi:",
+    "Answers": [
+      "Perioral doimiy bulmagan tsianoz"
+    ],
+    "Options": [
+      "Tinch paytda xansirash kuzatilmaydi",
+      "Pulьs bilan nafas nisbati3,5:1",
+      "Doimiy xansirash",
+      "Ozgaruvchan xansirash"
+    ]
+  },
+  {
+    "Number": 253,
+    "Text": "Bronxitga xos bulgan auskulьtativ uzgarishni aniklang.",
+    "Answers": [
+      "kuruk va nam xirillashlar, dagal, pueril, vezikulyar nafas."
+    ],
+    "Options": [
+      "Plevraning ishkalanish shovkini.",
+      "lokal krepitatsiyalanuvchi nam xirillashlar.",
+      "kup mikdordagi xushtaksimon xirillashlar.",
+      "upkadagi jimlik sindromi."
+    ]
+  },
+  {
+    "Number": 254,
+    "Text": "Eksudativ plevritga xos bulgan ovoz titrashini aniklang.",
+    "Answers": [
+      "ovoz titrashi susaygan yeki yuk."
+    ],
+    "Options": [
+      "ovoz titrashi meьerda uzatiladi.",
+      "ovoz titrashi kuchaygan.",
+      "ovoz titrashi juda kuchaygan.",
+      "ovoz titrashi biroz susaygan"
+    ]
+  },
+  {
+    "Number": 255,
+    "Text": "Bola terisiga issiq yoki sovuq probirka tekkizish orqali qaysi sezgisi aniqlanadi",
+    "Answers": [
+      "temperatura"
+    ],
+    "Options": [
+      "taktil",
+      "bosim",
+      "körish"
+    ]
+  },
+  {
+    "Number": 256,
+    "Text": "Bolalarda qöl yoki oyoqlariga ignani sanchish orqali qausi sezgisi tekshiriladi",
+    "Answers": [
+      "oģriq sezgisi"
+    ],
+    "Options": [
+      "bosim sezgisi",
+      "taktil  sezgisi",
+      "harorat sezgisi"
+    ]
+  },
+  {
+    "Number": 257,
+    "Text": "Tõģri javobni belgilang",
+    "Answers": [
+      "noģora parda gorizantal joylashgan"
+    ],
+    "Options": [
+      "bolalarda tashqi quloq  bola tuģilganidan keyin rivojlanadi",
+      "noģora pardasi vertikal joylashgan",
+      "Evstaxiy nayi uzun va ingichka"
+    ]
+  },
+  {
+    "Number": 258,
+    "Text": "Katta yoshdagi bolalarda eshitish sezgisi qanday aniqlanadi",
+    "Answers": [
+      "kamerton tovushi ,shivirlagan yoki baland tovush bilan"
+    ],
+    "Options": [
+      "öyinchoqni polga tashash bilan",
+      "bu sezgi tekshirilmaydi.",
+      "töģri javob yöq"
+    ]
+  },
+  {
+    "Number": 259,
+    "Text": "Bolalar geometrik shakllarni qachondan taniy boshlaydi",
+    "Answers": [
+      "1 yoshligidan"
+    ],
+    "Options": [
+      "tuģilgan zahoti",
+      "1 oylikdan boshlab",
+      "1 haftalik bölgandan boshlab"
+    ]
+  },
+  {
+    "Number": 260,
+    "Text": "bolalarda taktil sezgi dastlab qayerda rivojlanadi",
+    "Answers": [
+      "oģiz atrofida"
+    ],
+    "Options": [
+      "köz atrofida",
+      "qöllarda",
+      "butun tanasida birdan rivojlanadi"
+    ]
+  },
+  {
+    "Number": 261,
+    "Text": "Bolalarda murakkab hidlar differensirovkasini sezish sezgisi qachon shakllanib tugallanadi",
+    "Answers": [
+      "kichik maktab yoshida"
+    ],
+    "Options": [
+      "katta maktab yoshida",
+      "1 oyligida",
+      "1 haftalida"
+    ]
+  },
+  {
+    "Number": 262,
+    "Text": "Chaqaloqlarda isib ketiah yoki suv istemolining buzulishi nimaga olib keladi",
+    "Answers": [
+      "tranzitor lixoradka yani isitma kötarilishi"
+    ],
+    "Options": [
+      "gipotermiyaga",
+      "miopiya,astigmatizmga",
+      "barcha javob töģri"
+    ]
+  },
+  {
+    "Number": 263,
+    "Text": "tranzitor reflekslar bu",
+    "Answers": [
+      "yöqolib boruvchi reflekslar"
+    ],
+    "Options": [
+      "butun hayoti davomida mavjud reflekslar",
+      "hayoti davomida paydo bõladigan reflekslar",
+      "töģri javob yöq"
+    ]
+  },
+  {
+    "Number": 264,
+    "Text": "Bola 12 oylik bölganda nechta sõz biladi",
+    "Answers": [
+      "8 -10 ta"
+    ],
+    "Options": [
+      "80 -100 ta",
+      "800 -1000 ta",
+      "bola mukammal gapiradi"
+    ]
+  },
+  {
+    "Number": 265,
+    "Text": "chaqaloqlarda taktil sezuvchanlik qanday aniqlanadi",
+    "Answers": [
+      "kipriklariga qovoqlariga qöl tekkiziladi"
+    ],
+    "Options": [
+      "közini yumishi söralib paxta tekkiziladi",
+      "igna sanchib tekshiriladi",
+      "issiq tasir ettiriladi"
+    ]
+  },
+  {
+    "Number": 266,
+    "Text": "Tögri javobni belgilang",
+    "Answers": [
+      "yangi tuģilgan chaqaloqlarni közi doimo yumuq,köz qorachiģi toraygan"
+    ],
+    "Options": [
+      "yangi tuģilgan chaqaloqlarni ķõzlari ochiq böladi",
+      "Yangi tuģilgan chaqaloqlar ranglarni ajratadi",
+      "Toģri javob yöq"
+    ]
+  },
+  {
+    "Number": 267,
+    "Text": "Toģri javobni belgilang",
+    "Answers": [
+      "tashqi quloq yõli ingichka,noģora parda gorizantal va qalinroq"
+    ],
+    "Options": [
+      "noģora parda gorizantal ingichka ,tashqi eshitish yõli keng",
+      "hamma javoblar toģri",
+      "töģri javib berilmagan"
+    ]
+  },
+  {
+    "Number": 268,
+    "Text": "Hid bilishning asab markazlari qachon tölqi shakllanadi",
+    "Answers": [
+      "2-4 oyligida"
+    ],
+    "Options": [
+      "1yoshda",
+      "2 -4 yoshida",
+      "2-4 haftaligida"
+    ]
+  },
+  {
+    "Number": 269,
+    "Text": "qaysi sezgi chuqur sezish hissiga kiradi",
+    "Answers": [
+      "mushak bögim sezgisi"
+    ],
+    "Options": [
+      "taktil",
+      "oģriq",
+      "bosim"
+    ]
+  },
+  {
+    "Number": 270,
+    "Text": "Asab tizimi taraqqiy etishi homila ichi rivojlanishining nechanchi haftasidan boshlanadi.",
+    "Answers": [
+      "1"
+    ],
+    "Options": [
+      "2",
+      "4",
+      "3"
+    ]
+  },
+  {
+    "Number": 271,
+    "Text": "bosh va orqa miyaning shakillanishi nechanchi haftadan boshlanadi.",
+    "Answers": [
+      "3-4"
+    ],
+    "Options": [
+      "6-5",
+      "4-5",
+      "7-8"
+    ]
+  },
+  {
+    "Number": 272,
+    "Text": "tugilish davriga kelib qaysi Azo uzining ulchami buyicha eng rivojlangan Azo.",
+    "Answers": [
+      "Bosh Miya"
+    ],
+    "Options": [
+      "buyrak",
+      "opka",
+      "taloq"
+    ]
+  },
+  {
+    "Number": 273,
+    "Text": "Yangi tugilgan chaqaloq miyasi tana vaznini qancha qismini tashkil etadi.",
+    "Answers": [
+      "1/8-1/9"
+    ],
+    "Options": [
+      "1/6-1/7",
+      "1/4-1/8",
+      "5/4-6/8"
+    ]
+  },
+  {
+    "Number": 274,
+    "Text": "chaqaloqlarda miya tuqimasi qon bilan qanday taminlanadi.",
+    "Answers": [
+      "Yaxshi"
+    ],
+    "Options": [
+      "yomon",
+      "bilmadim",
+      "taminlanmaydi"
+    ]
+  },
+  {
+    "Number": 275,
+    "Text": "miyaning nerv hujayralari boshqa hujayralarga qaraganda necha barobar kop kislorod talab etadi",
+    "Answers": [
+      "22"
+    ],
+    "Options": [
+      "33",
+      "23",
+      "21"
+    ]
+  },
+  {
+    "Number": 276,
+    "Text": "miya tuqimasi qaysi moddaga boy",
+    "Answers": [
+      "Oqsil"
+    ],
+    "Options": [
+      "yog",
+      "uglevod",
+      "menerallar"
+    ]
+  },
+  {
+    "Number": 277,
+    "Text": "1gr oqsil necha gr suvni ushlab qoladi",
+    "Answers": [
+      "17"
+    ],
+    "Options": [
+      "34",
+      "56",
+      "18"
+    ]
+  },
+  {
+    "Number": 278,
+    "Text": "oqsillar miqdori bola rivojlanib borgani sayin qanday uzgaradi.",
+    "Answers": [
+      "46%dan27%gacha kamayadi"
+    ],
+    "Options": [
+      "ortadi",
+      "kamayadi va ortadi",
+      "ortadi va kamayadi"
+    ]
+  },
+  {
+    "Number": 279,
+    "Text": "yangi tugilgan chaqaloqlarda bosh Miya pustlogi qanday buladi",
+    "Answers": [
+      "Yetilmagan"
+    ],
+    "Options": [
+      "yetilgan",
+      "bolmaydi",
+      "togri javob yoq"
+    ]
+  },
+  {
+    "Number": 280,
+    "Text": "bosh Miya pustlogi necha yoshga kelib shakillanadi",
+    "Answers": [
+      "5-6"
+    ],
+    "Options": [
+      "4-5",
+      "7-8",
+      "9-8"
+    ]
+  },
+  {
+    "Number": 281,
+    "Text": "nerv hujayralarining mieylenizatsiyasi necha yoshda tugallanadi",
+    "Answers": [
+      "3-5"
+    ],
+    "Options": [
+      "4-5",
+      "5-6",
+      "6-7"
+    ]
+  },
+  {
+    "Number": 282,
+    "Text": "nerv tuqimasining asosiy hujayrasi -",
+    "Answers": [
+      "Neyrotsit"
+    ],
+    "Options": [
+      "nefron",
+      "neyron",
+      "osteoklast"
+    ]
+  },
+  {
+    "Number": 283,
+    "Text": "chaqaloqlarda orqa miya suyuqligi qancha",
+    "Answers": [
+      "Kam miqdorda"
+    ],
+    "Options": [
+      "235",
+      "45",
+      "789"
+    ]
+  },
+  {
+    "Number": 284,
+    "Text": "yangi tugilgan chaqaloqlarda orqa miya suyuqligi rangi qanday",
+    "Answers": [
+      "Sargish"
+    ],
+    "Options": [
+      "oq",
+      "kuk",
+      "jigarrang"
+    ]
+  },
+  {
+    "Number": 285,
+    "Text": "orqa miya suyuqligida oqsilning miqdori",
+    "Answers": [
+      "Yuqori"
+    ],
+    "Options": [
+      "kam",
+      "24",
+      "67"
+    ]
+  },
+  {
+    "Number": 286,
+    "Text": "asab ruhiy rivojlanishni baholash mezonlari nechta",
+    "Answers": [
+      "5"
+    ],
+    "Options": [
+      "7",
+      "4",
+      "8"
+    ]
+  },
+  {
+    "Number": 287,
+    "Text": "necha oylik bola tovush kelgan tomonga buriladi",
+    "Answers": [
+      "4"
+    ],
+    "Options": [
+      "3",
+      "5",
+      "2"
+    ]
+  },
+  {
+    "Number": 288,
+    "Text": "necha oylik bola,bir qulidan ushlansa,bazida esa mustaqil ham utiradi",
+    "Answers": [
+      "5-6"
+    ],
+    "Options": [
+      "3-2",
+      "1-8",
+      "4-5"
+    ]
+  },
+  {
+    "Number": 289,
+    "Text": "necha oylik bola turt oyoqlab turadi",
+    "Answers": [
+      "7-8"
+    ],
+    "Options": [
+      "4-5",
+      "8-3",
+      "2-4"
+    ]
+  },
+  {
+    "Number": 290,
+    "Text": "necha oylik bola 14,5 soat uxlaydi",
+    "Answers": [
+      "5-6"
+    ],
+    "Options": [
+      "3-5",
+      "2-3",
+      "8-9"
+    ]
+  },
+  {
+    "Number": 291,
+    "Text": "necha oylik bola sodda suzlarni aytaboshlaydi,m,n dada",
+    "Answers": [
+      "9-10"
+    ],
+    "Options": [
+      "8-7",
+      "9-3",
+      "4-5"
+    ]
+  },
+  {
+    "Number": 292,
+    "Text": "necha oylik bola 13 soat uxlaydi",
+    "Answers": [
+      "20-24"
+    ],
+    "Options": [
+      "12-15",
+      "27-14",
+      "23-25"
+    ]
+  },
+  {
+    "Number": 293,
+    "Text": "nutq rivojlanishida nechta bosqich farqlanadi",
+    "Answers": [
+      "3"
+    ],
+    "Options": [
+      "2",
+      "8",
+      "7"
+    ]
+  },
+  {
+    "Number": 294,
+    "Text": "tayyorgarliklar bosqichi necha oylikdan boshlanadi",
+    "Answers": [
+      "1-4"
+    ],
+    "Options": [
+      "1-3",
+      "1-8",
+      "1-6"
+    ]
+  },
+  {
+    "Number": 295,
+    "Text": "sensor nutq bosqichi necha oylikdan boshlanadi",
+    "Answers": [
+      "6-7"
+    ],
+    "Options": [
+      "3-4",
+      "8-2",
+      "9-1"
+    ]
+  },
+  {
+    "Number": 296,
+    "Text": "motor nutq bosqichi necha oylikdan boshlanadi",
+    "Answers": [
+      "8-9"
+    ],
+    "Options": [
+      "2-5",
+      "7-8",
+      "3-4"
+    ]
+  },
+  {
+    "Number": 297,
+    "Text": "nechi yoshga kelib bola sergap buladi",
+    "Answers": [
+      "2-3"
+    ],
+    "Options": [
+      "3-8",
+      "6-7",
+      "8-9"
+    ]
+  },
+  {
+    "Number": 298,
+    "Text": "necha oylik bola tovush chiqarib kuladi",
+    "Answers": [
+      "4"
+    ],
+    "Options": [
+      "3",
+      "5",
+      "2"
+    ]
+  },
+  {
+    "Number": 299,
+    "Text": "Nutqning shakillanishi necha oylikdan boshlanadi",
+    "Answers": [
+      "18-24"
+    ],
+    "Options": [
+      "13-3",
+      "12-14",
+      "14-17"
+    ]
+  },
+  {
+    "Number": 300,
+    "Text": "Tana haroratining bir xilda saqlanib turilishi nima deyiladi?",
+    "Answers": [
+      "gomoyoterm"
+    ],
+    "Options": [
+      "poykiloterm",
+      "gipertioz",
+      "gomeostaz"
+    ]
+  },
+  {
+    "Number": 301,
+    "Text": "Qaysi bez funksiyasi kuchayganda issiqlik kotariladi?",
+    "Answers": [
+      "qalqonsimon bez"
+    ],
+    "Options": [
+      "epifez bezi",
+      "gipofiz bezi",
+      "ayrisimon bez"
+    ]
+  },
+  {
+    "Number": 302,
+    "Text": "Issiqlikning pasayishi qaysi kasallikda kuzatiladi?",
+    "Answers": [
+      "gipertrioz"
+    ],
+    "Options": [
+      "ixtioz",
+      "qandli diabet",
+      "opka sili"
+    ]
+  },
+  {
+    "Number": 303,
+    "Text": "Ona qornidagi bolaning harorati ona haroratidan qanchaga farq qiladi?",
+    "Answers": [
+      "0.2-0.3"
+    ],
+    "Options": [
+      "0.3-0.4",
+      "1.2-1.3",
+      "0.35-0.5"
+    ]
+  },
+  {
+    "Number": 304,
+    "Text": "Yangi tugilgan chaqaloqlarda harorat necha kun mobaynida odatdagidan past boladi?",
+    "Answers": [
+      "2-3kun"
+    ],
+    "Options": [
+      "3-4kun",
+      "4-5kun",
+      "1-2kun"
+    ]
+  },
+  {
+    "Number": 305,
+    "Text": "Emizikli bolalarning togri ichagida harorat nechaga teng?",
+    "Answers": [
+      "37"
+    ],
+    "Options": [
+      "36.8",
+      "37.4",
+      "37.7"
+    ]
+  },
+  {
+    "Number": 306,
+    "Text": "Emizikli soglom bola kun davomida necha °C dan yuqori bolmasligi kerak.",
+    "Answers": [
+      "0.5-0.3"
+    ],
+    "Options": [
+      "0.6-0.4",
+      "0.4-0.2",
+      "0.2-0.1"
+    ]
+  },
+  {
+    "Number": 307,
+    "Text": "Togri ichak va qoltiq haroratining farqi necha °C ?",
+    "Answers": [
+      "0.3-0.5"
+    ],
+    "Options": [
+      "0.4-0.5",
+      "0.2-0.4",
+      "0.3-0.6"
+    ]
+  },
+  {
+    "Number": 308,
+    "Text": "Doimiy isitma bir-kecha kunduzda necha gradusga ozgaradi?",
+    "Answers": [
+      "1°C dan oshmaydi"
+    ],
+    "Options": [
+      "1°C dan oshadi",
+      "0.3-0.5°C dan oshmaydi",
+      "1-1.2°C dan oshadi"
+    ]
+  },
+  {
+    "Number": 309,
+    "Text": "Haroratning bir kun ichida 1°C dan ortiq tebranishi  bilan kechadigan isitma ?",
+    "Answers": [
+      "quvvatsizlantiruvchi isitma"
+    ],
+    "Options": [
+      "doimiy isitma",
+      "almashinib turadigan isitma",
+      "qaytalama isitma"
+    ]
+  },
+  {
+    "Number": 310,
+    "Text": "Qaysi isitma turi 1-2kun davomida saqlanib ,keyin normal holatga tushishi va yana kotarilishi kuzatiladi?",
+    "Answers": [
+      "ozgarib(almashinib) turadigan"
+    ],
+    "Options": [
+      "doimiy",
+      "quvvatsizlantiruvchi",
+      "qaytalama"
+    ]
+  },
+  {
+    "Number": 311,
+    "Text": "Qaytalama tif qaysi isitma turiga xos?",
+    "Answers": [
+      "qaytalama"
+    ],
+    "Options": [
+      "doimiy",
+      "quvvatsizlantiruvchi",
+      "ozgarib turadigan"
+    ]
+  },
+  {
+    "Number": 312,
+    "Text": "Qaysi isitma turida opkaning krupoz yalliglanishi va qorin tifi kasalligi uchraydi?",
+    "Answers": [
+      "doimiy"
+    ],
+    "Options": [
+      "ozgarib turadigan",
+      "quvvatsizlantiruvchi",
+      "qaytalama"
+    ]
+  },
+  {
+    "Number": 313,
+    "Text": "Ozgarib turadigan isitma qaysi kasallikda uchraydi?",
+    "Answers": [
+      "bezgak"
+    ],
+    "Options": [
+      "qorin tifi",
+      "qaytalama tifi",
+      "opka sili"
+    ]
+  },
+  {
+    "Number": 314,
+    "Text": "Quvvatsizlantiruvchi isitma qaysi kasalliklarda uchraydi?",
+    "Answers": [
+      "sepsis,abssess"
+    ],
+    "Options": [
+      "ostieomiyilet,qorin tifi",
+      "qaytalama tifi,qorin tifi",
+      "bezgak , abssess"
+    ]
+  },
+  {
+    "Number": 315,
+    "Text": "Efemir isitma turi necha kun davom etadi?",
+    "Answers": [
+      "bir necha soatdan ikki kungacha"
+    ],
+    "Options": [
+      "15kungacha",
+      "45kungacha",
+      "30kungacha"
+    ]
+  },
+  {
+    "Number": 316,
+    "Text": "Isitmaning davomiyligi 45kundan oshsa nima deb ataladi?",
+    "Answers": [
+      "surunkali"
+    ],
+    "Options": [
+      "efemir",
+      "otkir",
+      "subotkir"
+    ]
+  },
+  {
+    "Number": 317,
+    "Text": "Subotkir holatidagi isitma turi davomiyligi necha kun?",
+    "Answers": [
+      "45kungacha"
+    ],
+    "Options": [
+      "40kungacha",
+      "15kungacha",
+      "25kungacha"
+    ]
+  },
+  {
+    "Number": 318,
+    "Text": "Subfebril harorat necha °C ?",
+    "Answers": [
+      "37.2-38"
+    ],
+    "Options": [
+      "36.8-37.7",
+      "38-38.2",
+      "37.7-38.2"
+    ]
+  },
+  {
+    "Number": 319,
+    "Text": "38.1-39°C qaysi harorat turida uchraydi?",
+    "Answers": [
+      "pastki febril"
+    ],
+    "Options": [
+      "subfebril",
+      "yuqori febril",
+      "giperpiretik"
+    ]
+  },
+  {
+    "Number": 320,
+    "Text": "Otkinchi isitma yangi tugilgan chaqaloqlarning necha foizida uchraydi?",
+    "Answers": [
+      "15-20%"
+    ],
+    "Options": [
+      "10-25%",
+      "25-30%",
+      "20-25%"
+    ]
+  },
+  {
+    "Number": 321,
+    "Text": "Emizikli bolalar togri ichagida ertalabki soatlarda necha °C ni tashkil qiladi?",
+    "Answers": [
+      "36.8"
+    ],
+    "Options": [
+      "36.6",
+      "37",
+      "37.2"
+    ]
+  },
+  {
+    "Number": 322,
+    "Text": "Togri ichagida kechki paytdagi harorat necha °C?",
+    "Answers": [
+      "37.4"
+    ],
+    "Options": [
+      "36.8",
+      "35",
+      "38"
+    ]
+  },
+  {
+    "Number": 323,
+    "Text": "Emizikli bolalarda tana haroratini olchash vaqtida termometr togri ichakka qancha kiritiladi?",
+    "Answers": [
+      "5-6sm"
+    ],
+    "Options": [
+      "4-5sm",
+      "6-7sm",
+      "3-4sm"
+    ]
+  },
+  {
+    "Number": 324,
+    "Text": "Emizikli bolalarda tana haroratini togri ichakdan olchashda qancha vaqt talab qilinadi?",
+    "Answers": [
+      "4-5minut"
+    ],
+    "Options": [
+      "2-3minut",
+      "3-4minut",
+      "3-5minut"
+    ]
+  },
+  {
+    "Number": 325,
+    "Text": "Bolada kimyoviy issiqlikning boshqarilish mexanizmi necha oylikdan kuchga kiradi?",
+    "Answers": [
+      "3-5oydan"
+    ],
+    "Options": [
+      "3-4oydan",
+      "2-3oydan",
+      "4-5oydan"
+    ]
+  },
+  {
+    "Number": 326,
+    "Text": "Emizikli bolalarda issiqlikni boshqarilish apparati qancha vaqt mobaynida kamolga yetadi?",
+    "Answers": [
+      "dastlabki 6oyligi"
+    ],
+    "Options": [
+      "3oyligi",
+      "5oyligi",
+      "4-5oyligi"
+    ]
+  },
+  {
+    "Number": 327,
+    "Text": "Zaif bolalarda harorat necha kunda odatdagiga borib yetadi?",
+    "Answers": [
+      "5-6kun"
+    ],
+    "Options": [
+      "3-4kun",
+      "4kun",
+      "5kun"
+    ]
+  },
+  {
+    "Number": 328,
+    "Text": "Trofikasi keskin pasaygan bolaning haroratini olchash mumkinmi?",
+    "Answers": [
+      "yoq"
+    ],
+    "Options": [
+      "xa mumkin",
+      "mumkin ,biroz murakkab",
+      "juda oson"
+    ]
+  },
+  {
+    "Number": 329,
+    "Text": "Kasallikning birinchi kunlarida isitma sekin-asta kotarilib oxirida shu yosinga tushish holati nima deyiladi?",
+    "Answers": [
+      "lizis"
+    ],
+    "Options": [
+      "gipotermiya",
+      "gipertirmiya",
+      "qaytalama isitma"
+    ]
+  },
+  {
+    "Number": 330,
+    "Text": "Terining elastikligi qaerda aniqlanadi?",
+    "Answers": [
+      "kaftning orqa yuzasida"
+    ],
+    "Options": [
+      "sonning tashqi yuzasida",
+      "sonning ichki yuzasida",
+      "elkaning ichki yuzasida"
+    ]
+  },
+  {
+    "Number": 331,
+    "Text": "Suv chechakda teri toshmalarining birlamchi elementlari?",
+    "Answers": [
+      "papula"
+    ],
+    "Options": [
+      "eksimozlar",
+      "tüberklalar",
+      "petechialar"
+    ]
+  },
+  {
+    "Number": 332,
+    "Text": "Terining fiziologik sariqligi bogliq:",
+    "Answers": [
+      "eritrotsitlar va glyukoroniltransferaza etishmovchiligi"
+    ],
+    "Options": [
+      "teri shakllanmagan",
+      "ona va xomilaning qoni mos kelmasligi",
+      "kokrak suti bilan emizish"
+    ]
+  },
+  {
+    "Number": 333,
+    "Text": "Blyashka nima?",
+    "Answers": [
+      "Bir biriga boglangan papulalar"
+    ],
+    "Options": [
+      "depigmentatsiya maydoni",
+      "qon tomir osmasi",
+      "yalliglangan infiltrat"
+    ]
+  },
+  {
+    "Number": 334,
+    "Text": "Terining sintetik vazifasi ifodalanadi:",
+    "Answers": [
+      "fermentlar, vitaminlar, biologik faol moddalar sintezi"
+    ],
+    "Options": [
+      "oqsillar sintezi",
+      "uglevodlar sintezi",
+      "yoglar sintezi"
+    ]
+  },
+  {
+    "Number": 335,
+    "Text": "Homiladorlikning qaysi haftasida tirnoqlar paydo boladi?",
+    "Answers": [
+      "5 haftasida"
+    ],
+    "Options": [
+      "18 haftasida",
+      "10 haftasida",
+      "15 haftasida"
+    ]
+  },
+  {
+    "Number": 336,
+    "Text": "Soglom bolada palpatsiya usuli bilan nechta periferik limfa tugunlari aniqlanishi mumkin?",
+    "Answers": [
+      "3 dan ortiq emas"
+    ],
+    "Options": [
+      "4 dan ortiq emas",
+      "2 dan ortiq emas",
+      "3 dan kam"
+    ]
+  },
+  {
+    "Number": 337,
+    "Text": "Yog bezlari qayerda bolmaydi?",
+    "Answers": [
+      "kaft va oyoqlarda"
+    ],
+    "Options": [
+      "yuzda",
+      "qoltiqosti sohasida",
+      "ogiz burun uchburchagida"
+    ]
+  },
+  {
+    "Number": 338,
+    "Text": "Yumshoq toqimalarning turgorini qaerda aniqlash mumkin?",
+    "Answers": [
+      "sonning ichki yuzasida"
+    ],
+    "Options": [
+      "kaftning orqa yuzasida",
+      "qorin old devorida",
+      "sonning tashqi yuzasida"
+    ]
+  },
+  {
+    "Number": 339,
+    "Text": "Pufakchadan keyin qanday ikkinlamchi teri elementi paydo boladi?",
+    "Answers": [
+      "qobiq"
+    ],
+    "Options": [
+      "tirnalish",
+      "chandiq",
+      "pigmentatsiya"
+    ]
+  },
+  {
+    "Number": 340,
+    "Text": "Teri osti qavatini qalinligi qanday?",
+    "Answers": [
+      "1,5-2 sm"
+    ],
+    "Options": [
+      "1-1, 5 sm",
+      "0,5-1 sm",
+      "2-2, 5 sm"
+    ]
+  },
+  {
+    "Number": 341,
+    "Text": "Gemolitik anemiyaga xos terinining rangi?",
+    "Answers": [
+      "limonday sariq"
+    ],
+    "Options": [
+      "kulrang",
+      "siyanotik",
+      "yashil"
+    ]
+  },
+  {
+    "Number": 342,
+    "Text": "Surunkali buyrakusti etishmovchiligida terining rangi qanday?",
+    "Answers": [
+      "bronza"
+    ],
+    "Options": [
+      "siyanotik",
+      "kulrang",
+      "limonday sariq"
+    ]
+  },
+  {
+    "Number": 343,
+    "Text": "Gemolitik anemiyada terining rangi qanday?",
+    "Answers": [
+      "sariq"
+    ],
+    "Options": [
+      "siyanotik",
+      "kulrang",
+      "mumsimon"
+    ]
+  },
+  {
+    "Number": 344,
+    "Text": "Oksigemoglobinning qaysi darajasida terining siyanozi paydo boladi?",
+    "Answers": [
+      "95 % dan past"
+    ],
+    "Options": [
+      "100 % dan past",
+      "75 % dan past",
+      "105 % dan past"
+    ]
+  },
+  {
+    "Number": 345,
+    "Text": "Gipoaplastik anemiyada terining rangi qanday?",
+    "Answers": [
+      "tuproqsimon-kulrang"
+    ],
+    "Options": [
+      "siyanotik",
+      "sariq",
+      "mumsimon"
+    ]
+  },
+  {
+    "Number": 346,
+    "Text": "Angiomalar nima?",
+    "Answers": [
+      "qon tomir osmalari"
+    ],
+    "Options": [
+      "depigmentatsiya joylari",
+      "nuqtali doglar",
+      "chiziqli gemorragiya"
+    ]
+  },
+  {
+    "Number": 347,
+    "Text": "Vitiligo nima?",
+    "Answers": [
+      "depigmentatsiya joylari"
+    ],
+    "Options": [
+      "nuqtali doglar",
+      "qon tomir osmalari",
+      "chiziqli gemorragiya"
+    ]
+  },
+  {
+    "Number": 348,
+    "Text": "Vaqtinchalik terinining sariqligi kuzatiladi:",
+    "Answers": [
+      "kop miqdorda sabzi, -mandarinlar istemol qilish"
+    ],
+    "Options": [
+      "kop miqdorda sariq gazlangan -ichimliklar istemol qilish",
+      "kop miqdorda tovuq tuxumini istemol qilish",
+      "kop miqdorda tovuq shorvasini istemol qilish"
+    ]
+  },
+  {
+    "Number": 349,
+    "Text": "Bola 7 yoshdNormada doimiy tishlar soni?",
+    "Answers": [
+      "8 ta"
+    ],
+    "Options": [
+      "12 ta",
+      "6 ta",
+      "10 ta"
+    ]
+  },
+  {
+    "Number": 350,
+    "Text": "Katta liqildoqning erta yopilishi qanday patologiyada kuzatiladi?",
+    "Answers": [
+      "mikrosefaliya"
+    ],
+    "Options": [
+      "hidrosefaliya",
+      "miksedema",
+      "xondrodistrofiya"
+    ]
+  },
+  {
+    "Number": 351,
+    "Text": "Soglom tugilgan bolada katta liqildoqning yopilish muddati:",
+    "Answers": [
+      "12-18 oy ichida"
+    ],
+    "Options": [
+      "18-24 oy ichida",
+      "6-8 oy ichida",
+      "8-12 oy ichida"
+    ]
+  },
+  {
+    "Number": 352,
+    "Text": "Umurtqa pogonasining u yoki bu tomonga egilishi qanday nomlanadi?",
+    "Answers": [
+      "skolyoz"
+    ],
+    "Options": [
+      "osteoporoz",
+      "kifoz",
+      "lordoz"
+    ]
+  },
+  {
+    "Number": 353,
+    "Text": "Soglom bola sut tishlarining doimiy tishlarga almashinishi qachon tugallanadi?",
+    "Answers": [
+      "11-12 yoshda"
+    ],
+    "Options": [
+      "9-10 yoshda",
+      "13-14 yoshda",
+      "15 yoshda"
+    ]
+  },
+  {
+    "Number": 354,
+    "Text": "Chala tugilgan chaqaloqlarda bukuvchi mushaklar fiziologik gipertonusi qachongacha kuzatilishi mumkin?",
+    "Answers": [
+      "5-6 oygacha"
+    ],
+    "Options": [
+      "1,5-2 oygacha",
+      "7-8 oygacha",
+      "3-4 oygacha"
+    ]
+  },
+  {
+    "Number": 355,
+    "Text": "Suyak nima hisobiga uzunasiga osadi?",
+    "Answers": [
+      "epifiz"
+    ],
+    "Options": [
+      "suyak iligi",
+      "diafiz",
+      "periosteum"
+    ]
+  },
+  {
+    "Number": 356,
+    "Text": "Eng toliq va togri javobni tanlang (erta yoshdagi bolalar uchun):",
+    "Answers": [
+      "suyaklar elastik, yumshoq, mortroq"
+    ],
+    "Options": [
+      "periost nozik, suyak bilan boglanishi zaif",
+      "suyak toqimasi kam regenerativ qobiliyatga ega",
+      "suyak toqimasining asosiy tarkibiy qismi mineral moddalardir"
+    ]
+  },
+  {
+    "Number": 357,
+    "Text": "Bolada kokrak kifozi qachon shakllanadi?",
+    "Answers": [
+      "6-7 oyligida"
+    ],
+    "Options": [
+      "4-5 oyligida",
+      "7-8 oyligida",
+      "5-6 oyligida"
+    ]
+  },
+  {
+    "Number": 358,
+    "Text": "Sut tishlaridan qaysi biri birinchi bolib chiqadi?",
+    "Answers": [
+      "kesuvchi tishlar"
+    ],
+    "Options": [
+      "molyarlar",
+      "qoziq tishlar",
+      "premolyarlar"
+    ]
+  },
+  {
+    "Number": 359,
+    "Text": "Bosh hajmining kattalashishi qanday ataladi?",
+    "Answers": [
+      "makrosefaliya"
+    ],
+    "Options": [
+      "hidrosefaliya",
+      "dolichosefaliya",
+      "brahitsefaliya"
+    ]
+  },
+  {
+    "Number": 360,
+    "Text": "Implantatsiya davri qancha davom etadi?",
+    "Answers": [
+      "48 soat"
+    ],
+    "Options": [
+      "12:00",
+      "24 soat",
+      "40 soat"
+    ]
+  },
+  {
+    "Number": 361,
+    "Text": "Yangi tugilgan chaqaloqning holatini Apgar shkalasi boyicha baholash nimaga bogliq emas?",
+    "Answers": [
+      "Jismoniy rivojlanish,"
+    ],
+    "Options": [
+      "Yurak urishi",
+      "Nafas",
+      "Teri rangi"
+    ]
+  },
+  {
+    "Number": 362,
+    "Text": "Bolalikning kokrak davri shartli ravishda _yoshda (oylarda) tugaydi:",
+    "Answers": [
+      "12"
+    ],
+    "Options": [
+      "10",
+      "6",
+      "1"
+    ]
+  },
+  {
+    "Number": 363,
+    "Text": "Bola__ yoshdan boshlab zaif hidlarni yaxshi biladi:",
+    "Answers": [
+      "8 oy"
+    ],
+    "Options": [
+      "12 oy",
+      "4 oy",
+      "3 oy"
+    ]
+  },
+  {
+    "Number": 364,
+    "Text": "Bolalikning qaysi davrlarida eng jadal jismoniy va neyropsixik rivojlanish kuzatiladi?",
+    "Answers": [
+      "Kokrak davrida"
+    ],
+    "Options": [
+      "Maktab",
+      "maktabgacha talim muassasasi",
+      "Maktabgacha tarbiya"
+    ]
+  },
+  {
+    "Number": 365,
+    "Text": "Neonatal davr (kunlar) davom etadi:",
+    "Answers": [
+      "28"
+    ],
+    "Options": [
+      "12",
+      "21",
+      "65"
+    ]
+  },
+  {
+    "Number": 366,
+    "Text": "Soglom yangi tugilgan chaqaloqda tugilgandan keyingi birinchi kunlarda:",
+    "Answers": [
+      "fleksorlarning mushak gipertonikligi kuzatiladi"
+    ],
+    "Options": [
+      "bosh osilmaydi",
+      "orqa ushlab turadi",
+      "tartibli qol harakatlari mavjud"
+    ]
+  },
+  {
+    "Number": 367,
+    "Text": "Bolalikning qaysi davrida passiv immunitet yoqoladi?",
+    "Answers": [
+      "Kokrak davrida"
+    ],
+    "Options": [
+      "Maktabgacha talim muassasasida",
+      "Neonatalda",
+      "Maktabda"
+    ]
+  },
+  {
+    "Number": 368,
+    "Text": "Suyak sistemasining asosiy mukammallashuvi qachon ròy beradi?",
+    "Answers": [
+      "Homiladorlikning 8-9 haftasida"
+    ],
+    "Options": [
+      "Tugilgandan dastlabki oylarda",
+      "6 oyligida",
+      "1 yoshda"
+    ]
+  },
+  {
+    "Number": 369,
+    "Text": "Katta liqildoq qachon yopiladi",
+    "Answers": [
+      "1-1.5 yoshda"
+    ],
+    "Options": [
+      "3 yoshda",
+      "1-2 oylikda",
+      "6 oylikda"
+    ]
+  },
+  {
+    "Number": 370,
+    "Text": "Yangi tugilgan bolalarda miya bòlimi hajmi jihatdan yuz qismidan necha marta katta bòladi?",
+    "Answers": [
+      "8 marta"
+    ],
+    "Options": [
+      "2 marta",
+      "4 marta",
+      "Bir xil boladi"
+    ]
+  },
+  {
+    "Number": 371,
+    "Text": "Bolalarda paylar…",
+    "Answers": [
+      "Choziluvchan biroq mustahkam emas+"
+    ],
+    "Options": [
+      "Qattiq va mustahkam",
+      "Elastik va qattiq",
+      "Juda yumshoq boladi"
+    ]
+  },
+  {
+    "Number": 372,
+    "Text": "Bolada tovon yassiligi qachongacha fiziologik holat hisoblanadi?",
+    "Answers": [
+      "1 yoshgacha"
+    ],
+    "Options": [
+      "3 yoshgacha",
+      "Yura boshlagach",
+      "6 yoshgacha"
+    ]
+  },
+  {
+    "Number": 373,
+    "Text": "Bosh suyagi normada…",
+    "Answers": [
+      "Simmetrik"
+    ],
+    "Options": [
+      "Bir tomonga kattalashgan",
+      "Bir tomoni qiyshiqroq",
+      "Tashqi tomonlama bir xil ichki tomonolama farqli"
+    ]
+  },
+  {
+    "Number": 374,
+    "Text": "“Ordak yurish” qachon kuzatiladi?",
+    "Answers": [
+      "Ikki tomonlama son-chanoq bogimi zararlanganda"
+    ],
+    "Options": [
+      "Boldir suyaklari zararlanganda",
+      "Son suyaklaridan biri zararlanganda",
+      "Yassi oyoqlikda"
+    ]
+  },
+  {
+    "Number": 375,
+    "Text": "Kraniotabes nima",
+    "Answers": [
+      "Yon va ensa suyaklarining yumshashi va yupqalashuvi"
+    ],
+    "Options": [
+      "Peshona suyagining ota yassilashuvi",
+      "Ensa suyagining yumshashi",
+      "Chakka suyagining yassilashuvi"
+    ]
+  },
+  {
+    "Number": 376,
+    "Text": "Bogimlar tekshirilganda ichida suyuqlik yigilganligi yoki sinovial pardaning qalinlashuvi kuzatilsa bu jarayon qanday nomlanadi?",
+    "Answers": [
+      "Defiguratsiya"
+    ],
+    "Options": [
+      "Deformatsiya",
+      "Giperemiya",
+      "Bu normal holat"
+    ]
+  },
+  {
+    "Number": 377,
+    "Text": "Bori tanglay qanday kasallik",
+    "Answers": [
+      "Yuqori jag va yuqori tanglayda suyaklarning toliq bitmasligi"
+    ],
+    "Options": [
+      "Tanglay suyaklarining bitmasligi",
+      "Pastki jag suyaklarining bitmasligi",
+      "Lunjning tanglayga ortiqcha tegib turishi"
+    ]
+  },
+  {
+    "Number": 378,
+    "Text": "Ameliya qanday kasallik?",
+    "Answers": [
+      "Tugma mychachalarning yoq bolishi"
+    ],
+    "Options": [
+      "Tanglay suyaklarining bosh bolishi",
+      "Omrov suyagining patalogik rivojlanishi",
+      "Bilak suyagida bitmaslik"
+    ]
+  },
+  {
+    "Number": 379,
+    "Text": "Sistemali sklerodermiyada barmoqlar tuzilishi",
+    "Answers": [
+      "Panjaning tumshuqsimon bolishi"
+    ],
+    "Options": [
+      "Urchuqsimon barmoqlar",
+      "Sosiskasimon barmoqlar",
+      "Panjalarning qisman qoshilib ketishi"
+    ]
+  },
+  {
+    "Number": 380,
+    "Text": "Yangi tugilgan chaqaloqlarda ichakdan sòrilgan oqsillar qayerda parchalanadi?",
+    "Answers": [
+      "Buyrakda"
+    ],
+    "Options": [
+      "Ingichka ichakning òzida",
+      "Yòģon ichakda",
+      "Oshqozonda"
+    ]
+  },
+  {
+    "Number": 381,
+    "Text": "Emadigan bolalarda “ bish guvalachasi” qanday kòrinishda bòlishi kerak?",
+    "Answers": [
+      "Yaqqol korinib turishi kerak"
+    ],
+    "Options": [
+      "Yupqa bolishi kerak",
+      "Bir tomonlama bòlishi kerak",
+      "Bunday bolalarda bòlmasligi kerak"
+    ]
+  },
+  {
+    "Number": 382,
+    "Text": "Yangi tugilgan chaqaloqlarda Bon tugunchasi qachon yòqoladi?",
+    "Answers": [
+      "1 chi haftasida"
+    ],
+    "Options": [
+      "1 oyligida",
+      "Hayotining 1 yarim yilligida",
+      "1 yoshda"
+    ]
+  },
+  {
+    "Number": 383,
+    "Text": "Qizilòngachning shakli yangi tuģilgan chaqaloqlarda qanday bòladi",
+    "Answers": [
+      "Varonkasimon"
+    ],
+    "Options": [
+      "Uzun naysimon",
+      "Kalta naysimon",
+      "Duksimon"
+    ]
+  },
+  {
+    "Number": 384,
+    "Text": "Yangi tugilgan chaqaloqlarda medaning  sigimi qancha?",
+    "Answers": [
+      "7 ml"
+    ],
+    "Options": [
+      "40-50 ml",
+      "100 ml",
+      "12 ml"
+    ]
+  },
+  {
+    "Number": 385,
+    "Text": "Sòrish harakatlari nechta davrdan iborat?",
+    "Answers": [
+      "3 ta"
+    ],
+    "Options": [
+      "5 ta",
+      "6 ta",
+      "4 ta"
+    ]
+  },
+  {
+    "Number": 386,
+    "Text": "Meda tikka (vertikal) holatni qachon qabul qiladi?",
+    "Answers": [
+      "Yura boshlagach"
+    ],
+    "Options": [
+      "1 yoshligida",
+      "1 chi yarim yillikda",
+      "Otira oladigan bòlganda"
+    ]
+  },
+  {
+    "Number": 387,
+    "Text": "Medada ovqat hazm qilish qanday jarayonlardan iborat",
+    "Answers": [
+      "Sutning suzmalanishi va yoglarning tarkibiy qismlarga ajralishi"
+    ],
+    "Options": [
+      "Oqsillar va yogkarning parchalanib sorilishi",
+      "Oqsillar yoglar va uglevodlarning parchalanishi",
+      "Ovqatning maydalanishi va aralashturilishi"
+    ]
+  },
+  {
+    "Number": 388,
+    "Text": "Yangi tuģilgan chaqaloqlarda meda osti bezining gistologik tuzilishi qaysi beznikiga òxshash bòladi",
+    "Answers": [
+      "Quloq oldi beznikiga"
+    ],
+    "Options": [
+      "Epifizga",
+      "Qalqonsimon beznikiga",
+      "Buyrak usti beznikiga"
+    ]
+  },
+  {
+    "Number": 389,
+    "Text": "Emizikli bolaning ichagi gavdasiga nisbatan necha marotaba ortiq bòladi?",
+    "Answers": [
+      "6 marta"
+    ],
+    "Options": [
+      "4 marta",
+      "3 marta",
+      "5 marta"
+    ]
+  },
+  {
+    "Number": 390,
+    "Text": "Ilk bolalik davrida fiziologik defekatsiya qanday kechadi",
+    "Answers": [
+      "Tez tez roy beradi"
+    ],
+    "Options": [
+      "Kunda 1 marotaba",
+      "Kunda 2 yoki 3 marotaba",
+      "Kun ora"
+    ]
+  },
+  {
+    "Number": 391,
+    "Text": "Jigar yangi tugilgan chaqaloqlarda gavda tuzilishining necha foizini tashkil qiladi",
+    "Answers": [
+      "4 foiz"
+    ],
+    "Options": [
+      "2 foiz",
+      "6 foiz",
+      "8 foiz"
+    ]
+  },
+  {
+    "Number": 392,
+    "Text": "Yangi tuģilgan chaqaloqlarda òtning xususiyatlari",
+    "Answers": [
+      "A va B javoblar togri"
+    ],
+    "Options": [
+      "Ot kislotalari miqdori kam",
+      "Tauroxol kislota glikoxol kislotaga nisbatan ortiqcha",
+      "Glikoxol kislota tauroxol kislotaga nisbatan ortiqcha",
+      "A va C javoblar togri"
+    ]
+  },
+  {
+    "Number": 393,
+    "Text": "Taloq tuzilishi kattalarnikidan farq qilmasligi qachondan boshlanadi",
+    "Answers": [
+      "7 yoshligida"
+    ],
+    "Options": [
+      "3 yoshligida",
+      "12 yoshligida",
+      "Balogatga yetganda"
+    ]
+  },
+  {
+    "Number": 394,
+    "Text": "Bola tuģilgan kunida axlatida ichak floralaridan qaysilari uchraydi",
+    "Answers": [
+      "Hech qanday mikroblar topilmaydi"
+    ],
+    "Options": [
+      "Enterokoklar",
+      "Ichak tayoqchasi va enterikoklar",
+      "Achitqi florasi"
+    ]
+  },
+  {
+    "Number": 395,
+    "Text": "Geografik til qachon kuzatiladi",
+    "Answers": [
+      "Ekssudativ diatezda"
+    ],
+    "Options": [
+      "Miksedemada",
+      "Qizamiqda",
+      "Normal holatda dastlabki oylarda"
+    ]
+  },
+  {
+    "Number": 396,
+    "Text": "Urachus nima?",
+    "Answers": [
+      "Kindik osti chuqurchasidan noxatdek domboq osib chiqishi"
+    ],
+    "Options": [
+      "Kindik atrofining yalliglanishi",
+      "Qorin boshlihining kattalashishi",
+      "Ichakda tuguncha paydo bolishi"
+    ]
+  },
+  {
+    "Number": 397,
+    "Text": "Banti kasalligida kuzatiladi",
+    "Answers": [
+      "Splenomegaliya"
+    ],
+    "Options": [
+      "Qorin boshlihining kattalashishi",
+      "Hepatosplenomegaliya",
+      "Barcha javoblar togri"
+    ]
+  },
+  {
+    "Number": 398,
+    "Text": "Yangi tugilgan chaqaloqlarning 3-4 kunlihigacha ajraladugan najas qanday nomlanadi?",
+    "Answers": [
+      "Mekoniy"
+    ],
+    "Options": [
+      "Ferri reducti",
+      "Dispeptik najas",
+      "Oq tusli najas"
+    ]
+  },
+  {
+    "Number": 399,
+    "Text": "Yangi tugilgan chaqaloqda oshqozon sigimi ( ml ) .",
+    "Answers": [
+      "7 ml"
+    ],
+    "Options": [
+      "9 ml",
+      "12 ml",
+      "10 ml"
+    ]
+  },
+  {
+    "Number": 400,
+    "Text": "Emizikli bolaning ichagi gavdasiga nisbatan necha marotaba ortiq boladi.",
+    "Answers": [
+      "6"
+    ],
+    "Options": [
+      "9",
+      "11",
+      "3"
+    ]
+  },
+  {
+    "Number": 401,
+    "Text": "Chaqaloqda ozuqa qancha vaqtda hazm boladi .",
+    "Answers": [
+      "4 -18 soat"
+    ],
+    "Options": [
+      "11 soat",
+      "25 soat",
+      "20 soat"
+    ]
+  },
+  {
+    "Number": 402,
+    "Text": "Yangi tugilgan bolaning oshqozon osti bezi ogirligi qancha.",
+    "Answers": [
+      "3 gram"
+    ],
+    "Options": [
+      "33 gram",
+      "20 gram",
+      "40 gram"
+    ]
+  },
+  {
+    "Number": 403,
+    "Text": "I.P. Rezenkov oshqozon ichak faoliyatini nechchiga boldi.",
+    "Answers": [
+      "6"
+    ],
+    "Options": [
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "Number": 404,
+    "Text": "Hazm tizimi xomila rivojining qaysi kunida ektodermadan birlamchi ichak naychasi sifatida rivojlanadi.",
+    "Answers": [
+      "7-8"
+    ],
+    "Options": [
+      "4-9",
+      "5-7",
+      "2-3"
+    ]
+  },
+  {
+    "Number": 405,
+    "Text": "Kloakal membrana nechchi oyda sorilib ketadi.",
+    "Answers": [
+      "3 oyda"
+    ],
+    "Options": [
+      "2 oyda",
+      "7 oyda",
+      "5 oyda"
+    ]
+  },
+  {
+    "Number": 406,
+    "Text": "Qizilongach uzunligi chaqaloqlarda.",
+    "Answers": [
+      "10 sm"
+    ],
+    "Options": [
+      "25 sm",
+      "4sm",
+      "6sm"
+    ]
+  },
+  {
+    "Number": 407,
+    "Text": "Qizilongach uzunligi 5 yoshda.",
+    "Answers": [
+      "16 sm"
+    ],
+    "Options": [
+      "24 sm",
+      "18 sm",
+      "33 sm"
+    ]
+  },
+  {
+    "Number": 408,
+    "Text": "Qizilongach uzunligi kattalarda.",
+    "Answers": [
+      "25 sm"
+    ],
+    "Options": [
+      "16 sm",
+      "10 sm",
+      "30 sm"
+    ]
+  },
+  {
+    "Number": 409,
+    "Text": "1 yosh oxirida oshqozon sigimi.",
+    "Answers": [
+      "250 ml"
+    ],
+    "Options": [
+      "300 ml",
+      "400 ml",
+      "100 ml"
+    ]
+  },
+  {
+    "Number": 410,
+    "Text": "Shirdon fermenti bolaning 1 oyligida necha shartli birlikda boladi.",
+    "Answers": [
+      "16-32"
+    ],
+    "Options": [
+      "5-6",
+      "6-7",
+      "8-9"
+    ]
+  },
+  {
+    "Number": 411,
+    "Text": "Shirdon fermenti shartli birligi bir yosh oxirida.",
+    "Answers": [
+      "256-512"
+    ],
+    "Options": [
+      "100-200",
+      "400-500",
+      "200-500"
+    ]
+  },
+  {
+    "Number": 412,
+    "Text": "Chaqaloqlarda ingichka ichak uzunligi.",
+    "Answers": [
+      "1,5-3 m"
+    ],
+    "Options": [
+      "1m",
+      "2m",
+      "0,5 m"
+    ]
+  },
+  {
+    "Number": 413,
+    "Text": "Kokrak yoshida ichak boydan necha marta uzun boladi.",
+    "Answers": [
+      "6,5"
+    ],
+    "Options": [
+      "4",
+      "6",
+      "9"
+    ]
+  },
+  {
+    "Number": 414,
+    "Text": "Ichak shirasi muhiti ( PH ).",
+    "Answers": [
+      "7,3-7,6"
+    ],
+    "Options": [
+      "4-5",
+      "3-8",
+      "2-5"
+    ]
+  },
+  {
+    "Number": 415,
+    "Text": "Bir yoshdan katta bolalarda tripsin faolligi qancha shartli birlikda boladi.",
+    "Answers": [
+      "4000"
+    ],
+    "Options": [
+      "5000",
+      "7000",
+      "9000"
+    ]
+  },
+  {
+    "Number": 416,
+    "Text": "Kokrak yoshidagi bolalarda duodenal shirasidagi lipaza faolligi necha shartli birlikda boladi.",
+    "Answers": [
+      "28-30"
+    ],
+    "Options": [
+      "30-50",
+      "60-70",
+      "30-40"
+    ]
+  },
+  {
+    "Number": 417,
+    "Text": "Yangi tugilgan bolalarda mushak tolasining ingichkaligi kattalarga nisbatan necha marta ingichka boladi?",
+    "Answers": [
+      "5 marta"
+    ],
+    "Options": [
+      "7 marta",
+      "9 marta",
+      "10 marta"
+    ]
+  },
+  {
+    "Number": 418,
+    "Text": "Chaqaloqlarda mushak tolasi diametri qancha?",
+    "Answers": [
+      "7 mkm"
+    ],
+    "Options": [
+      "9 mkm",
+      "11 mkm",
+      "3 mkm"
+    ]
+  },
+  {
+    "Number": 419,
+    "Text": "Yangi tugilgan bolaning mushak tizimi uning umumiy ogirligini necha foizini tashkil qiladi?",
+    "Answers": [
+      "23 foiz"
+    ],
+    "Options": [
+      "33 %",
+      "20 %",
+      "40 %"
+    ]
+  },
+  {
+    "Number": 420,
+    "Text": "Bolaning 6 va 15 yoshida mushak tana massasining necha foizini tashkil qiladi?",
+    "Answers": [
+      "27 va 32 foiz"
+    ],
+    "Options": [
+      "25 va 38 %",
+      "33 va 35 %",
+      "16 va 22 %"
+    ]
+  },
+  {
+    "Number": 421,
+    "Text": "Mushak massasi tana vazninig erkaklarda necha foizni tashkil qiladi?",
+    "Answers": [
+      "42 foiz"
+    ],
+    "Options": [
+      "33 %",
+      "55%",
+      "22 %"
+    ]
+  },
+  {
+    "Number": 422,
+    "Text": "Ayollarda mushaklar tana massasining necha foizini tashkil qiladi?",
+    "Answers": [
+      "38 foiz"
+    ],
+    "Options": [
+      "33%",
+      "45%",
+      "53%"
+    ]
+  },
+  {
+    "Number": 423,
+    "Text": "Butun osish jarayonida umumiy mushaklar vazni necha marotaba kopayadi?",
+    "Answers": [
+      "37"
+    ],
+    "Options": [
+      "25",
+      "45",
+      "60"
+    ]
+  },
+  {
+    "Number": 424,
+    "Text": "Butun osish davomida umumiy suyaklar vazni necha marotaba kopayadi?",
+    "Answers": [
+      "27"
+    ],
+    "Options": [
+      "24",
+      "37",
+      "33"
+    ]
+  },
+  {
+    "Number": 425,
+    "Text": "Yangi tugilgan chaqaloqlarda va bir oylikgacha bolgan davrlarda mushak tonusining oshishi xarakterli bolib u qaysi mushaklarda yaxshi ifodalanadi?",
+    "Answers": [
+      "qol oyoqni bukuvchi mushaklarda"
+    ],
+    "Options": [
+      "boyin muskullaru",
+      "qorin muskullari",
+      "mimika muskullari"
+    ]
+  },
+  {
+    "Number": 426,
+    "Text": "Soglom bolada qolning gipertoniyasi necchi oylikda yoqoladi?",
+    "Answers": [
+      "2-2,5 oylikda"
+    ],
+    "Options": [
+      "3-4 oylikda",
+      "5-6 oylikda",
+      "1-2 oylikda"
+    ]
+  },
+  {
+    "Number": 427,
+    "Text": "Yangi tugilga chaqaloqda oyoqlar gipertoniyasi necha oylikda yoqoladi?",
+    "Answers": [
+      "3-4 oyda"
+    ],
+    "Options": [
+      "5-6 oyda",
+      "6-7 oyda",
+      "8-9 oyda"
+    ]
+  },
+  {
+    "Number": 428,
+    "Text": "Katta bolalarda mushak kuchi nima yordamida tekshiriladi?",
+    "Answers": [
+      "Dinamometr"
+    ],
+    "Options": [
+      "Termometr",
+      "Tanometr",
+      "fanendaskop"
+    ]
+  },
+  {
+    "Number": 429,
+    "Text": "Asab mushak kasalligi bolib bunda mushak faol harakatda juda kuchsizlanib tez charchab qoladi bu qaysi kasallikda?",
+    "Answers": [
+      "Miasteniya"
+    ],
+    "Options": [
+      "Miatoniya",
+      "Miotoniya",
+      "Progressiv mushak distrofiyasi"
+    ]
+  },
+  {
+    "Number": 430,
+    "Text": "Ontogenezda suyak toqimasi qanday yollar bilan paydo boladi?",
+    "Answers": [
+      "dermal va xondral"
+    ],
+    "Options": [
+      "togri javob yoq",
+      "ectodermal",
+      "A va C javob"
+    ]
+  },
+  {
+    "Number": 431,
+    "Text": "Homilada suyaklanishning boshlanish davrlarida togay tana vaznining necha foizini tashkil qiladi?",
+    "Answers": [
+      "45 %"
+    ],
+    "Options": [
+      "55",
+      "33",
+      "23"
+    ]
+  },
+  {
+    "Number": 432,
+    "Text": "Suyak hosil bolishi necha bosqichdan iborat?",
+    "Answers": [
+      "3"
+    ],
+    "Options": [
+      "5",
+      "7",
+      "9"
+    ]
+  },
+  {
+    "Number": 433,
+    "Text": "Tishlarning tashkil topishi homiladorlik davrining 2 oy oxirlarida boshlanib qanday murtaklardan rivojlanadi?",
+    "Answers": [
+      "epiteliy va mezinxema"
+    ],
+    "Options": [
+      "ektoderma",
+      "endoderma",
+      "derma"
+    ]
+  },
+  {
+    "Number": 434,
+    "Text": "Kichik liqildoq ensa suyagi bn tepa suyagi orasida joylashgan bolib yangi tugilgan bolaning 25 % izida qanday korinishda boladi?",
+    "Answers": [
+      "ochiq, uchburchak"
+    ],
+    "Options": [
+      "Yumaloq",
+      "yopiq, uchburchak",
+      "ochiq, yumaloq"
+    ]
+  },
+  {
+    "Number": 435,
+    "Text": "Bosh suyak pardasi ostiga qon quyilishi nima deyiladi?",
+    "Answers": [
+      "Kefologematoma"
+    ],
+    "Options": [
+      "Kraniostenoz",
+      "Kraniotabes",
+      "Makrogematoma"
+    ]
+  },
+  {
+    "Number": 436,
+    "Text": "laktatsiya qanday davr xisoblanadi?",
+    "Answers": [
+      "sut bezlaridan sut ajraladigan."
+    ],
+    "Options": [
+      "tugruq oldi davr.",
+      "bolada ovqatlanish siztemasining buzilishi",
+      "ona suti tarkibida rezus omil hosil bolishi."
+    ]
+  },
+  {
+    "Number": 437,
+    "Text": "ogiz suti yetilgan sutdan nimasi bilan farqlanadi?",
+    "Answers": [
+      "yetilgan sutga nisbatan albunim na va ca tuzlari kop boladi."
+    ],
+    "Options": [
+      "zararli moddalari boladi",
+      "yetilgan sutga nisbatan albunim na va ca tuzlari kam boladi.",
+      "tarkibi umuman farq qilmaydi."
+    ]
+  },
+  {
+    "Number": 438,
+    "Text": "nechachi kunlardan boshlab ogiz suti tarkibi ozgaradi.",
+    "Answers": [
+      "4-5"
+    ],
+    "Options": [
+      "10-12",
+      "1-2",
+      "8-9"
+    ]
+  },
+  {
+    "Number": 439,
+    "Text": "ona sutini echki va sigir sutidan farqi qanday",
+    "Answers": [
+      "kazein miqdori kam.+"
+    ],
+    "Options": [
+      "yogi kop",
+      "hazim qilinishi qiyin",
+      "uchuvchi yog kislotasi kop"
+    ]
+  },
+  {
+    "Number": 440,
+    "Text": "betalaktoza qaysi arganizm suti tarkibida koroq",
+    "Answers": [
+      "ona suti"
+    ],
+    "Options": [
+      "echki suti",
+      "sigir suti",
+      "tuya suti"
+    ]
+  },
+  {
+    "Number": 441,
+    "Text": "ona sutidagi calsiy va fosfor sigir sutiga qaraganda necha foizgacha ozlashtiriladi.",
+    "Answers": [
+      "70%"
+    ],
+    "Options": [
+      "60%",
+      "10%",
+      "25%"
+    ]
+  },
+  {
+    "Number": 442,
+    "Text": "ona suti tarkida qaysi vitamin yetishmaydi ammo onaga baliq istemol qildirib vitamin miqdorini  tiklab olsa boladi.",
+    "Answers": [
+      "d vitamin"
+    ],
+    "Options": [
+      "c vitamin",
+      "e vitamin",
+      "a vitamin"
+    ]
+  },
+  {
+    "Number": 443,
+    "Text": "soglom ona bir kunda qancha sut ajratadi.",
+    "Answers": [
+      "1.5 l"
+    ],
+    "Options": [
+      "2-2.5 l",
+      "0.5l",
+      "3l"
+    ]
+  },
+  {
+    "Number": 444,
+    "Text": "soglom tugulgan chaqaloqlar necha soat da birinchi bor emizishga beriladi.",
+    "Answers": [
+      "2-4"
+    ],
+    "Options": [
+      "6-7",
+      "4-5",
+      "3-5"
+    ]
+  },
+  {
+    "Number": 445,
+    "Text": "bolalarni kuniga necha  martagacha emizish kerak.",
+    "Answers": [
+      "bola talabiga kora."
+    ],
+    "Options": [
+      "8-9",
+      "3-7",
+      "10-12"
+    ]
+  },
+  {
+    "Number": 446,
+    "Text": "hayotining nechanchi oyidan boshlab bolaga oksidlanish jarayonlarini yaxshilash uchun с vitamini meva va sabzavot shirasi korinishida yarim choy qoshiqdan boshlab, bir kunda to 8-10 qoshiqqacha beriladi.",
+    "Answers": [
+      "e"
+    ],
+    "Options": [
+      "c",
+      "a",
+      "b vitamin"
+    ]
+  },
+  {
+    "Number": 447,
+    "Text": "necha oydan boshlab bolaning tuz va uglevodlarga bolgan talabi ortadi va uning bu talabini yolgiz ona suti qondira olmaydi. bolaga qoshimcha ovqatlar berish, emizish kabi m alum soatlar boyicha otkazilishi mumkin.",
+    "Answers": [
+      "6 oylik"
+    ],
+    "Options": [
+      "3 oylik",
+      "7 oylik",
+      "1 yoshdan kyn"
+    ]
+  },
+  {
+    "Number": 448,
+    "Text": "ikkinchi qoshimcha ovqatga nimalardan tayyorlangan botqalar kiradi?",
+    "Answers": [
+      "5-10% li manniy botqasi, guruch va grechixa"
+    ],
+    "Options": [
+      "sabzili botqa",
+      "kartoshkali",
+      "boshtli bulyon."
+    ]
+  },
+  {
+    "Number": 449,
+    "Text": "gipogalaktiya nima",
+    "Answers": [
+      "kokrak sutining yetarlicha bolmasligi ona kasalligi va uning notog ri"
+    ],
+    "Options": [
+      "ona kokragi kattalashishi",
+      "sut kelishi butunlay toxtashi.",
+      "c javob togri"
+    ]
+  },
+  {
+    "Number": 450,
+    "Text": "quruq  sut nima?",
+    "Answers": [
+      "emizikli bolalar uchun qimmatli va toyimli ovqatlardan bolib, qaymogi olinmagan sutdan tayyorlanadi"
+    ],
+    "Options": [
+      "manniy botqasi",
+      "soli yormasi.",
+      "chaqoloqlar uchun mumkin bolmagan modda."
+    ]
+  },
+  {
+    "Number": 451,
+    "Text": "bolalar oqsillarga nisbatan uglevodlarni necha marta kop olishlari kerak?",
+    "Answers": [
+      "4-5"
+    ],
+    "Options": [
+      "7-8",
+      "2-3",
+      "1.7"
+    ]
+  },
+  {
+    "Number": 452,
+    "Text": "ovqatlantirish soni: 2 yoshgacha bir kecha-kunduzda …marta bolishi kerak.",
+    "Answers": [
+      "4-5"
+    ],
+    "Options": [
+      "2-3",
+      "1.7",
+      "6-9"
+    ]
+  },
+  {
+    "Number": 453,
+    "Text": "bolaning vitam inlarga b o lgan ehtiyojini qondirish maqsadida unga sabzavot va mevalar  va yana nimalar berish kerak?",
+    "Answers": [
+      "baliq moyi (d vitamini), yog, tuxum sarigi (a vitamini)"
+    ],
+    "Options": [
+      "oq bugdoy unidan non",
+      "manniy kashalari",
+      "sigir suti."
+    ]
+  },
+  {
+    "Number": 454,
+    "Text": "ona o tkir kasalliklar (opka yalliglanishi, tif, tuqqandan keyingi sepsis va b.) bilan ogrisa bolani emizishi mumkinmi.",
+    "Answers": [
+      "ha"
+    ],
+    "Options": [
+      "yoq",
+      "faqat tuzalgandan keyin",
+      "bolaga yuqishi darajasi tekshiriladi"
+    ]
+  },
+  {
+    "Number": 455,
+    "Text": "qaysi sut tarkibida а, в,, pp va с vitaminlar kopdir",
+    "Answers": [
+      "ogiz suti"
+    ],
+    "Options": [
+      "yetilgan sut",
+      "echki suti.",
+      "sigir suti."
+    ]
+  },
+  {
+    "Number": 456,
+    "Text": "Chaqaloqlarda qayd qilishning asosiy sabablari?",
+    "Answers": [
+      "kardial sfinkter yetishmovchiligi"
+    ],
+    "Options": [
+      "kardiospazm",
+      "otkir ezofagit",
+      "pilorospazm"
+    ]
+  },
+  {
+    "Number": 457,
+    "Text": "Axlat suvdek yoki botqasimon kuniga 10marta bolishi qanday holat?",
+    "Answers": [
+      "diareya"
+    ],
+    "Options": [
+      "qabziyat",
+      "ishtaha yoqligi",
+      "kongil aynishi"
+    ]
+  },
+  {
+    "Number": 458,
+    "Text": "Togri ichak yangi shakli yangi tugilgan chaqaloqlarda qanday shaklda boladi?",
+    "Answers": [
+      "slindrik shaklda"
+    ],
+    "Options": [
+      "burchaksimon shaklda",
+      "aylana shaklda",
+      "tortburchak shaklda"
+    ]
+  },
+  {
+    "Number": 459,
+    "Text": "Emizikli yoshdagi bolalarda ozuqa qancha vaqtda hazm boladi",
+    "Answers": [
+      "4-18 soat"
+    ],
+    "Options": [
+      "1-2 soat",
+      "3-4 soat",
+      "20 soat"
+    ]
+  },
+  {
+    "Number": 460,
+    "Text": "Bolaning birinchi ahlati nima deyiladi",
+    "Answers": [
+      "mekoniy"
+    ],
+    "Options": [
+      "respiyator",
+      "anzmzl ahlat",
+      "normal ahlat"
+    ]
+  },
+  {
+    "Number": 461,
+    "Text": "Chaqaloqlarda oshqozon osti bezining ogirligi qancha",
+    "Answers": [
+      "3gr"
+    ],
+    "Options": [
+      "10gr",
+      "20gr",
+      "30gr"
+    ]
+  },
+  {
+    "Number": 462,
+    "Text": "Kokrak suti bn boqilmaydigan bolalarda ichak tayoqchalari mikroorganizmlarning qancha qismini tashkil etadi",
+    "Answers": [
+      "60-90%"
+    ],
+    "Options": [
+      "10-20%",
+      "30-40%",
+      "80-100%"
+    ]
+  },
+  {
+    "Number": 463,
+    "Text": "Bola umrining uchinchi kunidan boshlab uning najasi nima deyiladi",
+    "Answers": [
+      "otish davri najasi"
+    ],
+    "Options": [
+      "bilirubin najasi",
+      "normal najas",
+      "anomal najas"
+    ]
+  },
+  {
+    "Number": 464,
+    "Text": "Yutilishning buzilishi nima deyiladi",
+    "Answers": [
+      "disfagiya"
+    ],
+    "Options": [
+      "spazmik",
+      "ensofagiya",
+      "miopatiya"
+    ]
+  },
+  {
+    "Number": 465,
+    "Text": "Qayt qilish holati nima deyiladi",
+    "Answers": [
+      "regurgitatsiya"
+    ],
+    "Options": [
+      "qabziyat",
+      "diareya",
+      "alergiya"
+    ]
+  },
+  {
+    "Number": 466,
+    "Text": "Ishtahaning  yoqligi nima deyiladi",
+    "Answers": [
+      "anoreksiya"
+    ],
+    "Options": [
+      "spazm",
+      "qabziyat",
+      "diareya"
+    ]
+  },
+  {
+    "Number": 467,
+    "Text": "Chaqaloqlarda Suvsizlanish nima oqibatida kelib chiqadi?",
+    "Answers": [
+      "diareya qusish"
+    ],
+    "Options": [
+      "notogri ovqatlanish",
+      "yurak kasalliklari",
+      "qabziyat"
+    ]
+  },
+  {
+    "Number": 468,
+    "Text": "olalarda askaridoz qanday kasallik hisoblanadi",
+    "Answers": [
+      "gijja invaziyasi"
+    ],
+    "Options": [
+      "surunkali yurak kasalligi",
+      "ichak kasalligi",
+      "nafas kasalligi"
+    ]
+  },
+  {
+    "Number": 469,
+    "Text": "Emizikli bolalarda havo yutish hodisasi nima deyiladi",
+    "Answers": [
+      "aerofagiya"
+    ],
+    "Options": [
+      "gipermetropiya",
+      "esofageliya",
+      "revmatizm"
+    ]
+  },
+  {
+    "Number": 470,
+    "Text": "Bolalarda bori tanglayi qanday holatda boladi",
+    "Answers": [
+      "yuqoridagi jagning yopilmasligi"
+    ],
+    "Options": [
+      "paski jagning yopilmasligi",
+      "nafas kasalliklari",
+      "ichak kasalliklari"
+    ]
+  },
+  {
+    "Number": 471,
+    "Text": "Bolalarda polifagiya qanday holat",
+    "Answers": [
+      "ishtaha ortishi"
+    ],
+    "Options": [
+      "ishyaha pasayishi",
+      "ishtaha yoqligi",
+      "umumiy holsizlik"
+    ]
+  },
+  {
+    "Number": 472,
+    "Text": "Molazivo nima deyiladi",
+    "Answers": [
+      "ogiz suti miqdori"
+    ],
+    "Options": [
+      "qoshimcha ovqat",
+      "ovqatlanishning buzilishi",
+      "normal ovqay"
+    ]
+  },
+  {
+    "Number": 473,
+    "Text": "Ona sutining sigir sutidan farqi nimada",
+    "Answers": [
+      "kazein kam"
+    ],
+    "Options": [
+      "yogi kam",
+      "uglevd kam",
+      "oqsil kam"
+    ]
+  },
+  {
+    "Number": 474,
+    "Text": "Ogiz suti tarkibida qanday vitaminlar kop",
+    "Answers": [
+      "a va b javoblar"
+    ],
+    "Options": [
+      "a b1",
+      "pp c",
+      "e"
+    ]
+  },
+  {
+    "Number": 475,
+    "Text": "Soglom tugilgan chaqaloqlarga dastlab qancha vaqt ona suti beriladi",
+    "Answers": [
+      "2-4c soat"
+    ],
+    "Options": [
+      "5kun",
+      "berilmaydi",
+      "10 12 soat"
+    ]
+  },
+  {
+    "Number": 476,
+    "Text": "CHegaralangan gipotoniya qanday kasalliklar bn bogliq",
+    "Answers": [
+      "periferik neyron kasalliklari"
+    ],
+    "Options": [
+      "suyak kasalliklari",
+      "bogim kasalliklari",
+      "hazm qilish kasalliklari"
+    ]
+  },
+  {
+    "Number": 477,
+    "Text": "Homiladorlikning 7 chi oyida son suyagidagi suv nechi foizni tashkil qiladi",
+    "Answers": [
+      "70"
+    ],
+    "Options": [
+      "30",
+      "40",
+      "50"
+    ]
+  },
+  {
+    "Number": 478,
+    "Text": "Kattabolalarda ostiomiyelit asosan qaysi atroda joylashgan",
+    "Answers": [
+      "metafiz atrofi"
+    ],
+    "Options": [
+      "ensa sohasi",
+      "tizza sohasi",
+      "ogiz atrofi"
+    ]
+  },
+  {
+    "Number": 479,
+    "Text": "Bolalarda qizil ilik qayerni toldirib turadi",
+    "Answers": [
+      "uzun naysimon suyak boshligi"
+    ],
+    "Options": [
+      "ponasimon suyak bosgligi",
+      "kurak sohasi",
+      "bilakuzuk sohasi"
+    ]
+  },
+  {
+    "Number": 480,
+    "Text": "Bolalarda umurtqa pogonasining yonga qarab egilib qolishi nima deyiladi",
+    "Answers": [
+      "skolioz"
+    ],
+    "Options": [
+      "sponditilit",
+      "lordoz",
+      "kifoz"
+    ]
+  },
+  {
+    "Number": 481,
+    "Text": "Bolalarda uchraydigan spondilit qanday kasallik",
+    "Answers": [
+      "umurtqa sili"
+    ],
+    "Options": [
+      "kokrak saratoni",
+      "jigar kasalligi",
+      "miya kasalliklari"
+    ]
+  },
+  {
+    "Number": 482,
+    "Text": "Umurtqa pogonasidagi egilish yoysimon shaklda bu qanday kasallik",
+    "Answers": [
+      "raxit"
+    ],
+    "Options": [
+      "nafas kasalligi",
+      "yurak kasalligi",
+      "ichak kasalligi"
+    ]
+  },
+  {
+    "Number": 483,
+    "Text": "Qaysi kasallikda suyaklar osteoxondrit korinishida zaralanadi",
+    "Answers": [
+      "tugma zahmda"
+    ],
+    "Options": [
+      "yurak kasalliklari",
+      "nafas kasalliklarida",
+      "hazm qikish kasalliklari"
+    ]
+  },
+  {
+    "Number": 484,
+    "Text": "Soglom bolada liqildoq qachon yopiladi",
+    "Answers": [
+      "15-18 oyligida"
+    ],
+    "Options": [
+      "5- 10 oyligida",
+      "10-7 oyligida",
+      "4-5 oyligida"
+    ]
+  },
+  {
+    "Number": 485,
+    "Text": "Minora shaklidagi bosh qaysi kasallikda bor",
+    "Answers": [
+      "tugma zahm"
+    ],
+    "Options": [
+      "rahit",
+      "nerv kasalliklari",
+      "miningit"
+    ]
+  },
+  {
+    "Number": 486,
+    "Text": "Tortburchak shakldagi bosh qaysi kasallikda boladi",
+    "Answers": [
+      "raxit"
+    ],
+    "Options": [
+      "meningit",
+      "ensefalit",
+      "nerv kasalliklari"
+    ]
+  },
+  {
+    "Number": 487,
+    "Text": "Umurtqa pogonasining oldinga qarab egilishi qanday holat",
+    "Answers": [
+      "Lordoz"
+    ],
+    "Options": [
+      "Kifoz",
+      "Skolioz",
+      "Poliomiyelit"
+    ]
+  },
+  {
+    "Number": 488,
+    "Text": "Bel lardozi qaysi sohada kuzatiladi",
+    "Answers": [
+      "boyin va dumgazada"
+    ],
+    "Options": [
+      "boyin va kokrakda",
+      "sonda",
+      "bilakda"
+    ]
+  },
+  {
+    "Number": 489,
+    "Text": "4 yoshli bolda son suyagidagi suv miqdori qancha",
+    "Answers": [
+      "46"
+    ],
+    "Options": [
+      "56",
+      "40",
+      "90"
+    ]
+  },
+  {
+    "Number": 490,
+    "Text": "Epifiz  suyakning qaysi sohasida yuzaga keladi",
+    "Answers": [
+      "a va b javob togri"
+    ],
+    "Options": [
+      "uchida",
+      "pasida",
+      "atrofida"
+    ]
+  },
+  {
+    "Number": 491,
+    "Text": "Umurtqa pogonasining egilishi burchaksimon shaklda qaysi kasallikda",
+    "Answers": [
+      "umurtqa sili"
+    ],
+    "Options": [
+      "nerv kasallliklari",
+      "asab sistemasi",
+      "ruhiy kasalliklar"
+    ]
+  },
+  {
+    "Number": 492,
+    "Text": "Asta-sekin nafas chuqurligi va tezligi   oshib borib,song",
+    "Answers": [
+      "CHeyn-stoks nafasi"
+    ],
+    "Options": [
+      "Kussmaul nafasi",
+      "Biot nafasi",
+      "Taxipnoe",
+      "Bradipnoe"
+    ]
+  },
+  {
+    "Number": 493,
+    "Text": "Bola bir yoshga tolganda tana massasi bolishi kerak:",
+    "Answers": [
+      "10 kg"
+    ],
+    "Options": [
+      "8kg",
+      "9 kg",
+      "13kg",
+      "15 kg"
+    ]
+  },
+  {
+    "Number": 494,
+    "Text": "\"taxipnoe\" termini bu",
+    "Answers": [
+      "Nafasni tezlashishi"
+    ],
+    "Options": [
+      "Nafasni syokinlashishi",
+      "Nafasni chuqurlashishi",
+      "Yuzaki nafas",
+      "Aritmik nafas"
+    ]
+  },
+  {
+    "Number": 495,
+    "Text": "Tana xarorati 1s oshganda pulьs kopayadi",
+    "Answers": [
+      "10 taga"
+    ],
+    "Options": [
+      "5 taga",
+      "20 taga",
+      "30 taga",
+      "40 taga"
+    ]
+  },
+  {
+    "Number": 496,
+    "Text": "Birinchi darajada chala tugilganligiga",
+    "Answers": [
+      "2001g dan 2500 gacha"
+    ],
+    "Options": [
+      "1000g dan 1200 gacha",
+      "1300g dan 1500 gacha",
+      "1500g dan 1700 gacha",
+      "1800g dan 1900 gacha"
+    ]
+  },
+  {
+    "Number": 497,
+    "Text": "Bolani qolda tutib , uni biodaniga pastga",
+    "Answers": [
+      "Moro refleksi"
+    ],
+    "Options": [
+      "Qorninga simptomi",
+      "Galanta refleksi",
+      "Bauer refleksi",
+      "Tayanch refleksi"
+    ]
+  },
+  {
+    "Number": 498,
+    "Text": "CHaqaloqlarning umurtkalar orasini",
+    "Answers": [
+      "galanta refleksi"
+    ],
+    "Options": [
+      "moro refleksi",
+      "perez refleksi",
+      "peyper refleksi",
+      "Bauer refleksi"
+    ]
+  },
+  {
+    "Number": 499,
+    "Text": "Erta yoshli bolalarda terining fiziologik xususiyatlari",
+    "Answers": [
+      "matseratsiyaga moyilligi"
+    ],
+    "Options": [
+      "maxalliy termoregulyatsiya saqlangan",
+      "maxalliy shish termoregulyatsiyasi yoq",
+      "terining shish shikastlanishi",
+      "terining yengil infektsiyalanishi"
+    ]
+  },
+  {
+    "Number": 500,
+    "Text": "Isitmani kanday turlari mavjud:",
+    "Answers": [
+      "Hammasi"
+    ],
+    "Options": [
+      "Doimiy",
+      "Atipik",
+      "Subfebril",
+      "Giperpiret"
+    ]
+  },
+  {
+    "Number": 501,
+    "Text": "Isitmaning biologik foydasi:",
+    "Answers": [
+      "Interferon stimulyatsiyasi"
+    ],
+    "Options": [
+      "Yalliglanish uchogida katabolizm jaraenini kuchayishi",
+      "Antibakterial terapiyaning effektivligi",
+      "MNS faoliyatini susayishi",
+      "MNS kuchayishi"
+    ]
+  },
+  {
+    "Number": 502,
+    "Text": "Tovondan  shtrixsimon chizik utkazish natijasida  barmoqlarning yelpigichsimon",
+    "Answers": [
+      "Babinskiy"
+    ],
+    "Options": [
+      "Galant",
+      "Babkina",
+      "Bauera",
+      "Brudzinskiy"
+    ]
+  },
+  {
+    "Number": 503,
+    "Text": "Barmoq bilan Chaqaloq labiga sekin tegilsa,  lablarning chuchchayishi kuzatiladi. Bu",
+    "Answers": [
+      "Xartum"
+    ],
+    "Options": [
+      "Babinskiy",
+      "Bauera",
+      "Peresa",
+      "Brudzinskiy"
+    ]
+  },
+  {
+    "Number": 504,
+    "Text": "4 oydan 6 oygacha bolgan bolalarining sutkalik sutga extiyojini topish formulasi",
+    "Answers": [
+      "1: 8 vazn"
+    ],
+    "Options": [
+      "1:7vazn",
+      "1:5vazn",
+      "1:6vazn",
+      "1:10vazn"
+    ]
+  },
+  {
+    "Number": 505,
+    "Text": "7-8 kunlik bolaning sutkalik sutga bolgan extiyojini topish Zaytsev formulasi",
+    "Answers": [
+      "2% vazn oraligi"
+    ],
+    "Options": [
+      "P. 10=M",
+      "1:7 vazn oraligi",
+      "1:5 vazn oraligi",
+      "P. 70 yoki /80/ M"
+    ]
+  },
+  {
+    "Number": 506,
+    "Text": "1 yoshdan katta bolalarda 4 martalik ovqatlanishda tushlik ovqat sutkalik ovqatning necha % tashkil qilish kerak",
+    "Answers": [
+      "20%"
+    ],
+    "Options": [
+      "25%",
+      "15%",
+      "30-35%",
+      "10%"
+    ]
+  },
+  {
+    "Number": 507,
+    "Text": "1-1,5 yoshdan katta bola necha marta ovqatlanadi",
+    "Answers": [
+      "4marta"
+    ],
+    "Options": [
+      "7 marta",
+      "8 marta",
+      "5 marta",
+      "6 marta"
+    ]
+  },
+  {
+    "Number": 508,
+    "Text": "Yangi tugilgan soglom chaqaloq bosh aylanasi teng:",
+    "Answers": [
+      "34-36 sm"
+    ],
+    "Options": [
+      "30-32sm",
+      "36-40 sm",
+      "34-38sm",
+      "28-30 sm"
+    ]
+  },
+  {
+    "Number": 509,
+    "Text": "Yangi tugilgan chaqaloqlarda mongol doglari asoslanadi:",
+    "Answers": [
+      "pigment xosil qiluvchi xujayralar borligi"
+    ],
+    "Options": [
+      "vitiligo",
+      "giperbilirubinemiya",
+      "qon quyilishi",
+      "giperkeratoz"
+    ]
+  },
+  {
+    "Number": 510,
+    "Text": "CHaqaloqlarda siydik miqdori ml-da:",
+    "Answers": [
+      "30-50 ml"
+    ],
+    "Options": [
+      "90-110 ml.",
+      "60-80 ml",
+      "120-140 ml",
+      "150-170 ml"
+    ]
+  },
+  {
+    "Number": 511,
+    "Text": "Prenatal gipotrofiyaning 2 darajasini korsating",
+    "Answers": [
+      "15% - 20%"
+    ],
+    "Options": [
+      "7,5 - 10%",
+      "12%- 15%",
+      "25% - 30%",
+      "30 dan yuqori"
+    ]
+  },
+  {
+    "Number": 512,
+    "Text": "CHaqaloqlik davri necha kun davom etadi",
+    "Answers": [
+      "28 kun"
+    ],
+    "Options": [
+      "3 kun",
+      "10 kun",
+      "20 kun",
+      "40 kun"
+    ]
+  },
+  {
+    "Number": 513,
+    "Text": "Tabiy ovqatlantirishda 4 -6 oygacha bolgan bolalarda yogga bolgan sutkalik extiyoj g /kg",
+    "Answers": [
+      "6,0 g/kg"
+    ],
+    "Options": [
+      "5,0g/kg",
+      "5,5g/kg",
+      "7,0g/kg",
+      "6,5g/kg"
+    ]
+  },
+  {
+    "Number": 514,
+    "Text": "12 oylik bolalarning yogga bolgan extiyoji tabiy ovqatlanishda",
+    "Answers": [
+      "7,0g/kg"
+    ],
+    "Options": [
+      "6,0g/kg",
+      "5,5g/kg",
+      "6,5g/kg",
+      "5,0g/kg"
+    ]
+  },
+  {
+    "Number": 515,
+    "Text": "Ona bolani mutlok emizishi mumkin bolmagan holatga kirmaydi",
+    "Answers": [
+      "Xomiladorlikdan avval onada sifilis  aniqlangan"
+    ],
+    "Options": [
+      "buyrak yetishmasligi ogir holati",
+      "Yurak yetishmasligini ogir holati",
+      "Yomon sifatli usma kasalligi",
+      "Onada psixik kasal bolganda"
+    ]
+  },
+  {
+    "Number": 516,
+    "Text": "Bir litr birinchi ogiz suti tarkibidagi  oqsil, yeg, qarbon suvga (gr) mos kelishini korsating",
+    "Answers": [
+      "40-50 va 75- va 65"
+    ],
+    "Options": [
+      "50-60 va 70 va 60",
+      "60-65 va 60 va 55",
+      "65-70 va 50 va 50",
+      "80-132 va 35 va 45"
+    ]
+  },
+  {
+    "Number": 517,
+    "Text": "Bir litr ael suti tarkibidagi (oqsil, yeg, karbon suvlara gr) mos kelishini aniq lang",
+    "Answers": [
+      "10 va 30 va 80"
+    ],
+    "Options": [
+      "15 va 35 va 74",
+      "20 va 45 va 70",
+      "25 va 50 va 60",
+      "30 va 40 va 50"
+    ]
+  },
+  {
+    "Number": 518,
+    "Text": "Soglom tugilgan chaqaloqni tugilgandan   keyin necha soatda emizish kerak",
+    "Answers": [
+      "Birinchi 2 soat ichida"
+    ],
+    "Options": [
+      "6-10 soatdan keyin",
+      "24 soatdan keyin",
+      "12-24 soatdan keyin",
+      "48 soatdan keyin"
+    ]
+  },
+  {
+    "Number": 519,
+    "Text": "3 oyda bola  tugilganda boyi 50sm xozirgi tana uzunligi nechaga teng",
+    "Answers": [
+      "59sm"
+    ],
+    "Options": [
+      "53sm",
+      "56sm",
+      "62sm",
+      "65sm"
+    ]
+  },
+  {
+    "Number": 520,
+    "Text": "Yangi tugilgan chaqaloq yetuklik kriteriylari:",
+    "Answers": [
+      "fiziogik reflekslar chaqiriladi"
+    ],
+    "Options": [
+      "gipotermiyaga moyillik",
+      "gipertermiyaga moyillik",
+      "xarakat aktivligi yaqqol emas",
+      "tuk bilan qoplanganligi"
+    ]
+  },
+  {
+    "Number": 521,
+    "Text": "Agar bola 49 sm uzunligi bilan tugilgan bolsa  6 oyda uning tana uzunligi nechaga teng",
+    "Answers": [
+      "65.5 sm"
+    ],
+    "Options": [
+      "53 sm",
+      "56 sm",
+      "59 sm",
+      "62 sm"
+    ]
+  },
+  {
+    "Number": 522,
+    "Text": "Chaqaloqlar fiziologik shartsiz reflekslari (oral avtomatizmi):",
+    "Answers": [
+      "xartum"
+    ],
+    "Options": [
+      "emaklash",
+      "avtomatik yurish",
+      "Moro",
+      "himoya"
+    ]
+  },
+  {
+    "Number": 523,
+    "Text": "Agar bola 50 sm uzunlik bilan tugilgan  bolsa 1 yoshda uning tana uzunligi nechaga teng",
+    "Answers": [
+      "74 sm"
+    ],
+    "Options": [
+      "59 sm",
+      "65.5 sm",
+      "66.5 sm",
+      "85 sm"
+    ]
+  },
+  {
+    "Number": 524,
+    "Text": "Bola tanasini uzunligi qaysi yoshda ikki  baravar kopayadi",
+    "Answers": [
+      "4 yoshda"
+    ],
+    "Options": [
+      "8 yoshda",
+      "3 yoshda",
+      "5 yoshda",
+      "6 yoshda"
+    ]
+  },
+  {
+    "Number": 525,
+    "Text": "Bosh barmoq bilan bola tener oldi kafti  bosib",
+    "Answers": [
+      "Babkin refleksi"
+    ],
+    "Options": [
+      "Robinson refleksi",
+      "Moro refleksi",
+      "Babinskiy refleksi",
+      "Kernig refleksi"
+    ]
+  },
+  {
+    "Number": 526,
+    "Text": "Gipotrofiyada asosiy davolash printsiplari bu-:",
+    "Answers": [
+      "dietoterapiya"
+    ],
+    "Options": [
+      "antibiotiklar",
+      "antigipoksantlar",
+      "talvasaga qarshi preparatlar",
+      "fototerapiya"
+    ]
+  },
+  {
+    "Number": 527,
+    "Text": "Bola kaftiga barmoq yoki oyinchok tegizilganda u",
+    "Answers": [
+      "Robinson refleksi"
+    ],
+    "Options": [
+      "Babkin refleksi",
+      "Moro refleksi",
+      "Bauer refleksi",
+      "Babinskiy refleksi"
+    ]
+  },
+  {
+    "Number": 528,
+    "Text": "CHaqaloq bola yonoq suyaklariga urib korilganda ogiz",
+    "Answers": [
+      "Orbikulopalpebral refleksi"
+    ],
+    "Options": [
+      "Babkin refleksi",
+      "Xvostek refleksi",
+      "Robinson refleksi",
+      "Moro refleksi"
+    ]
+  },
+  {
+    "Number": 529,
+    "Text": "6 oylikgacha bola uchun  xar oyda qoshiladigan ortacha massani korsating:",
+    "Answers": [
+      "800 gr"
+    ],
+    "Options": [
+      "900 gr",
+      "400 gr",
+      "600 gr",
+      "500 gr"
+    ]
+  },
+  {
+    "Number": 530,
+    "Text": "6 oydan katta bola uchun  xar oyda kushiladigan urtacha massani kursating:",
+    "Answers": [
+      "400 gr"
+    ],
+    "Options": [
+      "900 gr",
+      "800 gr",
+      "600 gr",
+      "500 gr"
+    ]
+  },
+  {
+    "Number": 531,
+    "Text": "BTSJ privivkasi qilinganda postvaksinal asorat bolib xisoblanadi:",
+    "Answers": [
+      "sovuq abses"
+    ],
+    "Options": [
+      "zotiljam",
+      "regionar limfadenit",
+      "talvasalar",
+      "sepsis"
+    ]
+  },
+  {
+    "Number": 532,
+    "Text": "Bolalarda gipertermiyani davolash uchun asosan qollaniladi:",
+    "Answers": [
+      "paratsetamol"
+    ],
+    "Options": [
+      "gormonoterapiya",
+      "antibiotik",
+      "analgin",
+      "aspirin"
+    ]
+  },
+  {
+    "Number": 533,
+    "Text": "Antipiretiklarga kiradi:",
+    "Answers": [
+      "paratsetamol"
+    ],
+    "Options": [
+      "noshpa",
+      "etazol",
+      "ampitsillin",
+      "isoniasid"
+    ]
+  },
+  {
+    "Number": 534,
+    "Text": "Ekzogen pirogenlarni korsating:",
+    "Answers": [
+      "bakteriya va uning  toksinlari"
+    ],
+    "Options": [
+      "makrofaglar",
+      "monositlar",
+      "neytrofillar",
+      "eozinofil"
+    ]
+  },
+  {
+    "Number": 535,
+    "Text": "Fiziologik sariqlik sababi xisoblanadi:",
+    "Answers": [
+      "ozida NvF tutgan eritrotsitlar gemolizini yuqoriligi"
+    ],
+    "Options": [
+      "antigen-antitelo reaktsiyasi",
+      "AVO tizimi boyicha ona va bola qoni togri kelmasligi",
+      "rezus-konflikt",
+      "rezus-moslik"
+    ]
+  },
+  {
+    "Number": 536,
+    "Text": "Chaqaloqlar fiziologik sariqligi sabablariga kiradi:",
+    "Answers": [
+      "chaqaloqda jigarning konyugatsiyalash funktsiyasini yetilmaganligi"
+    ],
+    "Options": [
+      "virusli  infektsiya",
+      "xomila ichi infektsiyasi",
+      "kokrakga kech qoyish",
+      "bakterial infektsiya"
+    ]
+  },
+  {
+    "Number": 537,
+    "Text": "Isitmaning foydali tomonlari :",
+    "Answers": [
+      "Himoya immune faktorlarini kuchini kuchaytirish"
+    ],
+    "Options": [
+      "Taxikardiya",
+      "Giperglikemiya",
+      "Ter ajralishining kuchayishi",
+      "Periferik qon tomirlarning kengayishi"
+    ]
+  },
+  {
+    "Number": 538,
+    "Text": "Noinfeksion isitma – bu :",
+    "Answers": [
+      "Xavfli osmalar"
+    ],
+    "Options": [
+      "Virusli gepatit",
+      "Gemolitik anemiya",
+      "sepsis",
+      "revmatik isitma"
+    ]
+  },
+  {
+    "Number": 539,
+    "Text": "Qanday patalogik jarayonlarda noinfeksion isitma rivojlanishi mumkin?",
+    "Answers": [
+      "Revmatik isitma"
+    ],
+    "Options": [
+      "Toqima nekrozida",
+      "Tireoid gormonlar giperproduksiyasida",
+      "Fizik yoki ximik faktorlar tomonidan chaqirilgan yalliglanishda",
+      "Yomon sifatli osmalarda"
+    ]
+  },
+  {
+    "Number": 540,
+    "Text": "noaniq genezli isitmaning 90 % - bu :",
+    "Answers": [
+      "BTDK"
+    ],
+    "Options": [
+      "Revmatik isitma",
+      "Yurak kasalliklari",
+      "Respirator infeksiyalar",
+      "anemiya"
+    ]
+  },
+  {
+    "Number": 541,
+    "Text": "Endogen pirogen – bu",
+    "Answers": [
+      "Interleykin 1 va 6"
+    ],
+    "Options": [
+      "Viruslar",
+      "Bakteriyalar",
+      "Zamburuglar",
+      "Sodda jonvorlar"
+    ]
+  },
+  {
+    "Number": 542,
+    "Text": "Endogen pirogen – bu",
+    "Answers": [
+      "Nekrozlangan osmalar faktori"
+    ],
+    "Options": [
+      "Viruslar",
+      "Bakteriyalar",
+      "Zamburuglar",
+      "Sodda jonvorlar"
+    ]
+  },
+  {
+    "Number": 543,
+    "Text": "Pirogen hususiyatga ega emas :",
+    "Answers": [
+      "leykositlar"
+    ],
+    "Options": [
+      "nekrozlangan osmalar faktori",
+      "Interleykin 1va 6",
+      "Interferonlar",
+      "makrofaglar"
+    ]
+  },
+  {
+    "Number": 544,
+    "Text": "Termoregulyatsiyada asosiy ahamiyatga ega:",
+    "Answers": [
+      "Bosh miya postlogi"
+    ],
+    "Options": [
+      "Miya qorinchalari",
+      "Orqa miya",
+      "Miyacha"
+    ]
+  },
+  {
+    "Number": 545,
+    "Text": "Yangi tugʻilgan yosh Oʻgʻil bolalarda bosh miya ogʻirligi qancha?",
+    "Answers": [
+      "390"
+    ],
+    "Options": [
+      "250",
+      "380",
+      "450"
+    ]
+  },
+  {
+    "Number": 546,
+    "Text": "Yangi tugʻilgan yosh Qiz bolalarda bosh miya ogʻirligi qancha?",
+    "Answers": [
+      "355"
+    ],
+    "Options": [
+      "350",
+      "260",
+      "369"
+    ]
+  },
+  {
+    "Number": 547,
+    "Text": "Bollarda afferent toʻqimalar muelinizatsiya necha oyligidan boshlanadi?",
+    "Answers": [
+      "2 oy"
+    ],
+    "Options": [
+      "3 oy",
+      "4 oy",
+      "1 oy"
+    ]
+  },
+  {
+    "Number": 548,
+    "Text": "Bolalarda efferent toʻqimalar necha oyligidan boshlanadi?",
+    "Answers": [
+      "4-5 yoshdan 7-8 yoshgacha"
+    ],
+    "Options": [
+      "7-8 oy",
+      "8-9 oy",
+      "1-2 oy"
+    ]
+  },
+  {
+    "Number": 549,
+    "Text": "Bolalarda miyyaning burishlar,egatlar va choklarning tuzilishi necha oylikda huddi kattalarnikidek boʻladi?",
+    "Answers": [
+      "6-8 yoshda"
+    ],
+    "Options": [
+      "3 oy",
+      "4 oy",
+      "3-4 yoshda"
+    ]
+  },
+  {
+    "Number": 550,
+    "Text": "shartli reflekslar necha oydan rivojlanadi?",
+    "Answers": [
+      "2 oy"
+    ],
+    "Options": [
+      "3 oy",
+      "8 oy",
+      "6 oy"
+    ]
+  },
+  {
+    "Number": 551,
+    "Text": "Yangi tug`ilgan bolalarda terining qaysi funksiyalari to`la shaklanmagan: (2)",
+    "Answers": [
+      "himoyaviy",
+      "termoregulyator"
+    ],
+    "Options": [
+      "nafas olish",
+      "moddalar almashinishi"
+    ]
+  },
+  {
+    "Number": 552,
+    "Text": "Kichik liqildoqqa xos xususiyatlar: (2)",
+    "Answers": [
+      "tepa suyagi va ensa suyagi orasida joylashgan",
+      "yangi tugilgan chaqaloqlarning 25%ida ochiq boladi"
+    ],
+    "Options": [
+      "pulsatsiyasi korinib turadi",
+      "tortburchak shaklida boladi"
+    ]
+  },
+  {
+    "Number": 553,
+    "Text": "Yangi tug`ilgan chaqaloqlarda fiziologik sariqlikning sabablari: (2)",
+    "Answers": [
+      "eritrositlarning intensiv gemolizi",
+      "xolestaz"
+    ],
+    "Options": [
+      "rezus konflikt",
+      "ABO-konflikt"
+    ]
+  },
+  {
+    "Number": 554,
+    "Text": "Bolalarda jismoniy rivojlanishning asosiy ko`rsatkichlari: (2)",
+    "Answers": [
+      "bo`yuzunligi",
+      "tana vazni"
+    ],
+    "Options": [
+      "terining elastikligi",
+      "teri osti yog` qavatining rivojlanish darajasi"
+    ]
+  },
+  {
+    "Number": 555,
+    "Text": "Bolalarda jismoniy rivojlanishning qo`shimcha kriteriyalari: (2)",
+    "Answers": [
+      "jismoniy rivojlanish indeksi",
+      "teri elastikligi va to`qima tarangligi"
+    ],
+    "Options": [
+      "bo`yuzunligi",
+      "tana vazni"
+    ]
+  },
+  {
+    "Number": 556,
+    "Text": "Tabiiy oziqlanishda bo`lgan  chaqaloqlarning axlati qanday boladi: (2)",
+    "Answers": [
+      "bo`tqasimon konsistensiyali",
+      "tilla-sariq rangli"
+    ],
+    "Options": [
+      "zangori-sariq rangli",
+      "xazm bo`lmagan ovqat qoldiqlari"
+    ]
+  },
+  {
+    "Number": 557,
+    "Text": "Ko`krak bilan oziqlantirish talablari: (2)",
+    "Answers": [
+      "bolaning talabiga binoan  oziqlantirish",
+      "tug`ilgandan keyin 30 daqiqa ichida oziqlantirish"
+    ],
+    "Options": [
+      "birinchi oziqlantirish tug`ilgandan keyin 3- sutkada",
+      "oziqlantirish 3 soatli tanaffus bilan"
+    ]
+  },
+  {
+    "Number": 558,
+    "Text": "Ko`krak bilan oziqlantirishga ona tomonidan qarshi ko`rsatmalar: (2)",
+    "Answers": [
+      "onaning OIV bilan zararlanishi",
+      "silning aktiv formasi"
+    ],
+    "Options": [
+      "kesarcha kesishdan keyin",
+      "onasida qabziyat"
+    ]
+  },
+  {
+    "Number": 559,
+    "Text": "Birinchi 30 daqiqa ichida bolani ko`krak bilan oziqlantirishga bola tomonidan qarshi ko`rsatmalar: (2)",
+    "Answers": [
+      "tug`riq davridagi MNSning og`ir jaroxati",
+      "og`ir somatik holat"
+    ],
+    "Options": [
+      "fiziologik sariqlik",
+      "yetilmay tug`ilishning I darajasi"
+    ]
+  },
+  {
+    "Number": 560,
+    "Text": "Bolalarda eksudativ-kataral diatez rivojlanishini asosi xisoblanadi: (2)",
+    "Answers": [
+      "ovqat hazm qilish trakti tosiq  funksiyasining susayishi",
+      "ovqat hazm qilish fermentlari aktivligining pastligi"
+    ],
+    "Options": [
+      "IgE ning irsiy yuqori darajada bo`lishi",
+      "purin almashinishini buzilishi"
+    ]
+  },
+  {
+    "Number": 561,
+    "Text": "Eksudativ-kataral diatezda terida qaysi o`zgarishlar  hos: (2)",
+    "Answers": [
+      "lunj teri giperemiyasi va qurishi",
+      "gneys"
+    ],
+    "Options": [
+      "yonbosh va qorinda pushti ranhli tugunlarning  guruh bo`lib joylashishi",
+      "makula- papulasimon  toshmalarning  ketma ket toshishi"
+    ]
+  },
+  {
+    "Number": 562,
+    "Text": "Vitamin D yetishmasligida suyak sistemasida kuzatiladi: (2)",
+    "Answers": [
+      "osteomalyatsiya",
+      "osteoporoz"
+    ],
+    "Options": [
+      "suyak sinishlari",
+      "tuzlarning o`tirishi"
+    ]
+  },
+  {
+    "Number": 563,
+    "Text": "Yetilgan chaqaloqning fiziologik vazn yoqotishi: (2)",
+    "Answers": [
+      "hamma bolalarda kuzatiladi",
+      "8-10% ni tashkil etadi",
+      "8-10 chi kuni tiklanadi"
+    ],
+    "Options": [
+      "5-20% ni tashkil etadi",
+      "5-20 kini tiklanadi"
+    ]
+  },
+  {
+    "Number": 564,
+    "Text": "Yangi tug`ilgan bolalarda terining qaysi funksiyalari to`la shaklanmagan: (2)",
+    "Answers": [
+      "himoyaviy",
+      "termoregulyator"
+    ],
+    "Options": [
+      "nafas olish",
+      "moddalar almashinishi"
+    ]
+  },
+  {
+    "Number": 565,
+    "Text": "Yangi tug`ilgan chaqaloqlarda fiziologik sariqlikning sabablari: (2)",
+    "Answers": [
+      "eritrositlarning intensiv gemolizi",
+      "xolestaz"
+    ],
+    "Options": [
+      "rezus konflikt",
+      "ABO-konflikt"
+    ]
+  },
+  {
+    "Number": 566,
+    "Text": "Bolalarda jismoniy rivojlanishning asosiy ko`rsatkichlari: (2)",
+    "Answers": [
+      "bo`yuzunligi",
+      "tana vazni"
+    ],
+    "Options": [
+      "terining elastikligi",
+      "teri osti yog` qavatining rivojlanish darajasi"
+    ]
+  },
+  {
+    "Number": 567,
+    "Text": "Bolalarda jismoniy rivojlanishning qo`shimcha kriteriyalari: (2)",
+    "Answers": [
+      "jismoniy rivojlanish indeksi",
+      "teri elastikligi va to`qima tarangligi"
+    ],
+    "Options": [
+      "bo`yuzunligi",
+      "tana vazni"
+    ]
+  },
+  {
+    "Number": 568,
+    "Text": "Tabiiy oziqlanishda bo`lgan  chaqaloqlarning axlati qanday boladi: (2)",
+    "Answers": [
+      "bo`tqasimon konsistensiyali",
+      "tilla-sariq rangli"
+    ],
+    "Options": [
+      "zangori-sariq rangli",
+      "xazm bo`lmagan ovqat qoldiqlari"
+    ]
+  },
+  {
+    "Number": 569,
+    "Text": "Ko`krak bilan oziqlantirish talablari: (2)",
+    "Answers": [
+      "bolaning talabiga binoan  oziqlantirish",
+      "tug`ilgandan keyin 30 daqiqa ichida oziqlantirish"
+    ],
+    "Options": [
+      "birinchi oziqlantirish tug`ilgandan keyin 3- sutkada",
+      "oziqlantirish 3 soatli tanaffus bilan"
+    ]
+  },
+  {
+    "Number": 570,
+    "Text": "Ko`krak bilan oziqlantirishga ona tomonidan qarshi ko`rsatmalar: (2)",
+    "Answers": [
+      "onaning OIV bilan zararlanishi",
+      "silning aktiv formasi"
+    ],
+    "Options": [
+      "kesarcha kesishdan keyin",
+      "onasida qabziyat"
+    ]
+  },
+  {
+    "Number": 571,
+    "Text": "Birinchi 30 daqiqa ichida bolani ko`krak bilan oziqlantirishga bola tomonidan qarshi ko`rsatmalar: (2)",
+    "Answers": [
+      "tug`riq davridagi MNSning og`ir jaroxati",
+      "og`ir somatik holat"
+    ],
+    "Options": [
+      "fiziologik sariqlik",
+      "yetilmay tug`ilishning I darajasi"
+    ]
+  },
+  {
+    "Number": 572,
+    "Text": "Bolalarda eksudativ-kataral diatez rivojlanishini asosi xisoblanadi: (2)",
+    "Answers": [
+      "ovqat hazm qilish trakti tosiq  funksiyasining susayishi",
+      "ovqat hazm qilish fermentlari aktivligining pastligi"
+    ],
+    "Options": [
+      "IgE ning irsiy yuqori darajada bo`lishi",
+      "purin almashinishini buzilishi"
+    ]
+  },
+  {
+    "Number": 573,
+    "Text": "Eksudativ-kataral diatezda terida qaysi o`zgarishlar  hos: (2)",
+    "Answers": [
+      "lunj teri giperemiyasi va qurishi",
+      "gneys"
+    ],
+    "Options": [
+      "yonbosh va qorinda pushti ranhli tugunlarning  guruh bo`lib joylashishi",
+      "makula- papulasimon  toshmalarning  ketma ket toshishi"
+    ]
+  },
+  {
+    "Number": 574,
+    "Text": "Vitamin D yetishmasligida suyak sistemasida kuzatiladi: (2)",
+    "Answers": [
+      "osteomalyatsiya",
+      "osteoporoz"
+    ],
+    "Options": [
+      "suyak sinishlari",
+      "tuzlarning o`tirishi"
+    ]
+  },
+  {
+    "Number": 575,
+    "Text": "VitaminD yetishmasligida limfa sistemasida kuzatiladi: (2)",
+    "Answers": [
+      "fagotsitozning sekinlanishi",
+      "interleykin sintezinig kamayishi"
+    ],
+    "Options": [
+      "anemiya",
+      "trombositopeniya"
+    ]
+  },
+  {
+    "Number": 576,
+    "Text": "Raxitning o`tkir kechishi xarakterlanadi: (2)",
+    "Answers": [
+      "simptomlarning kuchayishi",
+      "osteomalyatsiyaning osteoid giperplaziyadan ustunligi"
+    ],
+    "Options": [
+      "yuqori temperatura",
+      "kuchli intoksikatsiya"
+    ]
+  },
+  {
+    "Number": 577,
+    "Text": "Qaysi simptomlar yashirin spazmofiliyaga  xos: (2)",
+    "Answers": [
+      "Xvostek simptomi",
+      "Trusso simptomi"
+    ],
+    "Options": [
+      "Ortner simptomi",
+      "Myussi simptomi"
+    ]
+  },
+  {
+    "Number": 578,
+    "Text": "Kokrak  davridagi bolalarda nafas olish yetishmovchiligi sabablari: (2)",
+    "Answers": [
+      "bronxlar drenaj funkciyasining buzilishi",
+      "yallig`lanishda gipersekretsiya"
+    ],
+    "Options": [
+      "bronxlarning qisilishi",
+      "qovurg`a yoyining ekspirator holati"
+    ]
+  },
+  {
+    "Number": 579,
+    "Text": "Nafas yetishmovchiligining kelib chiqishi bo`yicha turlari: (2)",
+    "Answers": [
+      "respirator",
+      "tsirkulyator"
+    ],
+    "Options": [
+      "suv-elektrolitli",
+      "vazo-konstriktor"
+    ]
+  },
+  {
+    "Number": 580,
+    "Text": "Yetilgan chaqaloqning fiziologik vazn yoqotishi: (3)",
+    "Answers": [
+      "hamma bolalarda kuzatiladi",
+      "8-10% ni tashkil etadi",
+      "8-10 chi kuni tiklanadi"
+    ],
+    "Options": [
+      "5-20% ni tashkil etadi",
+      "5-20 kini tiklanadi",
+      "faqat yetilmagan chaqaloqlarda kuzatiladi"
+    ]
+  },
+  {
+    "Number": 581,
+    "Text": "Chaqaloqlarda tranziltor sariqlikning patogenezi: (3)",
+    "Answers": [
+      "bilirubinni meyoridan ortiq ishlab chiqarilishi",
+      "boglanmagan bilirubinni ichakdan qonga otishi",
+      "jigar funksional faolligining pasayishi"
+    ],
+    "Options": [
+      "rezus konflikt",
+      "tugma gepatit",
+      "qon guruhi boyicha nomutanosiblik"
+    ]
+  },
+  {
+    "Number": 582,
+    "Text": "Tish chiqishi va rivojlanishning buzilish sabablari: (3)",
+    "Answers": [
+      "raxit",
+      "kalsiy yetishmovchiligi",
+      "suniy oziqlantirish"
+    ],
+    "Options": [
+      "qizamiq",
+      "ekssudativ kataral diatez",
+      "skarlatina"
+    ]
+  },
+  {
+    "Number": 583,
+    "Text": "Chaqaloqlik davrining oziga hos hususiyatlari: (3)",
+    "Answers": [
+      "hamma organ va toqimalarning toliq yetilmaganligi",
+      "tashqi muhitga moslashishi",
+      "tranzitor holatlar"
+    ],
+    "Options": [
+      "orqa miya miyilinlashishi",
+      "bosh miya yarim sharlarini yuqori takomillashgani",
+      "dendritlar hosil bolishi"
+    ]
+  },
+  {
+    "Number": 584,
+    "Text": "Kokrak suti bebaholigining alomatlari: (3)",
+    "Answers": [
+      "ona sutida chaqaloq uchun zaruriy hamma moddalar mavjudligi",
+      "ona sutida tayyor antitanalar mavjudligi",
+      "osayotgan organizmni qoniqtira olishi"
+    ],
+    "Options": [
+      "shirinligi",
+      "tarkibning barqarorligi",
+      "suyuqligi"
+    ]
+  },
+  {
+    "Number": 585,
+    "Text": "Yetarli darajada sut kelishini sabablari: (3)",
+    "Answers": [
+      "bolaning sorishiga",
+      "ona psixoemotsional holati",
+      "togri oziqlantirish"
+    ],
+    "Options": [
+      "kokrag kattaligi",
+      "kokrag formasi",
+      "sorgish kattaligi"
+    ]
+  },
+  {
+    "Number": 586,
+    "Text": "Kokrakka notogri qoyish asoratlari: (3)",
+    "Answers": [
+      "sorgichdagi ogriq",
+      "sorgich jarohati",
+      "sut kamayishi"
+    ],
+    "Options": [
+      "bola bezovtalanoshi",
+      "kokrakdan kechish",
+      "bolaning onadan hafalanishi"
+    ]
+  },
+  {
+    "Number": 587,
+    "Text": "Kokrak suti bilan oziqlanuvchi bolaning ahlat konsistensiyasi: (3)",
+    "Answers": [
+      "botqasimon",
+      "tillasimon",
+      "nordon hidli"
+    ],
+    "Options": [
+      "tvorogsimon",
+      "yashil",
+      "hazm bolmagan bolakchalar bilan"
+    ]
+  },
+  {
+    "Number": 588,
+    "Text": "Chaqaloqlardagi nafas olish sistemasining kasallanishga moyilligini belgilovchi oziga hosligi: (3)",
+    "Answers": [
+      "yuqori nafas yollarining tor va kichikligi",
+      "bronxlarning drenaj vazifasini sustligu",
+      "yuzaki nafas"
+    ],
+    "Options": [
+      "chuqur nafas olish",
+      "keng va kichik nafas yollari",
+      "shilliq qavatlarning ortiqcha namligi"
+    ]
+  },
+  {
+    "Number": 589,
+    "Text": "Hiqildoqning chaqaloqlarda anatomo-fiziologik hususiyatlari: (3)",
+    "Answers": [
+      "shilliq qavat quruqligi",
+      "shilliq osti nqavatning qon tomirlarga boyligi",
+      "chomichsimon togaylarni sustharakatligi"
+    ],
+    "Options": [
+      "hiqildoqning kengligi",
+      "chin boylamlarini yaxshi rivojlanganligi",
+      "shilliq osti qavatning qon tomirlariga kambagalligi"
+    ]
+  },
+  {
+    "Number": 590,
+    "Text": "Yosh bollarda distrofiyaning endogen sabablarini korsating: (3)",
+    "Answers": [
+      "xazm qilish organlarining patologiyalari",
+      "malabsorbsiya sindromi",
+      "seliakiya"
+    ],
+    "Options": [
+      "oziqlantirishda yol qoylgan nuqsonlar",
+      "oziqlantirish rejimini buzulishi",
+      "onanig yoshligi"
+    ]
+  },
+  {
+    "Number": 591,
+    "Text": "Gipotrofiyaning ekzogen sabablarini korsating: (3)",
+    "Answers": [
+      "ovqatlanish rejimini buzulishi",
+      "ovqatlanishda yol qoylgan nuqsonlar",
+      "bola parvarishida yol qoyilgan nuqsonlar"
+    ],
+    "Options": [
+      "piloraspazm va pilorastenoz",
+      "malabsorbsiya sindromi",
+      "xazm qilish organlarining patologiyalari"
+    ]
+  },
+  {
+    "Number": 592,
+    "Text": "Oziqlanishning surunkali buzulishini korsating: (3)",
+    "Answers": [
+      "gipotrofiya",
+      "paratrofiya",
+      "gipostatura"
+    ],
+    "Options": [
+      "gipoksemiya",
+      "xondrodistrofiya",
+      "nanizm"
+    ]
+  },
+  {
+    "Number": 593,
+    "Text": "Bolalar jismoniy rivojlanishining asosiy korsatkichlari hisoblanadi: (3)",
+    "Answers": [
+      "boy usunligi",
+      "tana vazni",
+      "bosh aylanasi"
+    ],
+    "Options": [
+      "terining elastlikligi",
+      "teri osti yog qavatining rivojlanishi",
+      "suyaklar uzunligi"
+    ]
+  },
+  {
+    "Number": 594,
+    "Text": "chala tugilish mezonlari: (3)",
+    "Answers": [
+      "bosh suyaklari choklarining biriklanmaganligi",
+      "lanugo mavjudligi",
+      "bosh suyagi yuz qismining miya qismidan ustunligi"
+    ],
+    "Options": [
+      "teri osti yog qavati yaxshi rivojlangan",
+      "katta uyatli lablar jinsiy teshikni yopmaydi",
+      "Apgar shkalasi boyicha 8-9 ball"
+    ]
+  },
+  {
+    "Number": 595,
+    "Text": "Kokrak suti bilan oziqlanishning bola uchun afzalliklari: (3)",
+    "Answers": [
+      "dispeptik hastaliklarning kamayishi",
+      "sigir sutiga allergiya xavfining kamayishi",
+      "ichak mikrobiotsenozi yaxshilanadi"
+    ],
+    "Options": [
+      "respirator infeksiyalarga qarshilik kamayadi",
+      "OIT yalliglanish kasalliklari xavfi ortadi",
+      "tosatdan olim xavfi ortadi"
+    ]
+  },
+  {
+    "Number": 596,
+    "Text": "Ona suti yetishmovchiligining sabablari: (3)",
+    "Answers": [
+      "ovqatlanish qoidalarining buzilishi",
+      "ovqatlantirishning yetarli bolmasligi",
+      "onaning yomon oziqlanishi"
+    ],
+    "Options": [
+      "talab boyicha oziqlanish",
+      "bolaning kechqurun oziqlanishi",
+      "kechqurungi tanaffus"
+    ]
+  },
+  {
+    "Number": 597,
+    "Text": "Kokrak suti bilan oziqlantirishga ona tomonidan qarshi korsatmalar: (3)",
+    "Answers": [
+      "OIV bilan xastalanishi",
+      "tuberkulezning aktiv formasi",
+      "onkologik kasaliklar"
+    ],
+    "Options": [
+      "kesarcha kesish",
+      "sutning turib qolishi",
+      "egizak bola tugilishi"
+    ]
+  },
+  {
+    "Number": 598,
+    "Text": "Qoshimcha ovqatni erta boshlash nimalarga olib keladi: (3)",
+    "Answers": [
+      "kokrak sutini oziqlanishdan siqib chiqarilishi",
+      "dispeptik kasalliklarning rivojlanish xavfi",
+      "paratrofiya rivojlanish xavfi"
+    ],
+    "Options": [
+      "ovqat allergiyasi rivojlanish xafvi kamayadi",
+      "immunitetning qayta qurilishi",
+      "jismoniy rivojlanishning tezlashishi"
+    ]
+  },
+  {
+    "Number": 599,
+    "Text": "Yetilgan chaqaloqning fiziologik vazn yoqotishi: (3)",
+    "Answers": [
+      "hamma bolalarda kuzatiladi",
+      "8-10% ni tashkil etadi",
+      "8-10 chi kuni tiklanadi"
+    ],
+    "Options": [
+      "5-20% ni tashkil etadi",
+      "5-20 kini tiklanadi",
+      "faqat yetilmagan chaqaloqlarda kuzatiladi"
+    ]
+  },
+  {
+    "Number": 600,
+    "Text": "Chaqaloqlarda tranziltor sariqlikning patogenezi: (3)",
+    "Answers": [
+      "bilirubinni meyoridan ortiq ishlab chiqarilishi",
+      "boglanmagan bilirubinni ichakdan qonga otishi",
+      "jigar funksional faolligining pasayishi"
+    ],
+    "Options": [
+      "rezus konflikt",
+      "tugma gepatit",
+      "qon guruhi boyicha nomutanosiblik"
+    ]
+  },
+  {
+    "Number": 601,
+    "Text": "Tish chiqishi va rivojlanishning buzilish sabablari: (3)",
+    "Answers": [
+      "raxit",
+      "kalsiy yetishmovchiligi",
+      "suniy oziqlantirish"
+    ],
+    "Options": [
+      "qizamiq",
+      "ekssudativ kataral diatez",
+      "skarlatina"
+    ]
+  },
+  {
+    "Number": 602,
+    "Text": "Chaqaloqlik davrining oziga hos hususiyatlari: (3)",
+    "Answers": [
+      "hamma organ va toqimalarning toliq yetilmaganligi",
+      "tashqi muhitga moslashishi",
+      "tranzitor holatlar"
+    ],
+    "Options": [
+      "orqa miya miyilinlashishi",
+      "bosh miya yarim sharlarini yuqori takomillashgani",
+      "dendritlar hosil bolishi"
+    ]
+  },
+  {
+    "Number": 603,
+    "Text": "Kokrak suti bebaholigining alomatlari: (3)",
+    "Answers": [
+      "ona sutida chaqaloq uchun zaruriy hamma moddalar mavjudligi",
+      "ona sutida tayyor antitanalar mavjudligi",
+      "osayotgan organizmni qoniqtira olishi"
+    ],
+    "Options": [
+      "shirinligi",
+      "tarkibning barqarorligi",
+      "suyuqligi"
+    ]
+  },
+  {
+    "Number": 604,
+    "Text": "Yetarli darajada sut kelishini sabablari: (3)",
+    "Answers": [
+      "bolaning sorishiga",
+      "ona psixoemotsional holati",
+      "togri oziqlantirish"
+    ],
+    "Options": [
+      "kokrag kattaligi",
+      "kokrag formasi",
+      "sorgish kattaligi"
+    ]
+  },
+  {
+    "Number": 605,
+    "Text": "Kokrakka notogri qoyish asoratlari: (3)",
+    "Answers": [
+      "sorgichdagi ogriq",
+      "sorgich jarohati",
+      "sut kamayishi"
+    ],
+    "Options": [
+      "bola bezovtalanoshi",
+      "kokrakdan kechish",
+      "bolaning onadan hafalanishi"
+    ]
+  },
+  {
+    "Number": 606,
+    "Text": "Kokrak suti bilan oziqlanuvchi bolaning ahlat konsistensiyasi: (3)",
+    "Answers": [
+      "botqasimon shaklda",
+      "tillasimon rangda",
+      "nordon hidli"
+    ],
+    "Options": [
+      "tvorogsimon",
+      "yashil",
+      "hazm bolmagan bolakchalar bilan"
+    ]
+  },
+  {
+    "Number": 607,
+    "Text": "Yosh bollarda distrofiyaning endogen sabablarini korsating: (3)",
+    "Answers": [
+      "xazm qilish organlarining patologiyalari",
+      "malabsorbsiya sindromi",
+      "seliakiya"
+    ],
+    "Options": [
+      "oziqlantirishda yol qoylgan nuqsonlar",
+      "oziqlantirish rejimini buzulishi",
+      "onanig yoshligi"
+    ]
+  },
+  {
+    "Number": 608,
+    "Text": "Gipotrofiyaning ekzogen sabablarini korsating: (3)",
+    "Answers": [
+      "ovqatlanish rejimini buzulishi",
+      "ovqatlanishda yol qoylgan nuqsonlar",
+      "bola parvarishida yol qoyilgan nuqsonlar"
+    ],
+    "Options": [
+      "piloraspazm va pilorastenoz",
+      "malabsorbsiya sindromi",
+      "xazm qilish organlarining patologiyalari"
+    ]
+  },
+  {
+    "Number": 609,
+    "Text": "Oziqlanishning surunkali buzulishini korsating: (3)",
+    "Answers": [
+      "gipotrofiya",
+      "paratrofiya",
+      "gipostatura"
+    ],
+    "Options": [
+      "gipoksemiya",
+      "xondrodistrofiya",
+      "nanizm"
+    ]
+  },
+  {
+    "Number": 610,
+    "Text": "Chala tugilish mezonlari: (3)",
+    "Answers": [
+      "bosh suyaklari choklarining biriklanmaganligi",
+      "lanugo mavjudligi",
+      "bosh suyagi yuz qismining miya qismidan ustunligi"
+    ],
+    "Options": [
+      "teri osti yog qavati yaxshi rivojlangan",
+      "Apgar shkalasi boyicha 8-9 ball",
+      "Apgar shkalasi boyicha 5-6 ball"
+    ]
+  },
+  {
+    "Number": 611,
+    "Text": "Kokrak suti bilan oziqlanishning bola uchun afzalliklari: (3)",
+    "Answers": [
+      "dispeptik hastaliklarning kamayishi",
+      "aqliy rivojlanish korsatkichlari oshadi",
+      "ichak mikrobiotsenozi yaxshilanadi"
+    ],
+    "Options": [
+      "respirator infeksiyalarga qarshilik kamayadi",
+      "OIT yalliglanish kasalliklari xavfi ortadi",
+      "tosatdan olim xavfi ortadi"
+    ]
+  },
+  {
+    "Number": 612,
+    "Text": "Ona suti yetishmovchiligining sabablari: (3)",
+    "Answers": [
+      "ovqatlantirishning yetarli bolmasligi",
+      "bolani har 3-4 soatda emizish",
+      "onaning psixogen xastaliklari"
+    ],
+    "Options": [
+      "talab boyicha oziqlanish",
+      "bolaning kechqurun oziqlanishi",
+      "kam vazinli bola"
+    ]
+  },
+  {
+    "Number": 613,
+    "Text": "Qoshimcha ovqatni erta boshlash nimalarga olib keladi: (3)",
+    "Answers": [
+      "kokrak sutini oziqlanishdan siqib chiqarilishi",
+      "dispeptik kasalliklarning rivojlanish xavfi",
+      "paratrofiya rivojlanish xavfi"
+    ],
+    "Options": [
+      "ovqat allergiyasi rivojlanish xafvi kamayadi",
+      "immunitetning kuchayishi",
+      "jismoniy rivojlanishi kuchayadi"
+    ]
+  },
+  {
+    "Number": 614,
+    "Text": "Oziqlanish surunkali buzilishining boshlangich belgilari hisoblanadi: (3)",
+    "Answers": [
+      "teri qoplamining oqligi",
+      "toqimalar turgorining kamayishi",
+      "teri osti yog qatlamining kamayishi"
+    ],
+    "Options": [
+      "tana haroratining kotarilishi",
+      "terida yiringsimon elementlarning bolishi",
+      "taxikardiya"
+    ]
+  },
+  {
+    "Number": 615,
+    "Text": "Kokrak yoshidagi bolalarda oqsil-energetik etishmovchilikning sabablari: (3)",
+    "Answers": [
+      "oshqozon-ichak trakti nuqsonlari",
+      "diareya",
+      "yetarli miqdorda oziqlantirilmaslik"
+    ],
+    "Options": [
+      "6 oylikkacha faqat kokrak suti bilan boqish",
+      "moslangan sut maxsulotlarini berish",
+      "1 yoshgacha kokrak suti bilan boqish"
+    ]
+  },
+  {
+    "Number": 616,
+    "Text": "9 oylik bolaga berish mumkin bolgan suyuqliklar: (3)",
+    "Answers": [
+      "qatiq",
+      "qaynatilgan suv",
+      "sharbatlar"
+    ],
+    "Options": [
+      "choy",
+      "fanta",
+      "kola",
+      "kvars"
+    ]
+  }
+]

@@ -1,0 +1,5730 @@
+[
+  {
+    "Number": 1,
+    "Text": "Какие мышцы входят в состав мягкого неба: Юмшоқ танглай таркибига кирувчи мушаклар:",
+    "Answers": [
+      "mm.palatopharyngeus, palatoglossus",
+      "levator veli palatini, tensor veli palatini, uvulae"
+    ],
+    "Options": [
+      "m.genioglosus, m.styloglossus",
+      "m.styloglossus,m.hyoglossus, m.transversus"
+    ]
+  },
+  {
+    "Number": 2,
+    "Text": "Какие поверхности имеет коронка зуба? Тиш коронкасини  қанақа юзалари мавжуд?",
+    "Answers": [
+      "facies vestibularis, facies lingualis. facies contactus medialis",
+      "facies contactus distalis et facies occlusalis"
+    ],
+    "Options": [
+      "facies vestibularis, facies verticalis, facies contactus",
+      "facies vestibularis, facies supperior, facies occlusalis"
+    ]
+  },
+  {
+    "Number": 3,
+    "Text": "Укажите собственные мышцы языка? Тилни хусусий мушакларини кўрсатинг:",
+    "Answers": [
+      "mm.longitudinales supperior et inferior",
+      "m.transversus linguae, m.verticalis"
+    ],
+    "Options": [
+      "m.transversus linguae, m.styloglossus",
+      "m.transversus linguae, m.genioglossus"
+    ]
+  },
+  {
+    "Number": 4,
+    "Text": "Укажите скелетные мышцы языка: Тилни скелет мушакларини кўрсатинг:",
+    "Answers": [
+      "m.genioglosus, m.styloglossus",
+      "m.hyoglossus"
+    ],
+    "Options": [
+      "m.verticalis",
+      "m.transversus"
+    ]
+  },
+  {
+    "Number": 5,
+    "Text": "Из каких частей состоит глотка?",
+    "Answers": [
+      "pars nasalis, pars oralis",
+      "pars laryngea"
+    ],
+    "Options": [
+      "pars nasalis, pars vestibularis",
+      "pars oralis, pars lingualis"
+    ]
+  },
+  {
+    "Number": 6,
+    "Text": "Какие сумки расположены в верхнем этаже брюшной полости? Қорин бўшлиғини юқори қаватида қандай халталар мавжуд?",
+    "Answers": [
+      "bursa hepatica, bursa omentalis",
+      "bursa pregastrica"
+    ],
+    "Options": [
+      "bursa omentalis, bursa gastrica",
+      "bursa vestibularis, bursa duodenoejunalis"
+    ]
+  },
+  {
+    "Number": 7,
+    "Text": "Из каких частей состоит перстневидный хрящ? Узуксимон тоғай қандай қисмлардан ташкил топган?",
+    "Answers": [
+      "lamina",
+      "arcus"
+    ],
+    "Options": [
+      "cornu",
+      "caput"
+    ]
+  },
+  {
+    "Number": 8,
+    "Text": "Что входит в состав бронхиального дерева? Бронхиал дарахт таркибига нималар киради?",
+    "Answers": [
+      "bronchus principalis, lobaris",
+      "bronchus segmentalis, lobularis et terminalis"
+    ],
+    "Options": [
+      "bronchus respiratorius, ductus alveolaris",
+      "bronchus terminalis, ductus alveolaris"
+    ]
+  },
+  {
+    "Number": 9,
+    "Text": "Какие поверхности различают на легком? Ўпкада қандай юзалар ажратилади?",
+    "Answers": [
+      "facies diaphragmatica, facies costalis",
+      "facies medialis"
+    ],
+    "Options": [
+      "facies diaphragmatica.et facies anterior",
+      "facies costalis, facies pleuralis"
+    ]
+  },
+  {
+    "Number": 10,
+    "Text": "Какие края различают на легком? Ўпкада қандай чеккалар ажратилади?",
+    "Answers": [
+      "margo anterior. posterior",
+      "margo inferior et anterior"
+    ],
+    "Options": [
+      "margo posterior et supperior",
+      "margo anterior, posterior et medialis"
+    ]
+  },
+  {
+    "Number": 11,
+    "Text": "Из чего состоит почечное тельце? Буйрак таначаси нимадан иборат?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "capsulla glomeruli et tubuli renalis",
+      "glomerulus et tubuli recti"
+    ]
+  },
+  {
+    "Number": 12,
+    "Text": "Из чего состоит Corpusculum renis? Corpusculum renis нимадан ташкил топган?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "tubulus renalis contortus",
+      "ductus papillaris,tubuli renalis",
+      "pars convoluta,tubuli renalis"
+    ]
+  },
+  {
+    "Number": 13,
+    "Text": "Из чего образуется lobulus corticalis почки?",
+    "Answers": [
+      "pars radiata",
+      "pars convoluta"
+    ],
+    "Options": [
+      "pars corticalis",
+      "pars pyramidalis"
+    ]
+  },
+  {
+    "Number": 14,
+    "Text": "Что относится к форникальному аппарату почек? Буйракни форникал аппаратига нима киради?",
+    "Answers": [
+      "m.sphincter fornicis,m.levator fornicis",
+      "m.spiralis calycis, m.longitudinalis calycis"
+    ],
+    "Options": [
+      "m.levator fornicis et m.spinalis",
+      "m.sphincter fornicis et m. transversus"
+    ]
+  },
+  {
+    "Number": 15,
+    "Text": "Какие отделы различают в мочеточнике? Сийдик найи қайси қисмлардан иборат?",
+    "Answers": [
+      "pars abdominalis, pars pelvina",
+      "pars intramuralis"
+    ],
+    "Options": [
+      "pars thoracica et pars abdominalis",
+      "pars pelvina et pars vesicalis"
+    ]
+  },
+  {
+    "Number": 16,
+    "Text": "Какие слои имеет стенка мочеточника? Сийдик найини девори қайси қаватлардан иборат?",
+    "Answers": [
+      "tunica mucosa, tunica muscularis",
+      "tunica adventitia"
+    ],
+    "Options": [
+      "tunica submucosa et tunica serosa",
+      "tunica mucosa et tunica serosa"
+    ]
+  },
+  {
+    "Number": 17,
+    "Text": "Какие фасции покрывают тазовую диафрагму? Чаноқ диафрагмани қайси фасциялар ўрайди?",
+    "Answers": [
+      "fascia diaphragmatis pelvis supperior",
+      "fascia diaphragmatis pelvis inferior"
+    ],
+    "Options": [
+      "f.pelvis propria, f.iliaca et f.glutea",
+      "f.iliaca et f.glutea, f.endoabdominalis"
+    ]
+  },
+  {
+    "Number": 18,
+    "Text": "Ветви дуги аорты: Аортанинг равоғи тармоқлари:",
+    "Answers": [
+      "brachiocephalicus, a. subclavia sinistra",
+      "a. carotis communis sinistra"
+    ],
+    "Options": [
+      "tr. brachiocephalicus dexter et sinister",
+      "a. subclavia dextra, sinistra et a. coronaria dextra"
+    ]
+  },
+  {
+    "Number": 19,
+    "Text": "Париетальные ветви грудной части аорты: Кўкрак аортасининг париетал тармоқлари:",
+    "Answers": [
+      "a.a. intercostales posteriores",
+      "a.a. phrenicae supperiores"
+    ],
+    "Options": [
+      "a.a. bronchiales et esophagei",
+      "a.a. diaphragmatis et esophagei"
+    ]
+  },
+  {
+    "Number": 20,
+    "Text": "Висцерал ьные ветви грудной части аорты: Кўкрак аортасининг висцерал  тармоқлари:",
+    "Answers": [
+      "aa. bronchiales, esophagei",
+      "aa. pericardiaci, mediastinales"
+    ],
+    "Options": [
+      "aa. phrenicae et esophagei",
+      "aa. bronchiales et a.a.intercostales posteriors"
+    ]
+  },
+  {
+    "Number": 21,
+    "Text": "Париетальные ветви брюшной части аорты: Қорин аортасининг париетал тармокларн:",
+    "Answers": [
+      "aa.phrenicae inferiores, lumbales",
+      "a. sacralis mediana"
+    ],
+    "Options": [
+      "aa.phrenicae, suprarenales et renales, lumbales",
+      "aa.lumbales, a. sacralis mediana et lateralis"
+    ]
+  },
+  {
+    "Number": 22,
+    "Text": "Непарные висцерал ьные ветви брюшной части аорты: Қорин аортасининг тоқ  висцерал  тармоқлари:",
+    "Answers": [
+      "truncus coeliacus, a. mesenterica supperior",
+      "a. mesenterica inferior"
+    ],
+    "Options": [
+      "aa. mesenterica supperior et inferior, a. rectalis supperior",
+      "truncus coeliacus, a. mesenterica supperior et a. gastrica sinistra"
+    ]
+  },
+  {
+    "Number": 23,
+    "Text": "Парные висцерал ьные ветви брюшной части аорты: Қорин аортасининг жуфт висцерал  тармоқлари:",
+    "Answers": [
+      "a.ovarica (testicularis), a. renalis",
+      "a. suprarenalis media"
+    ],
+    "Options": [
+      "a.renales, a.phrenicae inferiores et supperiores",
+      "a.testicularis (ovarica), a. renalis et a.lumbales"
+    ]
+  },
+  {
+    "Number": 24,
+    "Text": "Передние ветви наружной сонной артерии: Ташқи уйқу артериясининг олдинги тармоқлари:",
+    "Answers": [
+      "a.thyroidea supperior, a. lingualis",
+      "a.thyroidea supperior, a. facialis"
+    ],
+    "Options": [
+      "a.facialis, a. lingualis et a. occipitalis",
+      "a.lingualis, a. mandibularis et a. tymica"
+    ]
+  },
+  {
+    "Number": 25,
+    "Text": "Задние ветви наружной сонной артерии: Ташқи уйқу артериясининг орқа тармоқлари:",
+    "Answers": [
+      "a.occipitalis, a. auricularis posterior",
+      "a. sternocleidomastoidea"
+    ],
+    "Options": [
+      "a.occipitalis, a. facialis et a. pharyngea",
+      "a.occipitalis, a. auricularis posterior et a. thyroidea."
+    ]
+  },
+  {
+    "Number": 26,
+    "Text": "Средние ветви наружной сонной артерии: Ташқи уйқу артериясининг ўрта тармоқлари:",
+    "Answers": [
+      "a.pharyngea ascendens",
+      "a. temporalis superficialis, a. maxillaris"
+    ],
+    "Options": [
+      "a.temporalis, a. facialis, a. pharyngea",
+      "a.maxilaris, a. facialis, a. temporalis"
+    ]
+  },
+  {
+    "Number": 27,
+    "Text": "Ветви первого отдела верхнечелюстной артерии: Юқориги жағ артериясининг биринчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.meningea media",
+      "a. alveolaris inferior"
+    ],
+    "Options": [
+      "a.alveolaris supperior et a. alveolaris inferior",
+      "a.meningea media et a. nasalis posterior"
+    ]
+  },
+  {
+    "Number": 28,
+    "Text": "Ветви второго отдела верхнечелюстной артерии: Юқориги жағ артериясининг иккинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "aa.alveolares supperiores posteriores",
+      "ветви к жевательным мышцам(чайнов мусҚўллари шохлари)"
+    ],
+    "Options": [
+      "a.alveolaris inferior et a. meningea.media",
+      "a.alveolaris supperior posterior et a. infraorbitalis"
+    ]
+  },
+  {
+    "Number": 29,
+    "Text": "Ветви третьего отдела верхнечелюстной артерии: Юқориги жағ артериясининг учинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.infraorbitalis, a. palatina descendens",
+      "a.pterygopalatinae"
+    ],
+    "Options": [
+      "a.infraorbitalis et a. supraorbitalis",
+      "apalalm descendens et a. alveolaris inferior, a  lingualis"
+    ]
+  },
+  {
+    "Number": 30,
+    "Text": "Где проходит внутренняя сонная артерия? Ички уйқу артерияси қаердан  ўтади?",
+    "Answers": [
+      "canalis caroticus",
+      "sulcus caroticus"
+    ],
+    "Options": [
+      "canalis n. hypoglossi",
+      "foramen rotundum"
+    ]
+  },
+  {
+    "Number": 31,
+    "Text": "Ветви внутренней сонной артерии: Ички уйқу артериясининг тармоқлари:",
+    "Answers": [
+      "a.ophthalmica, a. cerebri anterior, media",
+      "a. communicans posterior, a. horioidea"
+    ],
+    "Options": [
+      "a.ophthalmica, a. vertebralis, a. basilaris",
+      "a.cerebri anterior, media.et posterior"
+    ]
+  },
+  {
+    "Number": 32,
+    "Text": "Подключичная артерия отходит: Ўмров ости артерияси чиқади:",
+    "Answers": [
+      "слева (чап томондан) от arcus aortae",
+      "справа (унг томондан) от truncus brachiocephalicus"
+    ],
+    "Options": [
+      "слева(чап томондан) от truncus brachiocephalicus",
+      "справа(унг томондан) от arcus aortae"
+    ]
+  },
+  {
+    "Number": 33,
+    "Text": "Ветви подключичной артерии: Ўмров ости артериясининг тармоқлари:",
+    "Answers": [
+      "a.vertebralis, tr. thyrocervicalis, a. transversa colli",
+      "a. thoracics interna, tr. costocervicalis"
+    ],
+    "Options": [
+      "a.vertebralis, tr. thyrocervicalis, a. axillaris",
+      "a.thoracica interna, a. suprascapularis, a. ubscapularis, a. dorsalis scapulae"
+    ]
+  },
+  {
+    "Number": 34,
+    "Text": "От слияния каких стволов образуется ductus thoracicus? Ductus thoracicus қандай хосил бўлади?",
+    "Answers": [
+      "truncus lumbalis dexter",
+      "truncus lumbalis sinister"
+    ],
+    "Options": [
+      "truncus subclavia dexter et sinister",
+      "truncus jugularis dexter et sinist"
+    ]
+  },
+  {
+    "Number": 35,
+    "Text": "Costa prima (I):",
+    "Answers": [
+      "tuberculum m.scaleni anteriores",
+      "sulcus a. subclaviae"
+    ],
+    "Options": [
+      "facies auricularis",
+      "facies articularis capitis costae"
+    ]
+  },
+  {
+    "Number": 36,
+    "Text": "Из каких частей состоит перстневидный хрящ? Узуксимон тоғай қандай қисмлардан ташкил топган?",
+    "Answers": [
+      "lamina",
+      "arcus"
+    ],
+    "Options": [
+      "cornu",
+      "caput"
+    ]
+  },
+  {
+    "Number": 37,
+    "Text": "Укажите суставы гортани: Ҳиқилдоқ бўғимларини кўрсатинг:",
+    "Answers": [
+      "art.cricothyroidea",
+      "art.cricoarytenoidea"
+    ],
+    "Options": [
+      "art.hyoepiglottica",
+      "art.thyroepiglottica"
+    ]
+  },
+  {
+    "Number": 38,
+    "Text": "Какие связки имеются в гортани: Ҳиқилдоқ бойламларини кўрсатинг:",
+    "Answers": [
+      "lig.hyoepiglotticum",
+      "lig. thyroepiglotticum"
+    ],
+    "Options": [
+      "lig.cricoarytenoideae supperior",
+      "lig.arytenoideus transversus inferior"
+    ]
+  },
+  {
+    "Number": 39,
+    "Text": "Какие части различают в rima glottidis? Rima glottidis ни қайси қисмлари фарқланади?",
+    "Answers": [
+      "pars intermembranacea",
+      "pars intercartilaginea"
+    ],
+    "Options": [
+      "pars interthyroidea",
+      "pars interarytenoidea"
+    ]
+  },
+  {
+    "Number": 40,
+    "Text": "Что входит в состав бронхиального дерева? Бронхиал дарахт таркибига нималар киради?",
+    "Answers": [
+      "bronchus principalis, lobaris",
+      "bronchus segmentalis, lobularis et terminalis"
+    ],
+    "Options": [
+      "bronchus respiratorius, ductus alveolaris",
+      "bronchus terminalis, ductus alveolaris"
+    ]
+  },
+  {
+    "Number": 41,
+    "Text": "Какие края различают на легком? Ўпкада қандай чеккалар ажратилади?",
+    "Answers": [
+      "margo anterior, posterior",
+      "margo inferior et anterior"
+    ],
+    "Options": [
+      "margo posterior et supperior",
+      "margo anterior, posterior et medialis"
+    ]
+  },
+  {
+    "Number": 42,
+    "Text": "Из чего состоит почечное тельце? Буйрак таначаси нимадан иборат?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "capsulla glomeruli et tubuli renalis",
+      "glomerulus et tubuli recti"
+    ]
+  },
+  {
+    "Number": 43,
+    "Text": "Из чего состоит Corpusculum renis? Corpusculum renis нимадан ташкил топган?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "tubulus renalis contortus",
+      "ductus papillaris,tubuli renalis"
+    ]
+  },
+  {
+    "Number": 44,
+    "Text": "Из чего образуется lobulus corticalis почки? Lobulus corticalis буйракни нимасидан ҳосил бўлади?",
+    "Answers": [
+      "pars radiata",
+      "pars convoluta"
+    ],
+    "Options": [
+      "pars corticalis",
+      "pars pyramidalis"
+    ]
+  },
+  {
+    "Number": 45,
+    "Text": "Что относится к форникальному аппарату почек?  Буйракни форникал аппаратига нима киради?",
+    "Answers": [
+      "m.sphincter fornicis,m.levator fornicis",
+      "m.spiralis calycis, m,longitudinalis calycis"
+    ],
+    "Options": [
+      "m.levator fornicis et m.spinalis",
+      "m.sphincter fornicis et m. transversus"
+    ]
+  },
+  {
+    "Number": 46,
+    "Text": "Какие отделы различают в мочеточнике?",
+    "Answers": [
+      "pars abdominalis, pars pelvina",
+      "pars intramuralis"
+    ],
+    "Options": [
+      "pars thoracica et pars abdominalis",
+      "pars pelvina et pars vesicalis"
+    ]
+  },
+  {
+    "Number": 47,
+    "Text": "Какие слои имеет стенка мочеточника ?  Сийдик найини девори қайси қаватлардан иборат?",
+    "Answers": [
+      "tunica mucosa, tunica muscularis",
+      "tunica adventitia"
+    ],
+    "Options": [
+      "tunica submucosa et tunica serosa",
+      "tunica mucosa et tunica serosa"
+    ]
+  },
+  {
+    "Number": 48,
+    "Text": "Какие фасции покрывают тазовую диафрагму? Чаноқ диафрагмани қайси фасциялар урайди?",
+    "Answers": [
+      "fascia diaphragmatis pelvis supperior",
+      "fascia diaphragmatis pelvis inferior"
+    ],
+    "Options": [
+      "f.pelvis propria, f.iliaca et f.glutea",
+      "f.iliaca et f.glutea, f.endoabdominalis"
+    ]
+  },
+  {
+    "Number": 49,
+    "Text": "Ветви дуги аорты: Аортанинг равоғи тармоқлари:",
+    "Answers": [
+      "tr.brachiocephalicus, a. subclavia sinistra",
+      "a.carotis communis sinistra"
+    ],
+    "Options": [
+      "tr.brachiocephalicus dexter et sinister",
+      "a.subclavia dextra,"
+    ]
+  },
+  {
+    "Number": 50,
+    "Text": "Париетальные ветви грудной части аорты:",
+    "Answers": [
+      "a.a. intercostales posteriores",
+      "a.a. phrenicae supperiores"
+    ],
+    "Options": [
+      "a.a. bronchiales et esophagei",
+      "a.a. diaphragmatis et esophagei"
+    ]
+  },
+  {
+    "Number": 51,
+    "Text": "Висцералъные ветви грудной части аорты:",
+    "Answers": [
+      "aa. bronchiales, esophagei",
+      "aa. pericardiaci, mediastinales"
+    ],
+    "Options": [
+      "aa. phrenicae et esophagei",
+      "aa. bronchiales et a.a.intercostales posteriors"
+    ]
+  },
+  {
+    "Number": 52,
+    "Text": "Париетальные ветви брюшной части аорты: Қорин аортасининг париетал тармоқлар:",
+    "Answers": [
+      "aa.phrenicae inferiores, lumbales",
+      "a.sacralis mediana"
+    ],
+    "Options": [
+      "aa.phrenicae, suprarenales et renales, lumbales",
+      "aa.lumbales, a. sacralis mediana et lateralis"
+    ]
+  },
+  {
+    "Number": 53,
+    "Text": "Непарные висцерал ьные ветви брюшной части аорты: Қорин аортасининг тоқ  висцерал  тармоқлари:",
+    "Answers": [
+      "truncus coeliacus, a. mesenterica supperior",
+      "a. mesenterica inferior"
+    ],
+    "Options": [
+      "aa.mesenterica supperior et inferior, a. rectalis supperior",
+      "truncus coeliacus, a.mesenterica supperior et a. gastrica sinistra"
+    ]
+  },
+  {
+    "Number": 54,
+    "Text": "Парные висцерал ьные ветви брюшной части аорты: Қорин аортасининг жуфт висцерал  тармоқлари:",
+    "Answers": [
+      "a.ovarica (testicularis), a. renalis",
+      "a. suprarenalis media"
+    ],
+    "Options": [
+      "a.renales, a.phrenicae inferiores et supperiores",
+      "a.testicularis (ovarica), a. renalis et a.lumbales"
+    ]
+  },
+  {
+    "Number": 55,
+    "Text": "Передние ветви наружной сонной артерии:",
+    "Answers": [
+      "a.thyroidea supperior, a. lingualis",
+      "a.thyroidea supperior, a. facialis"
+    ],
+    "Options": [
+      "a.facialis, a. lingualis et a. occipitalis",
+      "a.lingualis, a. mandibularis et a. tymica"
+    ]
+  },
+  {
+    "Number": 56,
+    "Text": "Задние ветви наружной сонной артерии: Ташқи уйқу артериясининг орқа тармоқлари:",
+    "Answers": [
+      "a.occipitalis, a. auricularis posterior",
+      "a. sternocleidomastoidea"
+    ],
+    "Options": [
+      "a.occipitalis, a. facialis et a. pharyngea",
+      "a.occipitalis, a. auricularis posterior et a. thyroidea"
+    ]
+  },
+  {
+    "Number": 57,
+    "Text": "Средние ветви наружной сонной артерии: Ташқи уйқу артериясининг ўрта тармоқлари:",
+    "Answers": [
+      "a.pharyngea ascendens",
+      "a. temporalis superficialis, a. maxillaris"
+    ],
+    "Options": [
+      "a.temporalis, a. facialis, a. pharyngea",
+      "a.maxilaris, a. facialis, a. temporali"
+    ]
+  },
+  {
+    "Number": 58,
+    "Text": "Ветви первого отдела верхнечелюстной артерии: Юқориги жағ артериясининг биринчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a. meningea media",
+      "a. alveolaris inferior"
+    ],
+    "Options": [
+      "a.alveolaris supperior et a. alveolaris inferior",
+      "a.meningea media et a. nasalis posterior"
+    ]
+  },
+  {
+    "Number": 59,
+    "Text": "Ветви второго отдела верхнечелюстной артерии: Юқориги жағ артериясининг иккинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "aa. alveolares supperiores posteriores",
+      "ветви к жевательным мышцам(чайнов мускўллари шохлари)"
+    ],
+    "Options": [
+      "a.alveolaris inferior et a. meningea.media",
+      "a.alveolaris supperior posterior et a. infraorbitalis"
+    ]
+  },
+  {
+    "Number": 60,
+    "Text": "Ветви третьего отдела верхнечелюстной артерии: Юқориги жағ артериясининг учинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.infraorbitalis, a. palatina descendens",
+      "a.pterygopalatinae"
+    ],
+    "Options": [
+      "a.infraorbitalis et a. supraorbitalis",
+      "palalm descendens et a. alveolaris inferior, a. lingualis"
+    ]
+  },
+  {
+    "Number": 61,
+    "Text": "Откуда начинаетс вянутренная сонная артерия? Ички уйқу артерияси қаердан  ўтади?",
+    "Answers": [
+      "canalis caroticus",
+      "sulcus caroticus"
+    ],
+    "Options": [
+      "canalis n. hypoglossi",
+      "foramen rotundum"
+    ]
+  },
+  {
+    "Number": 62,
+    "Text": "Ветви внутренней сонной артерии: Ички уйқу артериясининг тармоқлари:",
+    "Answers": [
+      "a. ophthalmica, a. cerebri anterior, media",
+      "a. communicans posterior, a. horioidea"
+    ],
+    "Options": [
+      "a.ophthalmica, a. vertebralis, a. basilaris",
+      "a.cerebri anterior, media.et posterior."
+    ]
+  },
+  {
+    "Number": 63,
+    "Text": "Подключичная артерия отходит: Ўмров ости артерияси чиқади:",
+    "Answers": [
+      "слева (чап томондан) от arcus aortae",
+      "справа (унг томондан) от truncus brachiocephalicus"
+    ],
+    "Options": [
+      "слева(чап томондан)от truncus brachiocephalicus",
+      "справа(унг томондан) от arcus aortae"
+    ]
+  },
+  {
+    "Number": 64,
+    "Text": "Ветви подключичной артерии: Ўмров ости артериясининг тармоқлари:",
+    "Answers": [
+      "a.vertebralis, tr.thyrocervicalis, a.transversa colli",
+      "a. thoracics interna, tr. costocervicalis"
+    ],
+    "Options": [
+      "a.vertebralis, tr. thyrocervicalis, a. axillaris",
+      "a.thoracica interna, a. suprascapularis, a. ubscapularis, a. dorsalis scapulae"
+    ]
+  },
+  {
+    "Number": 65,
+    "Text": "PALATUM MOLLE:",
+    "Answers": [
+      "m.levator veli palatini",
+      "m.tensor veli palatini",
+      "m.uvulae"
+    ],
+    "Options": [
+      "m.stylopharyngeus,",
+      "m.genioglossus,",
+      "m.digastricus"
+    ]
+  },
+  {
+    "Number": 66,
+    "Text": "PHARYNX:",
+    "Answers": [
+      "fornix",
+      "ostium pharyngeum tubae"
+    ],
+    "Options": [
+      "pars intramuralis",
+      "tonsilla palatinae"
+    ]
+  },
+  {
+    "Number": 67,
+    "Text": "ESOPHAGUS:",
+    "Answers": [
+      "tunica serosa",
+      "tunica mucosa",
+      "tunica adventitia"
+    ],
+    "Options": [
+      "tunica submucosa,",
+      "tunica subserosa,",
+      "pars horizontalis"
+    ]
+  },
+  {
+    "Number": 68,
+    "Text": "Сердце имеет. Юракда бўлади:",
+    "Answers": [
+      "apex,",
+      "basis,",
+      "facies sternocostalis"
+    ],
+    "Options": [
+      "bulbus",
+      "pars thoracica",
+      "ostium interventriculare"
+    ]
+  },
+  {
+    "Number": 69,
+    "Text": "Стенка сердца состоит: Юрак деворида бўлади:",
+    "Answers": [
+      "myocardiuum",
+      "endocardium",
+      "epicardium"
+    ],
+    "Options": [
+      "endometrium",
+      "tunica.mucosa",
+      "ventriculis tertius"
+    ]
+  },
+  {
+    "Number": 70,
+    "Text": "Части аорты: Аорта қисмлари:",
+    "Answers": [
+      "pars ascendens",
+      "pars descendens",
+      "arcus aortae"
+    ],
+    "Options": [
+      "pars cervicalis,",
+      "pars cranialis,",
+      "pars costalis"
+    ]
+  },
+  {
+    "Number": 71,
+    "Text": "A.carotis externa:",
+    "Answers": [
+      "a. thyroidea supperior",
+      "a. vertebralis,",
+      "a. lingualis",
+      "a. facialis"
+    ],
+    "Options": [
+      "a. truncus thyrocervicalis,",
+      "a. thoracica interna"
+    ]
+  },
+  {
+    "Number": 72,
+    "Text": "A.carotis externa:",
+    "Answers": [
+      "a. occipitalis",
+      "a. auricularis posterior",
+      "a. pharyngea ascendens"
+    ],
+    "Options": [
+      "a. supraorbitalis,",
+      "a. thyroidea inferior,",
+      "a. subclavia sinistra"
+    ]
+  },
+  {
+    "Number": 73,
+    "Text": "A.carotis interna:",
+    "Answers": [
+      "a. ophthalmica",
+      "a. cerebri media",
+      "a. communicans posterior"
+    ],
+    "Options": [
+      "a.infraorbitalis,",
+      "a.cerebri posterior,",
+      "truncus thyrocervicalis"
+    ]
+  },
+  {
+    "Number": 74,
+    "Text": "Непарные ветви брюшной части аорты: Қорин аортасининг тоқ  тармоқлари:",
+    "Answers": [
+      "a. mesenterica supperior",
+      "a. mesenterica inferior",
+      "a. truncus coeliacus"
+    ],
+    "Options": [
+      "a. sacralis lateralis,",
+      "a. renalis,",
+      "a. phrenicae supperiors"
+    ]
+  },
+  {
+    "Number": 75,
+    "Text": "Truncus coeliacus:",
+    "Answers": [
+      "a. gastrica sinistra",
+      "a. hepatica communis",
+      "a. lienalis"
+    ],
+    "Options": [
+      "a. gastrica dextra,",
+      "a. hepatica propria,",
+      "a. carpeus dorsalis"
+    ]
+  },
+  {
+    "Number": 76,
+    "Text": "A.mesentericа.supperior:",
+    "Answers": [
+      "a. pancreaticoduodenalis inferior",
+      "a. intestinales",
+      "a. ileocolica"
+    ],
+    "Options": [
+      "a. pancreaticoduodenalis supperior,",
+      "a. colica sinistra,",
+      "a. uterine"
+    ]
+  },
+  {
+    "Number": 77,
+    "Text": "Оболочки сердца. Юрак деворларининг қаватлари:",
+    "Answers": [
+      "pericard",
+      "myocardium",
+      "endocardium"
+    ],
+    "Options": [
+      "tunica mucosa,",
+      "tunica serosa,",
+      "tunica adventitia"
+    ]
+  },
+  {
+    "Number": 78,
+    "Text": "Юрак деворида бўлади:",
+    "Answers": [
+      "myocardium",
+      "endocardium",
+      "epicardium"
+    ],
+    "Options": [
+      "endometrium,",
+      "tunica.mucosa,",
+      "ventriculis tertius"
+    ]
+  },
+  {
+    "Number": 79,
+    "Text": "Части аорты. Аорта қисмлари:",
+    "Answers": [
+      "pars ascendens",
+      "pars descendens",
+      "arcus aortae"
+    ],
+    "Options": [
+      "pars cervicalis,",
+      "pars cranialis,",
+      "pars costalis"
+    ]
+  },
+  {
+    "Number": 80,
+    "Text": "A.carotis externa:",
+    "Answers": [
+      "a. occipitalis",
+      "a. auricularis posterior",
+      "a. pharyngea ascendens"
+    ],
+    "Options": [
+      "a. supraorbitalis,",
+      "a. thyroidea inferior,",
+      "subclavia sinistra"
+    ]
+  },
+  {
+    "Number": 81,
+    "Text": "A.carotis interna:",
+    "Answers": [
+      "a. ophthalmica",
+      "a. cerebri media",
+      "a. communicans posterior"
+    ],
+    "Options": [
+      "a. infraorbitalis,",
+      "a. cerebri posterior,",
+      "truncus thyrocervicalis"
+    ]
+  },
+  {
+    "Number": 82,
+    "Text": "Непарные ветви брюшной части аорты. Қорин аортасининг тоқ тармоқлари:",
+    "Answers": [
+      "mesenterica supperior,",
+      "a. mesenterica inferior,",
+      "a. truncus coeliacus,"
+    ],
+    "Options": [
+      "a. sacralis lateralis,",
+      "a. renalis,",
+      "a. phrenicae supperiors"
+    ]
+  },
+  {
+    "Number": 83,
+    "Text": "Truncus coeliacus:",
+    "Answers": [
+      "a. gastrica sinistra,",
+      "a. hepatica communis,",
+      "a. lienalis"
+    ],
+    "Options": [
+      "a. gastrica dextra,",
+      "a. hepatica propria",
+      "a. carpeus dorsalis"
+    ]
+  },
+  {
+    "Number": 84,
+    "Text": "A.poplitea:",
+    "Answers": [
+      "a. genus supperior medialis,",
+      "a. genus inferior lateralis,",
+      "a. genus media,"
+    ],
+    "Options": [
+      "a. recurrens ulnaris anterior,",
+      "a. tarseae medialis,",
+      "a. Cremasterica"
+    ]
+  },
+  {
+    "Number": 85,
+    "Text": "Оболочки сердца. Юрак деворларининг қаватлари:",
+    "Answers": [
+      "pericard,",
+      "myocardium,",
+      "endocardium,"
+    ],
+    "Options": [
+      "tunica mucosa,",
+      "tunica serosa,",
+      "tunica adventitia"
+    ]
+  },
+  {
+    "Number": 86,
+    "Text": "Назовите глубокие вены руки. Қўлнинг чуқур веналарини кўрсатинг.",
+    "Answers": [
+      "radiales, ulnares brachiales"
+    ],
+    "Options": [
+      "v. profunda.brachii, vv. interossei anterior et posterior",
+      "v. axillaris, v. subclavia, truncus brachiocephalicus",
+      "v. axillaris, v. subscapularis, v. suprascapularis",
+      "vv. manus lateralis et medialis, v. mediana"
+    ]
+  },
+  {
+    "Number": 87,
+    "Text": "От слияния каких вен образуется нижняя полая вена? Қайси веналарни қўшилишидан пастки ковак вена хосил бўлади?",
+    "Answers": [
+      "v. iliaca communis dextra et v. iliaca communis sinistra"
+    ],
+    "Options": [
+      "v. iliaca interna et v. iliaca externa",
+      "v. iliaca externa et v. sacralis mediana",
+      "vv. gluteae, vv. sacrales laterales, vv. iliolumbales",
+      "v. azygos, v. hemiazygos, vv. Iliacae"
+    ]
+  },
+  {
+    "Number": 88,
+    "Text": "Укажите основные висцерал ьные притоқ и нижней полой вены: Пастки ковак венани висцерал  тармоқларини кўрсатинг:",
+    "Answers": [
+      "vv. hepaticae, renales, suprarenales, v. ovarica(testicularis) dextra"
+    ],
+    "Options": [
+      "vv. hepaticae, gastricae, lienales",
+      "vv. hepaticae, gastricae, intestinales",
+      "vv. renales, suprarenales, gastricae, pancreaticae",
+      "v. lienalis, vv. mesentericae supperior et inferior"
+    ]
+  },
+  {
+    "Number": 89,
+    "Text": "Укажите париетальные притоқ и нижней полой вены. Пастки ковак венани париетал тармоқларини кўрсатинг.",
+    "Answers": [
+      "vv. phrenicae inferiores et vv. lumbales"
+    ],
+    "Options": [
+      "vv. intercostales et vv. phrenicae supperiores",
+      "v. azygos et v. hemiazygos",
+      "vv. lumbales, iliolumbales, sacrales",
+      "vv. phrenicae inferiores et vv. iliacae communes"
+    ]
+  },
+  {
+    "Number": 90,
+    "Text": "Из каких вен формируются общие подвздошные вены? Умумий ёнбош веналар қайси веналарни қўшилишидан ҳосил бўлади?",
+    "Answers": [
+      "v. iliaca.externa et v. iliaca.interna"
+    ],
+    "Options": [
+      "rr. parietales et viscerales",
+      "v. mesenterica inferior et vv. gluteae",
+      "vv. uterinae, rectales, vesicales",
+      "iliaca anterior et v. iliaca posterior"
+    ]
+  },
+  {
+    "Number": 91,
+    "Text": "Назовите притоқ и внутренней подвздошной вены. Ички ёнбош веналарни қайси веналар ҳосил килади?",
+    "Answers": [
+      "vv. gluteae, obturatoria, vesicalis, rectales (media et inferior)"
+    ],
+    "Options": [
+      "vv. mesentericae supperior et inferior, vv. rectales",
+      "v. circumflexa.ilei profunda, v. sacralis lateralis, vv. gluteae",
+      "v. iliolumbalis, v. sacralis lateralis, v.vesicalis",
+      "v. obturatorae, v. circumflexa ilei profunda"
+    ]
+  },
+  {
+    "Number": 92,
+    "Text": "Перечислите поверхностные вены свободной нижней қонечности. Оёқни юзаки веналарини кўрсатинг. .",
+    "Answers": [
+      "v. saphena magna et parva"
+    ],
+    "Options": [
+      "v. saphena lateralis et medialis",
+      "v. saphena anterior et posterior",
+      "v. saphena supperior et inferior",
+      "v. saphena pedis, cruris et femoris"
+    ]
+  },
+  {
+    "Number": 93,
+    "Text": "Отметьте глубокие вены ноги: Оёқни юзаки веналарини кўрсатинг:",
+    "Answers": [
+      "v. femoralis, v. profunda femoris, v. poplitea, v. tibialis anterior, v. tibialis posterior, vv. pedis"
+    ],
+    "Options": [
+      "v. iliaca externa, interna.",
+      "vv. dorsales pedis, v. tibialis magna.et parva",
+      "v. plantaris lateralis, v. plantaris medialis, vv. genu",
+      "v. profunda pedis, v. profunda cruris, v. femoralis, v. profunda.femoris"
+    ]
+  },
+  {
+    "Number": 94,
+    "Text": "Назовите корни воротной вены: Дарвоза венаси илдизини кўрсатинг:",
+    "Answers": [
+      "v. lienalis, v. mesenterica supperior, v. mesenterica inferior"
+    ],
+    "Options": [
+      "v. gastrica, v. hepatica, v. lienalis",
+      "v. gastrica, v. lienalis, v. pancreatica",
+      "v. hepatica, v. mesenterica supperior et inferior",
+      "v. lienalis, v. hepatica, v. renalis"
+    ]
+  },
+  {
+    "Number": 95,
+    "Text": "Куда вливаются venae pulmonales? Venae pulmonales қаерга қўйилади?",
+    "Answers": [
+      "atrium sinister"
+    ],
+    "Options": [
+      "atrium dexter",
+      "vena cava supperior",
+      "v. azygos",
+      "v. hemiazygos"
+    ]
+  },
+  {
+    "Number": 96,
+    "Text": "Куда оттекает венозная кровь из наружного носа? Ташқи бурундан веноз қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. facialis, v. opthalmica"
+    ],
+    "Options": [
+      "v. sphenopalatina, v. frontalis",
+      "v. jugularis externa, v. emissaria.parietalis",
+      "v. retromandibularis, v. facialis",
+      "v. angularis, v. retromandibularis"
+    ]
+  },
+  {
+    "Number": 97,
+    "Text": "Куда оттекает венозная кровь из слизистой оболочки полости носа? Бурунни шиллиқ қаватидан қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. sphenopalatina"
+    ],
+    "Options": [
+      "v. facialis",
+      "v. retromandibularis",
+      "v. angularis",
+      "v. frontalis"
+    ]
+  },
+  {
+    "Number": 98,
+    "Text": "Венозный оттоқ  из органов верхнего этажа брюшной полости? Қорин бушлиғи юқори этажи органларидан қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. lienalis"
+    ],
+    "Options": [
+      "v. mesenterica supperior",
+      "v. mesenterica inferior",
+      "v. cava supperior",
+      "v. cava inferior"
+    ]
+  },
+  {
+    "Number": 99,
+    "Text": "От слияния каких стволов образуется ductus thoracicus? Ductus thoracicus қандай ҳосил бўлади?",
+    "Answers": [
+      "truncus lumbalis dexter et sinister"
+    ],
+    "Options": [
+      "truncus subclavia.dexter et sinister",
+      "truncus jugularis dexter et sinister",
+      "truncus intestinalis dexter et sinister",
+      "truncus bronchomediastinalis dexter et sinister"
+    ]
+  },
+  {
+    "Number": 100,
+    "Text": "В ductus thoracicus вливается: Ductus thoracicus га қўйилади:",
+    "Answers": [
+      "truncus bronchomediastinalis sinister"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus subclavius anterior",
+      "truncus jugularis pasterior",
+      "truncus femoralis"
+    ]
+  },
+  {
+    "Number": 101,
+    "Text": "В ductus thoracicus вливается: Ductus thoracicus га қуйилади.",
+    "Answers": [
+      "truncus intestinalis"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus popliteus",
+      "truncus brachialis",
+      "truncus femoralis"
+    ]
+  },
+  {
+    "Number": 102,
+    "Text": "В ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus jugularis dexter"
+    ],
+    "Options": [
+      "truncus jugularis sinister",
+      "truncus intestinalis",
+      "truncus subclavius sinister",
+      "truncus femoralis dexter"
+    ]
+  },
+  {
+    "Number": 103,
+    "Text": "В ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus subclavius dexter"
+    ],
+    "Options": [
+      "truncus lumbalis dexter",
+      "truncus intestinalis",
+      "truncus subclavius sinister",
+      "truncus lumbalis sinister"
+    ]
+  },
+  {
+    "Number": 104,
+    "Text": "В ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus bronchomediastinalis dexter"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister",
+      "truncus lumbalis dexter",
+      "truncus lumbalis sinister",
+      "truncus intestinalis"
+    ]
+  },
+  {
+    "Number": 105,
+    "Text": "Куда впадает ductus lymphaticus dexter? Ductus lymphaticus dexter қаерга қўйилади?",
+    "Answers": [
+      "v. subclavia dextra"
+    ],
+    "Options": [
+      "v. subclavia sinistra",
+      "v. jugularis interna",
+      "v. portae",
+      "ductus thoracicus"
+    ]
+  },
+  {
+    "Number": 106,
+    "Text": "Куда вливается ductus thoracicus? Ductus thoracicus қаерга қўйилади?",
+    "Answers": [
+      "v. jugularis interna sinistra"
+    ],
+    "Options": [
+      "jugularis interna dextra",
+      "v. subclavia dextra",
+      "v. portae",
+      "ductus lymphaticus dexter"
+    ]
+  },
+  {
+    "Number": 107,
+    "Text": "Лимфа от верхней половины живота оттекает: Қориннинг юқори қисмидан лимфа қаерга йиғилади:",
+    "Answers": [
+      "nodi lymphatici axillares"
+    ],
+    "Options": [
+      "nodi lymphatici inguinales",
+      "nodi lymphatici lumbales",
+      "nodi lymphatici mesenterici supperiores",
+      "nodi lymphatici mesenterici inferiors"
+    ]
+  },
+  {
+    "Number": 108,
+    "Text": "Лимфа от нижней половины живота оттекает: Қориннинг пастки қисмидан лимфа қаерга йиғилади.",
+    "Answers": [
+      "nodi lymphatici inguinales"
+    ],
+    "Options": [
+      "nodi lymphatici axillares",
+      "nodi lymphatici lumbales",
+      "nodi lymphatici mesenterici supperiores",
+      "nodi lymphatici mesenterici inferiors"
+    ]
+  },
+  {
+    "Number": 109,
+    "Text": "Лимфатические сосуды вдоль v. saphena mаgna впадают: V. saphena mаgna атрофидаги лимфа томирлар қуйилади.",
+    "Answers": [
+      "nodi lymphatici inguinales superficialis"
+    ],
+    "Options": [
+      "nodi lymphatici inguinales profundus",
+      "nodi lymphatici popliteales",
+      "nodi lymphatici iliaci externi",
+      "nodi lymphatici iliaci interni"
+    ]
+  },
+  {
+    "Number": 110,
+    "Text": "Лимфа из наружных покровов передней и латеральной стенок грудной клетки оттекает: Кўкрак қафаси ташқи қопламлари олдинги ва латерал юзаларидан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici axillares"
+    ],
+    "Options": [
+      "nodi lymphatici mediastinalis anteriores",
+      "nodi lymphatici mediastinalis posteriores",
+      "nodi lymphatici parasternales",
+      "nodi lymphatici phrenici supperiors"
+    ]
+  },
+  {
+    "Number": 111,
+    "Text": "Лимфа из латеральных отделов молочной железы отводится: Сут безининг латерал қисмидан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici axillares"
+    ],
+    "Options": [
+      "nodi lymphatici mediastinalis anteriores",
+      "nodi lymphatici mediastinalis posteriores",
+      "nodi lymphatici parasternales",
+      "nodi lymphatici phrenici supperiors"
+    ]
+  },
+  {
+    "Number": 112,
+    "Text": "Лимфатические сосуды по ходу v. basilicа? вливаюдся: V. basilicа. атрофидаги лимфа томирлари қаерга қуйилади?",
+    "Answers": [
+      "nodi lymphatici cubitales"
+    ],
+    "Options": [
+      "nodi lymphatici axillaries superficiales",
+      "nodi lymphatici axillaris profundi",
+      "nodi lymphatici bronchomediastinales",
+      "nodi lymphatici parasternales"
+    ]
+  },
+  {
+    "Number": 113,
+    "Text": "От верхней губы лимфа оттекает: Юқори лабдан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares"
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales"
+    ]
+  },
+  {
+    "Number": 114,
+    "Text": "От нижней губы лимфа оттекает? Пастки лабдан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares"
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales"
+    ]
+  },
+  {
+    "Number": 115,
+    "Text": "От тела языка лимфа оттекает? Тилни танасидан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares"
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales"
+    ]
+  },
+  {
+    "Number": 116,
+    "Text": "От десен и зубов лимфа оттекает:",
+    "Answers": [
+      "nodi lymphatici submandibulares"
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales"
+    ]
+  },
+  {
+    "Number": 117,
+    "Text": "Из нижней доли левого легкого лимфа оттекает? Чап ўпканинг  пастки қисмидан лимфа қаерга қуйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis dexter"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister",
+      "truncus jugularis dexter",
+      "truncus jugularis sinister",
+      "truncus subclavia.sinister"
+    ]
+  },
+  {
+    "Number": 118,
+    "Text": "Из верхней доли левого легкого лимфа оттекает? Чап ўпканинг  юқори қисмидан лимфа қаерга қуйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis sinister"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus jugularis sinister",
+      "truncus jugularis dexter",
+      "truncus subclavia.sinister"
+    ]
+  },
+  {
+    "Number": 119,
+    "Text": "Из нижней доли правого легкого лимфа оттекает? Унг ўпканинг  пастки қисмидан лимфа қаерга қуйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis dexter"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister",
+      "truncus jugularis sinister",
+      "truncus jugularis dexter",
+      "truncus subclavius sinister"
+    ]
+  },
+  {
+    "Number": 120,
+    "Text": "Из тонкой кишки лимфа отводится? Ингичка ичакдан лимфа қаерга қуйилади?",
+    "Answers": [
+      "nodi lymphatici mesenterici"
+    ],
+    "Options": [
+      "nodi lymphatici inguinales superficiales",
+      "nodi lymphatici lumbales dexter",
+      "nodi lymphatici lumbales sinister",
+      "nodi lymphatici inguinales profundi"
+    ]
+  },
+  {
+    "Number": 121,
+    "Text": "Из слепой кишки и червеобразного отростка лимфа отводится: Кур ичакдан лимфа қаерга қуйилади?",
+    "Answers": [
+      "nodi lymphatici ileocolici"
+    ],
+    "Options": [
+      "nodi lymphatici colici dextri",
+      "nodi lymphatici colici sinistri",
+      "nodi lymphatici colici media",
+      "nodi lymphatici intestinales"
+    ]
+  },
+  {
+    "Number": 122,
+    "Text": "Из глотки и небных миндалин лимфа оттекает? Ҳиқилдоқ ва танглай мўртакларидан лимфа қаерга қуйилади?",
+    "Answers": [
+      "nodi lymphatici retropharyngei"
+    ],
+    "Options": [
+      "nodi lymphatici submandibulares",
+      "nodi lymphatici submentales",
+      "nodi lymphatici faciales",
+      "nodi lymphatici parotidei"
+    ]
+  },
+  {
+    "Number": 123,
+    "Text": "Из глотки и небных миндалин лимфа оттекает? Ҳиқилдоқ ва танглай мўртакларидан лимфа қаерга қуйилади?",
+    "Answers": [
+      "nodi lymphatici cervicales laterales profundi"
+    ],
+    "Options": [
+      "nodi lymphatici occipitales",
+      "nodi lymphatici bronchomediastinales",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici parotidei"
+    ]
+  },
+  {
+    "Number": 124,
+    "Text": "DUODENUM:",
+    "Answers": [
+      "pars descendens",
+      "a.pancreaticoduodenalis inferior,",
+      "papilla"
+    ],
+    "Options": [
+      "colon ascendens,",
+      "pars pylorica,",
+      "a.gepatica propria,"
+    ]
+  },
+  {
+    "Number": 125,
+    "Text": "INTESTINUM CRASSUM:",
+    "Answers": [
+      "flexura dextra,",
+      "caecum,",
+      "taenia omentalis,"
+    ],
+    "Options": [
+      "papilla minor,",
+      "pars cardiaca,",
+      "facies cardiacа"
+    ]
+  },
+  {
+    "Number": 126,
+    "Text": "PANCREAS:",
+    "Answers": [
+      "facies anterior,",
+      "tuber omentale,",
+      "burca omentalis"
+    ],
+    "Options": [
+      "tunica mucosa,",
+      "processus vocalis,",
+      "appendex epyploicae,",
+      "foramen"
+    ]
+  },
+  {
+    "Number": 127,
+    "Text": "HEPAR:",
+    "Answers": [
+      "lobuli,",
+      "a.interlobularis,",
+      "venae centralis,"
+    ],
+    "Options": [
+      "tunica mucosa,",
+      "papilla major,",
+      "lobus supperior"
+    ]
+  },
+  {
+    "Number": 128,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "choanae,",
+      "cartilago septi nasi,",
+      "vestibulum nasi,"
+    ],
+    "Options": [
+      "vestibulum oris,",
+      "tonsillae palatinae,",
+      "sinus mastoideus"
+    ]
+  },
+  {
+    "Number": 129,
+    "Text": "LARYNX:",
+    "Answers": [
+      "lig. thyrohyoideum medianum",
+      "cartilago cricoidea,",
+      "articulatio cricothyroidea"
+    ],
+    "Options": [
+      "cartilago trachealis,",
+      "cartilago bronchialis,",
+      "cartilago nasi accecoria"
+    ]
+  },
+  {
+    "Number": 130,
+    "Text": "TRACHEA:",
+    "Answers": [
+      "pars cervicalis,",
+      "pars thoracica,",
+      "lig.annularia,"
+    ],
+    "Options": [
+      "pars abdominalis,",
+      "pars laryngeus,",
+      "pars nasalis"
+    ]
+  },
+  {
+    "Number": 131,
+    "Text": "BRONCHUS:",
+    "Answers": [
+      "bronchus lobularis,",
+      "brochiola respiratoria,",
+      "tunica muscularis,"
+    ],
+    "Options": [
+      "tunica fibrosa,",
+      "bronchus alveolaris,",
+      "pars nasalis"
+    ]
+  },
+  {
+    "Number": 132,
+    "Text": "PULMO:",
+    "Answers": [
+      "basis pulmonis,",
+      "apex pulmonis,",
+      "hilus pulmonis,"
+    ],
+    "Options": [
+      "cervix pulmonis,",
+      "corpus pulmonis,",
+      "pars nasalis"
+    ]
+  },
+  {
+    "Number": 133,
+    "Text": "PLEURA:",
+    "Answers": [
+      "cupula pleurae,",
+      "pleura visceralis,",
+      "pleura parietalis,"
+    ],
+    "Options": [
+      "pleura bronchialis,",
+      "pleura abdominalis,",
+      "pars nasalis"
+    ]
+  },
+  {
+    "Number": 134,
+    "Text": "REN:",
+    "Answers": [
+      "margo lateralis,",
+      "margo medialis,",
+      "facies anterior,"
+    ],
+    "Options": [
+      "margo supperior,",
+      "margo inferior,",
+      "facies inferior"
+    ]
+  },
+  {
+    "Number": 135,
+    "Text": "URETER:",
+    "Answers": [
+      "pars abdominalis,",
+      "tunica fibrosa,",
+      "tunica muscularis,",
+      "tunica mucosa,"
+    ],
+    "Options": [
+      "pars prostatica,",
+      "pars prostatica,",
+      "pars libera,",
+      "gl.urethralis"
+    ]
+  },
+  {
+    "Number": 136,
+    "Text": "TESTIS:",
+    "Answers": [
+      "tubuli seminiferi contorti,",
+      "tubuli seminiferi recti,",
+      "rete testis,"
+    ],
+    "Options": [
+      "ampulla ductus defferentis,",
+      "tunica muscularis,",
+      "cervix epididymis"
+    ]
+  },
+  {
+    "Number": 137,
+    "Text": "URETHRA.MASCULINA:",
+    "Answers": [
+      "pars prostatica,",
+      "colliculis seminalis,",
+      "pars membranacea,"
+    ],
+    "Options": [
+      "vesicula seminalis,",
+      "linea libera,",
+      "pars abdominalis"
+    ]
+  },
+  {
+    "Number": 138,
+    "Text": "OVARIUM:",
+    "Answers": [
+      "corpus luteum,",
+      "corpus albicans,",
+      "lig.ovarii proprium,"
+    ],
+    "Options": [
+      "parametrium,",
+      "fimbria uterina,",
+      "fascia.inferior"
+    ]
+  },
+  {
+    "Number": 139,
+    "Text": "UTERUS:",
+    "Answers": [
+      "corpus,",
+      "fundus,",
+      "cervix"
+    ],
+    "Options": [
+      "collum,",
+      "caput,",
+      "tuberculum"
+    ]
+  },
+  {
+    "Number": 140,
+    "Text": "Сердце имеет. Юракда бўлади:",
+    "Answers": [
+      "apex,",
+      "basis,",
+      "facies sternocostalis,"
+    ],
+    "Options": [
+      "bulbus,",
+      "pars thoracica,",
+      "ostium interventriculare"
+    ]
+  },
+  {
+    "Number": 141,
+    "Text": "Стенка сердца состоит. Юрак деворида бўлади:",
+    "Answers": [
+      "myocardium,",
+      "endocardium,",
+      "epicardium,",
+      "a. occipitalis,",
+      "a. auricularis posterior,",
+      "a. pharyngea ascendens,"
+    ],
+    "Options": [
+      "endometrium,",
+      "tunica.mucosa,",
+      "ventriculis tertius",
+      "a. supraorbitalis,",
+      "a. thyroidea inferior,",
+      "a. subclavia sinistra."
+    ]
+  },
+  {
+    "Number": 142,
+    "Text": "A.carotis interna:",
+    "Answers": [
+      "a. ophthalmica,",
+      "a. cerebri media",
+      "a. communicans posterior,"
+    ],
+    "Options": [
+      "a. infraorbitalis,",
+      "a. cerebri posterior,",
+      "truncus thyrocervicalis"
+    ]
+  },
+  {
+    "Number": 143,
+    "Text": "Непарные ветви брюшной части аорты: Қорин аортасининг тоқ тармоқлари:",
+    "Answers": [
+      "a. sacralis lateralis,",
+      "a. mesenterica supperior,",
+      "a. mesenterica inferior,",
+      "a. truncus coeliacus,"
+    ],
+    "Options": [
+      ". renalis,",
+      "a. phrenicae supperiors"
+    ]
+  },
+  {
+    "Number": 144,
+    "Text": "Truncus coeliacus:",
+    "Answers": [
+      "a. gastrica sinistra,",
+      "a. hepatica communis,",
+      "a. lienalis,"
+    ],
+    "Options": [
+      "a. gastrica dextra,",
+      "a. hepatica propria,",
+      "a. carpeus dorsalis"
+    ]
+  },
+  {
+    "Number": 145,
+    "Text": "A.mesentericа.supperior:",
+    "Answers": [
+      "a. pancreaticoduodenalis inferior,",
+      "a. intestinales,",
+      "a. ileocolica,"
+    ],
+    "Options": [
+      "a. pancreaticoduodenalis supperior,",
+      "a. colica sinistra,",
+      "a. uterine"
+    ]
+  },
+  {
+    "Number": 146,
+    "Text": "A.poplitea:",
+    "Answers": [
+      "a. genus supperior lateralis,",
+      "a. genus supperior medialis,",
+      "a. genus inferior lateralis,"
+    ],
+    "Options": [
+      "a. genus media,",
+      "a. tarseae medialis,",
+      "a. Cremasterica"
+    ]
+  },
+  {
+    "Number": 147,
+    "Text": "Оболочки сердца. Юрак деворларининг қаватлари:",
+    "Answers": [
+      "pericard,",
+      "myocardium,",
+      "endocardium,"
+    ],
+    "Options": [
+      "tunica mucosa,",
+      "tunica serosa,",
+      "tunica adventitia"
+    ]
+  },
+  {
+    "Number": 148,
+    "Text": "Диафрагма:",
+    "Answers": [
+      "plexus cervicalis,",
+      "С3-С4,"
+    ],
+    "Options": [
+      "n. vagus,",
+      "n. intercostalis,"
+    ]
+  },
+  {
+    "Number": 149,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "choanae,",
+      "foramen sphenopalatinum,",
+      "meatus nasi supperior,"
+    ],
+    "Options": [
+      "apertura.magnum,",
+      "foramen opticum,",
+      "foramen lacerum"
+    ]
+  },
+  {
+    "Number": 150,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "meatus nasi supperior,",
+      "canalis nasolacrimalis",
+      "choanae,"
+    ],
+    "Options": [
+      "canalis palatinus major,",
+      "foramen lacerum,",
+      "fossa.pterygoidea"
+    ]
+  },
+  {
+    "Number": 151,
+    "Text": "INTESTINUM TENUE:",
+    "Answers": [
+      "jejunalis,",
+      "nodi limfatici agregati ,",
+      "nodi limfatici solitari"
+    ],
+    "Options": [
+      "caecum,",
+      "taenia omentalis,",
+      "facies cardiaca"
+    ]
+  },
+  {
+    "Number": 152,
+    "Text": "HEPAR:",
+    "Answers": [
+      "a.interlobularis,",
+      "venae centralis,",
+      "ductuli biliferi,"
+    ],
+    "Options": [
+      "tunica submucosa,",
+      "papilla major,",
+      "lobus supperior,"
+    ]
+  },
+  {
+    "Number": 153,
+    "Text": "VENTRICULUS:",
+    "Answers": [
+      "curvatura major,",
+      "pars cardiaca,",
+      "gl.gastricae,"
+    ],
+    "Options": [
+      "pars thoracica,",
+      "collum ,",
+      "pars horizontalis"
+    ]
+  },
+  {
+    "Number": 154,
+    "Text": "DUODENUM:",
+    "Answers": [
+      "pars ascendens,",
+      "pars supperior,",
+      "pars horizontalis,"
+    ],
+    "Options": [
+      "pars pylorica,",
+      "pars cardiaca,",
+      "facies cardiaca"
+    ]
+  },
+  {
+    "Number": 155,
+    "Text": "REN:",
+    "Answers": [
+      "calyces renales minor,",
+      "tubuli renalis contorti,"
+    ],
+    "Options": [
+      "tubuli semineferi recti,",
+      "v.sentralis,"
+    ]
+  },
+  {
+    "Number": 156,
+    "Text": "URETHRA MASCULINA:",
+    "Answers": [
+      "pars spongiosa,",
+      "pars prostatica,",
+      "colliculis seminalis,"
+    ],
+    "Options": [
+      "tunica dartos ,",
+      "collum,",
+      "fascia.inferior"
+    ]
+  },
+  {
+    "Number": 157,
+    "Text": "UTERUS:",
+    "Answers": [
+      "lig.teres uteri,",
+      "corpus,",
+      "fundus,"
+    ],
+    "Options": [
+      "apertura.,",
+      "caput,",
+      "tuberculum"
+    ]
+  },
+  {
+    "Number": 158,
+    "Text": "UTERUS:",
+    "Answers": [
+      "lig.latae uteri,",
+      "lig.teres uteri,",
+      "endometrium,"
+    ],
+    "Options": [
+      "apertura.,",
+      "tunica fibrosa,",
+      "tuberculum"
+    ]
+  },
+  {
+    "Number": 159,
+    "Text": "Диафрагма:",
+    "Answers": [
+      "osteum vena cava inferior,"
+    ],
+    "Options": [
+      "osteum vena cava supperior,",
+      "linea alba,",
+      "facia cremasterica,"
+    ]
+  },
+  {
+    "Number": 160,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "choanae,",
+      "foramen sphenopalatinum,",
+      "meatus nasi supperior,",
+      "apertura piriformis,"
+    ],
+    "Options": [
+      "foramen opticum,",
+      "caruncula sublingualis",
+      "cavitas oris propria",
+      "papilla major"
+    ]
+  },
+  {
+    "Number": 161,
+    "Text": "CAVUM ORIS:",
+    "Answers": [
+      "vestibulum oris,",
+      "cavitas oris propria,",
+      "palatum durum,",
+      "caruncula sublingualis"
+    ],
+    "Options": [
+      "foramen sphenopalatinum,",
+      "meatus nasi supperior,",
+      "apertura piriformis,",
+      "foramen opticum,"
+    ]
+  },
+  {
+    "Number": 162,
+    "Text": "LINGUA:",
+    "Answers": [
+      "papillae fungiformes,",
+      "papillae vallatae,",
+      "papillae filiformes,",
+      "papillae conicae,"
+    ],
+    "Options": [
+      "papillae epiglottica,",
+      "istmus linguae,",
+      "insisura linguae,",
+      "caput linguae"
+    ]
+  },
+  {
+    "Number": 163,
+    "Text": "PALATUM MOLLE:",
+    "Answers": [
+      "m.levator veli palatini,",
+      "m.palatopharyngeus,"
+    ],
+    "Options": [
+      "m.genioglossus,",
+      "m.digastricus,"
+    ]
+  },
+  {
+    "Number": 164,
+    "Text": "ESOPHAGUS:",
+    "Answers": [
+      "pars cervicalis,",
+      "tunica mucosa,",
+      "tunica adventitia,",
+      "tunica submucosa,"
+    ],
+    "Options": [
+      "tunica subserosa,",
+      "pars horizontalis,",
+      "pars descendens,",
+      "pars pylorica"
+    ]
+  },
+  {
+    "Number": 165,
+    "Text": "VENTRICULUS:",
+    "Answers": [
+      "curvatura major,",
+      "pars cardiaca,",
+      "tunica muscularis,",
+      "gl.gastricae,"
+    ],
+    "Options": [
+      "pars thoracica,",
+      "pars horizontalis,",
+      "pars descendens,",
+      "collum"
+    ]
+  },
+  {
+    "Number": 166,
+    "Text": "DUODENUM:",
+    "Answers": [
+      "pars ascendens,",
+      "pars pylorica,",
+      "pars supperior,",
+      "pars descendens,"
+    ],
+    "Options": [
+      "pars horizontalis,",
+      "facies cardiaca,",
+      "haustra coli,",
+      "taenia libera"
+    ]
+  },
+  {
+    "Number": 167,
+    "Text": "INTESTINUM CRASSUM:",
+    "Answers": [
+      "flexura dextra,",
+      "plica semilunaria,",
+      "taenia omentalis,",
+      "haustra coli,"
+    ],
+    "Options": [
+      "pars cardiaca,",
+      "facies cardiaca,",
+      "pars endocrina,",
+      "papilla major"
+    ]
+  },
+  {
+    "Number": 168,
+    "Text": "HEPAR:",
+    "Answers": [
+      "lobuli,",
+      "a.interlobularis,",
+      "venae centralis,",
+      "ductuli biliferi,"
+    ],
+    "Options": [
+      "papilla major,",
+      "lobus supperior,",
+      "lobus inferior,",
+      "tunica submucosa"
+    ]
+  },
+  {
+    "Number": 169,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "cartilago alaris nasi,",
+      "choanae,",
+      "tunica mucosa,",
+      "cartilago septi nasi,"
+    ],
+    "Options": [
+      "articulatio cricothyroidea,",
+      "sinus mastoideus,",
+      "papilla major,",
+      "cavum alveolaris"
+    ]
+  },
+  {
+    "Number": 170,
+    "Text": "LARYNX:",
+    "Answers": [
+      "cartilago thyroidea,",
+      "cartilago arytenoidea,",
+      "linea obliqua,",
+      "membrana thyrohyoidea,"
+    ],
+    "Options": [
+      "cartilago trachealis,",
+      "cartilago bronchialis,",
+      "lig.alaris",
+      "pars thoracica"
+    ]
+  },
+  {
+    "Number": 171,
+    "Text": "INTESTINUM CRASSUM:",
+    "Answers": [
+      "flexura dextra,",
+      "plica semilunaria,",
+      "taenia omentalis,",
+      "ostium iliocaecalis,"
+    ],
+    "Options": [
+      "facies cardiaca,",
+      "pars endocrina,",
+      "papilla major,",
+      "cauda"
+    ]
+  },
+  {
+    "Number": 172,
+    "Text": "PANCREAS:",
+    "Answers": [
+      "caput,",
+      "cauda,",
+      "ductus,",
+      "acies anterior,"
+    ],
+    "Options": [
+      "foramen,",
+      "fossa,",
+      "apex,",
+      "margo medialis"
+    ]
+  },
+  {
+    "Number": 173,
+    "Text": "PULMO:",
+    "Answers": [
+      "basis pulmonis,",
+      "facies costalis,",
+      "facies diafragmatica,",
+      "hilus pulmonis,"
+    ],
+    "Options": [
+      "pars abdominalis,",
+      "pars pharyngeus,",
+      "sulcus a. subclaviae,",
+      "margo medialis"
+    ]
+  },
+  {
+    "Number": 174,
+    "Text": "TUBA UTERINA:",
+    "Answers": [
+      "ostium uterinum tubae ,",
+      "ampulla tubae uterinae,",
+      "ostium uterinum,",
+      "tunica mucosa,"
+    ],
+    "Options": [
+      "endometrium,",
+      "parametrium,",
+      "myometrium,",
+      "sulcus a. subclaviae,",
+      "margo medialis"
+    ]
+  },
+  {
+    "Number": 175,
+    "Text": "Сердце имеет. Юракда бўлади:",
+    "Answers": [
+      "apex,",
+      "ostium atrioventriculare,",
+      "atrium dextum,",
+      "musculi pectinati,"
+    ],
+    "Options": [
+      "facies sternocostalis,",
+      "ostium interventriculare,",
+      "foramen ovale,",
+      "ostium interatriale"
+    ]
+  },
+  {
+    "Number": 176,
+    "Text": "A.carotis externa:",
+    "Answers": [
+      "a. lingualis,",
+      "a. facialis,",
+      "a. occipitalis,",
+      "a. auricularis posterior,"
+    ],
+    "Options": [
+      "a. subclavia sinistra,",
+      "a. thoracica interna,",
+      "a. basilaris,",
+      "a. supraorbitalis,"
+    ]
+  },
+  {
+    "Number": 177,
+    "Text": "A.carotis interna:",
+    "Answers": [
+      "a. ophthalmica,",
+      "a. communicans anterior,",
+      "a. cerebri anterior,",
+      "a. cerebri media,"
+    ],
+    "Options": [
+      "a. thoracica lateralis,",
+      "a. subclavia sinistra,",
+      "sulcus a. subclaviae,",
+      "margo medialis"
+    ]
+  },
+  {
+    "Number": 178,
+    "Text": "Кровоснабжение pulmo: Ўпкани қон билан таьминланиши:",
+    "Answers": [
+      "rr.bronchiales, aortae thoracica"
+    ],
+    "Options": [
+      "rr.pulmonalis, aortae ascendens,",
+      "rr.pulmonalis, r. bronchialis. a.pulmonalis",
+      "rr.pulmonalis, aortae thoracica"
+    ]
+  },
+  {
+    "Number": 179,
+    "Text": "Кровоснабжение  почки: Буйракни қон билан таьминланиши:",
+    "Answers": [
+      "a.renalis, aorta abdominalis"
+    ],
+    "Options": [
+      "a.renalis, truncus celiacus",
+      "a.renalis supperior et inferior",
+      "aorta abdominalis"
+    ]
+  },
+  {
+    "Number": 180,
+    "Text": "Кровоснабжение    поджелудочной железы: Меда ости безини қон билан таьминланиши",
+    "Answers": [
+      "a.pancreaticoduodenalis supperior et inferior, a. lienalis,"
+    ],
+    "Options": [
+      "a.pancreaticus dextra et sinistra,",
+      "a.pancreaticoduodenalis supperior et inferior,",
+      "a.pancreaticus supperior et inferior"
+    ]
+  },
+  {
+    "Number": 181,
+    "Text": "Кровоснабжение    сигмовидного кишки: Сигмасимон ичакни қон билан таьминланиши:",
+    "Answers": [
+      "a.sigmoideae a.mesenterica inferior,"
+    ],
+    "Options": [
+      "a.sigmoideae a.mesenterica supperior,",
+      "a.colica sinistra a.mesenterica inferior,",
+      "a.colica dextra a.mesenterica supperior,"
+    ]
+  },
+  {
+    "Number": 182,
+    "Text": "Кровоснабжение    восходя шей части толстой кишки: Кутарилувчи чамбар ичакни қон билан таьминланиши",
+    "Answers": [
+      "a.colica dextra a.mesenterica.supperior,"
+    ],
+    "Options": [
+      "a.ileocolica a.mesenterica supperior,",
+      "a.colica sinistra a.mesenterica inferior,",
+      "a.colica media a.mesenterica supperior,"
+    ]
+  },
+  {
+    "Number": 183,
+    "Text": "Кровоснабжение    поперечно ободочной кишки: Кундаланг чамбар ичакни қон билан таьминланиши:",
+    "Answers": [
+      "a.colica media, a.mesenterica supperior,"
+    ],
+    "Options": [
+      "a.colica dextra, a.mesenterica supperior,",
+      "a.colica sinistra,",
+      "a.ileocolica, a.mesenterica supperior"
+    ]
+  },
+  {
+    "Number": 184,
+    "Text": "Кровоснабжение    нисходящей части толстой кишки: Йўғон ичакнинг тушувчи қисмини қон билан таьминланиши:",
+    "Answers": [
+      "a.colica sinistra a.mesenterica inferior,"
+    ],
+    "Options": [
+      "a.colica media a.mesenterica supperior,",
+      "a.colica sinistra, n.phrenica,",
+      "a.colica communis"
+    ]
+  },
+  {
+    "Number": 185,
+    "Text": "Кровоснабжение    слепой кишки: Кур ичакни қон билан таьминланиши :",
+    "Answers": [
+      "a.ileocolicaa.mesenterica supperior,"
+    ],
+    "Options": [
+      "a.colica dextra a.mesenterica supperior,",
+      "a.colica mediaa.mesenterica supperior,",
+      "a.colica sinistraa.mesenterica inferior,"
+    ]
+  },
+  {
+    "Number": 186,
+    "Text": "Кровоснабжение мышц языка: Тилни қон билан таьминланиши:",
+    "Answers": [
+      "a.lingualis a.carotis externa",
+      "aa.intestinales (rami ilei, a.iliocolica),"
+    ],
+    "Options": [
+      "a.lingualis a.carotis interna",
+      "a.lingualis a.maxillaris",
+      "a.glossopharyngeus a.maxillaris",
+      "aa.intestinales (rami jejunales)",
+      "a.iliocolica, a.colica dextra,",
+      "a.iliaca communis"
+    ]
+  },
+  {
+    "Number": 187,
+    "Text": "Артерии малой кривизны желудка: Меданинг кичик эгрилигидаги артериялар:",
+    "Answers": [
+      "aa.gastrica sinistra, a.gastrica.dextra"
+    ],
+    "Options": [
+      "a.gastroepyploica dextra, a.gastroepyploica.sinistra",
+      "a.gastrica brebis, a.gastrica sinistra",
+      "a.lienalis, a.hepatica."
+    ]
+  },
+  {
+    "Number": 188,
+    "Text": "Артерии большой кривизны желудка: Меданинг катта эгрилигидаги артериялар:",
+    "Answers": [
+      "a.gastroepyploica dextra, a.gastroepyploica sinistra"
+    ],
+    "Options": [
+      "a.hepatica communis, a.lienalis",
+      "a.gastrica dextra, a.gastrica brevis",
+      "a.gastrica sinistra, a.gastroepyploica dextra"
+    ]
+  },
+  {
+    "Number": 189,
+    "Text": "Кровоснабжение    подчелюстных и подъязычных слюнных желез: Жағ ости ва тил ости сулак безларининг қон билан таьминланиши:",
+    "Answers": [
+      "a.facialis,"
+    ],
+    "Options": [
+      "a.temporalis superficialis",
+      "a.alveolaris inferior",
+      "a.lienalis"
+    ]
+  },
+  {
+    "Number": 190,
+    "Text": "Кровоснабжение    брюшного отдела пищевода: Кизилунгачнинг қорин қисмини қон билан таьминланиши:",
+    "Answers": [
+      "a.gastrica sinistra, a.phrenica inferior,"
+    ],
+    "Options": [
+      "a.gastrica sinistra, a.lienalis,",
+      "a.gastraepyploica, a.cosophagea,",
+      "a.gastrica dextra, a.hepatica"
+    ]
+  },
+  {
+    "Number": 191,
+    "Text": "Кровоснабжение    тощей кишки:Оч ичакни қон билан таьминланиши:",
+    "Answers": [
+      "aa.intestinales (rami jejunales,"
+    ],
+    "Options": [
+      "aa.intestinales",
+      "a.ilieocolica, a.pancreaticadueodenalis,",
+      "a.jejunalis"
+    ]
+  },
+  {
+    "Number": 192,
+    "Text": "Кровоснабжение    duodenum: Duodenumни қон билан таьминланиши",
+    "Answers": [
+      "a.pancreaticoduodenalis supperior, a.pancreaticoduodenalis inferior,"
+    ],
+    "Options": [
+      "a.gastrica dextra, a.duodenalis communis,",
+      "a.duodenalis supperior, a.duodenalis inferior,",
+      "a.duodenalis inferior,"
+    ]
+  },
+  {
+    "Number": 193,
+    "Text": "Какие мышцы входят в состав мягкого неба? Юмшоқ танглай таркибига кирувчи мушаклар.",
+    "Answers": [
+      "mm.palatopharyngeus,palatoglossus, levator veli palatini,tensor veli palatini,uvulae"
+    ],
+    "Options": [
+      "m.palatoglossus, tensor veli palatini",
+      "m.palatopharyngeus,m.uvulae",
+      "m.levator veli palatini,m.depressor veli palatini"
+    ]
+  },
+  {
+    "Number": 194,
+    "Text": "Какие поверхности имеет коронка зуба? Тиш коронкасини  қанақа юзалари мавжуд?",
+    "Answers": [
+      "facies vestibularis,facies lingualis,facies contactus mesialis, facies contactus distalis et facies occlusalis"
+    ],
+    "Options": [
+      "facies vestibularis,facies lingualis,facies contactus",
+      "facies vestibularis,facies lingualis,facies occlusalis",
+      "facies vestibularis,facies lingualis,facies contactus supperior,"
+    ]
+  },
+  {
+    "Number": 195,
+    "Text": "Укажите скелетные мышцы языка.Тилни скелет мушакларини кўрсатинг.",
+    "Answers": [
+      "m.genioglosus,m. styloglossus, m.hyoglossus"
+    ],
+    "Options": [
+      "m.styloglossus,m.hyoglossus,",
+      "m.styloglossus, m.hyoglossus",
+      "m.hyoglossus,m.styloglossus, m.uvulae"
+    ]
+  },
+  {
+    "Number": 196,
+    "Text": "Из каких частей состоит глотка? Ҳиқилдоқ  қанақа қисмлардан ташкил топган?",
+    "Answers": [
+      "pars nasalis,pars oralis,pars laryngea"
+    ],
+    "Options": [
+      "pars oralis,pars laryngea",
+      "pars oralis,pars pharyngea",
+      "epars supperior,anterior,"
+    ]
+  },
+  {
+    "Number": 197,
+    "Text": "Какие сумки расположены в верхнем этаже брюшной полости? Қорин бушлиғини юқори қаватида қанақа халталар мавжуд?",
+    "Answers": [
+      "bursa hepatica,bursa omentalis,bursa.pregastrica"
+    ],
+    "Options": [
+      "bursa omentalis,bursa hepatica",
+      "bursa omentalis,bursa duodenoejunalis",
+      "bursa omentalis,bursa rectouterine"
+    ]
+  },
+  {
+    "Number": 198,
+    "Text": "Толстая кишка отличается от тонкой наличием? Йуғон ичакни ингичка ичакдан фарқи.",
+    "Answers": [
+      "haustra coli"
+    ],
+    "Options": [
+      "villi coli",
+      "folliculi lymphatici aggregati",
+      "tunica mucosa",
+      "ventriculus,omentum minus"
+    ]
+  },
+  {
+    "Number": 199,
+    "Text": "Что составляет переднюю стенку Ьигаа omentalis? Вursа omentalis ни олдинги деворини ҳосил қилади?",
+    "Answers": [
+      "ventriculus,omentum minus"
+    ],
+    "Options": [
+      "gaster,omentum majus",
+      "lig.hepatoduodenale, lig.hepatorenale",
+      "lien,duodenum,lig.teres hepatis"
+    ]
+  },
+  {
+    "Number": 200,
+    "Text": "Куда открывается общий желчный протоқ ? Умумий ўт йули қаерга очилади?",
+    "Answers": [
+      "papilla duodeni major"
+    ],
+    "Options": [
+      "papilla duodeni minor",
+      "pars supperior duodeni",
+      "pars inferior duodeni",
+      "pars ascendens duodeni"
+    ]
+  },
+  {
+    "Number": 201,
+    "Text": "Укажите связки печени? Жигар бойламларини кўрсатинг?",
+    "Answers": [
+      "lig.falciforme,lig.teres"
+    ],
+    "Options": [
+      "lig.teres,lig.portae hepatis",
+      "lig.quadratum,lig.coronarium",
+      "lig.caudatum,lig.portae hepatis"
+    ]
+  },
+  {
+    "Number": 202,
+    "Text": "Из слияния каких протоқ ов образуется ductus choledochus? Ductus choledochus қайси оқимларни бирикишидан ҳосил бўлган?",
+    "Answers": [
+      "ductus hepaticus communis,ductus cysticus"
+    ],
+    "Options": [
+      "ductuli biliferi,ductus hepaticus proprius",
+      "ductus lobaris,ductus cysticus",
+      "ductus pancreaticus"
+    ]
+  },
+  {
+    "Number": 203,
+    "Text": "Куда открывается ductus pancreaticus accessorius? Ductus pancreaticus accessorius қаерга қуйилади?",
+    "Answers": [
+      "papilla duodeni minor"
+    ],
+    "Options": [
+      "papilla duodeni major",
+      "intestinum tenue",
+      "jejunum",
+      "ileum"
+    ]
+  },
+  {
+    "Number": 204,
+    "Text": "Какие связки образуют omentum minus? Omentum minus ни қайси бойламлар ҳосил қилади?",
+    "Answers": [
+      "lig.hepatoduodenale, lig.hepatogastricum"
+    ],
+    "Options": [
+      "lig.hepatoduodenale,",
+      "lig.hepatogastricum,",
+      "lig.falciforme,lig.teres hepatis"
+    ]
+  },
+  {
+    "Number": 205,
+    "Text": "Чем отграничена bursa hepatica от bursa pregastrica? Bursa hepatica дан bursа pregastrica нима билан чегараланган?",
+    "Answers": [
+      "lig.falciforme hepatis"
+    ],
+    "Options": [
+      "lig.gastrolienale",
+      "lig.phrenicolienale",
+      "lig.hepatogastricum."
+    ]
+  },
+  {
+    "Number": 206,
+    "Text": "Чем ограничено сверху foramen epiploicum? Foramen epiploicum юқоридан нима билан чегараланган?",
+    "Answers": [
+      "lobus caudatus hepatis"
+    ],
+    "Options": [
+      "lobus dexter hepatis",
+      "lig.hepatoduodenale",
+      "lig.hepatorenale"
+    ]
+  },
+  {
+    "Number": 207,
+    "Text": "Чем ограничено спереди foramen epiploicum? Foramen epiploicum олдиндан нима билан чегараланган?",
+    "Answers": [
+      "lig.hepatoduodenale"
+    ],
+    "Options": [
+      "lig.hepatorenale",
+      "lobus sinister hepatis",
+      "lobus caudatus hepatis"
+    ]
+  },
+  {
+    "Number": 208,
+    "Text": "Укажите связки печени? Жигар бойламларини кўрсатинг?",
+    "Answers": [
+      "lig.falciforme, lig.hepatogastricum"
+    ],
+    "Options": [
+      "lig.teres,lig.portae hepatis",
+      "lig.quadratum,lig.coronarium",
+      "lig.caudatum,lig.portae hepatis"
+    ]
+  },
+  {
+    "Number": 209,
+    "Text": "Какой зуб имеет 3 корня? Қайси тиш 3 та илдизга эга?",
+    "Answers": [
+      "I dens molaris supperior"
+    ],
+    "Options": [
+      "III dens molaris inferior",
+      "II dens premolaris supperior",
+      "II dens incisivus supperior"
+    ]
+  },
+  {
+    "Number": 210,
+    "Text": "Какой зуб имеет два canalis radicis dentis? Қайcи тиш иккита canalis radicis dentis га эга?",
+    "Answers": [
+      "I dens molaris inferior"
+    ],
+    "Options": [
+      "II dens incisivus supperior",
+      "III dens molaris supperior",
+      "IV dens molaris supperior"
+    ]
+  },
+  {
+    "Number": 211,
+    "Text": "Какая оболочка отсутствует в стенке желудка? Ошқозон деворида қайси қават бўлмайди?",
+    "Answers": [
+      "tunica adventitia"
+    ],
+    "Options": [
+      "tunica muscularis",
+      "tunica submucosa",
+      "tunica serosa"
+    ]
+  },
+  {
+    "Number": 212,
+    "Text": "Часть желудка у входа в пищевод: Ошқозонни қизилунгач билан туташган қисми:",
+    "Answers": [
+      "pars cardiaca"
+    ],
+    "Options": [
+      "canalis pyloricus",
+      "pars pylorica",
+      "fundus"
+    ]
+  },
+  {
+    "Number": 213,
+    "Text": "Что выходит из ворот печени? Жигар дарвозасидан нималар чиқади?",
+    "Answers": [
+      "ductus choledochus"
+    ],
+    "Options": [
+      "ductus cysticus",
+      "ductuli biliferi",
+      "vv.hepaticae"
+    ]
+  },
+  {
+    "Number": 214,
+    "Text": "Куда открывается ductus choledochus?Ductus choledochus қаерга очилади?",
+    "Answers": [
+      "papilla duodeni major"
+    ],
+    "Options": [
+      "papilla duodeni minor",
+      "villi intestinales",
+      "plica longitudinalis duodeni",
+      "plica circularis duodeni"
+    ]
+  },
+  {
+    "Number": 215,
+    "Text": "Между эмалью зуба и пульпой. Эмал ва тиш пульпаси ўртасида.",
+    "Answers": [
+      "dentinum"
+    ],
+    "Options": [
+      "gingiva",
+      "alveola",
+      "fossa alveolaris"
+    ]
+  },
+  {
+    "Number": 216,
+    "Text": "Между корнем зуба и альвеолой. Альвеола ва тиш илдизи ўртасида.",
+    "Answers": [
+      "periodontium"
+    ],
+    "Options": [
+      "gingiva",
+      "alveola",
+      "fossa alveolaris"
+    ]
+  },
+  {
+    "Number": 217,
+    "Text": "Parodontium состоит. Parodontium тузилган",
+    "Answers": [
+      "periodont,gingiva,alveola"
+    ],
+    "Options": [
+      "enemalum,cementumdentinum",
+      "canalis radicis dentis",
+      "enemalum,cementum,",
+      "pulpa, alveola"
+    ]
+  },
+  {
+    "Number": 218,
+    "Text": "Lingula имеет. Lingula тузилган.",
+    "Answers": [
+      "papillae filiformes"
+    ],
+    "Options": [
+      "m.palatopharingeus",
+      "m.uvulae",
+      "tonsilla tubaria"
+    ]
+  },
+  {
+    "Number": 219,
+    "Text": "Lingula имеет. Lingula тузилган.",
+    "Answers": [
+      "papillae foliatae"
+    ],
+    "Options": [
+      "tonsilla palatini",
+      "m.palatopharingeus",
+      "m.uvulae"
+    ]
+  },
+  {
+    "Number": 220,
+    "Text": "Кровоснабжение    передней группы мышц пpедплечья. Билакнинг олдинги гурух мушакларини қон билан таьминланиши.",
+    "Answers": [
+      "a.radialis, a. ulnaris,"
+    ],
+    "Options": [
+      "a.ulnaris, a.radialis,",
+      "a.brachialis, a.cubiti,",
+      "a.axillaris, a.brachialis,"
+    ]
+  },
+  {
+    "Number": 221,
+    "Text": "Кровоснабжение   задней группы мышц предплечья. Билакнинг орқа гурух мушакларини қон билан таьминланиши.",
+    "Answers": [
+      "a. interossea.posterior,"
+    ],
+    "Options": [
+      "a.ulnaris,",
+      "a.radialis,",
+      "a.radialis"
+    ]
+  },
+  {
+    "Number": 222,
+    "Text": "Кровоснабжение    задней группы мышц плеча: Елканинг орқа гурух мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a. profUnda.brachii,"
+    ],
+    "Options": [
+      "a.brachialis,",
+      "a.ulnaris,",
+      "a.axillaris,"
+    ]
+  },
+  {
+    "Number": 223,
+    "Text": "Кровоснабжение    передней группы мышц плеча: Елканинг олдинги гурух мушаклари қон билан таьминланиши:",
+    "Answers": [
+      "a. brachialis,"
+    ],
+    "Options": [
+      "a.ulnaris,",
+      "a.axillaris,",
+      "a.radialis,",
+      "a.axillaris,"
+    ]
+  },
+  {
+    "Number": 224,
+    "Text": "Кровоснабжение    глубоких мышц шеи: Бўйиннинг чуқур гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a. subclavia,"
+    ],
+    "Options": [
+      "a.axillaris,",
+      "a.axillaris,",
+      "a.carotis externa,"
+    ]
+  },
+  {
+    "Number": 225,
+    "Text": "Кровоснабжение    мышц плечевого пояса: Елка камари мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a.subclavia, a. axillaris,"
+    ],
+    "Options": [
+      "a.axillaris, a.brachialis,",
+      "a.brachialis, n.axillaris,",
+      "a.carotis externa, a.axillaris,"
+    ]
+  },
+  {
+    "Number": 226,
+    "Text": "Кровоснабжение    дельтовидной мышцы: Делтасимон мушакнинг қон билан таьминланиши:",
+    "Answers": [
+      "a.axillaris"
+    ],
+    "Options": [
+      "a.subclavia,",
+      "a.brachialis,",
+      "a.radialis"
+    ]
+  },
+  {
+    "Number": 227,
+    "Text": "Кровоснабжение    диафрагмы: Диафрагманинг қон билан таьминланиши",
+    "Answers": [
+      "a.phrenica.supperior et inferior, a.musculophrenica, a. pericardiophrenica,"
+    ],
+    "Options": [
+      "a.phrenica.superfacialis et profundus, a.intercostalis posterior,",
+      "a.musculophrenica, a.pericardiaphrenica,",
+      "a.thoracica.interna, a.epigastrica.supperior, a.gastrophrenica,"
+    ]
+  },
+  {
+    "Number": 228,
+    "Text": "Кровоснабжение    задней группы мышц бедра: Соннинг орқа гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a. profunda.femoris,"
+    ],
+    "Options": [
+      "a.obturatoria,",
+      "a.poplitea,",
+      "a.femoralis,"
+    ]
+  },
+  {
+    "Number": 229,
+    "Text": "Кровоснабжение    медиальной группы мышц бедра: Соннинг медиал гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.profunda femoris"
+    ],
+    "Options": [
+      "a.femoralis,",
+      "a.obturatorius,",
+      "a.poplitea,"
+    ]
+  },
+  {
+    "Number": 230,
+    "Text": "Кровоснабжение    передней группы мышц бедра. Соннинг олдинги гурух мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a. femoralis,"
+    ],
+    "Options": [
+      "a.profunda.femoris,",
+      "a.poplitea,",
+      "a.femoralis anterior,"
+    ]
+  },
+  {
+    "Number": 231,
+    "Text": "Кровоснабжение    передней группы мышц голени. Болдирнинг олдинги гурух мушакларини қон билан таьминланиши .",
+    "Answers": [
+      "a.tibialis anterior"
+    ],
+    "Options": [
+      "a.tibialis posterior,",
+      "a.poplitea,",
+      "a.femoralis,"
+    ]
+  },
+  {
+    "Number": 232,
+    "Text": "Кровоснабжение    латеральной группы мышц голени. Болдирнинг латерал гурух мушакларини қон билан таьминланиши.",
+    "Answers": [
+      "a.peronea"
+    ],
+    "Options": [
+      "a.tibialis anterior,",
+      "a.intercostalis,",
+      "a.epigastrica superficialis,"
+    ]
+  },
+  {
+    "Number": 233,
+    "Text": "Кровоснабжение поверхностных мышц спины: Орқанинг юзаки гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.subclavia, a.axillaris,"
+    ],
+    "Options": [
+      "aa.intercostalis,",
+      "aorta.thoracica,",
+      "a.brachialis,"
+    ]
+  },
+  {
+    "Number": 234,
+    "Text": "Кровоснабжение    глубоких мышц спины: Орқанинг чуқур гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.intercostales, a.lumbales"
+    ],
+    "Options": [
+      "a.subscapularis, a. suprascapularis, a. intercostalis posterior,",
+      "a.intercostalis anterior, a. subcostalis,",
+      "a.epigastrica.supperior, a. lumbalis,"
+    ]
+  },
+  {
+    "Number": 235,
+    "Text": "Кровоснабжение    печени. Жигарнинг қон билан таьминланиши",
+    "Answers": [
+      "a.hepatica.propria truncus celiacus"
+    ],
+    "Options": [
+      "a. hepatica communis a. lienalis,",
+      "a. hepatica propria mesenterica supperior,",
+      "a. hepatica dextre truncus celiacus,"
+    ]
+  },
+  {
+    "Number": 236,
+    "Text": "Кровоснабжение    мочевого пузыря. Сийдик копининг қон билан таьминланиши.",
+    "Answers": [
+      "a. vesicalis supperior (a. umbilicalis), a.vesicalis inferior (a. iliaca.interna)"
+    ],
+    "Options": [
+      "a. vesicalis supperior et inferior (a. iliaca.interna),",
+      "a. vesicalis supperior (a. iliaca.interna), a. vesicalis inferior,",
+      "a. vesicalis anterior (a. umbilicalis), a. vesicalis inferior,"
+    ]
+  },
+  {
+    "Number": 237,
+    "Text": "Кровоснабжение    яичка. Моякнинг қон билан таьминланиши.",
+    "Answers": [
+      "a. testicularis aorta abdominalis, r. testicularis a.ductus deferentis"
+    ],
+    "Options": [
+      "a. testicularis aorta abdominalis,",
+      "a. ductus defentis aorta abdominalis, a. testicularis,",
+      "a. ductus deferentis a. pudenda interna, a. testicularis,"
+    ]
+  },
+  {
+    "Number": 238,
+    "Text": "Кровоснабжение    яичника. Тухумдоннинг қон билан таьминланиши",
+    "Answers": [
+      "a.ovarica aorta abdominalis, r. ovaricus a. uterina"
+    ],
+    "Options": [
+      "a.ovarica  a. iliaca interna, r ovaricus aorta.abdominalis,",
+      "a.ovarica a. pudenda.interna, r. ovaricus aorta abdominalis,",
+      "a.ovarica  aorta.abdominalis, r. ovaricus a. vesicalis,"
+    ]
+  },
+  {
+    "Number": 239,
+    "Text": "Кровоснабжение    промежности. Оралиқ сохасини қон билан таьминланиши",
+    "Answers": [
+      "a.pudenda.interna a. iliaca interna"
+    ],
+    "Options": [
+      "a.pudenda.externa a. iliaca,",
+      "a.pudenda.supperior aorta abdominalis,",
+      "a.pudenda.interna a.communis,"
+    ]
+  },
+  {
+    "Number": 240,
+    "Text": "Кровоснабжение    гортани. Ҳиқилдоқни қон билан таьминланиши .",
+    "Answers": [
+      "aa.laryngea supperior et inferior aa. thyroidea supperior et inferior"
+    ],
+    "Options": [
+      "aa.laryngea supperior et inferior a.carotis externa,",
+      "aa.laryngea supperior et inferior,",
+      "aa.laryngea ascendens aortae thoracica,"
+    ]
+  },
+  {
+    "Number": 241,
+    "Text": "Кровоснабжение    поверхностных мышц шеи. Бўйиннинг юзаки мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a. carotis externa,"
+    ],
+    "Options": [
+      "a.carotis,",
+      "a.subclavia,",
+      "a.carotis communis,"
+    ]
+  },
+  {
+    "Number": 242,
+    "Text": "Артериальное кровоснабжение    бронхов и легких. Бронх ва Ўпкани қон билан таьминланиши",
+    "Answers": [
+      "rr.bronchiales aortae thoracica"
+    ],
+    "Options": [
+      "rr.pulmonalis aortae ascendens,",
+      "rr.pulmonalis, r. bronchialis a.pulmonalis,",
+      "rr.pulmonalis aortae thoracica,"
+    ]
+  },
+  {
+    "Number": 243,
+    "Text": "Кровоснабжение    почки. Буйракни қон билан таьминланиши",
+    "Answers": [
+      "a.renalis. aorta abdominalis"
+    ],
+    "Options": [
+      "a.renalis truncus coeliacus,",
+      "a.renalis supperior et inferior aorta.abdominalis,",
+      "a.renalis, a.suprarenalis aorta abdominalis,"
+    ]
+  },
+  {
+    "Number": 244,
+    "Text": "Кровоснабжение    поджелудочной железы: Меда ости безини қон билан таьминланиши:",
+    "Answers": [
+      "a.pancreaticoduodenalis supperior et inferior, a. lienalis,"
+    ],
+    "Options": [
+      "a.pancreaticus dextra et sinistra,",
+      "a.pancreaticoduodenalis supperior et inferior,",
+      "a.pancreaticus supperior et inferior,"
+    ]
+  },
+  {
+    "Number": 245,
+    "Text": "Кровоснабжение    сигмовидного кишки: Сигмасимон ичакни қон билан таьминланиши",
+    "Answers": [
+      "a.sigmoideae a.mesenterica.inferior"
+    ],
+    "Options": [
+      "a.colica.sinistra a.mesenterica.inferior,",
+      "a.colica sinistra a.iliaca.interna,",
+      "a.colica.dextra a.mesenterica supperior,"
+    ]
+  },
+  {
+    "Number": 246,
+    "Text": "Кровоснабжение    восходя шей части толстой кишки: Кутарилувчи чамбар ичакни қон билан таьминланиши.",
+    "Answers": [
+      "a.colica dextra a. mesenterica supperior,"
+    ],
+    "Options": [
+      "a.ileocolica  a.mesenterica supperior,",
+      "a.colica.sinistra a.colica inferior,",
+      "a.colica media  a.colica supperior,"
+    ]
+  },
+  {
+    "Number": 247,
+    "Text": "Кровоснабжение    поперечноободочной кишки: Кундаланг чамбар ичакни қон билан таьминланиши",
+    "Answers": [
+      "a.colica media a. mesenterica supperior,"
+    ],
+    "Options": [
+      "a.colica dextra a.mesenterica supperior,",
+      "a.colica sinistra,",
+      "a.ileocolica a.mesenterica supperior,"
+    ]
+  },
+  {
+    "Number": 248,
+    "Text": "Кровоснабжение    нисходящей части толстой кишки: Йўғон ичакнинг тушувчи қисмини қон билан таьминланиши:",
+    "Answers": [
+      "a.colica sinistra a. mesenterica inferior,"
+    ],
+    "Options": [
+      "a.colica media a.mesenterica supperior,",
+      "a.colica.dextra a.mesenterica supperior,",
+      "a.colica communis,"
+    ]
+  },
+  {
+    "Number": 249,
+    "Text": "Кровоснабжение    слепой кишки: Кур ичакни қон билан таьминланиши",
+    "Answers": [
+      "a.ileocolica a. mesenterica supperior,"
+    ],
+    "Options": [
+      "a.colica dextra a.mesenterica supperior,",
+      "a.colica media  a.mesenterica supperior,",
+      "a.colica.sinistra a.mesenterica inferior,"
+    ]
+  },
+  {
+    "Number": 250,
+    "Text": "Кровоснабжение мышц языка: Тилни қон билан таьминланиши",
+    "Answers": [
+      "a.lingualis  a. carotis externa"
+    ],
+    "Options": [
+      "a.lingualis  a.carotis interna",
+      "a.lingualis  a.maxillaris",
+      "a.glossopharyngeus  a.maxillaris"
+    ]
+  },
+  {
+    "Number": 251,
+    "Text": "Кровоснабжение    подвздошной кишки: Ёнбош ичакни қон билан таьминланиши",
+    "Answers": [
+      "aa.intestinales (rami ilei), a. iliocolica,"
+    ],
+    "Options": [
+      "a.iliocolica, a.colica dextra,",
+      "a.iliaca communis,",
+      "a.iliaca dextra, a.iliaca sinistra,"
+    ]
+  },
+  {
+    "Number": 252,
+    "Text": "Артерии малой кривизны желудка: Меданинг кичик эгрилигидаги артериялар",
+    "Answers": [
+      "a.gastrica sinistra, a. gastrica.dextra"
+    ],
+    "Options": [
+      "a.gastrica sinistra, a.hepatica",
+      "a.gastroepyploica.dextra,",
+      "a.lienalis, a.hepatica,"
+    ]
+  },
+  {
+    "Number": 253,
+    "Text": "Артерии большой кривизны желудка: Меданинг катта эгрилигидаги артериялар",
+    "Answers": [
+      "a.gastromentalis dextra, a.  sinistra,"
+    ],
+    "Options": [
+      "a.gastrica dextra, a.gastrica sinistra,",
+      "a.hepatica communis, a.lienalis,",
+      "a.gastrica dextra, a.gastrica brevis,"
+    ]
+  },
+  {
+    "Number": 254,
+    "Text": "Кровоснабжение    подчелюстных и подъязычных слюнных желез: Жағ ости ва тил ости сулак безларининг қон билан таьминланиши",
+    "Answers": [
+      "a. facialis,"
+    ],
+    "Options": [
+      "a.temporalis superficialis,",
+      "a.alveolaris inferior,",
+      "a.colica sinistra"
+    ]
+  },
+  {
+    "Number": 255,
+    "Text": "Кровоснабжение    брюшного отдела пищевода: Кизилунгачнинг қорин қисмини қон билан таьминланиши:",
+    "Answers": [
+      "a.gastrica sinistra, a. phrenica.inferor,"
+    ],
+    "Options": [
+      "a.gastrica sinistra, a.lienalis,",
+      "a.gastraphrenica, a.еosophagea,",
+      "a.gastrica dextra, a.hepatica,"
+    ]
+  },
+  {
+    "Number": 256,
+    "Text": "Кровоснабжение    тощей кишки: Оч ичакни қон билан таьминланиши:",
+    "Answers": [
+      "aa. intestinales (rami jejunales),"
+    ],
+    "Options": [
+      "aa.intestinales,",
+      "a.ilieocolica, a.dueodenalis,",
+      "a.jejunalis,"
+    ]
+  },
+  {
+    "Number": 257,
+    "Text": "Кровоснабжение    duodenum:  Duodenumни қон билан таьминланиши:",
+    "Answers": [
+      "a.pancreaticoduodenalis supperior, a. pancreaticoduodenalis inferior,"
+    ],
+    "Options": [
+      "a.gastrica dextra, a.duodenalis communis",
+      "a.duodenalis supperior, a.duodenalis inferior,",
+      "a.duodenalis inferior, a.pancreaticoduodenalis communis,"
+    ]
+  },
+  {
+    "Number": 258,
+    "Text": "Кровоснабжение    передней группы мышц предплечья. Билакнинг олдинги гурух мушакларини  қон билан таьминланиши:",
+    "Answers": [
+      "a.radialis, a. ulnaris,"
+    ],
+    "Options": [
+      "a.ulnaris, a.radialis,",
+      "a.brachialis, a,cubiti,",
+      "a.axillaris, a.brachialis,"
+    ]
+  },
+  {
+    "Number": 259,
+    "Text": "Кровоснабжение    задней группы мышц предплечья. Билакнинг орқа гурух мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a.interossea posterior"
+    ],
+    "Options": [
+      "a.ulnaris,",
+      "a.radialis,",
+      "a.radialis, ."
+    ]
+  },
+  {
+    "Number": 260,
+    "Text": "Кровоснабжение    задней группы мышц плеча: Елканинг орқа гурух мушакларини қон билан таьминланиши",
+    "Answers": [
+      "a.profunda brachii"
+    ],
+    "Options": [
+      "a.brachialis,",
+      "a.ulnaris,",
+      "a.axillaris,"
+    ]
+  },
+  {
+    "Number": 261,
+    "Text": "Кровоснабжение    передней группы мышц плеча:Елканинг олдинги гурух мушаклари қон билан таьминланиши:",
+    "Answers": [
+      "a.brachialis"
+    ],
+    "Options": [
+      "a.ulnaris,",
+      "a.axillaris,",
+      "a.radialis,"
+    ]
+  },
+  {
+    "Number": 262,
+    "Text": "Кровоснабжение    глубоких мышц шеи: Бўйиннинг чуқур гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.subclavia"
+    ],
+    "Options": [
+      "a.axillaris,",
+      "a.axillaris,",
+      "a.carotis externa,"
+    ]
+  },
+  {
+    "Number": 263,
+    "Text": "Кровоснабжение  мышц плечевого пояса: Елка камари мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.subclavia, a. axillaris,"
+    ],
+    "Options": [
+      "a.axillaris, a.brachialis,",
+      "a.brachialis, n.axillaris,",
+      "a.carotis externa, a.axillaris,"
+    ]
+  },
+  {
+    "Number": 264,
+    "Text": "Кровоснабжение  дельтовидной мышцы: Делтасимон мушакнинг қон билан таьминланиши:",
+    "Answers": [
+      "a.axillaris"
+    ],
+    "Options": [
+      "a.subclavia,",
+      "a.brachialis,",
+      "a.subclavia,"
+    ]
+  },
+  {
+    "Number": 265,
+    "Text": "Кровоснабжение    диафрагмы: Диафрагманинг қон билан таьминланиши",
+    "Answers": [
+      "a.phrenica supperior et inferior, a. musculophrenica, a.pericardiophrenica,"
+    ],
+    "Options": [
+      "a.phrenica superfacialis et profundus, a.intercostalis posterior,",
+      "a.musculophrenica, a.pericardiaphrenica,",
+      "a.thoracica interna, a.epigastrica supperior, a.gastrophrenica,"
+    ]
+  },
+  {
+    "Number": 266,
+    "Text": "Кровоснабжение    задней группы мышц бедра: Соннинг орқа гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.profunda femoris"
+    ],
+    "Options": [
+      "a.obturatoria,",
+      "a.poplitea,",
+      "a.femoralis,"
+    ]
+  },
+  {
+    "Number": 267,
+    "Text": "Кровоснабжение    медиальной группы мышц бедра: Соннинг медиал гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.profunda femoris"
+    ],
+    "Options": [
+      "a.femoralis,",
+      "a.obturatorius,",
+      "a.poplitea,"
+    ]
+  },
+  {
+    "Number": 268,
+    "Text": "Кровоснабжение    передней группы мышц бедра: Соннинг олдинги гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.femoralis"
+    ],
+    "Options": [
+      "a.profunda femoris,",
+      "a.poplitea,",
+      "a.poplitea anterior,"
+    ]
+  },
+  {
+    "Number": 269,
+    "Text": "Кровоснабжение M.trapezius?  M.trapeziusнинг қон билан таьминланиши?",
+    "Answers": [
+      "a.subclavica et a. axillaris,"
+    ],
+    "Options": [
+      "a.intercostales,",
+      "а.caroticus externae,",
+      "a.brachialis, a.thoratica interna,"
+    ]
+  },
+  {
+    "Number": 270,
+    "Text": "Кровснабжение    собственных мышц груди: Кўкракнинг хусусий мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "aa. intercostalis anterior et posterior,"
+    ],
+    "Options": [
+      "a.thoracica interna,",
+      "a.intercostalis,",
+      "a.epigastrica superficialis,"
+    ]
+  },
+  {
+    "Number": 271,
+    "Text": "Кровоснабжение поверхностных мышц спины: Орқанинг юзаки гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.subclavia, a. axillaris,"
+    ],
+    "Options": [
+      "a.brachialis,",
+      "aa.intercostalis, а.thoracica,",
+      "aorta thoracica,"
+    ]
+  },
+  {
+    "Number": 272,
+    "Text": "Кровоснабжение    глубоких мышц спины: Орқанинг чуқур гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "aa.intercostales, a. lumbales,"
+    ],
+    "Options": [
+      "a.subscapularis, dorsales scapulae,",
+      "a.suprascapularis, a.intercostalis posterior,",
+      "a.epigastrica.superюr, a.lumbalis"
+    ]
+  },
+  {
+    "Number": 273,
+    "Text": "Кровоснабжение    поверхностных мышц груди: Кўкракнинг юзаки гурух мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.axillaris"
+    ],
+    "Options": [
+      "a.intercostalis,",
+      "a.subclavia,",
+      "a.thoracica internci,"
+    ]
+  },
+  {
+    "Number": 274,
+    "Text": "Кровоснабжение    печени:  Жигарнинг қон билан таьминланиши:",
+    "Answers": [
+      "a.hepatica propria truncus celiacus",
+      "a.vesicalis supperior (a.umbilicalis), a.vesicalis inferior (a. iliaca.interna)"
+    ],
+    "Options": [
+      "a.hepatica communis a.lienalis,",
+      "a.hepatica propria a.mesentericus supperior,",
+      "a.hepatica dextra truncus coeliacus,",
+      "a.vesicalis supperior et inferior (a.iliaca.interna),",
+      "a.vesicalis supperior (a.iliaca.interna), a.vesicalis inferior,",
+      "a.vesicalis anterior (a.umbilicalis), a.vesicalis inferior,"
+    ]
+  },
+  {
+    "Number": 275,
+    "Text": "Кровоснабжение    яичка: Моякнинг қон билан таьминланиши:",
+    "Answers": [
+      "a.testicularis  aorta abdominalis, r.testicularis a. ductus deferentis"
+    ],
+    "Options": [
+      "a.testicularis  aorta.abdominalis,",
+      "a.ductus defentis aorta abdominalis, a.testicularis,",
+      "a.ductus deferentis a.pudenda interna, ."
+    ]
+  },
+  {
+    "Number": 276,
+    "Text": "Кровоснабжение    яичника: Тухумдоннинг қон билан таьминланиши:",
+    "Answers": [
+      "a.ovarica aorta abdominalis, r.ovaricus a. uterina,"
+    ],
+    "Options": [
+      "a.ovarica a.iliaca interna, r ovaricus  aorta abdominalis ,",
+      "a.ovarica a.uterina, r. ovaricus  aorta abdominalis,",
+      "a.ovarica  a.pudenda interna,"
+    ]
+  },
+  {
+    "Number": 277,
+    "Text": "Кровоснабжение    промежности: Оралик сохасини қон билан таьминланиши:",
+    "Answers": [
+      "a.pudenda interna  a. iliaca interna,"
+    ],
+    "Options": [
+      "a.pudenda externa  a.iliaca externa,",
+      "a.pudenda supperior  aorta abdominalis,",
+      "a.pudenda interna  a.iliaca communis,"
+    ]
+  },
+  {
+    "Number": 278,
+    "Text": "Кровоснабжение    гортани: Ҳиқилдоқни қон билан таьминланиши:",
+    "Answers": [
+      "aa.laryngea supperior et inferior  aa. thyroidea supperior et inferior,"
+    ],
+    "Options": [
+      "aa.laryngea supperior et inferior  a.carotis externa,",
+      "aa.laryngea supperior et inferior,",
+      "aa.laryngea ascendens  aortae thoracica,"
+    ]
+  },
+  {
+    "Number": 279,
+    "Text": "Кровоснабжение    поверхностных мышц шеи:  Бўйиннинг юзаки мушакларини қон билан таьминланиши:",
+    "Answers": [
+      "a.carotis externa, n.facialis"
+    ],
+    "Options": [
+      "a.carotis interna, n.trigeminus,",
+      "a.subclavia,",
+      "a.carotis communis,"
+    ]
+  },
+  {
+    "Number": 280,
+    "Text": "Артериальное кровоснабжение    бронхов и легких:  Бронх ва Ўпкани қон билан таьминланиши:",
+    "Answers": [
+      "rr.bronchiales  aortae thoracica"
+    ],
+    "Options": [
+      "rr.pulmonalis  aortae ascendens,",
+      "rr.pulmonalis, r. bronchialis,",
+      "rr.pulmonalis  aortae thoracica,"
+    ]
+  },
+  {
+    "Number": 281,
+    "Text": "Укажите собственные мышцы языка: Тилни хусусий мушакларини кўрсатинг:",
+    "Answers": [
+      "mm.longitudinales supperior et inferior",
+      "m.transversus linguae, m.verticalis"
+    ],
+    "Options": [
+      "m.transversus linguae, m.styloglossus",
+      "m.transversus linguae, m.genioglossus"
+    ]
+  },
+  {
+    "Number": 282,
+    "Text": "Укажите скелетные мышцы языка:  Тилни скелет мушакларини кўрсатинг:",
+    "Answers": [
+      "m.genioglosus,m.styloglossus",
+      "m.hyoglossus"
+    ],
+    "Options": [
+      "m.verticalis",
+      "m.transversus"
+    ]
+  },
+  {
+    "Number": 283,
+    "Text": "Из каких частей состоит глотка?",
+    "Answers": [
+      "pars nasalis, pars oralis",
+      "pars laryngea"
+    ],
+    "Options": [
+      "pars nasalis, pars vestibularis",
+      "pars oralis, pars lingualis"
+    ]
+  },
+  {
+    "Number": 284,
+    "Text": "Какие сумки расположены в верхнем этаже брюшной полости? Қорин бушлиғини юқори қаватида қандай халталар мавжуд?",
+    "Answers": [
+      "bursa hepatica,bursa omentalis",
+      "bursa pregastrica"
+    ],
+    "Options": [
+      "bursa omentalis, bursa gastrica",
+      "bursa vestibularis, bursa duodeno jejunalis"
+    ]
+  },
+  {
+    "Number": 285,
+    "Text": "Из каких частей состоит перстневидный хрящ? Узуксимон тоғай қандай қисмлардан ташкил топган?",
+    "Answers": [
+      "lamina",
+      "arcus"
+    ],
+    "Options": [
+      "cornu",
+      "caput"
+    ]
+  },
+  {
+    "Number": 286,
+    "Text": "Укажите суставы гортани? Ҳиқилдоқ бўғимларини кўрсатинг",
+    "Answers": [
+      "art.cricothyroidea",
+      "art.cricoarytenoidea"
+    ],
+    "Options": [
+      "art.hyoepiglottica",
+      "art.thyroepiglottica"
+    ]
+  },
+  {
+    "Number": 287,
+    "Text": "Какие связки имеются в гортани? Ҳиқилдоқ бойламларини кўрсатинг.",
+    "Answers": [
+      "lig.hyoepiglotticum",
+      "lig. thyroepiglotticum"
+    ],
+    "Options": [
+      "lig.cricoarytenoideae supperior",
+      "lig.arytenoideus transversus inferior"
+    ]
+  },
+  {
+    "Number": 288,
+    "Text": "Какие части различают в rima glottidis? Rima glottidis ни қайси қисмлари фарқланади?",
+    "Answers": [
+      "pars intermembranacea",
+      "pars intercartilaginea"
+    ],
+    "Options": [
+      "pars interthyroidea",
+      "pars interarytenoidea"
+    ]
+  },
+  {
+    "Number": 289,
+    "Text": "Что входит в состав бронхиального дерева? Бронхиал дарахт таркибига нималар киради?",
+    "Answers": [
+      "bronchus principalis, lobaris",
+      "bronchus segmentalis, lobularis et terminalis"
+    ],
+    "Options": [
+      "bronchus respiratorius, ductus alveolaris",
+      "bronchus terminalis, ductus alveolaris"
+    ]
+  },
+  {
+    "Number": 290,
+    "Text": "Какие поверхности различают на легком? Ўпкада қандай юзалар ажратилади?",
+    "Answers": [
+      "facies diaphragmatica, facies costalis",
+      "facies medialis"
+    ],
+    "Options": [
+      "facies diaphragmatica.et facies anterior",
+      "facies costalis, facies pleuralis"
+    ]
+  },
+  {
+    "Number": 291,
+    "Text": "Какие края различают на легком? Ўпкада қандай чеккалар ажратилади?",
+    "Answers": [
+      "margo anterior, posterior",
+      "margo inferior et anterior"
+    ],
+    "Options": [
+      "margo posterior et supperior",
+      "margo anterior, posterior et medialis"
+    ]
+  },
+  {
+    "Number": 292,
+    "Text": "Из чего состоит почечное тельце?  Буйрак таначаси нимадан иборат?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "capsulla glomeruli et tubuli renalis",
+      "glomerulus et tubuli recti"
+    ]
+  },
+  {
+    "Number": 293,
+    "Text": "Из чего состоит Corpusculum renis? Corpusculum renis нимадан Ташкил топган?",
+    "Answers": [
+      "glomerulus",
+      "capsula glomeruli"
+    ],
+    "Options": [
+      "tubulus renalis contortus",
+      "ductus papillaris,tubuli renalis"
+    ]
+  },
+  {
+    "Number": 294,
+    "Text": "Из чего образуется lobulus corticalis почки?",
+    "Answers": [
+      "pars radiata",
+      "pars convoluta"
+    ],
+    "Options": [
+      "pars corticalis",
+      "pars pyramidalis"
+    ]
+  },
+  {
+    "Number": 295,
+    "Text": "Что относится к форникальному аппарату почек? Буйракни форникал аппаратига нима киради?",
+    "Answers": [
+      "m.sphincter fornicis,m.levator fornicis",
+      "m.spiralis calycis, m.longitudinalis calycis"
+    ],
+    "Options": [
+      "m.levator fornicis et m.spinalis",
+      "m.sphincter fornicis et m. transversus"
+    ]
+  },
+  {
+    "Number": 296,
+    "Text": "Какие отделы различают в мочеточнике?",
+    "Answers": [
+      "pars abdominalis, pars pelvina",
+      "pars intramuralis"
+    ],
+    "Options": [
+      "pars thoracica et pars abdominalis",
+      "pars pelvina et pars vesicalis"
+    ]
+  },
+  {
+    "Number": 297,
+    "Text": "Какие слои имеет стенка мочеточника ? Сийдик найини девори қайси қаватлардан иборат?",
+    "Answers": [
+      "tunica mucosa, tunica muscularis",
+      "tunica adventitia"
+    ],
+    "Options": [
+      "tunica submucosa et tunica serosa",
+      "tunica mucosa et tunica serosa"
+    ]
+  },
+  {
+    "Number": 298,
+    "Text": "Какие фасции покрывают тазовую диаф¬рагму? Чаноқ диафрагмани қайсиси фасциялар урайди?",
+    "Answers": [
+      "fascia diaphragmatis pelvis supperior",
+      "fascia diaphragmatis pelvis inferior"
+    ],
+    "Options": [
+      "f.pelvis propria, f.iliaca et f.glutea",
+      "f.iliaca et f.glutea, f.endoabdominalis"
+    ]
+  },
+  {
+    "Number": 299,
+    "Text": "Ветви дуги аорты: Аортанинг равоғи тармоқлари:",
+    "Answers": [
+      "tr. brachiocephalicus, a. subclavia sinistra",
+      "a. carotis communis sinistra"
+    ],
+    "Options": [
+      "tr. brachiocephalicus dexter et sinister",
+      "a. subclavia dextra, sinistra et a. coronaria dextra"
+    ]
+  },
+  {
+    "Number": 300,
+    "Text": "Париетальные ветви грудной части аорты:",
+    "Answers": [
+      "a.a. intercostales posteriores",
+      "a.a. phrenicae supperiores"
+    ],
+    "Options": [
+      "a.a. bronchiales et esophagei",
+      "a.a. diaphragmatis et esophagei"
+    ]
+  },
+  {
+    "Number": 301,
+    "Text": "Висцерал ьные ветви грудной части аорты:",
+    "Answers": [
+      "aa. bronchiales, esophagei",
+      "aa. pericardiaci, mediastinales"
+    ],
+    "Options": [
+      "aa. phrenicae et esophagei",
+      "aa. bronchiales et a.a.intercostales posteriors"
+    ]
+  },
+  {
+    "Number": 302,
+    "Text": "Париетальные ветви брюшной части аорты: Қорин аортасининг париетал тармоқлари:",
+    "Answers": [
+      "aa.phrenicae inferiores, lumbales",
+      "a. sacralis mediana"
+    ],
+    "Options": [
+      "aa.phrenicae, suprarenales et renales, lumbales",
+      "aa.lumbales, a. sacralis mediana et lateralis"
+    ]
+  },
+  {
+    "Number": 303,
+    "Text": "Непарные висцерал ьные ветви брюшной части аорты:  Қорин аортасининг тоқ  висцерал  тармоқлари:",
+    "Answers": [
+      "truncus coeliacus, a. mesenterica supperior",
+      "a. mesenterica inferior"
+    ],
+    "Options": [
+      "aa. mesenterica supperior et inferior, a. rectalis supperior",
+      "truncus coeliacus, a. mesenterica supperior et a. gastrica sinistra"
+    ]
+  },
+  {
+    "Number": 304,
+    "Text": "Парные висцерал ьные ветви брюшной части аорты: Қорин аортасининг жуфт висцерал  тармоқлари:",
+    "Answers": [
+      "a.ovarica (testicularis), a. renalis",
+      "a. suprarenalis media"
+    ],
+    "Options": [
+      "a.renales, a.phrenicae inferiores et supperiores",
+      "a.testicularis (ovarica), a. renalis et a.lumbales"
+    ]
+  },
+  {
+    "Number": 305,
+    "Text": "Передние ветви наружной сонной артерии:  Ташқи уйқу артериясининг олдинги тармоқлари:",
+    "Answers": [
+      "a.thyroidea supperior, a. lingualis",
+      "a.thyroidea supperior, a. facialis"
+    ],
+    "Options": [
+      "a.facialis, a. lingualis et a. occipitalis",
+      "a.lingualis, a. mandibularis et a. tymica"
+    ]
+  },
+  {
+    "Number": 306,
+    "Text": "Задние ветви наружной сонной артерии: Ташқи уйқу артериясининг орқа тармоқлари:",
+    "Answers": [
+      "a.occipitalis, a. auricularis posterior",
+      "a. sternocleidomastoidea"
+    ],
+    "Options": [
+      "a.occipitalis, a. facialis et a. pharyngea",
+      "a.occipitalis, a. auricularis posterior et a. thyroidea."
+    ]
+  },
+  {
+    "Number": 307,
+    "Text": "Средние ветви наружной сонной артерии: Ташқи уйқу артериясининг ўрта тармоқлари:",
+    "Answers": [
+      "a.pharyngea ascendens",
+      "a. temporalis superficialis, a. maxillaris"
+    ],
+    "Options": [
+      "a.temporalis, a. facialis, a. pharyngea",
+      "a.maxilaris, a. facialis, a. temporalis"
+    ]
+  },
+  {
+    "Number": 308,
+    "Text": "Ветви первого отдела верхнечелюстной артерии:  Юқориги жағ артериясининг биринчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.meningea media",
+      "a. alveolaris inferior"
+    ],
+    "Options": [
+      "a.alveolaris supperior et a. alveolaris inferior",
+      "a.meningea media et a. nasalis posterior"
+    ]
+  },
+  {
+    "Number": 309,
+    "Text": "Ветви второго отдела верхнечелюстной артерии:  Юқориги жағ артериясининг иккинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "aa.alveolares supperiores posteriores",
+      "ветви к жевательным мышцам(чайнов мускуллари шохлари)"
+    ],
+    "Options": [
+      "a.alveolaris inferior et a. meningea.media",
+      "a.alveolaris supperior posterior et a. infraorbitalis"
+    ]
+  },
+  {
+    "Number": 310,
+    "Text": "Ветви третьего отдела верхнечелюстной артерии: Юқориги жағ артериясининг учинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.infraorbitalis, a. palatina descendens",
+      "a. pterygopalatinae"
+    ],
+    "Options": [
+      "a.infraorbitalis et a. supraorbitalis",
+      "a.palatina descendens et a. alveolaris inferior, a. lingualis"
+    ]
+  },
+  {
+    "Number": 311,
+    "Text": "Где проходит внутренняя сонная артерия?",
+    "Answers": [
+      "canalis caroticus",
+      "sulcus caroticus"
+    ],
+    "Options": [
+      "canalis n. hypoglossi",
+      "foramen rotundum"
+    ]
+  },
+  {
+    "Number": 312,
+    "Text": "Что входит в состав бронхиального дерева? Бронхиал дарахт таркибига нималар киради?",
+    "Answers": [
+      "bronchus principalis,lobaris, segmentalis,lobularis et terminalis"
+    ],
+    "Options": [
+      "bronchus terminalis et respiratorius, lobaris,lobularis",
+      "bronchus segmentalis,respiratorius, terminalis, ductus alveolaris",
+      "bronchus lobaris,principalis,terminalis",
+      "bronchus terminalis,respiratorius, ductus alveolaris"
+    ]
+  },
+  {
+    "Number": 313,
+    "Text": "Какие края различают в легком?",
+    "Answers": [
+      "margo anterior,posterior et inferior"
+    ],
+    "Options": [
+      "margo anterior et supperior",
+      "margo inferior et anterior",
+      "margo posterior et supperior"
+    ]
+  },
+  {
+    "Number": 314,
+    "Text": "Какие углубления различают в плев¬ральной полости? Плевра бушлиғида қандай чунтаклар мавжуд?",
+    "Answers": [
+      "recessus costodiaphragmatis, recessus costomediastinalis,recessus phrenicomediastinalis"
+    ],
+    "Options": [
+      "recessus costodiaphragmatis",
+      "recessus costomediastinalis",
+      "sinus phrenicomediastinalis, sinus pleuromediastinalis",
+      "sinus phrenicocostalis, recessus costomediastinalis, recessus pleurocostalis"
+    ]
+  },
+  {
+    "Number": 315,
+    "Text": "Что отсутствует в черпаловидном хря¬ще? Чўмичсимон тоғайда нима йўқ?",
+    "Answers": [
+      "linea obliqua"
+    ],
+    "Options": [
+      "basis",
+      "apex",
+      "processus vocalis",
+      "processus muscularis"
+    ]
+  },
+  {
+    "Number": 316,
+    "Text": "Что отсутствует в щитовидном хряще? Калқонсимон тоғайда нима йўқ?",
+    "Answers": [
+      "apex"
+    ],
+    "Options": [
+      "incisura",
+      "cornu",
+      "laminae."
+    ]
+  },
+  {
+    "Number": 317,
+    "Text": "Где располагается cartilago triticea?",
+    "Answers": [
+      "ligg.thyrohyoidea lateralia"
+    ],
+    "Options": [
+      "ligg.thyroepiglotticum",
+      "ligg.thyrohyoideum medianum",
+      "ligg.hyoepiglotticum",
+      "ligg.vocale"
+    ]
+  },
+  {
+    "Number": 318,
+    "Text": "Где располагается ventriculus laryngis? Ventriculus laryngis қаерда жойлашган?",
+    "Answers": [
+      "между plica vestibularis и plica vocalis орасида"
+    ],
+    "Options": [
+      "между aditus laryngis и plica vestibularis орасида",
+      "между aditus laryngis и plica vocalis орасида",
+      "между aditus laryngis и пша glottidis орасида",
+      "между пша glottidis и cavitas infraglottica. орасида"
+    ]
+  },
+  {
+    "Number": 319,
+    "Text": "В стенке каких бронхов отсутствуют хрящи? Қайси бронхлар деворида тоғайлар мавжуд эмас?",
+    "Answers": [
+      "bronchioli terminales"
+    ],
+    "Options": [
+      "bronchus principalis",
+      "bronchioli lobulares",
+      "bronchi segmentales"
+    ]
+  },
+  {
+    "Number": 320,
+    "Text": "На стенке каких бронхов появляется alveoli pulmonis? Аlveoli pulmonis қайси бронхлар деворида пайдо бўлади?",
+    "Answers": [
+      "bronchioli respiratorii"
+    ],
+    "Options": [
+      "bronchus lobaris",
+      "bronchioli terminales",
+      "bronchioli lobulares"
+    ]
+  },
+  {
+    "Number": 321,
+    "Text": "Куда открываются ductuli alveolares? Ductuli alveolares қаерга очилади?",
+    "Answers": [
+      "bronchioli respiratori."
+    ],
+    "Options": [
+      "bronchioli lobulares",
+      "bronchioli terminales",
+      "bronchus lobaris"
+    ]
+  },
+  {
+    "Number": 322,
+    "Text": "Что не входит в состав ацинуса? Ацинусни таркибига нималар кирмайди?",
+    "Answers": [
+      "bronchioli lobularis."
+    ],
+    "Options": [
+      "ductuli alveolaris",
+      "sacculi alveolaris",
+      "bronchioli respiratoria"
+    ]
+  },
+  {
+    "Number": 323,
+    "Text": "Какие органы располагаются в переднем средостении? Олд кўкс оралиғида қайси органлар жойлашган?",
+    "Answers": [
+      "trachea,bronchi principals"
+    ],
+    "Options": [
+      "trachea,bronchi lobularis",
+      "trachea,oesophagus",
+      "aorta thoracica, nn.phrenici"
+    ]
+  },
+  {
+    "Number": 324,
+    "Text": "Какие органы располагаются в верхнем отделе переднего средостения? Олд кўкс оралиғи юқори қисмида қайси органлар жойлашган?",
+    "Answers": [
+      "nn.phrenici,arcus aortae"
+    ],
+    "Options": [
+      "n.vagus,arcus aortae",
+      "truncus sympaticus,aorta.ascendens",
+      "v.azygos, nn.phrenici"
+    ]
+  },
+  {
+    "Number": 325,
+    "Text": "Какие органы располагаются в заднем средостении? Орқа кўкс оралиғида қайси органлар жойлашган?",
+    "Answers": [
+      "v.cava.inferior,v.azygos."
+    ],
+    "Options": [
+      "v.hemiazygos,aorta ascendens",
+      "v.cava supperior,v.azygos",
+      "v.cava inferior, а.ascendens"
+    ]
+  },
+  {
+    "Number": 326,
+    "Text": "Какие органы располагаются в нижнем отделе переднего средостения? Олд кўкс оралиғини пастки қисмида қайси органлар жойлашган?",
+    "Answers": [
+      "cor et pericardium"
+    ],
+    "Options": [
+      "n.phrenici",
+      "thymus",
+      "v.cava supperior",
+      "aorta ascendens"
+    ]
+  },
+  {
+    "Number": 327,
+    "Text": "Какие органы располагаются в заднем средостении? Орқа кўкс оралиғида қайси органлар жойлашган?",
+    "Answers": [
+      "nn.splanchnici,nn.vagi"
+    ],
+    "Options": [
+      "truncus sympaticus,nn.phrenici",
+      "nn.splanchnici,nn.phrenici",
+      "nn.vagi,nn.phrenici",
+      "nn.intercostales,nn.phrenici"
+    ]
+  },
+  {
+    "Number": 328,
+    "Text": "Какие мышцы относятся к мочеполовой диафрагме? Қайси мушаклар сийдик таносил диафрагма таркибига киради?",
+    "Answers": [
+      "m.transversus perinei profundus"
+    ],
+    "Options": [
+      "m.levator ani",
+      "m.coccygeus",
+      "m.sphincter ani externus",
+      "m.gluteus maximus"
+    ]
+  },
+  {
+    "Number": 329,
+    "Text": "Из чего состоит почечное тельце? Буйрак таначаси нимадан иборат?",
+    "Answers": [
+      "glomerulus et capsula glomeruli."
+    ],
+    "Options": [
+      "capsulla glomeruli et tubuli renalis",
+      "glomerulis и петля Генле ковузлоги",
+      "glomerulus et tubuli recti",
+      "capsula glomeruli et ductus papillaris"
+    ]
+  },
+  {
+    "Number": 330,
+    "Text": "Из чего состоит corpusculum renis? Corpusculum renis нимадан Ташкил топган?",
+    "Answers": [
+      "glomerulus,capsula.glomeruli"
+    ],
+    "Options": [
+      "glomerulus,tubulus renalis contortus",
+      "tubulus renalis contortus,lobulus corticalis",
+      "ductus papillaris,tubuli renalis",
+      "pars convoluta,tubuli renalis"
+    ]
+  },
+  {
+    "Number": 331,
+    "Text": "Какие мышцы относятся к тазовой ди¬афрагме? Чаноқ диафрагмаси таркибига қайси мускуллар киради?",
+    "Answers": [
+      "m.levator ani"
+    ],
+    "Options": [
+      "m.transversus perinei profudus",
+      "m.coccygeus",
+      "m.sphincter ani externus",
+      "m.ischiocavernosus"
+    ]
+  },
+  {
+    "Number": 332,
+    "Text": "Из чего образуется lobulus corticalis почки? Lobulus corticalis буйракни нимасидан ҳосил бўлади?",
+    "Answers": [
+      "pars radiata,pars convoluta"
+    ],
+    "Options": [
+      "pars radiata,pars corticalis",
+      "pars convolute, papilla.renalis",
+      "pyramides renales",
+      "ductus papillaris,corpusculum renis"
+    ]
+  },
+  {
+    "Number": 333,
+    "Text": "Куда попадает моча, выделившаяся из ductus papillaris? Ductus papillaris дан чиққан сийдик қаерга боради?",
+    "Answers": [
+      "calyces renalis minores"
+    ],
+    "Options": [
+      "ureter",
+      "calyces renalis majores",
+      "pelvis renalis",
+      "calyces renalis medii"
+    ]
+  },
+  {
+    "Number": 334,
+    "Text": "Что относится к форникальному аппа¬рату почек? Буйракни форникал аппаратига нима кирди?",
+    "Answers": [
+      "m.sphincter fornicis,m.levator fornicis,m.spiralis calycis et m.longitudinalis calycis"
+    ],
+    "Options": [
+      "m.levator fornicis et m.spiralis calyces",
+      "m.sphincter fornicis et m. transversus calycis",
+      "m.spiralis calycis et m.verticalis fornicis",
+      "m.longitudinalis calycis et m.longitudinalis fornicis"
+    ]
+  },
+  {
+    "Number": 335,
+    "Text": "Какие отделы различают в мочеточнике? Сийдик найи қайси қисмлардан иборат?",
+    "Answers": [
+      "pars abdominalis, pars pelvina, pars intramuralis"
+    ],
+    "Options": [
+      "pars thoracica et pars abdominalis",
+      "pars pelvina et pars vesicalis",
+      "pars sacralis et pars intramuralis",
+      "pars abdominalis,pars pelvina, pars vesicalis"
+    ]
+  },
+  {
+    "Number": 336,
+    "Text": "Какие слои имеет стенка мочеточника ? Сийдик найини девори қайси қаватлардан иборат?",
+    "Answers": [
+      "tunica mucosa,tunica muscularis, tunica adventitia"
+    ],
+    "Options": [
+      "tunica mucosa,tela submucosa et tunica muscularis",
+      "tunica mucosa,tunica muscularis, tunica serosa",
+      "tunica mucosa,submucosa,tunica adventitia",
+      "tunica mucosa,submucosa,tunica serosa"
+    ]
+  },
+  {
+    "Number": 337,
+    "Text": "Какие фасции покрывают тазовую диаф¬рагму? Чаноқ диафрагмани қайси фасциялар урайди?",
+    "Answers": [
+      "f.diaphragmatis pelvis supperior et inferior"
+    ],
+    "Options": [
+      "f.pelvis propria",
+      "f.iliaca et f.glutea",
+      "f.endoabdominalis et f. iliaca.",
+      "f.diaphragmatis pelvis externa.et interna"
+    ]
+  },
+  {
+    "Number": 338,
+    "Text": "Из каких слоев состоит стенка мочевого пузыря? Сийдик копчасини девори қайси қаватлардан иборат?",
+    "Answers": [
+      "tunica mucosa,tela submucosa, tunica muscularis,tunica serosa"
+    ],
+    "Options": [
+      "tunica mucosa,tela submucosa, tunica adventitia.",
+      "tunica mucosa,tunica muscularis, tunica serosa",
+      "tunica mucosa,tela submucosa, tunica serosa",
+      "tunica mucosa,tunica serosa"
+    ]
+  },
+  {
+    "Number": 339,
+    "Text": "Какие части различают в мужской уретре? Эркакларни сийдик чиқарув найи неча қисмдан иборат?",
+    "Answers": [
+      "pars prostatica,pars membranacea, pars spongiosa"
+    ],
+    "Options": [
+      "pars prostatica,pars spongiosa, pars anterior",
+      "pars vesicalis,pars spongiosa, pars posterior",
+      "pars spongiosa,pars membranacea.",
+      "pars membranacea,pars vesicalis."
+    ]
+  },
+  {
+    "Number": 340,
+    "Text": "Где располагается самая узкая часть мужской уретры? Эркакларни сийдик чиқарув найида энг ингичка жойи?",
+    "Answers": [
+      "pars membranacea"
+    ],
+    "Options": [
+      "pars prostatica",
+      "pars spongiosa",
+      "pars vesicalis",
+      "fossa.navicularis."
+    ]
+  },
+  {
+    "Number": 341,
+    "Text": "На какой части маточной трубы распо¬лагаются fimbriae tubae? Fimbriae tubae бачадон найини қайси қисмида жойилашган?",
+    "Answers": [
+      "infundibulum"
+    ],
+    "Options": [
+      "ampulla",
+      "isthmus",
+      "pars uterina",
+      "ostium uterinum tubae."
+    ]
+  },
+  {
+    "Number": 342,
+    "Text": "Суженная часть мужской уретры? Эркакларни сийдик чиқарув найида энг ингичка жойи?",
+    "Answers": [
+      "pars membranacea"
+    ],
+    "Options": [
+      "pars prostatica",
+      "bulbus",
+      "pars spongiosa",
+      "ostium urethrae externum."
+    ]
+  },
+  {
+    "Number": 343,
+    "Text": "Какими оболочками покрыты яичко и семенной канатик? Уруг тизимчаси ва мояк неча кават билан уралган?",
+    "Answers": [
+      "кожа тери, tunica dartos,fascia spermatica externa, fascia cremasterica, m.cremaster, fascia spermatica interna, tunica vaginalis testis",
+      "tunica albuginea"
+    ],
+    "Options": [
+      "кожа тери, m.cremaster, fas^ spermatica interna,tunica vaginalis testis",
+      "кожа тери, йвая cremasterica, m.cremaster, fascia spermatica interna.",
+      "кожатери, f asci! spermatica externa, tunic! vaginalis testis",
+      "кожа тери, tunica dartos, f asci! cremasterica, tunic» vaginalis testis.",
+      "tunica vaginalis testis",
+      "f asci а cremasterica",
+      "f asci;i spermatica externa",
+      "f asciii spermatica interna."
+    ]
+  },
+  {
+    "Number": 344,
+    "Text": "Где происходит сперматогенез? Сперматогенез қаерда содир бўлади?",
+    "Answers": [
+      "tubuli seminiferi contorti"
+    ],
+    "Options": [
+      "rete testis",
+      "tubuli seminiferi recti",
+      "tubuli efferentes",
+      "lobuli epididymidis."
+    ]
+  },
+  {
+    "Number": 345,
+    "Text": "Какие фасции имеются в области урогенитальной диафрагмы? Урогенитал диафрагмада қайси фасциялар бор?",
+    "Answers": [
+      "f.diaphragmatis urogenitalis supperior, inferior et f.perinei superficialis"
+    ],
+    "Options": [
+      "f.diaphragmatis urogenitalis superficialis et profunda.",
+      "f.diaphragmatis urogenitalis extemaet intern!.",
+      "f.diaphragmatis urogenitalis proprin.",
+      "f.urogenitalis et f.pelvina."
+    ]
+  },
+  {
+    "Number": 346,
+    "Text": "Какие части различают в ductus deferens? Ductus deferens неча қисмидан иборат?",
+    "Answers": [
+      "pars testicularis,pars funicularis,pars inguinalis,pars pelvina"
+    ],
+    "Options": [
+      "pars testicularis,pars inguinalis, pars pelvina",
+      "pars funicularis,pars pelvina",
+      "pars testicularis,pars inguinalis."
+    ]
+  },
+  {
+    "Number": 347,
+    "Text": "Как называется протоқ  семенного пузырька? Уруғ пуфагининг найи қандай номланган?",
+    "Answers": [
+      "ductus excretorius"
+    ],
+    "Options": [
+      "ductus ejaculatorius",
+      "ductus efferens",
+      "ductus epididymidis",
+      "ductus deferens."
+    ]
+  },
+  {
+    "Number": 348,
+    "Text": "Как образуется семявыбрасывающий протоқ ? Уруғ отувчи най қандай ҳосил бўлган?",
+    "Answers": [
+      "слиянием ductus deferens et ductus excretorius  қўшилишидан"
+    ],
+    "Options": [
+      "это продолжение ductus deferens давоми",
+      "слиянием ductus epididymidis et ductus excretorius қўшилишидан",
+      "слиянием ductus deferens et ductuli prostatici  қўшилишидан",
+      "слиянием ductus epididymidis et ductus deferens  қўшилишидан."
+    ]
+  },
+  {
+    "Number": 349,
+    "Text": "Куда открывается ductus ejaculatorius? Ductus ejaculatorius қаерга очилади?",
+    "Answers": [
+      "в pars prostatica.уретры"
+    ],
+    "Options": [
+      "в pars spongюsa.уретры",
+      "в мочеиспускательный канал сийдик чикариш каналига",
+      "в epididymis",
+      "в pars membranacea.уретры."
+    ]
+  },
+  {
+    "Number": 350,
+    "Text": "Какие связки имеет яичник?",
+    "Answers": [
+      "lig.ovarii proprium, lig.suspensorium ovarii"
+    ],
+    "Options": [
+      "lig.suspensorium et lig.teres ovarii",
+      "lig.latum ovarii",
+      "lig.teres ovarii",
+      "lig.cardinale et lig.suspensorium."
+    ]
+  },
+  {
+    "Number": 351,
+    "Text": "Каковы отделы маточной трубы?  Бачадон найининг қайси қисмлари бор?",
+    "Answers": [
+      "pars uterina, isthmus, ampulla, infundibulum"
+    ],
+    "Options": [
+      "pars uterina, pars pelvina",
+      "ampulla, collum, infundibulum",
+      "pars abdominalis, pars pelvina",
+      "pars abdominalis, pars uterine."
+    ]
+  },
+  {
+    "Number": 352,
+    "Text": "Положение матки? Бачадон холати (жойлашиши)?",
+    "Answers": [
+      "anteversio, anteflexio"
+    ],
+    "Options": [
+      "retroversio, retroflexio",
+      "anteversio, retroflexio",
+      "retroversio, anteflexio",
+      "flexio, versio."
+    ]
+  },
+  {
+    "Number": 353,
+    "Text": "Какие связки имеет матка?  Бачадонда  қанақа бойламлар бор?",
+    "Answers": [
+      "lig.latum, lig.teres,lig.cardinale"
+    ],
+    "Options": [
+      "lig.latum, lig.suspensorium",
+      "lig.ovarii proprium",
+      "lig.cardinale, lig.uteri proprium",
+      "lig.falciforme, lig.teres."
+    ]
+  },
+  {
+    "Number": 354,
+    "Text": "Какая мышца не участвует в образовании diaphragmа.pelvis?  Diaphragmа.pelvis ни ҳосил килишда қайси мушаклар иштирок этади?",
+    "Answers": [
+      "m.transversus perinei profundus"
+    ],
+    "Options": [
+      "m.sphincter ani internus",
+      "m.iliopsoas",
+      "m.psoas major",
+      "m.psoas minor."
+    ]
+  },
+  {
+    "Number": 355,
+    "Text": "Какую оболочку имеет почка? Буйракда қайси парда бўлади?",
+    "Answers": [
+      "capsula.adiposa"
+    ],
+    "Options": [
+      "ductus papillaris",
+      "capsula.glomeruli",
+      "tubulus renalis contortus",
+      "glomerulus."
+    ]
+  },
+  {
+    "Number": 356,
+    "Text": "Какое образование не входит в состав нефрона? Нефрон таркибида нима булмайди?",
+    "Answers": [
+      "ductus papillaris"
+    ],
+    "Options": [
+      "capsula glomeruli",
+      "tubulus renalis contortus prima",
+      "glomerulus",
+      "corpusculum renis."
+    ]
+  },
+  {
+    "Number": 357,
+    "Text": "Какую часть имеет мочевой пузырь? Сийдик қопи таркибида нима бўлади?",
+    "Answers": [
+      "fundus"
+    ],
+    "Options": [
+      "caput",
+      "fascia.cremasterica",
+      "tunica dartos",
+      "fascia spermatica externa."
+    ]
+  },
+  {
+    "Number": 358,
+    "Text": "Какая часть отсутствует в придатке яичка? Мояк ортоти таркибида нима булмайди?",
+    "Answers": [
+      "sinus"
+    ],
+    "Options": [
+      "cervix",
+      "ductus papillaris",
+      "capsula glomeruli."
+    ]
+  },
+  {
+    "Number": 359,
+    "Text": "Какая оболочка отсутствует в мошонке?",
+    "Answers": [
+      "tunica serosa"
+    ],
+    "Options": [
+      "fascia cremasterica",
+      "tunica dartos",
+      "fascia spermatica.externa",
+      "tunica vaginalis testis."
+    ]
+  },
+  {
+    "Number": 360,
+    "Text": "Какую часть имеет маточная труба? Бачадон найида қайси қисм бўлади?",
+    "Answers": [
+      "isthmus."
+    ],
+    "Options": [
+      "corpus",
+      "tunica serosa",
+      "fascia cremasterica",
+      "tunica dartos."
+    ]
+  },
+  {
+    "Number": 361,
+    "Text": "Какая мышца не участвует в образовании diaphragmа.urogenitale? Diaphragmа.urogenitaleни ҳосил килишда қайси мушак иштирок этмайди?",
+    "Answers": [
+      "m.levator ani"
+    ],
+    "Options": [
+      "m.transversus perinei profundus",
+      "m.sphincter urethrae",
+      "m.transversus perinei superficialis",
+      "m.ishiocavernosus."
+    ]
+  },
+  {
+    "Number": 362,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "hilus renalis"
+    ],
+    "Options": [
+      "corpus",
+      "ampulla",
+      "pars uterina",
+      "isthmus."
+    ]
+  },
+  {
+    "Number": 363,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "extrimitas supperior."
+    ],
+    "Options": [
+      "pars uterina, pars pelvina",
+      "ampulla, collum, infundibulum",
+      "pars abdominalis, pars pelvina,",
+      "pars abdominalis, pars uterine."
+    ]
+  },
+  {
+    "Number": 364,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "extremitas supperior"
+    ],
+    "Options": [
+      "facies supperior",
+      "margo anterior",
+      "pars cardiaca",
+      "corpus."
+    ]
+  },
+  {
+    "Number": 365,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "pars radiate."
+    ],
+    "Options": [
+      "pars pylorica",
+      "ductuli biliferi",
+      "pars uterina, pars pelvina."
+    ]
+  },
+  {
+    "Number": 366,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "tubulus renalis contortus"
+    ],
+    "Options": [
+      "tubulus lobularis",
+      "ductus alveolaris",
+      "ductuli biliferi",
+      "pars uterina, pars pelvina."
+    ]
+  },
+  {
+    "Number": 367,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "ductus papillares."
+    ],
+    "Options": [
+      "ductus choleidochus",
+      "ductus corticalis",
+      "ductuli biliferi",
+      "pars uterina, pars pelvina."
+    ]
+  },
+  {
+    "Number": 368,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "lobularis."
+    ],
+    "Options": [
+      "acinus",
+      "aditus larynx",
+      "ductuli biliferi",
+      "pars uterina, pars pelvina."
+    ]
+  },
+  {
+    "Number": 369,
+    "Text": "Анатомическая единица почек Буйракнинг анатомик бирлиги",
+    "Answers": [
+      "nephron"
+    ],
+    "Options": [
+      "acinus",
+      "lobulis",
+      "acinus",
+      "lobus."
+    ]
+  },
+  {
+    "Number": 370,
+    "Text": "Ren имеет: Renда бўлади:",
+    "Answers": [
+      "tubulus renalis contortus."
+    ],
+    "Options": [
+      "tubulus lobularis",
+      "ductus alveolaris",
+      "ductuli biliferi",
+      "pars uterina, pars pelvina."
+    ]
+  },
+  {
+    "Number": 371,
+    "Text": "Ветви восходящей части аорты: Аортанинг кутарилувчи қисми тармоқлари:",
+    "Answers": [
+      "a.coronaria dextra, a. coronaria sinistra"
+    ],
+    "Options": [
+      "a.subclavia, a. carotis communis dextra",
+      "tr. brachiochephalicus, a. subclavia",
+      "a.thyroidea supperior et a timica,",
+      "rr. bronchiales et tr. Brachiocephalicus."
+    ]
+  },
+  {
+    "Number": 372,
+    "Text": "Ветви дуги аорты: Аортанинг равоғи тармоқлари:",
+    "Answers": [
+      "tr. brachiocephalicus, a. carotis communis sinistra, a. subclavia sinistra"
+    ],
+    "Options": [
+      "tr. brachiocephalicus dexter et sinister",
+      "a. subclavia dextra, sinistra et a. coronaria.dextra.",
+      "a. carotis communis sinistra et dextra, a. subclavia.sinistra",
+      "tr. brachiocephalicus, a. carotis communis dextra et sinistra, a. subclavia sinistra."
+    ]
+  },
+  {
+    "Number": 373,
+    "Text": "Париетальные ветви грудной части аорты: Кўкрак аортасининг париетал",
+    "Answers": [
+      "aa.intercostales posteriores, a.a.phrenicae supperiors."
+    ],
+    "Options": [
+      "aa.bronchiales, esophagei",
+      "aa.diaphragmatis, esophagei",
+      "aa.phrenicae et esophagei."
+    ]
+  },
+  {
+    "Number": 374,
+    "Text": "Висцерал ьные ветви грудной части аорты: Кўкрак аортасининг висцерал  тармоқлари:",
+    "Answers": [
+      "aa.bronchiales, esophagei, pericardiaci, mediastinales."
+    ],
+    "Options": [
+      "aa.bronchiales, phrenicae, esophagei, mediastinales",
+      "aa.bronchiales, aa.intercostales posteriores",
+      "aa.esophagei, cardiales, mediastinales",
+      "aa.intercostales, pericardiaci, esophagei, mediastinales."
+    ]
+  },
+  {
+    "Number": 375,
+    "Text": "Париетальные ветви брюшной части аорты: Қорин аортасининг париетал тармоқлари:",
+    "Answers": [
+      "aa.phrenicae inferiores, lumbales, a. sacralis mediana."
+    ],
+    "Options": [
+      "aa.phrenicae, suprarenales, renales, lumbales",
+      "aa.lumbales, a. sacralis mediana et lateralis",
+      "aa.lumbales et intercostales inferiores, a. sacralis",
+      "aa.phrenicae, a. thoracica interna, a. sacralis mediana."
+    ]
+  },
+  {
+    "Number": 376,
+    "Text": "Непарные висцерал ьные ветви брюшной части аорты: Қорин аортасининг тоқ  висцерал  тармоқлари:",
+    "Answers": [
+      "truncus coeliacus, a. mesenterica supperior, a. mesenterica inferior"
+    ],
+    "Options": [
+      "aa. mesenterica supperior et inferior, a. rectalis supperior",
+      "truncus coeliacus, a. mesenterica supperior, a. gastrica sinistra",
+      "truncus coeliacus, a. lienalis, a. hepatica communis",
+      "a.gastrica sinistra, a. hepatica propria, a. lienalis."
+    ]
+  },
+  {
+    "Number": 377,
+    "Text": "Парные висцерал ьные ветви брюшной части аорты: Қорин аортасининг жуфт висцерал  тармоқлари:",
+    "Answers": [
+      "ovarica(testicularis), a. renalis, a. suprarenalis media."
+    ],
+    "Options": [
+      "a.a.renales, aa.suprarenales, aa.phrenicae inferiores et supperiores",
+      "a.testicularis (ovarica), a. renalis et aa.lumbales",
+      "a.renalis, aa.glandulae suprarenales supperiores et aa.lumbales",
+      "a.testicularis (ovarica), a. renalis, aa.phrenicae inferiors."
+    ]
+  },
+  {
+    "Number": 378,
+    "Text": "Передние ветви наружной сонной артерии: Ташқи уйқу артериясининг олдинги тармоқлари:",
+    "Answers": [
+      "a.thyroidea supperior, a. lingualis, et a. facialis"
+    ],
+    "Options": [
+      "a.thyroidea supperior et inferior, a. lingualis",
+      "a.thyroidea supperior, a. facialis",
+      "a.facialis, a. lingualis, a. occipitalis",
+      "a.lingualis, a. mandibularis, a. tymica ."
+    ]
+  },
+  {
+    "Number": 379,
+    "Text": "Задние ветви наружной сонной артерии:",
+    "Answers": [
+      "a.occipitalis, a. auricularis posterior, a. sternocleidomastoidea."
+    ],
+    "Options": [
+      "a.occipitalis, a. facialis, a. pharyngea",
+      "a.occipitalis, a. auricularis posterior, a. thyroidea",
+      "a.auricularis posterior, a. maxilaris, a. temporalis",
+      "a.maxilaris, a. thyroidea, a. facialis."
+    ]
+  },
+  {
+    "Number": 380,
+    "Text": "Средние ветви наружной сонной артерии:  Ташқи уйқу артериясининг ўрта тармоқлари:",
+    "Answers": [
+      "a.pharyngea ascendens, a. temporalis superficialis, a. maxillaris."
+    ],
+    "Options": [
+      "a.temporalis, a. facialis, a. pharyngea",
+      "a.maxilaris, a. facialis, a. temporalis",
+      "a.facialis, a. thyroidea, a. lingualis",
+      "a.temporalis, a. auricularis, a. sternocleidomastoidea."
+    ]
+  },
+  {
+    "Number": 381,
+    "Text": "Ветви первого отдела верхнечелюстной артерии: Юқориги жағ артериясининг биринчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.meningea.media, a. alveolaris inferior"
+    ],
+    "Options": [
+      "a.alveolaris supperior et a. alveolaris inferior",
+      "a.meningea media, a. nasalis posterior",
+      "a.muscularis к жевательным мышцам (чайнов мускуллари шохлари)",
+      "a.alveolaris supperior et a. temporalis."
+    ]
+  },
+  {
+    "Number": 382,
+    "Text": "Ветви второго отдела верхнечелюстной артерии: Юқориги жағ артериясининг иккинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "aa.alveolares supperiores posteriores и ветви к жевательным мышцам(чайнов мусҚўллари шохлари)"
+    ],
+    "Options": [
+      "aalveolaris inferior et a. meningea.media",
+      "a.alveolaris supperior posterior et a. infraorbitalis",
+      "ветви к мимическим мышцам (чайнов мускуллари шохлари)и а. alveolaris supperior",
+      "a.facialis, a. Buccalis."
+    ]
+  },
+  {
+    "Number": 383,
+    "Text": "Ветви третьего отдела верхнечелюстной артерии: Юқориги жағ артериясининг учинчи қисмидан чиқувчи  тармоқлари:",
+    "Answers": [
+      "a.infraorbitalis, a. palatina descendens, aa.pterygopalatinae"
+    ],
+    "Options": [
+      "a.infraorbitalis, a. supraorbitalis",
+      "a. alveolaris inferior, a. lingualis",
+      "a.pterygopalatina, a. alveolaris inferior",
+      "a.infraorbitalis, a. Buccalis."
+    ]
+  },
+  {
+    "Number": 384,
+    "Text": "Где проходит внутренняя сонная артерия? Ички уйқу артерияси қаердан  ўтади?",
+    "Answers": [
+      "canalis caroticus, sulcus caroticus"
+    ],
+    "Options": [
+      "canalis n. hypoglossi",
+      "canalis caroticotimpanicus",
+      "sulcus sigmoideus",
+      "foramen rotundum."
+    ]
+  },
+  {
+    "Number": 385,
+    "Text": "Подключичная артерия отходит: Ўмров ости артерияси чиқади:",
+    "Answers": [
+      "слева от arcus aortae (чап томондан), справа (унг томондан)  от truncus brachiocephalicus"
+    ],
+    "Options": [
+      "слева от truncus brachiocephalicus(чап томондан), справа (унг томондан)  от arcus aortae"
+    ]
+  },
+  {
+    "Number": 386,
+    "Text": "Ветви подключичной артерии: Ўмров ости артериясининг тармоқлари:",
+    "Answers": [
+      "a.vertebralis, tr. thyrocervicalis, a. transversn colli, a. thoracica interna, tr. costocervicalis"
+    ],
+    "Options": [
+      "a.vertebralis, tr. thyrocervicalis, a. axillaris",
+      "a.thoracica interna, a. suprascapularis, a. subscapularis, a. dorsalis scapulae",
+      "a.vertebralis, tr. thyrocervicalis, a. transversal colli, a. thoracica interna, a. profunda brachii",
+      "tr.costocervicalis, a. thyriodea.supperior et inferior."
+    ]
+  },
+  {
+    "Number": 387,
+    "Text": "Какими артериями образован артериальный круг мозга? Мия артериал доираси қайси артериялардан ҳосил бўлган?",
+    "Answers": [
+      "a.cerebri anterior, a. communicans anterior, a. communicans posterior, a. cerebri posterior"
+    ],
+    "Options": [
+      "a.cerebri anterior, a. cerebri posterior, a. cerebri media",
+      "a.cerebri anterior, a. carotis communis, a. cerebri media.",
+      "a.cerebri anterior, posterior, media, a. communicans anterior et posterior",
+      "a.cerebri anterior, a. cerebri media, r. communicans anterior."
+    ]
+  },
+  {
+    "Number": 388,
+    "Text": "Магистральная артерия плеча: Елканинг магистрал артерияси:",
+    "Answers": [
+      "a.brachialis"
+    ],
+    "Options": [
+      "a.axillaris",
+      "a.profunda brachii",
+      "a.subscapularis",
+      "a.subclavicularis."
+    ]
+  },
+  {
+    "Number": 389,
+    "Text": "Ветви a. radialis: А. radialisнинг тармоқлари:",
+    "Answers": [
+      "ramus carpeus palmaris, ramus palmaris superficialis"
+    ],
+    "Options": [
+      "ramus carpeus palmaris, ramus palmaris profundus",
+      "a.interossea communis, ramus dorsalis carpeus",
+      "a.princeps policis, a. interossea posterior",
+      "a.interossea anterior ramus carpeus palmaris."
+    ]
+  },
+  {
+    "Number": 390,
+    "Text": "Какие сосуды образуют поверхностную ладонную дугу? Қайси томирлар кафтнинг юза равоғини ҳосил қилади?",
+    "Answers": [
+      "a.ulnaris et r. palmaris superficialis a. radialis"
+    ],
+    "Options": [
+      "a. palmaris profundus a. radialis",
+      "a.palmaris a. ulnaris",
+      "a.radialis et r. palmaris profundus a. ulnaris."
+    ]
+  },
+  {
+    "Number": 391,
+    "Text": "Какие сосуды образуют глубокую ла¬донную дугу?: Қайси томирлар кафтнинг чуқур равоғини ҳосил килади?",
+    "Answers": [
+      "a.radialis et r. palmaris profundus a. ulnaris"
+    ],
+    "Options": [
+      "a.ulnaris et a. radialis",
+      "a.ulnaris et r. palmaris profundus a. radialis",
+      "a.ulnaris et r. palmaris superficialis a. radialis",
+      "a.radialis et r. palmaris superficialis a. ulnaris."
+    ]
+  },
+  {
+    "Number": 392,
+    "Text": "Какие ветви дает поверхностная ла¬донная дуга? Кафтнинг юза равоғи қайси тармоқларни беради?",
+    "Answers": [
+      "aa.digitales communes"
+    ],
+    "Options": [
+      "aa.interossei",
+      "rr. metacarpei palmares",
+      "aa.digitales proprei",
+      "aa.dorsales manus."
+    ]
+  },
+  {
+    "Number": 393,
+    "Text": "Какие ветви дает глубокая ладонная дуга? Кафтнинг чуқур равоғи қайси тармокларни беради?",
+    "Answers": [
+      "rr. metacarpei palmares"
+    ],
+    "Options": [
+      "rr. carpei dorsales",
+      "aa.interossei",
+      "aa.interdigitales",
+      "aa.digitales proprei."
+    ]
+  },
+  {
+    "Number": 394,
+    "Text": "Назовите корни верхней полой вены? Юқори ковак вена илдизини кўрсатинг?",
+    "Answers": [
+      "v. brachiocephalica.dextra.et v. brachiocephalicra. sini stra"
+    ],
+    "Options": [
+      "v. jugularis et v. subclavia",
+      "vv. jugulares extern.et interna",
+      "v. brachiocephalica.dextra.et v. jugularis",
+      "v. brachiocephalica.sinistra.et v. subclavia."
+    ]
+  },
+  {
+    "Number": 395,
+    "Text": "Назовите основной притоқ  верхней полой вены: Юқори ковак венани асосий томирини кўрсатинг:",
+    "Answers": [
+      "v. azygos."
+    ],
+    "Options": [
+      "v. hemiazygos et v. accessoria",
+      "v. jugularis",
+      "v. subclavian,",
+      "v. hemiazygos."
+    ]
+  },
+  {
+    "Number": 396,
+    "Text": "Назовите основные притоқ и плечего¬ловных вен: Елка Бўйин узанларини асосий томирларини кўрсатинг:",
+    "Answers": [
+      "v. jugularis extern et v. subclavian."
+    ],
+    "Options": [
+      "vv. jugulares extern et intern",
+      "v. jugularis intern et v. subclavia",
+      "v. axillaris et v. subclavian,",
+      "vv. jugulares extern et anterior."
+    ]
+  },
+  {
+    "Number": 397,
+    "Text": "Перечислите внечерепные притоқ и внутренней яремной вены. Ички буйунтуруқ венасини калла суяги ичи тармоқларини кўрсатинг.",
+    "Answers": [
+      "v. retromandibularis, v. facialis, vv. pharingei, v. lingualis, v. thyroidea supperior."
+    ],
+    "Options": [
+      "vv. jugulares extern.et anterior",
+      "v. maxillaris, v. mandibularis, v. ophthalmica",
+      "v. axillaris et v. subclavian,",
+      "v. basilica, v. cephalica, v. median antebrachia."
+    ]
+  },
+  {
+    "Number": 398,
+    "Text": "Назовите поверхностные вены свободной верхней қонечности: Қўлнинг юзаки веналарини кўрсатинг:",
+    "Answers": [
+      "v. basilica, v. cephalica, v. median antebrachii."
+    ],
+    "Options": [
+      "v. axillaris, v. brachialis, v. profunda brachii",
+      "v. ulnaris, v. radialis, vv. interdigitales superficiales",
+      "vv. dorsales manus, v. radialis, v. ulnaris, v. interossea",
+      "v. brachialis, v. ulnaris, v. radialis, v. mediana antebrachia."
+    ]
+  },
+  {
+    "Number": 399,
+    "Text": "Назовите глубокие вены руки: Қўлнинг чуқур веналарини кўрсатинг:",
+    "Answers": [
+      "vv. radiales, ulnares brachiales."
+    ],
+    "Options": [
+      "v. profunda.brachii, vv. interossei anterior et posterior",
+      "v. axillaris, v. subclavia, truncus brachiocephalicus",
+      "v. axillaris, v. subscapularis, v. suprascapularis",
+      "vv. manus lateralis et medialis, v. mediana ."
+    ]
+  },
+  {
+    "Number": 400,
+    "Text": "От слияния каких вен образуется нижняя полая вена? Қайси веналарни қўшилишидан пастки ковак вена ҳосил бўлади?",
+    "Answers": [
+      "v. iliaca communis dextra et v. iliaca communis sinistra"
+    ],
+    "Options": [
+      "v. iliaca interna et v. iliaca externa",
+      "v. iliaca externa et v. sacralis mediana",
+      "vv. gluteae, vv. sacrales laterales, vv. iliolumbales",
+      "v. azygos, v. hemiazygos, vv. Iliacae."
+    ]
+  },
+  {
+    "Number": 401,
+    "Text": "Укажите основные висцерал ьные притоқ и нижней полой вены: Пастки ковак венани висцерал тармоқларини кўрсатинг:",
+    "Answers": [
+      "vv. hepaticae, renales, suprarenales, v. ovarica(testicularis) dextra."
+    ],
+    "Options": [
+      "vv. hepaticae, gastricae, lienales",
+      "vv. hepaticae, gastricae, intestinales,",
+      "vv. renales, suprarenales, gastricae, pancreaticae",
+      "v. lienalis, vv. mesentericae supperior et inferior."
+    ]
+  },
+  {
+    "Number": 402,
+    "Text": "Укажите париетальные притоқ и нижней полой вены: Пастки ковак венани париетал тармоқларини кўрсатинг:",
+    "Answers": [
+      "vv. phrenicae inferiores et vv. lumbales."
+    ],
+    "Options": [
+      "vv. intercostales et vv. phrenicae supperiores",
+      "v. azygos et v. hemiazygos,",
+      "vv. lumbales, iliolumbales, sacrales",
+      "vv. phrenicae inferiores et vv. iliacae communes."
+    ]
+  },
+  {
+    "Number": 403,
+    "Text": "Из каких вен формируются общие подв¬здошные вены? Умумий ёнбош веналар қайси веналарни қўшилишидан ҳосил бўлади?",
+    "Answers": [
+      "v. iliaca.externa et v. iliaca.interna."
+    ],
+    "Options": [
+      "rr. parietales et viscerales",
+      "v. mesenterica inferior et vv. gluteae,",
+      "vv. uterinae, rectales, vesicales,",
+      "v. iliaca anterior et v. iliaca posterior."
+    ]
+  },
+  {
+    "Number": 404,
+    "Text": "Назовите притоқ и внутренней подв¬здошной вены? Ички ёнбош внеаларни қайси веналар ҳосил килади?",
+    "Answers": [
+      "vv. gluteae, obturatoria, vesicalis, rectales (media et inferior), вены внутренних половых органов."
+    ],
+    "Options": [
+      "vv. mesentericae supperior et inferior, vv. rectales",
+      "v. circumflexa.ilei profunda, v. sacralis lateralis, vv. gluteae",
+      "v. iliolumbalis, v. sacralis lateralis, v.vesicalis,",
+      "v. obturatorae, v. circumflexa ilei profunda."
+    ]
+  },
+  {
+    "Number": 405,
+    "Text": "Перечислите поверхностные вены сво¬бодной нижней қонечности: Оёқни юзаки веналарини кўрсатинг:",
+    "Answers": [
+      "v. saphena magna et parva."
+    ],
+    "Options": [
+      "v. saphena lateralis et medialis",
+      "v. saphena anterior et posterior,",
+      "v. saphena supperior et inferior",
+      "v. saphena pedis, cruris et femoris."
+    ]
+  },
+  {
+    "Number": 406,
+    "Text": "Отметьте глубокие вены ноги: Оёқни юзаки веналарини кўрсатинг:",
+    "Answers": [
+      "v. femoralis, v. profunda femoris, v. poplitea, v. tibialis anterior, v. tibialis posterior, vv. pedis."
+    ],
+    "Options": [
+      "v. iliaca externa, interna.",
+      "vv. dorsales pedis, v. tibialis magna.et parva",
+      "v. plantaris lateralis, v. plantaris medialis, vv. genu",
+      "v. profunda pedis, v. profunda cruris, v. femoralis, v. profunda.femoris."
+    ]
+  },
+  {
+    "Number": 407,
+    "Text": "Назовите корни воротной вены: Дарвоза венаси илдизини кўрсатинг:",
+    "Answers": [
+      "v. lienalis, v. mesenterica supperior, v. mesenterica inferior."
+    ],
+    "Options": [
+      "v. gastrica, v. hepatica, v. lienalis",
+      "v. gastrica, v. lienalis, v. pancreatica,",
+      "v. hepatica, v. mesenterica supperior et inferior",
+      "v. lienalis, v. hepatica, v. renalis."
+    ]
+  },
+  {
+    "Number": 408,
+    "Text": "Куда вливаются venae pulmonales? Venae pulmonales қаерга қўйилади?",
+    "Answers": [
+      "atrium sinister."
+    ],
+    "Options": [
+      "atrium dexter,",
+      "vena cava supperior",
+      "v. azygos",
+      "v. hemiazygos."
+    ]
+  },
+  {
+    "Number": 409,
+    "Text": "Куда оттекает венозная кровь из на¬ружного носа? Ташқи бурундан веноз қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. facialis, v. opthalmica"
+    ],
+    "Options": [
+      "v. sphenopalatina, v. frontalis",
+      "v. jugularis externa, v. emissaria.parietalis",
+      "v. retromandibularis, v. facialis",
+      "v. angularis, v. retromandibularis."
+    ]
+  },
+  {
+    "Number": 410,
+    "Text": "Куда оттекает венозная кровь из слизистой оболочки полости носа? Бурунни шиллиқ қаватидан қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. sphenopalatina"
+    ],
+    "Options": [
+      "v. facialis",
+      "v. retromandibularis",
+      "v. angularis",
+      "v. frontalis."
+    ]
+  },
+  {
+    "Number": 411,
+    "Text": "Венозный оттоқ  из органов верхнего этажа брюшной полости? Қорин бушлиғи юқори этажи органларидан қон қаерга оқиб кетади?",
+    "Answers": [
+      "v. lienalis."
+    ],
+    "Options": [
+      "v. mesenterica supperior,",
+      "v. mesenterica inferior",
+      "v. cava supperior",
+      "v. cava inferior"
+    ]
+  },
+  {
+    "Number": 412,
+    "Text": "От слияния каких стволов образуется ductus thoracicus? Ductus thoracicus қандай ҳосил бўлади?",
+    "Answers": [
+      "truncus lumbalis dexter et sinister."
+    ],
+    "Options": [
+      "truncus subclavia.dexter et sinister",
+      "truncus jugularis dexter et sinister",
+      "truncus intestinalis dexter et sinister,",
+      "truncus bronchomediastinalis dexter et sinister."
+    ]
+  },
+  {
+    "Number": 413,
+    "Text": "Ductus thoracicus вливается: Ductus thoracicus га қўйилади:",
+    "Answers": [
+      "truncus bronchomediastinalis sinister."
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus subclavius anterior,",
+      "truncus jugularis posterior,",
+      "truncus femoralis."
+    ]
+  },
+  {
+    "Number": 414,
+    "Text": "Ductus thoracicus вливается: Ductus thoracicus га қўйилади:",
+    "Answers": [
+      "truncus intestinalis."
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus popliteus",
+      "truncus brachialis",
+      "truncus femoralis."
+    ]
+  },
+  {
+    "Number": 415,
+    "Text": "Ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus jugularis dexter."
+    ],
+    "Options": [
+      "truncus jugularis sinister",
+      "truncus intestinalis",
+      "truncus subclavius sinister,",
+      "truncus femoralis dexter."
+    ]
+  },
+  {
+    "Number": 416,
+    "Text": "Ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus subclavius dexter."
+    ],
+    "Options": [
+      "truncus intestinalis",
+      "truncus subclavius sinister",
+      "truncus lumbalis sinister."
+    ]
+  },
+  {
+    "Number": 417,
+    "Text": "Ductus lymphaticus dexter вливается:",
+    "Answers": [
+      "truncus bronchomediastinalis dexter."
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister",
+      "truncus lumbalis dexter",
+      "truncus lumbalis sinister,",
+      "truncus intestinalis."
+    ]
+  },
+  {
+    "Number": 418,
+    "Text": "Куда впадает ductus lymphaticus dexter? Ductus lymphaticus dexter қаерга қўйилади?",
+    "Answers": [
+      "v. subclavia dextra"
+    ],
+    "Options": [
+      "v. subclavia sinistra",
+      "v. jugularis interna",
+      "v. portae",
+      "ductus thoracicus."
+    ]
+  },
+  {
+    "Number": 419,
+    "Text": "Куда вливается ductus thoracicus? Ductus thoracicus қаерга қўйилади?",
+    "Answers": [
+      "v. jugularis interna sinistra."
+    ],
+    "Options": [
+      "v. jugularis interna dextra",
+      "v. subclavia dextra,",
+      "v. portae",
+      "ductus lymphaticus dexter."
+    ]
+  },
+  {
+    "Number": 420,
+    "Text": "Лимфа от верхней половины живота от¬текает: Қориннинг юқори қисмидан лимфа қаерга йиғиладиҚ",
+    "Answers": [
+      "nodi lymphatici axillares."
+    ],
+    "Options": [
+      "nodi lymphatici inguinales",
+      "nodi lymphatici lumbales",
+      "nodi lymphatici mesenterici supperiors,",
+      "nodi lymphatici mesenterici inferiores."
+    ]
+  },
+  {
+    "Number": 421,
+    "Text": "Лимфа от нижней половины живота от текает: Қориннинг пастки қисмидан лимфа қаерга йиғилади:",
+    "Answers": [
+      "nodi lymphatici inguinales."
+    ],
+    "Options": [
+      "nodi lymphatici axillares",
+      "nodi lymphatici lumbales,",
+      "nodi lymphatici mesenterici supperiors,",
+      "nodi lymphatici mesenterici inferiores."
+    ]
+  },
+  {
+    "Number": 422,
+    "Text": "Лимфатические сосуды вдоль v. saplH'ini жадна впадают: V. sapl'ieini атрофидаги лимфа томирлар қўйилади.",
+    "Answers": [
+      "nodi lymphatici inguinales superficialis."
+    ],
+    "Options": [
+      "nodi lymphatici inguinales profundus",
+      "nodi lymphatici popliteales",
+      "nodi lymphatici iliaci externi,",
+      "nodi lymphatici iliaci interni."
+    ]
+  },
+  {
+    "Number": 423,
+    "Text": "Лимфа из наружных покровов передней и латеральной стенок грудной клетки оттекает: Кўкрак қафаси ташқи қопламлари олдинги ва латерал юзаларидан лимфа қаерга йиғилади:",
+    "Answers": [
+      "nodi lymphatici axillares."
+    ],
+    "Options": [
+      "nodi lymphatici mediastinalis anteriores",
+      "nodi lymphatici mediastinalis posteriors,",
+      "nodi lymphatici parasternales,",
+      "nodi lymphatici phrenici supperiores."
+    ]
+  },
+  {
+    "Number": 424,
+    "Text": "Лимфа из латеральных отделов молочной железы отводится: Сут безининг латерал қисмидан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici axillares."
+    ],
+    "Options": [
+      "nodi lymphatici mediastinalis anteriores",
+      "nodi lymphatici mediastinalis posteriores",
+      "nodi lymphatici parasternales",
+      "nodi lymphatici phrenici supperiores."
+    ]
+  },
+  {
+    "Number": 425,
+    "Text": "Лимфатические сосуды по ходу v. basillica .вливаюдся: V. basilicа.атрофидаги лимфа томирлари қаерга қўйилади?",
+    "Answers": [
+      "nodi lymphatici cubitales."
+    ],
+    "Options": [
+      "nodi lymphatici axillaries superficiales",
+      "nodi lymphatici axillaris profundi,",
+      "nodi lymphatici bronchomediastinales",
+      "nodi lymphatici parasternales."
+    ]
+  },
+  {
+    "Number": 426,
+    "Text": "От верхней губы лимфа оттекает: Юқори лабдан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares."
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei,",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales."
+    ]
+  },
+  {
+    "Number": 427,
+    "Text": "От нижней губы лимфа оттекает: Пастки лабдан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares."
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei,",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales."
+    ]
+  },
+  {
+    "Number": 428,
+    "Text": "От тела языка лимфа оттекает: Тилни танасидан лимфа қаерга йиғилади?",
+    "Answers": [
+      "nodi lymphatici submandibulares."
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei,",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales."
+    ]
+  },
+  {
+    "Number": 429,
+    "Text": "От десен и зубов лимфа оттекает:",
+    "Answers": [
+      "nodi lymphatici submandibulares"
+    ],
+    "Options": [
+      "nodi lymphatici parotidei",
+      "nodi lymphatici mastoidei",
+      "nodi lymphatici occipitales",
+      "nodi lymphatici retropharyngeales."
+    ]
+  },
+  {
+    "Number": 430,
+    "Text": "Из нижней доли левого легкого лимфа оттекает: Чап ўпканинг  пастки қисмидан лимфа қаерга қўйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis dexter"
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister",
+      "truncus jugularis dexter",
+      "truncus jugularis sinister",
+      "truncus subclavia.sinister."
+    ]
+  },
+  {
+    "Number": 431,
+    "Text": "Из верхней доли левого легкого лимфа оттекает: Чап ўпканинг  юқори қисмидан лимфа қаерга қўйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis sinister."
+    ],
+    "Options": [
+      "truncus bronchomediastinalis dexter",
+      "truncus jugularis sinister,",
+      "truncus jugularis dexter,",
+      "truncus subclavia.sinister."
+    ]
+  },
+  {
+    "Number": 432,
+    "Text": "Из нижней доли правого легкого лимфа оттекает? Унг Ўпканинг  пастки қисмидан лимфа қаерга қўйилади?",
+    "Answers": [
+      "truncus bronchomediastinalis dexter."
+    ],
+    "Options": [
+      "truncus bronchomediastinalis sinister,",
+      "truncus jugularis sinister",
+      "truncus jugularis dexter",
+      "truncus subclavius sinister."
+    ]
+  },
+  {
+    "Number": 433,
+    "Text": "Из тонкой кишки лимфа отводится? Ингичка ичакдан лимфа қаерга қўйилади?",
+    "Answers": [
+      "nodi lymphatici mesenterici."
+    ],
+    "Options": [
+      "nodi lymphatici inguinales superficiales",
+      "nodi lymphatici lumbales dexter",
+      "nodi lymphatici lumbales sinister",
+      "nodi lymphatici inguinales profundi."
+    ]
+  },
+  {
+    "Number": 434,
+    "Text": "Из слепой кишки и червеобразного от¬ростка лимфа отводится: Кур ичакдан лимфа қаерга қўйилади?",
+    "Answers": [
+      "nodi lymphatici ileocolici."
+    ],
+    "Options": [
+      "nodi lymphatici colici dextri",
+      "nodi lymphatici colici sinistri",
+      "nodi lymphatici colici media,",
+      "nodi lymphatici intestinales."
+    ]
+  },
+  {
+    "Number": 435,
+    "Text": "Из глотки и небных миндалин лимфа оттекает: Ҳиқилдоқ ва танглай мўртакларидан лимфа қаерга қўйилади?",
+    "Answers": [
+      "nodi lymphatici retropharyngei."
+    ],
+    "Options": [
+      "nodi lymphatici submandibulares",
+      "nodi lymphatici submentales",
+      "nodi lymphatici faciales",
+      "nodi lymphatici parotidei."
+    ]
+  },
+  {
+    "Number": 436,
+    "Text": "CAVUM ORIS:",
+    "Answers": [
+      "vestibulum oris",
+      "cavitas oris propria",
+      "palatum durum",
+      "caruncula sublingualis"
+    ],
+    "Options": [
+      "ostium pharyngeum,",
+      "pars laryngea,",
+      "ostyum pylorica,",
+      "gl.intestynales"
+    ]
+  },
+  {
+    "Number": 437,
+    "Text": "Lingua:",
+    "Answers": [
+      "corpus lingua,",
+      "radix linguae",
+      "dorsum linguae,",
+      "papillae filiformes,"
+    ],
+    "Options": [
+      "ductus linguae,",
+      "istmus linguae,",
+      "insisura linguae,",
+      "caput linguae."
+    ]
+  },
+  {
+    "Number": 438,
+    "Text": "LINGUA:",
+    "Answers": [
+      "papillae fungiformes,",
+      "papillae vallatae.",
+      "papillae filiformes.",
+      "papillae conicae."
+    ],
+    "Options": [
+      "papillae epiglottica,",
+      "istmus linguae,",
+      "insisura linguae,",
+      "caput linguae."
+    ]
+  },
+  {
+    "Number": 439,
+    "Text": "PALATUM MOLLE:",
+    "Answers": [
+      "m.levator veli palatini,",
+      "m.tensor veli palatini,",
+      "m.uvulae,",
+      "m.palatopharyngeus"
+    ],
+    "Options": [
+      "m.genioglossus,",
+      "m.digastricus,",
+      "m.stylohyoideus,",
+      "m.transversus linguae."
+    ]
+  },
+  {
+    "Number": 440,
+    "Text": "ESOPHAGUS:",
+    "Answers": [
+      "pars cervicalis",
+      "tunica mucosa,",
+      "tunica adventitia",
+      "tela submucosa"
+    ],
+    "Options": [
+      "tunica subserosa,",
+      "pars horizontalis,",
+      "pars descendens,",
+      "pars pylorica."
+    ]
+  },
+  {
+    "Number": 441,
+    "Text": "VENTRICULUS:",
+    "Answers": [
+      "curvatura major,",
+      "pars cardiaca",
+      "tunica muscularis,",
+      "gl.gastricae"
+    ],
+    "Options": [
+      "pars thoracica,",
+      "pars horizontalis,",
+      "pars descendens,",
+      "collum."
+    ]
+  },
+  {
+    "Number": 442,
+    "Text": "DUODENUM:",
+    "Answers": [
+      "pars ascendens",
+      "pars pylorica",
+      "pars supperior,",
+      "pars descendens,"
+    ],
+    "Options": [
+      "pars horizontalis,",
+      "facies cardiaca,",
+      "papilla major,",
+      "taenia libera."
+    ]
+  },
+  {
+    "Number": 443,
+    "Text": "HEPAR:",
+    "Answers": [
+      "lobuli,",
+      "a.interlobularis",
+      "venae centralis",
+      "ductuli biliferi"
+    ],
+    "Options": [
+      "papilla major,",
+      "lobus supperior,",
+      "lobus inferior,",
+      "tunica submucosa."
+    ]
+  },
+  {
+    "Number": 444,
+    "Text": "CAVUM NASI:",
+    "Answers": [
+      "cartilago alaris nasi,",
+      "choanae",
+      "tunica mucosa",
+      "cartilago septi nasi,"
+    ],
+    "Options": [
+      "articulatio cricothyroidea,",
+      "sinus mastoideus.",
+      "papilla major,",
+      "articulatio colli."
+    ]
+  },
+  {
+    "Number": 445,
+    "Text": "LARYNX:",
+    "Answers": [
+      "cartilago thyroidea,",
+      "cartilago arytenoidea",
+      "linea obliqua",
+      "membrana thyrohyoidea,"
+    ],
+    "Options": [
+      "cartilago trachealis,",
+      "cartilago bronchialis",
+      "pars thoracica,",
+      "truncus coileacus,"
+    ]
+  }
+]

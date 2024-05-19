@@ -1,0 +1,7949 @@
+﻿[
+  {
+    "Number": 1,
+    "Text": "Qaysi kasallikda qonda pirouzum kislotasi miqdori oshadi:",
+    "Answers": [
+      "Diabet"
+    ],
+    "Options": [
+      "Semizlik",
+      "Sariqlik",
+      "Gipovitaminoz B6"
+    ]
+  },
+  {
+    "Number": 2,
+    "Text": "Glyukozaga tolerantlik qonda kopayishi testi qaysi kasallikda ishlatiladi:",
+    "Answers": [
+      "qandli diabet"
+    ],
+    "Options": [
+      "Aglikogenoz",
+      "Glikogenoz",
+      "Sutni kotaraolmaslik"
+    ]
+  },
+  {
+    "Number": 3,
+    "Text": "Adrenalin kimyoviy tabiati boyicha:",
+    "Answers": [
+      "Tirozin aminokislotasi hosilasi"
+    ],
+    "Options": [
+      "Oqsil",
+      "Triptofan aminokislotasi hosilasi",
+      "Steroid gormon"
+    ]
+  },
+  {
+    "Number": 4,
+    "Text": "Xolesterinning organizmdan chiqarilishi:",
+    "Answers": [
+      "Axlat bilan"
+    ],
+    "Options": [
+      "Siydik bilan",
+      "Teri bilan",
+      "Solak bilan"
+    ]
+  },
+  {
+    "Number": 5,
+    "Text": "Vitamin B1 tanqisligi qaysi kasallikka olib keladi:",
+    "Answers": [
+      "Beri-beri"
+    ],
+    "Options": [
+      "Pellagra",
+      "Kvashiorkor",
+      "Raxit"
+    ]
+  },
+  {
+    "Number": 6,
+    "Text": "Ribosomal RNK qanday boladi",
+    "Answers": [
+      "bir zanjirli"
+    ],
+    "Options": [
+      "spiral emas",
+      "qosh spiral",
+      "spiral va spiral bolmagan qismlari bor"
+    ]
+  },
+  {
+    "Number": 7,
+    "Text": "Oqsil biosintezida aminokislatalar faollanishida aminokislotaga nima birikadi:",
+    "Answers": [
+      "tRNK"
+    ],
+    "Options": [
+      "Fosfor kislota qoldigi",
+      "mRNK",
+      "Ribosomaning kichik birligi",
+      "Ribosomaning katta birligi"
+    ]
+  },
+  {
+    "Number": 8,
+    "Text": "Aminokislatalar faollanishi uchun qaysi ferment kerak boladi:",
+    "Answers": [
+      "Aminoatsil-tRNK sintetaza"
+    ],
+    "Options": [
+      "Atsil-KoA sintetaza",
+      "Asetil-KoA atsetiltransferaza",
+      "Monoaminooksidaza"
+    ]
+  },
+  {
+    "Number": 9,
+    "Text": "Qandli diabet va ochlikda qon zardobida keton tanachalar ortishining asosiy sababi:",
+    "Answers": [
+      "atsetil–KoA miqdorini keskin ortishi"
+    ],
+    "Options": [
+      "glukoza miqdorini ortishi",
+      "glitserin miqdorini ortishi",
+      "aminokislotalar miqdorini ortishi"
+    ]
+  },
+  {
+    "Number": 10,
+    "Text": "Qon da keton tanalarning toplanishi bu:",
+    "Answers": [
+      "atsidoz"
+    ],
+    "Options": [
+      "ureimiya",
+      "alkaloz",
+      "giperurikemiya"
+    ]
+  },
+  {
+    "Number": 11,
+    "Text": "Qonda va siydikda keton tanalarning ortishi qaysi kasallikda kuzatiladi",
+    "Answers": [
+      "qandli diabet"
+    ],
+    "Options": [
+      "ot tosh kasaliklari",
+      "ateroskleroz",
+      "semirish"
+    ]
+  },
+  {
+    "Number": 12,
+    "Text": "Xolesterinning asosiy vazifasi",
+    "Answers": [
+      "struktur"
+    ],
+    "Options": [
+      "katalitik",
+      "energetik",
+      "transport"
+    ]
+  },
+  {
+    "Number": 13,
+    "Text": "Qonda keton tanalar miqdori ortishi nima deyiladi",
+    "Answers": [
+      "Giperketonemiya"
+    ],
+    "Options": [
+      "Ketogenez",
+      "Lipidemiya",
+      "Lipogenez"
+    ]
+  },
+  {
+    "Number": 14,
+    "Text": "Ekstrеmаl hоlаtlаrdа tаrkibidаgi оqsillаr оrgаnizm uchun оqsil zаhirаsi vаzifаsini otаydigаn toqimаni korsаting",
+    "Answers": [
+      "jigаr"
+    ],
+    "Options": [
+      "tаlоq",
+      "buyrаk",
+      "suyak"
+    ]
+  },
+  {
+    "Number": 15,
+    "Text": "Nеyrоpеptid guruhini korsаting",
+    "Answers": [
+      "rilizing оmillаr"
+    ],
+    "Options": [
+      "nuklеprоtеidlаr",
+      "аtriоpеptidlаr",
+      "kаllidin"
+    ]
+  },
+  {
+    "Number": 16,
+    "Text": "Steroid tabiatli garmon:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Tiroksin",
+      "Oksitotsin",
+      "Insulin"
+    ]
+  },
+  {
+    "Number": 17,
+    "Text": "Qalqonsimon bezda hosil boluvchi garmon:",
+    "Answers": [
+      "Tiroksin"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Androsteron",
+      "Adrenalin"
+    ]
+  },
+  {
+    "Number": 18,
+    "Text": "Tiroksin garmoni qayerda sintezlanadi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Qalqon oldi bezi",
+      "Oshqozonosti bezida",
+      "Buyrak usti bezi postloq qismida"
+    ]
+  },
+  {
+    "Number": 19,
+    "Text": "Kretinizmda kuzatiladi:",
+    "Answers": [
+      "Aqliy va jismoniy rivojlanishdan orqada qolish"
+    ],
+    "Options": [
+      "Buqoq",
+      "Kozlar chaqchayishi",
+      "Giperglikemiya"
+    ]
+  },
+  {
+    "Number": 20,
+    "Text": "NAD molekulasldagi vitaminn korsating:",
+    "Answers": [
+      "PP"
+    ],
+    "Options": [
+      "K",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "Number": 21,
+    "Text": "Qonda glyukozaning normal miqdori:",
+    "Answers": [
+      "3.3 -6,4 mmol / l"
+    ],
+    "Options": [
+      "1,5 -2,5 mmol / l",
+      "4,0 -8,0 mmol / l",
+      "7,5 -12,5 mmol / l"
+    ]
+  },
+  {
+    "Number": 22,
+    "Text": "Giperglikemiya kuzatiladi:",
+    "Answers": [
+      "Feoxromositomada"
+    ],
+    "Options": [
+      "Ochlikda",
+      "Qandsiz diabetda",
+      "Addison kasalligida"
+    ]
+  },
+  {
+    "Number": 23,
+    "Text": "Gomopolisaxaridni belgilang:",
+    "Answers": [
+      "dekstrin"
+    ],
+    "Options": [
+      "geparin",
+      "dermatansulfat",
+      "gialuron kislotasi"
+    ]
+  },
+  {
+    "Number": 24,
+    "Text": "Vitamin P P inson toqimalarida nimadan sintezlanishi mumkin:",
+    "Answers": [
+      "Triptofan"
+    ],
+    "Options": [
+      "Glukuron kislota",
+      "Araxidon kislota",
+      "Tirozin"
+    ]
+  },
+  {
+    "Number": 25,
+    "Text": "Organizmda vitamin B1 etishmaganda kuzatiladi:",
+    "Answers": [
+      "Polinevrit"
+    ],
+    "Options": [
+      "Follikulyar giperkeratoz",
+      "Megaloblastik anemiya",
+      "Milklar qonashi"
+    ]
+  },
+  {
+    "Number": 26,
+    "Text": "Keratinlar eng kop miqdorda mavjud:",
+    "Answers": [
+      "sochlarda"
+    ],
+    "Options": [
+      "Suyaklarda",
+      "togaylarda",
+      "paylarda"
+    ]
+  },
+  {
+    "Number": 27,
+    "Text": "Хоlеstеrin mоlеkulаsidаgi guruhni korsаting",
+    "Answers": [
+      "gidrоksil guruх"
+    ],
+    "Options": [
+      "kаrbоksil guruх",
+      "fоsfаt kislоtа qоldigi",
+      "pеntоzаlаr"
+    ]
+  },
+  {
+    "Number": 28,
+    "Text": "Хоlеstеridning аsоsiy kоmpоnеni korsаting",
+    "Answers": [
+      "fenantren"
+    ],
+    "Options": [
+      "fоsfаt kislоtа",
+      "gеksоzа",
+      "plаzmаlоgеnlаr"
+    ]
+  },
+  {
+    "Number": 29,
+    "Text": "Tаrkibidа glisin tutuvchi ot kislоtаlаrning vаkilini korsаting",
+    "Answers": [
+      "glikохоlаt"
+    ],
+    "Options": [
+      "хоlаt",
+      "tаurхоlаt",
+      "хеnоdеzоksiхоlаt"
+    ]
+  },
+  {
+    "Number": 30,
+    "Text": "Steroid tabiatli garmon:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Insulin",
+      "Oksitotsin",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 31,
+    "Text": "Qalqonsimon bezda hosil boluvchi garmon:",
+    "Answers": [
+      "Tiroksin"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Androsteron",
+      "Adrenalin"
+    ]
+  },
+  {
+    "Number": 32,
+    "Text": "Tiroksin garmoni sintezlanadi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Oshqozonosti bezida",
+      "Qalqon oldi bezi",
+      "Buyrak usti bezi postloq qismida"
+    ]
+  },
+  {
+    "Number": 33,
+    "Text": "Kretinizmda kuzatiladi:",
+    "Answers": [
+      "Aqliy va jismoniy rivojlanishdan orqada qolish"
+    ],
+    "Options": [
+      "Kozlar chaqchayishi",
+      "Buqoq",
+      "Giperglikemiya"
+    ]
+  },
+  {
+    "Number": 34,
+    "Text": "Ca va P almashinuvini tartibga soluvchi gormon:",
+    "Answers": [
+      "Paratgarmon"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Mineralokortikoidlar",
+      "Vasopressin"
+    ]
+  },
+  {
+    "Number": 35,
+    "Text": "Peptid tabiatli gormonga misol:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Tiroksin",
+      "Adrenalin",
+      "Kortizol"
+    ]
+  },
+  {
+    "Number": 36,
+    "Text": "Insulinning muxim biologik funksiyasi:",
+    "Answers": [
+      "Qondagi glyukoza kontsentratsiyasini pasaytiradi"
+    ],
+    "Options": [
+      "Qonda glyukoza miqdorini oshiradi",
+      "Katabolik tasir korsatadi",
+      "Glikogen, yog, oqsil sintezini ingibirlaydi"
+    ]
+  },
+  {
+    "Number": 37,
+    "Text": "Glyukozaning hujayra membranasi orqali otkazuvchanligini taminlab beruvchi garmon:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Tiroksin",
+      "Glyukagon",
+      "Glyukokortikoidlar"
+    ]
+  },
+  {
+    "Number": 38,
+    "Text": "Ayol lar jinsiy garmoniga kiradi:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Prostaglandinlar",
+      "Aldosteron",
+      "Kortikosteron"
+    ]
+  },
+  {
+    "Number": 39,
+    "Text": "Insulinning biologik tasiri:",
+    "Answers": [
+      "Qondagi glyukoza miqdorini pasaytiradi"
+    ],
+    "Options": [
+      "Qonda glyukoza miqdorini oshiradi",
+      "Katabolik tasir korsatadi",
+      "Glikogen, yog, oqsil sintezini ingibirlaydi"
+    ]
+  },
+  {
+    "Number": 40,
+    "Text": "Glyukagon hosil boladi:",
+    "Answers": [
+      "Langergans orolchalarining a- hujayralarida"
+    ],
+    "Options": [
+      "Buyrak usti bezining postloq moddasida",
+      "Buyrak usti bezining magiz moddasida",
+      "Langergans orolchalarining b-hujayralarida"
+    ]
+  },
+  {
+    "Number": 41,
+    "Text": "Organizmda adrenalinning hosil bolish joyi:",
+    "Answers": [
+      "Buyrak usti bezining miya moddasi"
+    ],
+    "Options": [
+      "Qalqon oldi bezi",
+      "Langergans orolchalarining a hujayralarida",
+      "Buyrak usti bezining postloq moddasida"
+    ]
+  },
+  {
+    "Number": 42,
+    "Text": "Vitamin PP qanday nomlanadi :",
+    "Answers": [
+      "Nikotinamid"
+    ],
+    "Options": [
+      "Piridoksin",
+      "Tiamin",
+      "Riboflavin"
+    ]
+  },
+  {
+    "Number": 43,
+    "Text": "Vitamin C etishmasligida qaysi kasallik rivojlanadi:",
+    "Answers": [
+      "Singa"
+    ],
+    "Options": [
+      "Pellagra",
+      "Raxit",
+      "Beri-beri"
+    ]
+  },
+  {
+    "Number": 44,
+    "Text": "Paratgarmon ning biologik tasiri:",
+    "Answers": [
+      "Qondagi kalsiy miqdorini oshiradi"
+    ],
+    "Options": [
+      "Qonda glyukoza kontsentratsiyasini pasaytiradi",
+      "Qonda fosfor kontsentratsiyasini oshiradi",
+      "Qonda kaltsiy va fosfor kontsentratsiyasini pasaytiradi"
+    ]
+  },
+  {
+    "Number": 45,
+    "Text": "Kalsitoninning biologik tasiri:",
+    "Answers": [
+      "Qonda Ca va P konsentratsiyasini pasaytiradi"
+    ],
+    "Options": [
+      "Qonda P kontsentratsiyasini oshiradi",
+      "Ca kontsentratsiyasini oshiradi",
+      "Qonda fosfor kontsentratsiyasini pasaytiradi"
+    ]
+  },
+  {
+    "Number": 46,
+    "Text": "Kalsi tonin garmoni hosil boladi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Oshqozonosti bezida",
+      "Buyrakusti bezining postloq qismida",
+      "Buyrakusti bezining magiz qismida"
+    ]
+  },
+  {
+    "Number": 47,
+    "Text": "Insulinning biologik tasiri:",
+    "Answers": [
+      "Qondagi glyukoza kontsentratsiyasini pasaytiradi"
+    ],
+    "Options": [
+      "Qonda glyukoza miqdorini oshiradi",
+      "Katabolik tasir korsatadi",
+      "Glikogen, yog, oqsil sintezini ingibirlaydi"
+    ]
+  },
+  {
+    "Number": 48,
+    "Text": "Glyukozaning hujayra membranasi orqali otkazuvchanligini oshirib beruvchi garmon:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Tiroksin",
+      "Glyukagon",
+      "Glyukokortikoidlar"
+    ]
+  },
+  {
+    "Number": 49,
+    "Text": "Pepsinogen faollanishi uchun oshqozon shirasining optimal pH muxiti:",
+    "Answers": [
+      "1,5-2,5"
+    ],
+    "Options": [
+      "6,4–7,0",
+      "4,2-4,8",
+      "7,8-8,3"
+    ]
+  },
+  {
+    "Number": 50,
+    "Text": "Oshqozon shirasida erkin xlorid kislotaning meyoriy korsatkichi:",
+    "Answers": [
+      "20-40 mol/l"
+    ],
+    "Options": [
+      "10-20 mol/l",
+      "1.0-10 mol/l",
+      "50-60 mol/l"
+    ]
+  },
+  {
+    "Number": 51,
+    "Text": "Metillanish jarayonida qatnashadi:",
+    "Answers": [
+      "metionin"
+    ],
+    "Options": [
+      "izoleytsin",
+      "treonin",
+      "alanin"
+    ]
+  },
+  {
+    "Number": 52,
+    "Text": "Katexolaminlar va tiroksin organizmda qaysi aminokislotadan sintezlanadi:",
+    "Answers": [
+      "tirozin"
+    ],
+    "Options": [
+      "triptofan",
+      "lizin",
+      "serin"
+    ]
+  },
+  {
+    "Number": 53,
+    "Text": "Serotonin quyidagi aminokislotadan hosil boladi:",
+    "Answers": [
+      "triptofan"
+    ],
+    "Options": [
+      "tirozin",
+      "treonin",
+      "metionin"
+    ]
+  },
+  {
+    "Number": 54,
+    "Text": "Vitamin PP qanday nomlanadi :",
+    "Answers": [
+      "Nikotinamid"
+    ],
+    "Options": [
+      "Piridoksin",
+      "Tiamin",
+      "Riboflavin"
+    ]
+  },
+  {
+    "Number": 55,
+    "Text": "Vitamin B6 qanday nomlanadi:",
+    "Answers": [
+      "Piridoksin"
+    ],
+    "Options": [
+      "Pirimidin",
+      "Nikotin kislotasi",
+      "Riboflavin"
+    ]
+  },
+  {
+    "Number": 56,
+    "Text": "Vitamin C etishmasligida qaysi kasallik rivojlanadi:",
+    "Answers": [
+      "Singa"
+    ],
+    "Options": [
+      "Rahit",
+      "Pellagra",
+      "Beri-beri"
+    ]
+  },
+  {
+    "Number": 57,
+    "Text": "NAD kofermenti tarkibiga qaysi vitamin kiradi:",
+    "Answers": [
+      "PP"
+    ],
+    "Options": [
+      "B1",
+      "B2",
+      "B6"
+    ]
+  },
+  {
+    "Number": 58,
+    "Text": "Oqsil biosintezi joyiga DNK dagi genetik axborotning otkazilishini taminlaydi:",
+    "Answers": [
+      "mRNK"
+    ],
+    "Options": [
+      "DNK-polimeraza",
+      "tRNK",
+      "rRNK"
+    ]
+  },
+  {
+    "Number": 59,
+    "Text": "Fosfor ionlarining organizmdagi vazifalari:",
+    "Answers": [
+      "Makroergik moddalar sintezida ishtiroki"
+    ],
+    "Options": [
+      "Qon ivish jarayonlarida ishtirok etadi",
+      "Qonda onkotik bosimini saqlash",
+      "Nerv impulslarini o`tkazishda ishtiroki"
+    ]
+  },
+  {
+    "Number": 60,
+    "Text": "Siydik rangini ozgartirishi mumkin:",
+    "Answers": [
+      "Qon pigmentleri"
+    ],
+    "Options": [
+      "Glyukoza",
+      "Keton tanachalari",
+      "Mochevina"
+    ]
+  },
+  {
+    "Number": 61,
+    "Text": "Glyukozuriya kuzatiladi:",
+    "Answers": [
+      "Qandli diabet"
+    ],
+    "Options": [
+      "Glikogenoza",
+      "Fenilketonuriya",
+      "Ochlik"
+    ]
+  },
+  {
+    "Number": 62,
+    "Text": "Siydik patologik tarkibi:",
+    "Answers": [
+      "Qon"
+    ],
+    "Options": [
+      "Indikan",
+      "Sulfatlar",
+      "Sterkobilinogen"
+    ]
+  },
+  {
+    "Number": 63,
+    "Text": "Mushak qisqarishi uchun energiya manbai:",
+    "Answers": [
+      "Kreatinfosfat"
+    ],
+    "Options": [
+      "Adenozinmonofosfat",
+      "Fosfoenolpiruvat",
+      "Karbamoilfosfat"
+    ]
+  },
+  {
+    "Number": 64,
+    "Text": "Miya hujayralari uchun asosiy metabolik yonilgi:",
+    "Answers": [
+      "Glyukoza"
+    ],
+    "Options": [
+      "Aminokislotalar",
+      "Yog kislotari",
+      "Fruktoza"
+    ]
+  },
+  {
+    "Number": 65,
+    "Text": "Jigarda yog kislotalar sintezi va oksidlanishini boshqaruvchi kalit ferment",
+    "Answers": [
+      "аsetilKоА-karboksilaza"
+    ],
+    "Options": [
+      "lesitin",
+      "аtsilKoA-izomeraza",
+      "sitrat sintetaza"
+    ]
+  },
+  {
+    "Number": 66,
+    "Text": "Lipolizni aktivlashtiruvchi gormon va kalit ferment",
+    "Answers": [
+      "adrenalin"
+    ],
+    "Options": [
+      "tridiglitseridlipaza",
+      "STG-Insulin",
+      "Triglitseridlipaza,"
+    ]
+  },
+  {
+    "Number": 67,
+    "Text": "Toqimalarda yoglar mobilizatsiyasi ni chaqiruvchi gormon",
+    "Answers": [
+      "Epinefrin yoki adrenalin"
+    ],
+    "Options": [
+      "tiroksin",
+      "Kalsitonin",
+      "Somatostatin yoki somatotropin"
+    ]
+  },
+  {
+    "Number": 68,
+    "Text": "Katta yoshli odam organizmida 1 sutkada sintezlanadigan xolesterin miqdori:",
+    "Answers": [
+      "0.8 - 1.0 g"
+    ],
+    "Options": [
+      "0,4 - 0,6 g",
+      "3 - 5 g",
+      "6 - 8 g"
+    ]
+  },
+  {
+    "Number": 69,
+    "Text": "Giperxolisterolemiya kuzatiladi:",
+    "Answers": [
+      "Ateroskleroz"
+    ],
+    "Options": [
+      "Jigar serrozi",
+      "Giperterioz",
+      "Miksedema"
+    ]
+  },
+  {
+    "Number": 70,
+    "Text": "Odam organizmi da xolesteroldan hosil boluvchi modda:",
+    "Answers": [
+      "vitamin D3"
+    ],
+    "Options": [
+      "Purinlar",
+      "Keton tanachalari",
+      "Yog kislotalari"
+    ]
+  },
+  {
+    "Number": 71,
+    "Text": "Beda bargi shakli uchun xarakterli:",
+    "Answers": [
+      "tRNK"
+    ],
+    "Options": [
+      "DNK ning uchlamchi tuzilishi",
+      "40 S ribosomaning kichik birligi",
+      "mRNK"
+    ]
+  },
+  {
+    "Number": 72,
+    "Text": "Nuklein kislotaning qaysi tipida timin boladi",
+    "Answers": [
+      "DNK"
+    ],
+    "Options": [
+      "rRNK",
+      "mRNK",
+      "gyRNK"
+    ]
+  },
+  {
+    "Number": 73,
+    "Text": "Eukariot organizmlar ribosomasi tarkibiga kiruvchi r RNK:",
+    "Answers": [
+      "28 S"
+    ],
+    "Options": [
+      "10 S",
+      "15 S",
+      "20 S"
+    ]
+  },
+  {
+    "Number": 74,
+    "Text": "Eukariotlarda DNK sintezi uchun substrat hisoblanadi :",
+    "Answers": [
+      "Dezoksiribonukleozidtrifosfat"
+    ],
+    "Options": [
+      "Nukleotiddifosfat",
+      "Nukleotidtrifosfat",
+      "Okazaki qismlari"
+    ]
+  },
+  {
+    "Number": 75,
+    "Text": "Nukleoproteinlar vakili hisoblanadi:",
+    "Answers": [
+      "Ribosoma"
+    ],
+    "Options": [
+      "Mikrosoma",
+      "Liposoma",
+      "Lizosoma"
+    ]
+  },
+  {
+    "Number": 76,
+    "Text": "Nuklein kislotalarning asosiy funksiyalaridan biri",
+    "Answers": [
+      "irsiy axborot realizatsiyasi"
+    ],
+    "Options": [
+      "nuklein kislotalarning monomeri",
+      "kоfаktоrlik vazifasi",
+      "аllоstеrik mоdulyatоr"
+    ]
+  },
+  {
+    "Number": 77,
+    "Text": "DNK va RNK tarkibiga kiruvchi pirimidin nukleotidi xisoblanadi",
+    "Answers": [
+      "sitоzin"
+    ],
+    "Options": [
+      "tirоzin",
+      "аlаnin",
+      "lеsitin"
+    ]
+  },
+  {
+    "Number": 78,
+    "Text": "Antioksidant himoya fermenti hisoblanadi:",
+    "Answers": [
+      "Glutation peroksidaza"
+    ],
+    "Options": [
+      "Transferaza",
+      "Glyukozaoksidaza",
+      "Transketolasa"
+    ]
+  },
+  {
+    "Number": 79,
+    "Text": "Hujayralarda mavjud RNK turi#",
+    "Answers": [
+      "tRNA"
+    ],
+    "Options": [
+      "nRNK",
+      "dRNK",
+      "pRNK"
+    ]
+  },
+  {
+    "Number": 80,
+    "Text": "Oqsil biosintezi joyiga DNKdagi genetik axborotning otkazilishini taminlaydi:",
+    "Answers": [
+      "mRNK"
+    ],
+    "Options": [
+      "DNK-polimeraza",
+      "tRNK",
+      "rRNK"
+    ]
+  },
+  {
+    "Number": 81,
+    "Text": "Dezoksiribonukleoprotenning to liq gidrolizida nima hosil boladi:",
+    "Answers": [
+      "Purin asoslari"
+    ],
+    "Options": [
+      "Nukleozid",
+      "Riboza",
+      "Peptidlar"
+    ]
+  },
+  {
+    "Number": 82,
+    "Text": "Mikrosomal oksidlanish oksidlanishning qaysi tipiga tegishli:",
+    "Answers": [
+      "Monooksigenaz"
+    ],
+    "Options": [
+      "Dioksigenaz",
+      "Oxidaz",
+      "Degidrogenaz"
+    ]
+  },
+  {
+    "Number": 83,
+    "Text": "Jigarda protrombin sintezida qatnashuvchi vitaminni korsating:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "B1"
+    ]
+  },
+  {
+    "Number": 84,
+    "Text": "Organizmdagi qaysi sistema moddalar almashinuvini boshqarilishini",
+    "Answers": [
+      "endokrin"
+    ],
+    "Options": [
+      "limfatik",
+      "ayiruv",
+      "nafas olish"
+    ]
+  },
+  {
+    "Number": 85,
+    "Text": "Xolesterin mahsulotlari qatoriga kiruvchi gormonlarni korsating",
+    "Answers": [
+      "kortizol"
+    ],
+    "Options": [
+      "adrenalin",
+      "insulin",
+      "kalsitonin"
+    ]
+  },
+  {
+    "Number": 86,
+    "Text": "Vitamin B1 tanqisligi qaysi kasallikka olib keladi:",
+    "Answers": [
+      "Beri-beri"
+    ],
+    "Options": [
+      "Kvashiorkor",
+      "Pellagra",
+      "Raxit"
+    ]
+  },
+  {
+    "Number": 87,
+    "Text": "Vitamin B2 qanday reaksiyalarni katalizlovchi fermentlar tarkibiga kiradi:",
+    "Answers": [
+      "Oksidlanish-qaytarilish"
+    ],
+    "Options": [
+      "Guruhlar tashilishi",
+      "Yangi molekulalarning sintezi",
+      "Gidroliz"
+    ]
+  },
+  {
+    "Number": 88,
+    "Text": "Vitamin PPning koferment shakli:",
+    "Answers": [
+      "NAD, NADF"
+    ],
+    "Options": [
+      "FAD, FMN",
+      "TDF",
+      "HSKoA"
+    ]
+  },
+  {
+    "Number": 89,
+    "Text": "Vitamin B1 qanday nomlanadi:",
+    "Answers": [
+      "Tiamin"
+    ],
+    "Options": [
+      "Timin",
+      "Biotin",
+      "Piridoksin"
+    ]
+  },
+  {
+    "Number": 90,
+    "Text": "Jigarda glikogen zaxirasi qanchaga yetadi:",
+    "Answers": [
+      "6%"
+    ],
+    "Options": [
+      "10%",
+      "1%",
+      "3%"
+    ]
+  },
+  {
+    "Number": 91,
+    "Text": "Jigarda galaktozaning fosforillanishida hosil boladi:",
+    "Answers": [
+      "Galaktoza -1-fosfat"
+    ],
+    "Options": [
+      "Glyukoza -6-fosfat",
+      "Glyukoza -1-fosfat",
+      "UDF-galaktoza"
+    ]
+  },
+  {
+    "Number": 92,
+    "Text": "Eritrositlar tarkibi v a tuzilishi xossasini korsating.",
+    "Answers": [
+      "eritrоsitlar qonning 44% ini tashkil qiladi"
+    ],
+    "Options": [
+      "mioglabin tutadi",
+      "eritrositlarning 5% ini gemoglabin tashkil qiladi",
+      "yadro va mitoxondriyaga ega"
+    ]
+  },
+  {
+    "Number": 93,
+    "Text": "Ferritinga xos xususiyatni korsating",
+    "Answers": [
+      "toqimada temir zahirasi hisoblanadi"
+    ],
+    "Options": [
+      "bitta polipeptid zanjirdan iborat",
+      "glikоprоtеid",
+      "lipоprоtеid"
+    ]
+  },
+  {
+    "Number": 94,
+    "Text": "Ferritinga boy organni aniqlang.",
+    "Answers": [
+      "Jigar"
+    ],
+    "Options": [
+      "opka",
+      "buyrak",
+      "miya"
+    ]
+  },
+  {
+    "Number": 95,
+    "Text": "Eritrosit tarkibida mavjud bolmagan organoidni aniqlang",
+    "Answers": [
+      "yadrо"
+    ],
+    "Options": [
+      "biоmеmbrаna",
+      "gеmоglоbin",
+      "sitоplаzmа"
+    ]
+  },
+  {
+    "Number": 96,
+    "Text": "Eritrositlardagi biokimyoviy jarayonlarda qatnashadigan fermentlar guruhini",
+    "Answers": [
+      "oqsil biosintezida qatnashuvchi fermentlar"
+    ],
+    "Options": [
+      "aerob glikoliz fermentlari",
+      "lipidlar sintezlovchi fermentlar",
+      "glukoneogenez fеrmеntlari"
+    ]
+  },
+  {
+    "Number": 97,
+    "Text": "Tiroksin garmoni sintezlanadi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Oshqozonosti bezida",
+      "Qalqon oldi bezi",
+      "Buyrak usti bezi postloq qismida"
+    ]
+  },
+  {
+    "Number": 98,
+    "Text": "Tirok sin etishmovchiligida kattalarda rivojlanadigan kasallik:",
+    "Answers": [
+      "Miksidema"
+    ],
+    "Options": [
+      "Greyvs kasalligi",
+      "Kretinizm",
+      "Feoxromositoma"
+    ]
+  },
+  {
+    "Number": 99,
+    "Text": "Tiroksinning ortiqcha sekretsiyasida kuzatiladi:",
+    "Answers": [
+      "Qozgaluvchanlik, asabiylashish"
+    ],
+    "Options": [
+      "tana massasining ortishi",
+      "Suyaklar deformatsiyasi",
+      "Qonda xolesterin oshishi"
+    ]
+  },
+  {
+    "Number": 100,
+    "Text": "Oqsillarning yonish energiyasi miqdori:",
+    "Answers": [
+      "4.2 kkal / g"
+    ],
+    "Options": [
+      "9,3 kkal / g",
+      "7,5 kkal / g",
+      "2.1 kkal / g"
+    ]
+  },
+  {
+    "Number": 101,
+    "Text": "Kretinizmda kuzatiladi:",
+    "Answers": [
+      "Aqliy va jismoniy rivojlanishdan orqada qolish"
+    ],
+    "Options": [
+      "Kozlar chaqchayishi",
+      "Buqoq bezning kattalashib.shishib ketishi",
+      "Giperglikemiya"
+    ]
+  },
+  {
+    "Number": 102,
+    "Text": "Ca va P almashinuvini tartibga soluvchi gormon:",
+    "Answers": [
+      "Paratgarmon"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Testosteron",
+      "Vasopressin"
+    ]
+  },
+  {
+    "Number": 103,
+    "Text": "Vitamin PP qanday nomlanadi :",
+    "Answers": [
+      "Nikotinamid"
+    ],
+    "Options": [
+      "Piridoksin",
+      "Tiamin",
+      "Riboflavin"
+    ]
+  },
+  {
+    "Number": 104,
+    "Text": "Vitamin C etishmasligida qaysi kasallik rivojlanadi:",
+    "Answers": [
+      "Singa"
+    ],
+    "Options": [
+      "Raxit",
+      "Pellagra",
+      "Beri-beri"
+    ]
+  },
+  {
+    "Number": 105,
+    "Text": "Qaysi gomopolisaxarid inson toqimalarida tuplanadi",
+    "Answers": [
+      "Glikogen"
+    ],
+    "Options": [
+      "Glyukoza",
+      "Dekistrin",
+      "Sellyuloza"
+    ]
+  },
+  {
+    "Number": 106,
+    "Text": "Gemoglobin molekulasi tuzilgan:",
+    "Answers": [
+      "tortta gem va tortta polipeptid zanjirdan"
+    ],
+    "Options": [
+      "bitta gem va tortta polipeptnd zanjirdan",
+      "ikkita gem va ikkita polipeptid zanjirdan",
+      "tortta gem va bitta polipeptid zanjirdan"
+    ]
+  },
+  {
+    "Number": 107,
+    "Text": "Gemoglobin quyidagi jarayonlar da qatnashadi:",
+    "Answers": [
+      "kislota-ishqor muvozanatini saqlashda"
+    ],
+    "Options": [
+      "minerallar almashinuvida",
+      "gidrolitik jarayonlar tezligini boshqarishda",
+      "vitaminlar transportida"
+    ]
+  },
+  {
+    "Number": 108,
+    "Text": "Vitamin C yetishmovchiligi da qaysi oqsil shakllanishi buziladi",
+    "Answers": [
+      "Kollagen"
+    ],
+    "Options": [
+      "Mioglobin",
+      "Insulin",
+      "Gemoglobin"
+    ]
+  },
+  {
+    "Number": 109,
+    "Text": "Qaysi temperaturada fermentlar denaturatsiyalanadi",
+    "Answers": [
+      "80 – 100 ° C"
+    ],
+    "Options": [
+      "10 -20 ° C",
+      "20 -30 ° C",
+      "30 -40 ° C"
+    ]
+  },
+  {
+    "Number": 110,
+    "Text": "Kopchilik fermentlar tasir etishi uchun optimal harorat:",
+    "Answers": [
+      "35 -40 ° C"
+    ],
+    "Options": [
+      "50 -60 ° C",
+      "15 -20 ° C",
+      "80 -100 ° C"
+    ]
+  },
+  {
+    "Number": 111,
+    "Text": "Solakdagi amilazaning aktivatori:",
+    "Answers": [
+      "NaCl"
+    ],
+    "Options": [
+      "CuSO4",
+      "NaOH",
+      "KOH"
+    ]
+  },
+  {
+    "Number": 112,
+    "Text": "Pankreatik lipazaning aktivatori:",
+    "Answers": [
+      "Ot kislotalari"
+    ],
+    "Options": [
+      "HCl",
+      "Kastl omili",
+      "Rennin"
+    ]
+  },
+  {
+    "Number": 113,
+    "Text": "Gormonal funksiya bajaruvchi peptidni korsating",
+    "Answers": [
+      "Mеlаnоtrоpin"
+    ],
+    "Options": [
+      "nоrаdrеnаlin",
+      "tirоksin",
+      "triYоdtirоnin"
+    ]
+  },
+  {
+    "Number": 114,
+    "Text": "Vitamin B2 qanday reaksiyalarni katalizlovchi fermentlar tarkibiga kiradi:",
+    "Answers": [
+      "Oksidlanish-qaytarilish"
+    ],
+    "Options": [
+      "Gidroliz",
+      "Guruhlar tashilishi",
+      "Yangi molekulalarning sintezi"
+    ]
+  },
+  {
+    "Number": 115,
+    "Text": "Vitamin B1 qanday nomlanadi:",
+    "Answers": [
+      "Tiamin"
+    ],
+    "Options": [
+      "Timin",
+      "Biotin",
+      "Piridoksin"
+    ]
+  },
+  {
+    "Number": 116,
+    "Text": "Vitamin B2 qanday nomlanadi:",
+    "Answers": [
+      "Riboflavin"
+    ],
+    "Options": [
+      "Piridoksin",
+      "Biotin",
+      "Tiamin"
+    ]
+  },
+  {
+    "Number": 117,
+    "Text": "Qonda glyukoza miqdorinimeyorlashtiruvchi garmon:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Adrenalin",
+      "Glyukagon",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 118,
+    "Text": "Ovqatning almashinmaydigan komponenti hisoblanadi:",
+    "Answers": [
+      "Xolesterin"
+    ],
+    "Options": [
+      "Linol kislota",
+      "Fruktoza",
+      "Alanin aminokislotasi"
+    ]
+  },
+  {
+    "Number": 119,
+    "Text": "Kattalarda balansli ovqatlanishda oqsil-yog-uglevod nisbati:",
+    "Answers": [
+      "1: 1: 4"
+    ],
+    "Options": [
+      "1: 2: 4",
+      "1: 2: 3",
+      "4: 1: 1"
+    ]
+  },
+  {
+    "Number": 120,
+    "Text": "Ca va P almashinuvini tartibga soluvchi gormon:",
+    "Answers": [
+      "Paratgarmon"
+    ],
+    "Options": [
+      "Mineralokortikoidlar",
+      "Aldosteron",
+      "Vasopressin"
+    ]
+  },
+  {
+    "Number": 121,
+    "Text": "Qaysi ferment jigar kasalliklari uchun indikator",
+    "Answers": [
+      "Alanilaminotransferaza"
+    ],
+    "Options": [
+      "kreatinfosfokinaza",
+      "ishqoriy fosfataza",
+      "amilaza",
+      "suktsinatdegidrogenaza"
+    ]
+  },
+  {
+    "Number": 122,
+    "Text": "Peptid tabiatli gormon:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Tiroksin",
+      "Adrenalin",
+      "Kortizol"
+    ]
+  },
+  {
+    "Number": 123,
+    "Text": "Оqsil tаrkibi sеkin yangilаnаdigаn оrgаnni korsаtinD.",
+    "Answers": [
+      "miya"
+    ],
+    "Options": [
+      "jigаr",
+      "yurаk",
+      "buYrаk"
+    ]
+  },
+  {
+    "Number": 124,
+    "Text": "Qandli diabet va ochlikda qon zardobida keton tanachalar ortishining asosiy sababi:",
+    "Answers": [
+      "atsetil–KoA miqdorini keskin ortishi"
+    ],
+    "Options": [
+      "glukoza miqdorini ortishi",
+      "glitserin miqdorini ortishi",
+      "aminokislotalar miqdorini ortishi"
+    ]
+  },
+  {
+    "Number": 125,
+    "Text": "Meda shirasi umumiy kislotaliligining oshishi nomlanadi:",
+    "Answers": [
+      "giperatsiduriya"
+    ],
+    "Options": [
+      "gipoxlorgidriya",
+      "gipoatsidoz",
+      "axlorgidriya"
+    ]
+  },
+  {
+    "Number": 126,
+    "Text": "Qon zardobida umumiy oqsil miqdori teng:",
+    "Answers": [
+      "50-60 g/l"
+    ],
+    "Options": [
+      "10-20 g/l",
+      "20-30 g/l",
+      "70-80 g/l"
+    ]
+  },
+  {
+    "Number": 127,
+    "Text": "Hujayraning qay si qismida yog  kislotalarining -oksidlanishi kuzatiladi",
+    "Answers": [
+      "mitoxondriya"
+    ],
+    "Options": [
+      "Mikrosomalarda",
+      "sitoplazmada",
+      "yadroda"
+    ]
+  },
+  {
+    "Number": 128,
+    "Text": "Ogiz boshligida oqsillarni hazm bo`lishi nima orqali sodir bo`ladi:",
+    "Answers": [
+      "Bu jarayon sodir bolmaydi"
+    ],
+    "Options": [
+      "Amilaza",
+      "Pepsin",
+      "Pepsinogen pepsinga aylanishidan"
+    ]
+  },
+  {
+    "Number": 129,
+    "Text": "Qaysi biogen amin tomir kengaytiruvchi tasirga ega",
+    "Answers": [
+      "Gistamin"
+    ],
+    "Options": [
+      "Metilamin",
+      "Etanolamin",
+      "GAMK"
+    ]
+  },
+  {
+    "Number": 130,
+    "Text": "Tаbiiy mumlаrni korsаting",
+    "Answers": [
+      "аsаlаri mumi"
+    ],
+    "Options": [
+      "хоlеstеridlаr",
+      "sfingiоlipidlаr",
+      "plаzmаlоgеnlаr"
+    ]
+  },
+  {
+    "Number": 131,
+    "Text": "Tаrkibidа tаurin tutuvchi ot kislоtаsining vаkilini korsаting",
+    "Answers": [
+      "tаurохоlаt"
+    ],
+    "Options": [
+      "glikохоlаt",
+      "хоlаt",
+      "оksiхоlаt"
+    ]
+  },
+  {
+    "Number": 132,
+    "Text": "Qaysi sitoxrom qatori temir va mis atomi saqlaydi",
+    "Answers": [
+      "aa3"
+    ],
+    "Options": [
+      "B",
+      "c1",
+      "c"
+    ]
+  },
+  {
+    "Number": 133,
+    "Text": "Oksidoreduktazaga tegishli ferment:",
+    "Answers": [
+      "Suksinatdegidrogenaza"
+    ],
+    "Options": [
+      "Amilaza",
+      "Lipaza",
+      "Pepsin"
+    ]
+  },
+  {
+    "Number": 134,
+    "Text": "Peptid tabiatli gormonlar:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Adrenalin",
+      "Tiroksin",
+      "Kortizol"
+    ]
+  },
+  {
+    "Number": 135,
+    "Text": "Xolesterin biosintezida muxim vazifani bajaruvchi organ",
+    "Answers": [
+      "Jigar"
+    ],
+    "Options": [
+      "teri",
+      "ichak",
+      "miya"
+    ]
+  },
+  {
+    "Number": 136,
+    "Text": "Oshqozon-ichak yollarida fermentlar sintezi buzilganda quidagi dori",
+    "Answers": [
+      "pepsin, festal"
+    ],
+    "Options": [
+      "pepsin, urokinaza",
+      "pakreatin, streptokinaza",
+      "fibrinolizin, panzinorm"
+    ]
+  },
+  {
+    "Number": 137,
+    "Text": "Jigarda protrombin sintezida qatnashuvchi vitaminni korsating:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "B1",
+      "E",
+      "B12"
+    ]
+  },
+  {
+    "Number": 138,
+    "Text": "Kodonlarning ahamiyati ularning ... ketma-ketlikni shifrlashdan iborat:",
+    "Answers": [
+      "aminokislotalar"
+    ],
+    "Options": [
+      "purin asoslari",
+      "nukleozidtrifosfatlar",
+      "nukleozidmonofosfatlar"
+    ]
+  },
+  {
+    "Number": 139,
+    "Text": "t-RNK yetilishi quyidagi reaktsiyani oz ichiga oladi:",
+    "Answers": [
+      "axborot saqlamaydigan qismlarning olib tashlanishi va minor asoslarning paydo bolishi"
+    ],
+    "Options": [
+      "zanjir boshiga 7-metilguanozinni biriktirish",
+      "minor nukleotidlarning paydo bolishi",
+      "zanjir oxiriga poliadenilatning birikishi"
+    ]
+  },
+  {
+    "Number": 140,
+    "Text": "Bemorda oshqozon rezektsiyasidan keyin havfli kam qonlik rivojlandi. Vitamin Bc foyda bermadi.bunda qaysi vitaminni berish kerak:",
+    "Answers": [
+      "B12"
+    ],
+    "Options": [
+      "P",
+      "PP",
+      "K"
+    ]
+  },
+  {
+    "Number": 141,
+    "Text": "Nikotinamidning biologik tasiri qaysi kofermentning tarkibida namoyon boladi:",
+    "Answers": [
+      "NADF"
+    ],
+    "Options": [
+      "TGFK",
+      "tiamindifosfat",
+      "FAD"
+    ]
+  },
+  {
+    "Number": 142,
+    "Text": "Qaysi vitamin yetishmaganda mushaklarda distrofik ozgarish, jigarni yog bosishi kuzatiladi.",
+    "Answers": [
+      "E"
+    ],
+    "Options": [
+      "D",
+      "B1",
+      "C"
+    ]
+  },
+  {
+    "Number": 143,
+    "Text": "Qaysi oqsil mushakning spetsifik oqsili#",
+    "Answers": [
+      "mioglobin"
+    ],
+    "Options": [
+      "neyrostenin",
+      "laminin",
+      "gemoglobin"
+    ]
+  },
+  {
+    "Number": 144,
+    "Text": "17-ketosteroid lar hosil boladi:",
+    "Answers": [
+      "Jigarda",
+      "Itsenko-Kushing sindromi"
+    ],
+    "Options": [
+      "Urugdonlarda",
+      "Buyrakusti bezida",
+      "Tuxumdonlar",
+      "Addison kasalligi",
+      "Kretinizm",
+      "Tuxumdon osmalari"
+    ]
+  },
+  {
+    "Number": 145,
+    "Text": "Talaba yoshida organizmning energiyaga talabi:",
+    "Answers": [
+      "2800 kkal / kun"
+    ],
+    "Options": [
+      "1200 kkal / kun",
+      "3400 kkal / kun",
+      "1900 kkal / kun"
+    ]
+  },
+  {
+    "Number": 146,
+    "Text": "Ovqatning almashinmaydigan komponenti hisoblanadi:",
+    "Answers": [
+      "Vitaminlar"
+    ],
+    "Options": [
+      "Glyukoza",
+      "Glisin, alanin aminokislatalari",
+      "Alanin, metionin aminokislatalari"
+    ]
+  },
+  {
+    "Number": 147,
+    "Text": "PP avitaminoziga xos bulgan belgini korsating:",
+    "Answers": [
+      "pellagra"
+    ],
+    "Options": [
+      "retinopatiya",
+      "eratomalatsiya",
+      "alopetsiya"
+    ]
+  },
+  {
+    "Number": 148,
+    "Text": "Vitamin B6 ning organizmda uchraydigan korinishini korsating:",
+    "Answers": [
+      "piridoksamin"
+    ],
+    "Options": [
+      "Biotin",
+      "kalsiferolamin",
+      "tiamin"
+    ]
+  },
+  {
+    "Number": 149,
+    "Text": "Suvda eruvchi vitaminlarning vakilini korsating:",
+    "Answers": [
+      "B6"
+    ],
+    "Options": [
+      "D",
+      "K",
+      "A"
+    ]
+  },
+  {
+    "Number": 150,
+    "Text": "Vitamin B2 ning qaysi koferment tarkibida uchrashini korsating:",
+    "Answers": [
+      "FAD"
+    ],
+    "Options": [
+      "NADF",
+      "Asetilkoenzim",
+      "NAD"
+    ]
+  },
+  {
+    "Number": 151,
+    "Text": "Albinizm ning kelib chiqish sababi:",
+    "Answers": [
+      "Tirozinaza yetishmasligi"
+    ],
+    "Options": [
+      "Qonda albuminlar kontsentratsiyasi pasayishi",
+      "Organizmda vitamin A yetishmasligi",
+      "Fenilalaningidroksilaza yetishmasligi"
+    ]
+  },
+  {
+    "Number": 152,
+    "Text": "Poliuriya kuzatiladi",
+    "Answers": [
+      "Surinkali nefrit"
+    ],
+    "Options": [
+      "Surunkali Gepatit",
+      "Pankreatid",
+      "Gipoterioz"
+    ]
+  },
+  {
+    "Number": 153,
+    "Text": "Androgenlarga kira di:",
+    "Answers": [
+      "Testosteron"
+    ],
+    "Options": [
+      "Prolaktinlar",
+      "Antidiuretik garmon",
+      "Aldosteron"
+    ]
+  },
+  {
+    "Number": 154,
+    "Text": "sAMF ning hujayradagi roli:",
+    "Answers": [
+      "Proteinkinaza A ni aktivlashtiradi"
+    ],
+    "Options": [
+      "ATF ga aylanadi",
+      "Adenilatsiklazani aktivlaydi",
+      "Vitamin A ning otmishdoshi"
+    ]
+  },
+  {
+    "Number": 155,
+    "Text": "Organizmda adrenalinning hosil bolish joyi:",
+    "Answers": [
+      "Buyrak usti bezining miya moddasi"
+    ],
+    "Options": [
+      "Qalqon oldi bezi",
+      "Langergans orolchalarining a hujayralarida",
+      "Buyrak usti bezining postloq moddasida"
+    ]
+  },
+  {
+    "Number": 156,
+    "Text": "Adrenalin kimyoviy tabiati boyicha:",
+    "Answers": [
+      "Tirozin aminokislotasi hosilasi"
+    ],
+    "Options": [
+      "Triptofan aminokislotasi hosilasi",
+      "Oqsil",
+      "Steroid gormon"
+    ]
+  },
+  {
+    "Number": 157,
+    "Text": "Adrenalin uch un nishon toqima :",
+    "Answers": [
+      "Yurak-tomir tizimi"
+    ],
+    "Options": [
+      "Buyrak usti bezining miya qismi",
+      "Biriktiruvchi toqima",
+      "Pankryas bezi"
+    ]
+  },
+  {
+    "Number": 158,
+    "Text": "Vitamin E ning biologik tasiri quyidagi jarayonlarda kuzatiladi:",
+    "Answers": [
+      "antioksidant sifatida xujayra membranalarini stabillaydi"
+    ],
+    "Options": [
+      "uglevodlarning aerob parchalanishida",
+      "qon yaratishda",
+      "togay toqimasining suyak toqimasiga almashinishida"
+    ]
+  },
+  {
+    "Number": 159,
+    "Text": "Bemor antibiotiklar istemol qilgandan song burnidan qon ketdi,Askorutin preparati yordam bermaydi. Bu qaysi gipovitaminozga xos:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "H"
+    ]
+  },
+  {
+    "Number": 160,
+    "Text": "Bolada bosh suyagi ning liqildoq moddalarning bitmasligi, tishlar rivojlanishining orqada qolishi kuzatiladi. Ushbu qaysi gipovitaminoz:",
+    "Answers": [
+      "xolekaltsiferol"
+    ],
+    "Options": [
+      "nikotinamid",
+      "askorbin kislotasi",
+      "retinol"
+    ]
+  },
+  {
+    "Number": 161,
+    "Text": "Quyidagi koferment tarkibida nikotinamid ozining kofermentlik funktsiyasini namoyon qiladi:",
+    "Answers": [
+      "NADF"
+    ],
+    "Options": [
+      "TGFK",
+      "tiamindifosfat",
+      "FAD"
+    ]
+  },
+  {
+    "Number": 162,
+    "Text": "Qon plazmasi oddiy oqsil fraksiyalaridan birini korsating",
+    "Answers": [
+      "аlьbuminlar"
+    ],
+    "Options": [
+      "immunоglоbulinlar",
+      "prоtrоmbin",
+      "fibrinоgеn"
+    ]
+  },
+  {
+    "Number": 163,
+    "Text": "Bor effekti namoyon bolishi korinishi",
+    "Answers": [
+      "toqimalarda CO2 oksigemoglabin tarkibidagi О2 ni siqib chiqaradi"
+    ],
+    "Options": [
+      "tuz – suv almashinuvini boshqaradi",
+      "qon pH korsatkichlarini destabillaydi",
+      "eritrоsitlar metabolizmini boshqaradi"
+    ]
+  },
+  {
+    "Number": 164,
+    "Text": "Protrombin ni aktivlovchi tashqi omillardan biri.",
+    "Answers": [
+      "Ca+2ioni"
+    ],
+    "Options": [
+      "kаllеkrin",
+      "XII-fаktоr",
+      "XI-fаktоr"
+    ]
+  },
+  {
+    "Number": 165,
+    "Text": "Ichki qon ivishi ning oziga xos momentlaridan biri.",
+    "Answers": [
+      "barcha kerakli omillar qonda mavjud"
+    ],
+    "Options": [
+      "Ca+2 iоnlari",
+      "toqima tromboplastini jarayonda ishtirok etishi",
+      "qon ivishi sezilarli sekin boradi"
+    ]
+  },
+  {
+    "Number": 166,
+    "Text": "Tashqi qon ivishiga xos bosqichni korsating.",
+    "Answers": [
+      "toqima tromboplastini bilan VII omolning aktivlanishi"
+    ],
+    "Options": [
+      "I fаktоrning X fаktоr bilan aktivlanishi",
+      "X fаktоrning II fаktоr bilan aktivlanishi",
+      "VII fаktоrning XII fаktоr bilan aktivlanishi"
+    ]
+  },
+  {
+    "Number": 167,
+    "Text": "Bemor qolini sindirgandan song tuzalishi qiyin buldi. Shifoni tezlashtirish uchun qanday gormonni tavsiya etish mumkin",
+    "Answers": [
+      "kalsitonin"
+    ],
+    "Options": [
+      "insulin",
+      "aldosteron",
+      "vazepressin"
+    ]
+  },
+  {
+    "Number": 168,
+    "Text": "Geparin hayvon organizmida quyidagi vazifani bajaradi:",
+    "Answers": [
+      "lipoproteinlipaza aktivatori va qator fermentlar ingibitori"
+    ],
+    "Options": [
+      "transport vazifasini bajaradi",
+      "pay va togaylar uchun sementlovchi vazifasini",
+      "suyaklanish jarayonida qatnashadi"
+    ]
+  },
+  {
+    "Number": 169,
+    "Text": "Eritmada gemoglobin borligini quyidagi reaktsiya yordamida aniqlash mumkin:",
+    "Answers": [
+      "benzidin sinamasi"
+    ],
+    "Options": [
+      "biuret",
+      "Pauli",
+      "Adamkevich"
+    ]
+  },
+  {
+    "Number": 170,
+    "Text": "DNKning birlam chi strukturasi quyidagi boglar hisobiga mustaxkamlanadi:",
+    "Answers": [
+      "fosfodiefir"
+    ],
+    "Options": [
+      "peptid",
+      "vodorod, ion, Van-der-Vaals kuchlari",
+      "vodorod va ion"
+    ]
+  },
+  {
+    "Number": 171,
+    "Text": "Replikatsiyani boshlab beruvchi ferment:",
+    "Answers": [
+      "DNK-giraza"
+    ],
+    "Options": [
+      "RNK-ligaza",
+      "RNK-polimeraza",
+      "nukleaza"
+    ]
+  },
+  {
+    "Number": 172,
+    "Text": "tRNKning yetilishi quyidagilardan iborat:",
+    "Answers": [
+      "informatsiya yoq uchastkalarni olib tashlash va minor asoslarni hosil bolishi"
+    ],
+    "Options": [
+      "zanjir boshlanishiga 7-metilguanozinni birikishi",
+      "minor nukleotidlarni hosil bolishi",
+      "zanjir oxiriga poliadenilatni birikishi"
+    ]
+  },
+  {
+    "Number": 173,
+    "Text": "Ovqatning almashinib bolmaydigan tarkibiy qismini korsating:",
+    "Answers": [
+      "araxidon kislota"
+    ],
+    "Options": [
+      "limon kislotasi",
+      "palmitioksilat",
+      "begin kislota"
+    ]
+  },
+  {
+    "Number": 174,
+    "Text": "Eritrositlarda erkin kislorodning erkin radikallarini zararsizlantiruvchi fermentni korsating.",
+    "Answers": [
+      "supеrоksiddismutаzа"
+    ],
+    "Options": [
+      "gеksоkinаzа",
+      "glyukоkinаzа",
+      "piruvаtkinаzа"
+    ]
+  },
+  {
+    "Number": 175,
+    "Text": "Eritrositlarda oksidlangan glutationning qaytarilishida qatnashadigan glutationing kofermentlaridan birini korsating.",
+    "Answers": [
+      "NАDF.H"
+    ],
+    "Options": [
+      "gеmоglоbinrеduktаzа",
+      "FАD",
+      "KоА"
+    ]
+  },
+  {
+    "Number": 176,
+    "Text": "Eritrositlarda oksidlangan glutationning qaytarilishida qatnashadigan glutationing kofermentlaridan birini korsating.",
+    "Answers": [
+      "NАDF.H"
+    ],
+    "Options": [
+      "gеmоglоbinrеduкtаzа",
+      "FАD",
+      "КоА"
+    ]
+  },
+  {
+    "Number": 177,
+    "Text": "Jigarda galaktozaning glukozaga aylantiruvchi fermentni korsating.",
+    "Answers": [
+      "gаlакtакinаzа"
+    ],
+    "Options": [
+      "lакtаtdеgidrоgеnаzа",
+      "1-transferаzа",
+      "piruvаtкinаzа"
+    ]
+  },
+  {
+    "Number": 178,
+    "Text": "Glyukokortikoidlar vakili hisoblanadi:",
+    "Answers": [
+      "Gidrokortizon"
+    ],
+    "Options": [
+      "Glyukagon",
+      "Aldosteron",
+      "Kortiksteron"
+    ]
+  },
+  {
+    "Number": 179,
+    "Text": "Mineralokortikoidlar vakili hisoblanadi:",
+    "Answers": [
+      "Aldosteron"
+    ],
+    "Options": [
+      "Adrenalin",
+      "Vazopressin",
+      "Steron"
+    ]
+  },
+  {
+    "Number": 180,
+    "Text": "Mineralokortikoidlar boshqaradi:",
+    "Answers": [
+      "Natriy, kaliy va suv almashinuvi"
+    ],
+    "Options": [
+      "Oqsillar, yoglar, almashinuvi",
+      "Kalsiy. lipid va suv almahinuvi",
+      "Natriy, va yog almashinuvi"
+    ]
+  },
+  {
+    "Number": 181,
+    "Text": "Organizmda glyukokortikoidlar ortiqcha bolsa kuzatiladi:",
+    "Answers": [
+      "Itsenko -Kushinga kasalligi"
+    ],
+    "Options": [
+      "Konna kasalligi",
+      "Addison kasalligi",
+      "Bazedov kasalligi"
+    ]
+  },
+  {
+    "Number": 182,
+    "Text": "Ayollar jinsiy garmoniga kiradi:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Prostaglandinlar",
+      "Aldosteron",
+      "Kortikosteron"
+    ]
+  },
+  {
+    "Number": 183,
+    "Text": "Estrogenning biologik tasiri :",
+    "Answers": [
+      "Angiotenzinogen sintezini kuchaytiradi"
+    ],
+    "Options": [
+      "Terining yogliligini oshiradi",
+      "Xilomikronlar sintezini oshiradi",
+      "ZYULP sintezini kamaytiradi"
+    ]
+  },
+  {
+    "Number": 184,
+    "Text": "Osh qozon shirasida , umumiy kislotalilik va erkin HCL aniqlanmadi.Pepsin va gastriksin mavjud emas. Bu qanday nomlanadi",
+    "Answers": [
+      "axiliya"
+    ],
+    "Options": [
+      "axlorgidriya",
+      "gipoxlorgidriya",
+      "gipexlorgidriya"
+    ]
+  },
+  {
+    "Number": 185,
+    "Text": "Oshqozon shirasi yashil rangda. Buning sababi nimada",
+    "Answers": [
+      "oshqozon shirasida ot suyuqligining borligi"
+    ],
+    "Options": [
+      "oshqozon shirasida qonning borligi",
+      "oshqozon shirasi glyukozaning borligi",
+      "oshqozon shirasida laktataning borligi"
+    ]
+  },
+  {
+    "Number": 186,
+    "Text": "Oshqozon shirasi kofe quyqasi rangida boladi.Buning sababi oshqozon shirasi tarkibida qaysi patologik komponent bor",
+    "Answers": [
+      "qon"
+    ],
+    "Options": [
+      "glyukoza",
+      "ot suyuqligi",
+      "indikan"
+    ]
+  },
+  {
+    "Number": 187,
+    "Text": "Bemor osh qozon shirasida sut kislotasi aniqlandi.Bu komponentnig mavjudligi nimadan dalolat beradi",
+    "Answers": [
+      "oshqozon raki"
+    ],
+    "Options": [
+      "oshqozon polipi",
+      "pankreatit",
+      "oshqozon yarasi"
+    ]
+  },
+  {
+    "Number": 188,
+    "Text": "Bemor bogimlaridagi ogriq,ayniqsa oyog bosh barmoq sohasida.Qoni va siydigida kop miqdorda siydik kislotasi aniqlandi.Sababi nima.",
+    "Answers": [
+      "padagra"
+    ],
+    "Options": [
+      "qandli diabet",
+      "ateroskleroz",
+      "alimentar distrofiya"
+    ]
+  },
+  {
+    "Number": 189,
+    "Text": "Aromatik aminokislota xosilasi bolgan gormonni korsating",
+    "Answers": [
+      "adrenalin"
+    ],
+    "Options": [
+      "insulin",
+      "oksitotsin",
+      "kortizol"
+    ]
+  },
+  {
+    "Number": 190,
+    "Text": "Insulinning yetarli miqdorda ishlab chiqarilmasligi qaysi kasllikni keltirib chiqaradi",
+    "Answers": [
+      "qandli diabet"
+    ],
+    "Options": [
+      "steroid diabet",
+      "qandsiz deabet",
+      "akromegaliya"
+    ]
+  },
+  {
+    "Number": 191,
+    "Text": "Qaysi organda boglangan biluribin xosil boladi",
+    "Answers": [
+      "jigar"
+    ],
+    "Options": [
+      "bosh miya",
+      "gipofiz",
+      "yuraqk"
+    ]
+  },
+  {
+    "Number": 192,
+    "Text": "Qaysi garmonning yetishmovchiligi qandsiz diabetni keltirib chiqaradi",
+    "Answers": [
+      "vasopressin"
+    ],
+    "Options": [
+      "aldoteron",
+      "insulin",
+      "kartizol"
+    ]
+  },
+  {
+    "Number": 193,
+    "Text": "Bemorda giperkalsemiya kuzatil moqda.Qaysi gormon yetishmochiligi bunga sabab boladi",
+    "Answers": [
+      "kalsitonin"
+    ],
+    "Options": [
+      "tiroksin",
+      "aldosteron",
+      "noradrenalin"
+    ]
+  },
+  {
+    "Number": 194,
+    "Text": "Tireotoksikozda tana xarorati oshadi.Bunda biologik oksidlanish bilan bogliqbolgan qaysi jarayon buziladi",
+    "Answers": [
+      "oksidlanishli fosforillanish"
+    ],
+    "Options": [
+      "biologik oksidlanish",
+      "krebs sikli",
+      "glikoliz"
+    ]
+  },
+  {
+    "Number": 195,
+    "Text": "Kalsitoninning tasir mexanizmini korsating",
+    "Answers": [
+      "suyakda kalsiy-fosfor toplanishini taminlaydi"
+    ],
+    "Options": [
+      "qonda cа va P miqdorini oshiradi",
+      "Са suv bilan chiqarilishini oshiradi",
+      "-suyakdan fosfor kalsiy tuzlarini yuvadi"
+    ]
+  },
+  {
+    "Number": 196,
+    "Text": "Insulinning tasir mexanizmlaridan birini korsating",
+    "Answers": [
+      "gliкоgеnоlizni tormozlaydi, glukoneogenezni oshiradi"
+    ],
+    "Options": [
+      "gliкоgеn parchalanishini oshiradi",
+      "qonda glukoza miqdorini oshiradi",
+      "oqsil parchalanishini oshiradi"
+    ]
+  },
+  {
+    "Number": 197,
+    "Text": "Xоlеstеrinni muxim funksiyalaridan birini korsating",
+    "Answers": [
+      "membrana tarkibiga kiradi"
+    ],
+    "Options": [
+      "stеrоidlarning oxirgi mahsulotlari",
+      "uglеvоdlar transportida qatnashadi",
+      "stеrоidlar transporti uchun kanallar hosil bolishida qatnashadi"
+    ]
+  },
+  {
+    "Number": 198,
+    "Text": "Jigarda qaysi keton tanacha xosil buladi.",
+    "Answers": [
+      "аsеtоаsеtil-КоА"
+    ],
+    "Options": [
+      "кrоtоn кislоtа",
+      "butаnоn",
+      "sirka kislota"
+    ]
+  },
+  {
+    "Number": 199,
+    "Text": "Хоlеstеrin sintеzidаgi birinchi bоsqichni кorsаting",
+    "Answers": [
+      "Аsеtil-КоА dаn mеvаlоnаt sintеzi"
+    ],
+    "Options": [
+      "Аsеtil КоА sintеzi",
+      "Sкvаlеnni mеvаlоnаtgа аylаnishi",
+      "Mеvаlоnаtdаn etаnоlni sintеzi"
+    ]
+  },
+  {
+    "Number": 200,
+    "Text": "Gepatitda qaysi fermentning qonda miqdori ortadi",
+    "Answers": [
+      "Alanine aminotransferaza"
+    ],
+    "Options": [
+      "tripsin",
+      "qon zardobi amilazasi",
+      "keratin fosfokinaza"
+    ]
+  },
+  {
+    "Number": 201,
+    "Text": "Mushak toqimasining asosiy oqsillaridan biri",
+    "Answers": [
+      "Sаrкоplаzmаtiк"
+    ],
+    "Options": [
+      "miкrоfibrillyar",
+      "endoplazmatik tor",
+      "eruvchi oqsillar"
+    ]
+  },
+  {
+    "Number": 202,
+    "Text": "Funksiyasiga bogliq ravishda troponinning uchta subbirligidan birini korsating.",
+    "Answers": [
+      "ingi birlovchi"
+    ],
+    "Options": [
+      "miоzin",
+      "акtin",
+      "trоpоmiоzin"
+    ]
+  },
+  {
+    "Number": 203,
+    "Text": "Mushak qisqarishidagi kimyoviy jarayonlarda qatnashuvchi ekstraktiv moddalardan biri",
+    "Answers": [
+      "кrеаtin"
+    ],
+    "Options": [
+      "lеsitin",
+      "mom",
+      "аminокislоtalar"
+    ]
+  },
+  {
+    "Number": 204,
+    "Text": "Mushak toqimasidagi oqsil bolmagan azot saqlovchi purinli ekstraktiv moddalardan biri",
+    "Answers": [
+      "АTF"
+    ],
+    "Options": [
+      "GTF",
+      "АКF",
+      "UTF"
+    ]
+  },
+  {
+    "Number": 205,
+    "Text": "Mushak toqimasidagi oqsil bolmagan azot saqlovchi pirimidinli ekstraktiv moddalardan biri",
+    "Answers": [
+      "STF"
+    ],
+    "Options": [
+      "АКF",
+      "АTF",
+      "АDF"
+    ]
+  },
+  {
+    "Number": 206,
+    "Text": "Mushak toqimasi uchun energiya manbai",
+    "Answers": [
+      "аdеnilаtкinаz rеакsiyasi"
+    ],
+    "Options": [
+      "gliкоnеоgеnеz",
+      "miкrоsоmаl oksidlanish",
+      "dекаrbокsillanish"
+    ]
+  },
+  {
+    "Number": 207,
+    "Text": "Ichakka ot kislotaning yetarli kelmasligidan qaysi jarayon buziladi",
+    "Answers": [
+      "ichaklarda yoglarning xazmlanishi va sorilishi"
+    ],
+    "Options": [
+      "linol va linolen kislotalar yetishmasligi",
+      "yogda eruvchi vitaminlar giper vitaminozi",
+      "almashinmaydigan aminokislotalar yetishmasligi"
+    ]
+  },
+  {
+    "Number": 208,
+    "Text": "Oshqozon shirasida pH normasi",
+    "Answers": [
+      "1,5- 2,0"
+    ],
+    "Options": [
+      "5,5- 6,8",
+      "3,0- 5,0",
+      "8,8- 9,0"
+    ]
+  },
+  {
+    "Number": 209,
+    "Text": "Oshqozon shirasining noorganik komponenti",
+    "Answers": [
+      "xlorid kislota"
+    ],
+    "Options": [
+      "ammoniy sul`fat",
+      "vodorod peroksidi",
+      "uglerod oksidi"
+    ]
+  },
+  {
+    "Number": 210,
+    "Text": "Albuminlar chokmaga tushadi:",
+    "Answers": [
+      "Ammoniysulfatning toyingan eritmasida"
+    ],
+    "Options": [
+      "Ammoniy sulfatning yarim toyingan eritmasida",
+      "Natriyxloridning toyingan eritmasida",
+      "Natriyxloridning yarim toyingan eritmasida"
+    ]
+  },
+  {
+    "Number": 211,
+    "Text": "Glyukozaning hujayra membranasi orqali otkazuvchanligini kamaytiruvchi garmon :",
+    "Answers": [
+      "Glyukokortikoidlar"
+    ],
+    "Options": [
+      "Insulin",
+      "Glyukagon",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 212,
+    "Text": "Glyukagon hosil bo ladi:",
+    "Answers": [
+      "Langergans orolchalarining a-hujayralarida"
+    ],
+    "Options": [
+      "Buyrak usti bezining postloq moddasida",
+      "Buyrak usti bezining magiz moddasida",
+      "Langergans orolchalarining b -hujayralarida"
+    ]
+  },
+  {
+    "Number": 213,
+    "Text": "Xomilador ayolda ugroza va xomila rivojlanishi buzilishi kuzatildi. Qanday preparat kompleks davolash uchun buyuriladi",
+    "Answers": [
+      "tokoferol"
+    ],
+    "Options": [
+      "biotin",
+      "vikasol",
+      "retinoatsetat"
+    ]
+  },
+  {
+    "Number": 214,
+    "Text": "Ichakda fenilalaninning chirishi natijasida nima xosil boladi",
+    "Answers": [
+      "Fenol",
+      "krezol"
+    ],
+    "Options": [
+      "indol",
+      "lizin"
+    ]
+  },
+  {
+    "Number": 215,
+    "Text": "Aminokislotalarning dezamnirlanishi kofermenti",
+    "Answers": [
+      "НАД+:",
+      "ФАД",
+      "ФМН"
+    ],
+    "Options": [
+      "ТПФ",
+      "КоА",
+      "ПФ"
+    ]
+  },
+  {
+    "Number": 216,
+    "Text": "Monooksigenazalar …………………………..   sintezida ishtirok etadi",
+    "Answers": [
+      "dioksifenilalanin",
+      "noradrenalin",
+      "tirozin"
+    ],
+    "Options": [
+      "asparagin",
+      "glutamin",
+      "keratin"
+    ]
+  },
+  {
+    "Number": 217,
+    "Text": "Tirozindan xosil boluvchi birikmalar",
+    "Answers": [
+      "adrenalin",
+      "noradrenalin",
+      "dofamin"
+    ],
+    "Options": [
+      "#-aminomoy kislota",
+      "fenilalanin",
+      "atseton"
+    ]
+  },
+  {
+    "Number": 218,
+    "Text": "Dioksifeniletilamin (dofamin) bu",
+    "Answers": [
+      "biogen amin",
+      "noradrenalin sintezida qatnashadi"
+    ],
+    "Options": [
+      "tomirlarni kengaytiradi",
+      "triptofandan xosil boladi"
+    ]
+  },
+  {
+    "Number": 219,
+    "Text": "Oqsilning biologic qiymati qanday aniqlanadi",
+    "Answers": [
+      "aminikislotalar tarkibi",
+      "hazm qilish sistemasida hazm bolishi bilan",
+      "almashinmaydigan aminokislotalar borligi bilan"
+    ],
+    "Options": [
+      "oqsil zaryadi bilan",
+      "oqsilning molekulyar massasi bilan",
+      "oqsilning molekulasini legantga borligi bilan"
+    ]
+  },
+  {
+    "Number": 220,
+    "Text": "Krebs sikli va siydikchil xosil boda ishtirok etadigan fermaentlar",
+    "Answers": [
+      "arginaza",
+      "karbomoilfosfatsintetaza"
+    ],
+    "Options": [
+      "kreatinkinaza",
+      "ureaza"
+    ]
+  },
+  {
+    "Number": 221,
+    "Text": "Metionin nima sintezida ishtirok etadi",
+    "Answers": [
+      "adrenalin",
+      "sistein",
+      "fosfatidilxolin"
+    ],
+    "Options": [
+      "mochevina",
+      "arginin",
+      "ornitin"
+    ]
+  },
+  {
+    "Number": 222,
+    "Text": "Podagra bilan kasallanganlarni allopurinol (ksantinoksidaza ingibitori) bilan davolash nimani chaqirishi mumkin",
+    "Answers": [
+      "siydik kislotaning siydikda kamayishi",
+      "qonda gipoksantinning miqdorini kamayishi",
+      "qonda ksantinning oshishi"
+    ],
+    "Options": [
+      "purin nukleotidlarni sintezlanishi tezligi pasayishi",
+      "siydikda siydikchilning kamayishi",
+      "siydikda oqsilning kamayishi"
+    ]
+  },
+  {
+    "Number": 223,
+    "Text": "Siydik kislota xosil bolishi mumkin bolgan moddalar",
+    "Answers": [
+      "guanozin",
+      "ksantin"
+    ],
+    "Options": [
+      "uridin",
+      "gipoksantin"
+    ]
+  },
+  {
+    "Number": 224,
+    "Text": "Quyidagi glykozaminoglylanlar farqlanadi",
+    "Answers": [
+      "Xondroitin-4-sulfat va xondroitin-6-sulfat",
+      "Dermatan",
+      "Keratansulfat I va II",
+      "Geparen sulfat va geparin",
+      "Gialuron kislota"
+    ],
+    "Options": [
+      "Dermatan sulfati va desmozin",
+      "Gialuron kislota va mannoza",
+      "Xondroitin-4-sulfat va fukoza",
+      "Keratan sulfati I va galaktozamin",
+      "Geparan sulfati va asetilxolin"
+    ]
+  },
+  {
+    "Number": 225,
+    "Text": "Biriktiruvchi toqimalardagi kollagenozlarni ozgarishida koatiladi.",
+    "Answers": [
+      "Revmatizm va romatoid artrit",
+      "Tizimli qizil volchanka va tizimli sklerodermiya",
+      "Dermatomiozit va tugunli periartrit"
+    ],
+    "Options": [
+      "Rematizm va perikardit",
+      "Sistema skleroderma va vaskulit",
+      "Tugunli periartrit va glossit"
+    ]
+  },
+  {
+    "Number": 226,
+    "Text": "Glitserofosfolipidlarning 3 xilini korsating",
+    "Answers": [
+      "letsitin",
+      "kefalin",
+      "fosfatidilserin"
+    ],
+    "Options": [
+      "gangliozid",
+      "sfingomiyelin",
+      "serebrozid"
+    ]
+  },
+  {
+    "Number": 227,
+    "Text": "Sfingolipidozlarning 4 xilini korsating:",
+    "Answers": [
+      "Goshe kasalligi",
+      "Tey-Saks kasalligi",
+      "Fabri kasalligi",
+      "Faber kasalligi"
+    ],
+    "Options": [
+      "Xere kasalligi",
+      "Giris kasalligi",
+      "Kоri kasalligi",
+      "Pompe kasalligi"
+    ]
+  },
+  {
+    "Number": 228,
+    "Text": "Lipoproteinlarning sintezlanadigan 3 xil joyini korsating:",
+    "Answers": [
+      "XM, 3JPL – enterotsitlarda",
+      "3JPL, 3YOL – gepatotsitlarda",
+      "3PL, 3YOL -  qon plazmasida"
+    ],
+    "Options": [
+      "XM, 3JPL - gepatotsitlarda",
+      "3JPL, 3YOL, XM - enterotsitlarda",
+      "barchasi qon  plazmasida"
+    ]
+  },
+  {
+    "Number": 229,
+    "Text": "Xolesterin sintezining 3 boskichini korsating",
+    "Answers": [
+      "atsetil KoA dan – mevolanat",
+      "mevolanatdan –skvalen",
+      "skvalendan – xolesterin"
+    ],
+    "Options": [
+      "beta-oksibutiratdan betta-oksi-beta-metilglutaril",
+      "betta-oksi-beta-metilglutarildan 5-fosfomevolanat",
+      "jinsiy gormonlardan xolesterin"
+    ]
+  },
+  {
+    "Number": 230,
+    "Text": "Xolesterinning 2 ta vazifasini korsating",
+    "Answers": [
+      "membrananing lipid komponenti",
+      "boshqa steroidlarning otmishdoshi"
+    ],
+    "Options": [
+      "membrananing asosi kurilish materiali",
+      "membrana orkali steroidlar utishini taminlaydigan kanallar xosil kiladi"
+    ]
+  },
+  {
+    "Number": 231,
+    "Text": "Yog kislotalar sintetazasining 2 xil xususiyati:",
+    "Answers": [
+      "Multiferment bulib, 6 fermentdan iborat",
+      "Fermentlar atsiltashuvchi oksil bilan boglangan"
+    ],
+    "Options": [
+      "domen 1da 3ta, domen 2da 4ta, domen 3da 1ta fermenti bor",
+      "M-domenda ATO, Р- domenda poleduktaza, N domenda LDG, AsAT fermentlar bor"
+    ]
+  },
+  {
+    "Number": 232,
+    "Text": "Xilomikronlarning kimyoviy tarkibini korsating",
+    "Answers": [
+      "7% fosfolipid",
+      "8% xolesterin",
+      "80%dan kop triglitserid"
+    ],
+    "Options": [
+      "2% oqsil",
+      "5% oqsil",
+      "7% xolesterin"
+    ]
+  },
+  {
+    "Number": 233,
+    "Text": "Organizmdagi yoglarning deposi xisoblangan 3 azoni korsating",
+    "Answers": [
+      "teri osti yog qavati",
+      "charvi",
+      "buyrak atrofidagi yog qavati"
+    ],
+    "Options": [
+      "talok",
+      "buyrak",
+      "qon tomirlari"
+    ]
+  },
+  {
+    "Number": 234,
+    "Text": "Yog depolaridan yoglarni mobilizatsiya qiluvchi gormonlarni korsating",
+    "Answers": [
+      "adrenalin",
+      "noradrenalin"
+    ],
+    "Options": [
+      "somatostatin",
+      "kalsiferol"
+    ]
+  },
+  {
+    "Number": 235,
+    "Text": "Organizmda xolesterindan xosil boladigan moddalarni korsating",
+    "Answers": [
+      "ot kislotalari",
+      "vitamin D",
+      "steroid gormonlar"
+    ],
+    "Options": [
+      "tiroksin",
+      "glyukagon",
+      "fermentlar"
+    ]
+  },
+  {
+    "Number": 236,
+    "Text": "Xolesterinni  organizmdan chikarish yollari",
+    "Answers": [
+      "ot kislotalari xolida",
+      "koprostеринl",
+      "teri epiteliyasi tushganda"
+    ],
+    "Options": [
+      "nafas chikarganda",
+      "organizmdan chikarilmaydi",
+      "buyrak orkali"
+    ]
+  },
+  {
+    "Number": 237,
+    "Text": "Organizmda xolesterin sintezlanadigan asosiy joylar",
+    "Answers": [
+      "jigar",
+      "ingichka ichak devori",
+      "teri"
+    ],
+    "Options": [
+      "biriktiruvchi tokima",
+      "eritrotsitlar",
+      "suyak tokimasi"
+    ]
+  },
+  {
+    "Number": 238,
+    "Text": "Organizmda sintezlanmaydigan kop tuyinmagan yog kislotalari",
+    "Answers": [
+      "linol",
+      "linolen",
+      "araxidon"
+    ],
+    "Options": [
+      "nervon",
+      "efir",
+      "olein"
+    ]
+  },
+  {
+    "Number": 239,
+    "Text": "Sfingolipidlarga kiradi",
+    "Answers": [
+      "sfingomiyelin",
+      "serebrozid",
+      "gangliozid"
+    ],
+    "Options": [
+      "plazmalogen",
+      "kardiolipin",
+      "letsitin"
+    ]
+  },
+  {
+    "Number": 240,
+    "Text": "Toq ot kislotalariga kiradi",
+    "Answers": [
+      "xolat kislota",
+      "dezoksixolat kislota",
+      "xenodezoksixolat kislota"
+    ],
+    "Options": [
+      "glikoxolat kislota",
+      "taurodezoksixolat kislota",
+      "glikoxenodezoksixolat kislota"
+    ]
+  },
+  {
+    "Number": 241,
+    "Text": "Triglitseridlar parchalanishida katnashadi",
+    "Answers": [
+      "triglitseridlipaza",
+      "monoglitseridlipaza",
+      "diglitseridlipaza"
+    ],
+    "Options": [
+      "fosfolipaza",
+      "lipoproteidlipaza",
+      "transferaza"
+    ]
+  },
+  {
+    "Number": 242,
+    "Text": "Yog kislotalarning faollanishi va ularning sitozoldan mitoxondriyaga otishida qatnashadi",
+    "Answers": [
+      "atsil-KoA-sintetaza",
+      "karnitinatsetiltransferaza",
+      "karnitinpalmitoiltransferaza"
+    ],
+    "Options": [
+      "atsilkarnitindegidrogenaza",
+      "karnitinatsetiltiolaza",
+      "karnitinatsilliaza"
+    ]
+  },
+  {
+    "Number": 243,
+    "Text": "Yog kislotalarning #-oksidlanishda qatnashadi",
+    "Answers": [
+      "atsil-KoA degidrogenaza",
+      "yenoil-KoA gidrataza",
+      "oksiatsil-KoA degidrogenaza"
+    ],
+    "Options": [
+      "atsiltransferaza",
+      "atsilliaza",
+      "oksiatsilgidrataza"
+    ]
+  },
+  {
+    "Number": 244,
+    "Text": "Yog kislotalarning yog toqimasidan mobilizatsiya qilinishi kuchayadi quyidagilar tasirida",
+    "Answers": [
+      "glukagon",
+      "tiroksin"
+    ],
+    "Options": [
+      "insulin",
+      "boshqarilmaydi",
+      "prostaglandinlar"
+    ]
+  },
+  {
+    "Number": 245,
+    "Text": "Yog kislotalarning yog tokimasidan mobilizatsiya kilinishi kuchayadi",
+    "Answers": [
+      "stressda",
+      "fizik ish bajarganda",
+      "och kolganda"
+    ],
+    "Options": [
+      "gepatitda",
+      "yurak infarktida",
+      "nefritda"
+    ]
+  },
+  {
+    "Number": 246,
+    "Text": "Xolesterin sintezining birinchi boskichida katnashuvchi fermentlar",
+    "Answers": [
+      "atsetil-KoA atsetiltransferaza",
+      "OMG-reduktaza",
+      "OMG-sintaza"
+    ],
+    "Options": [
+      "tiolaza",
+      "yenolaza",
+      "betta-oksiatsilsintaza"
+    ]
+  },
+  {
+    "Number": 247,
+    "Text": "STG va AKTG yog kislotalarning yog tokimasidan mobilizatsiyasini kuchaytiradi, chunki",
+    "Answers": [
+      "adenilatsiklaza sintezini kuchaytiradi",
+      "gormonga boglik lipaza sintezini kuchaytiradi"
+    ],
+    "Options": [
+      "katexolaminlar tasirini pasaytiradi",
+      "tiroksin sinteziga tasir etadi"
+    ]
+  },
+  {
+    "Number": 248,
+    "Text": "Yog kislotalarning #-oksidlanishida  ishtirok etuvchi fermentlarni 4 guruxini korsating",
+    "Answers": [
+      "atsetil-KoA-degidrogenaza",
+      "yenol-KoA-degidrogenaza",
+      "betta-oksiatsil-degidrogenaza",
+      "atsetil-KoA-atsiltransferaza (tiolaza)"
+    ],
+    "Options": [
+      "propinil-KoA-karboksilaza",
+      "metilmalonil-KoA-mutaza",
+      "metilmalonilepimeraza",
+      "suksinatdegidrogenaza"
+    ]
+  },
+  {
+    "Number": 249,
+    "Text": "Yog kislotalarning sintezida asosiy manba bolib katnashuvchi glyukoza metabolizmining asosiy moddalari va joyini korsating",
+    "Answers": [
+      "NADFN2",
+      "Atsetil-KoA",
+      "jigar"
+    ],
+    "Options": [
+      "glitserin",
+      "atseto-atsetil-KoA",
+      "yog toqimasi"
+    ]
+  },
+  {
+    "Number": 250,
+    "Text": "Lipoliz jarayonini faollantiradigan gormon va lipoliz jarayonidagi kalit fermentlarni korsating",
+    "Answers": [
+      "triglitseridlipaza",
+      "adrenalin",
+      "+  glyukagon",
+      "noradrenalin"
+    ],
+    "Options": [
+      "tridiglitseridlipaaza",
+      "STG",
+      "Insulin",
+      "TTG"
+    ]
+  },
+  {
+    "Number": 251,
+    "Text": "Yog kislotalar aktivlanishida ishtirok etuvchi moddalarni 3 xilini korsating",
+    "Answers": [
+      "Koenzim A",
+      "Atsil-KoA-sintetaza"
+    ],
+    "Options": [
+      "Atseto-atsetil sintetaza",
+      "Malonil-KoA +ATF",
+      "Karnitin-atsiltransferaza"
+    ]
+  },
+  {
+    "Number": 252,
+    "Text": "Neytral yoglarning 3 xilini korsating",
+    "Answers": [
+      "Monoglitseridlar",
+      "Diglitseridlar",
+      "Triglitseridlar"
+    ],
+    "Options": [
+      "Fosfolipidlar",
+      "Glikolipidlvr",
+      "Xolesterin"
+    ]
+  },
+  {
+    "Number": 253,
+    "Text": "Tuyinganligi bilan farqlanuvchi 3 gurux yog kislotalarni korsating",
+    "Answers": [
+      "Toyingan kislotalar",
+      "Bir  toyinmagan",
+      "Kup toyinmagan"
+    ],
+    "Options": [
+      "Sfingolipidlar",
+      "Plazmalogenlar",
+      "Fosfolipidlar"
+    ]
+  },
+  {
+    "Number": 254,
+    "Text": "Tabiiy mumlarning 3 xilini korsating",
+    "Answers": [
+      "Asal ari mumi",
+      "Yung mumi",
+      "Spermatset"
+    ],
+    "Options": [
+      "Sfingiolipidlar",
+      "Xolesteridlar",
+      "Meristin"
+    ]
+  },
+  {
+    "Number": 255,
+    "Text": "Sfingolipidlarning 3 turini korsating",
+    "Answers": [
+      "Sfingomiyelinlar",
+      "Serebrozidlar",
+      "Gangliozidlar"
+    ],
+    "Options": [
+      "Fosfolipidlar",
+      "Steridlar",
+      "Mumlar"
+    ]
+  },
+  {
+    "Number": 256,
+    "Text": "Xolesterinning 3 asosiy tarkibiy komponentlarini korsating",
+    "Answers": [
+      "Gidroksil gurux kislota koldigi",
+      "Siklopentanopergidrofenantren xalkasi",
+      "Alifatik yon zanjiri"
+    ],
+    "Options": [
+      "Pentozalar",
+      "Karboksil gurux",
+      "Uglevod qildigi"
+    ]
+  },
+  {
+    "Number": 257,
+    "Text": "Lipidlar axamiyatining 4 tomonini korsating",
+    "Answers": [
+      "Energetik",
+      "Plastik",
+      "Organizm tana xaroratini saйlashda katnashadi",
+      "A ,D, E, K vitaminlar bilan taminlaydi"
+    ],
+    "Options": [
+      "Gormonal funksiya",
+      "Ajratish funksiya",
+      "Vitamin C manbai",
+      "Katalitik funksiya"
+    ]
+  },
+  {
+    "Number": 258,
+    "Text": "Tarkibida glitsin tutuvchi ot kislotalarning 3 vakilini korsating",
+    "Answers": [
+      "Glikoxolat",
+      "Glikodezoksixolat",
+      "Glikoxenodezoksixolat"
+    ],
+    "Options": [
+      "Xolat",
+      "Tauroxolat",
+      "Xenodezoksixolat"
+    ]
+  },
+  {
+    "Number": 259,
+    "Text": "Ot kislotalarning  lipidlarni  xazmlanishi va sorilishidagi axamiyatini korsating",
+    "Answers": [
+      "Pankreatik lipazani faollaydi",
+      "Yoglarni emulsiyalaydi",
+      "Xazmlangan yog maxsulotlar sorilishini taminlaydi"
+    ],
+    "Options": [
+      "Tripsinni faollaydi",
+      "Lipaza sintezini kuchaytiradi",
+      "Oshqozonda yog xazmlanishini yaxshilaydi"
+    ]
+  },
+  {
+    "Number": 260,
+    "Text": "Yoglar ichakda toliq xazmlanganda qanday 3 xil moddalarga parchalanishini  korsating",
+    "Answers": [
+      "Glitserin",
+      "Yog kislotalar",
+      "Monoglitseridlar"
+    ],
+    "Options": [
+      "Xilomikronlar",
+      "Fosfolipidlar",
+      "Mumlar"
+    ]
+  },
+  {
+    "Number": 261,
+    "Text": "Ichakda fosfolipidlar  xazmlanishini  taminlovchi 4 xil fosfolipazalarni korsating",
+    "Answers": [
+      "Fosfolipaza A",
+      "Fosfolipaza A2",
+      "Fosfolipaza C",
+      "Fosfolipaza D"
+    ],
+    "Options": [
+      "Fosfolipaza V",
+      "Fosfolipaza K",
+      "Fosfolipaza E",
+      "Fosfolipaza G"
+    ]
+  },
+  {
+    "Number": 262,
+    "Text": "Ichak devorida xosil boluvchi xilomikronlar tarkibidagi moddalarning asosiy 4 xilini korsating",
+    "Answers": [
+      "Oksil",
+      "Triglitseridlar",
+      "Fosfolipidlar",
+      "Xolesterin"
+    ],
+    "Options": [
+      "Uglevodlar",
+      "Sfingomiyelinlar",
+      "Glikolipid",
+      "Gangliozidlar"
+    ]
+  },
+  {
+    "Number": 263,
+    "Text": "Xilomikron triglitseridlari gidrolizlanadigan asosiy 3 ta tokimani korsating",
+    "Answers": [
+      "Gepatotsitlar sirtida",
+      "Gepatotsitlar ichida",
+      "Adipotsitlar kapillyarlari endoteliysi sirtida"
+    ],
+    "Options": [
+      "Buyraklarda",
+      "Taloqda",
+      "Opkada"
+    ]
+  },
+  {
+    "Number": 264,
+    "Text": "Staynberg \"Lipolitik shalola\" mexanizmida ishtirok  etuvchi  3  xil fermentni korsating",
+    "Answers": [
+      "Adenilatsiklaza",
+      "triglitseridlipaza",
+      "Proteinkinaza"
+    ],
+    "Options": [
+      "Fosfodiesteraza",
+      "Yenolaza",
+      "Liporoteidlipaza"
+    ]
+  },
+  {
+    "Number": 265,
+    "Text": "Yoglarni toqimada parchalanishidagi asosiy 4 ta bosqichni korsating",
+    "Answers": [
+      "Birinchi degidrogenlanish bosqichi",
+      "Gidratatsiya boskichi",
+      "Ikkinchi degidrogenlanish boskichi",
+      "Tiolaza reaksiyasi"
+    ],
+    "Options": [
+      "Atsetil-KoA sintezi",
+      "Karnitinning parchalanishi",
+      "Atsil-karnitinni sintezi",
+      "Yog kislotaning mitoxondriyaga otishi"
+    ]
+  },
+  {
+    "Number": 266,
+    "Text": "Yog kislotalari  betta- oksidlanganda  xosil  buluvchi 4 xil oraliq substratlarni korsating",
+    "Answers": [
+      "Atsil- KoA",
+      "Yenoil- KoA",
+      "betta- oksiatsil- KoA",
+      "betta- ketoatsil- KoA"
+    ],
+    "Options": [
+      "Malonil- KoA",
+      "Suksinil- KoA",
+      "Atseton",
+      "betta- oksibutirat"
+    ]
+  },
+  {
+    "Number": 267,
+    "Text": "Keton tanachalariga mansub 3 moddani korsating",
+    "Answers": [
+      "Atsetoatsetat",
+      "betta- oksi moy kislota",
+      "Atseton"
+    ],
+    "Options": [
+      "Benzol",
+      "Krezol",
+      "Indol"
+    ]
+  },
+  {
+    "Number": 268,
+    "Text": "Malonil- APB va atsetil- APBdan moy kislota sintezlanish jarayenida  xosil buladigan oraliq substratlardan 4 tasini korsating",
+    "Answers": [
+      "Atsetoatsetil-  ATO",
+      "betta- oksibutiril-  ATO",
+      "Krotonil-  ATO",
+      "Butiril-  ATO"
+    ],
+    "Options": [
+      "Malonil- KoA",
+      "Atsetil- KoA",
+      "ATO - SH",
+      "NADF- N"
+    ]
+  },
+  {
+    "Number": 269,
+    "Text": "STG va AKTG yog kislotalarning yog toqimasidan mobilizatsiyasini kuchaytiradi, chunki:",
+    "Answers": [
+      "adenilatsiklaza sintezini kuchaytiradi",
+      "gormonga boglik lipaza sintezini kuchaytiradi"
+    ],
+    "Options": [
+      "katexolaminlar tasirining juda kop pasaytiradi",
+      "tiroksin sinteziga tasir etadi"
+    ]
+  },
+  {
+    "Number": 270,
+    "Text": "Yog kislotalarning faollanishi va ularning sitozoldan mitoxondriyaga otishida katnashadi:",
+    "Answers": [
+      "atsil- KoA- sintetaza",
+      "karnitinatsetiltransferaza",
+      "karnitinpalmitoiltransferaza"
+    ],
+    "Options": [
+      "Atsetilkarnininatsiltiolaza",
+      "karnitinatsilliaza",
+      "atsilkarnitindegidrogenaza"
+    ]
+  },
+  {
+    "Number": 271,
+    "Text": "Malonil-  ATO va atsetil-  ATO dan moy kislota sintezlanish jarayonida xosil boladigan oraliq substratlardan 4tasini korsating:",
+    "Answers": [
+      "Atsetoatsetil",
+      "Beta- oksibutiril-  ATO",
+      "Krotonil- APB",
+      "Butiril- APB"
+    ],
+    "Options": [
+      "Atsetil- KoA",
+      "ATO - SH",
+      "Malonil- KoA",
+      "NADF- N"
+    ]
+  },
+  {
+    "Number": 272,
+    "Text": "Yog kislota sintezining atsetoatsetil APB xosil bolguncha bosqichida ishtirok etuvchi 3 ta fermentni korsating:",
+    "Answers": [
+      "Atsetil- KoA APB transferaza",
+      "Malonil- KoA- APB transferaza",
+      "Atsetoatsetil- APB sintetaza"
+    ],
+    "Options": [
+      "Atsetoatsetil APB- reduktaza",
+      "beta- oksi butiril APB- degidrotaza",
+      "Krotonil- APB reduktaza"
+    ]
+  },
+  {
+    "Number": 273,
+    "Text": "Ketonemiya va ketonuriyaga xos asosiy xastaliklar:",
+    "Answers": [
+      "kandli diabet",
+      "ochlik"
+    ],
+    "Options": [
+      "ateroskleroz",
+      "gepatit"
+    ]
+  },
+  {
+    "Number": 274,
+    "Text": "Keton tanachalariga mansub 3 moddani korsating:",
+    "Answers": [
+      "Atsetoatsetat",
+      "Beta- oksi moy kislota",
+      "Atseton"
+    ],
+    "Options": [
+      "Benzol",
+      "Krezol",
+      "Indol"
+    ]
+  },
+  {
+    "Number": 275,
+    "Text": "Zichligi bilan farklanuvchi qon lipoprteidlarning 4 xilini korsating:",
+    "Answers": [
+      "Xilomikronlar",
+      "ZJPL",
+      "ZPL",
+      "ZYL"
+    ],
+    "Options": [
+      "Glikolipidlar",
+      "Fosfatidilxolin",
+      "Xolesterin",
+      "Lipidlar"
+    ]
+  },
+  {
+    "Number": 276,
+    "Text": "Elektroforetik xarakatchanligiga kora farqlanuvchi 4 xil lipoproteidlarni korsating:",
+    "Answers": [
+      "Xilomikronlar",
+      "Alfa- lipoproteidlar",
+      "Beta- lipoproteidlar",
+      "Pre- betta- lipoproteidlar"
+    ],
+    "Options": [
+      "Glikolipidlar",
+      "Sigma- lipoproteidlar",
+      "Xolesterin",
+      "Gamma- lipoproteidlar"
+    ]
+  },
+  {
+    "Number": 277,
+    "Text": "Lipoproteinlarning sintezlanadigan 3 xil joyini korsating:",
+    "Answers": [
+      "XM, 3JPL – enterotsitlarda",
+      "3PL, 3YOL -  plazmasida",
+      "3JPL, 3YOL – gepatotsitlarda"
+    ],
+    "Options": [
+      "barchasi  plazmasida",
+      "XM, 3JPL - gepatotsitlarda",
+      "3JPL, 3YOL, XM - enterotsitlarda"
+    ]
+  },
+  {
+    "Number": 278,
+    "Text": "Yoglarning xazmlanishi va sorilishida ot kislotalarining rolini korsating.",
+    "Answers": [
+      "ichakka tushgan yoglarni emulsiya kiladi",
+      "pankreatik lipazani faollashtiradi",
+      "yog kislotalar va monoglitseridlar sorilishida"
+    ],
+    "Options": [
+      "oksillar xazmlanishiga tasir kursatadi",
+      "pepsinni faollashtiradi",
+      "uglevodlarning ichakda sorilishini taminlaydi"
+    ]
+  },
+  {
+    "Number": 279,
+    "Text": "Nafas olish zanjiridagi 5 sitoxromlar vakilini korsating:",
+    "Answers": [
+      "v",
+      "s1",
+      "a",
+      "a3",
+      "s3"
+    ],
+    "Options": [
+      "s",
+      "d",
+      "s",
+      "b",
+      "a5"
+    ]
+  },
+  {
+    "Number": 280,
+    "Text": "Piruvatning oksidlanib dekarboksillanishini boshqaruvchi multifermentlarga talluqli 5ta kofermentni korsating:",
+    "Answers": [
+      "TPF",
+      "Lipoat",
+      "Koenzim-A",
+      "FAD",
+      "NAD"
+    ],
+    "Options": [
+      "Glutation-N",
+      "TGFK",
+      "FMN",
+      "Koenzim-O",
+      "UDF"
+    ]
+  },
+  {
+    "Number": 281,
+    "Text": "Piruvatdegidrogenaza kompleksiga murakkab birikkan 3 kofermentni korsating:",
+    "Answers": [
+      "TPF",
+      "lipoamid",
+      "FAD"
+    ],
+    "Options": [
+      "katalaza",
+      "ubixinon",
+      "sitoxrom"
+    ]
+  },
+  {
+    "Number": 282,
+    "Text": "1 Molekula asetil-KoA ni Krebs xalkasida oksidlanishi natijasida necha molekula ATF xosil boladi:",
+    "Answers": [
+      "12"
+    ],
+    "Options": [
+      "15",
+      "38",
+      "19"
+    ]
+  },
+  {
+    "Number": 283,
+    "Text": "Krebs xalkasining qaysi reaksiyasida substratli fosforillanish kuzatiladi:",
+    "Answers": [
+      "suksinil-KoA ____ suksinat"
+    ],
+    "Options": [
+      "#-ketoglutarat ____ suksinil-KoA",
+      "oksaloasetat ____ sitrat",
+      "suksinat ____ fumarat"
+    ]
+  },
+  {
+    "Number": 284,
+    "Text": "Uch asosiy gurux uglevodlarni korsating:",
+    "Answers": [
+      "Monosaxaridlar",
+      "Oligosaxaridlar",
+      "Polisaxaridlar"
+    ],
+    "Options": [
+      "Geterosaxaridlar",
+      "Glikoproteidlar",
+      "Gomosaxaridlar"
+    ]
+  },
+  {
+    "Number": 285,
+    "Text": "Odam va xayvon organizmida uchraydigan va uzlashtiriladigan uch monosaxaridni korsating:",
+    "Answers": [
+      "Galaktoza",
+      "Glyukoza",
+      "Fruktoza"
+    ],
+    "Options": [
+      "Mannoza",
+      "Ksiluloza",
+      "Ribuloza"
+    ]
+  },
+  {
+    "Number": 286,
+    "Text": "Tabiatda keng tarkalgan va ichak devorida saxaraza, maltaza, laktaza tasirida xazmlanuvchi disaxaridlar 3 vakilini korsating:",
+    "Answers": [
+      "Saxaroza",
+      "Maltoza",
+      "Laktoza"
+    ],
+    "Options": [
+      "Ksiluloza",
+      "Rafinoza",
+      "Glyukoza"
+    ]
+  },
+  {
+    "Number": 287,
+    "Text": "Monomeri glyukozadan tashkil topgan polisaxaridlar uch vakilini korsating:",
+    "Answers": [
+      "Kraxmal",
+      "Glikogen",
+      "sellyoloza"
+    ],
+    "Options": [
+      "Keratansulfatlar",
+      "Geparin",
+      "Mukopolisaxaridlar"
+    ]
+  },
+  {
+    "Number": 288,
+    "Text": "Kraxmal va glikogenni xazm yollarida maltozagacha parchalovchi uch gurux fermentlarni korsating:",
+    "Answers": [
+      "alfa-amilaza",
+      "amilo-1.6-glyukozidaza",
+      "oligo-1.6-glyukozidaza (terminal dekstrinaza)"
+    ],
+    "Options": [
+      "sigma-amilaza",
+      "delta-amilaza",
+      "laktaza"
+    ]
+  },
+  {
+    "Number": 289,
+    "Text": "Disaxaridlarni ichak devorida xazmlovchi fermentlarning uch xilini korsating:",
+    "Answers": [
+      "maltaza",
+      "saxaraza",
+      "laktaza"
+    ],
+    "Options": [
+      "alfa-amilaza",
+      "betta-amilaza",
+      "gamma-amilaza"
+    ]
+  },
+  {
+    "Number": 290,
+    "Text": "Glyukozadan glikogen sintezi jarayonida xosil boluvchi oraliq metabolitlar uch vakilini korsating:",
+    "Answers": [
+      "Glyukoza-6-fosfat",
+      "Glyukozo-1-fosfat",
+      "Uridindifosfoglyukoza"
+    ],
+    "Options": [
+      "Fruktoza-6-fosfat",
+      "Glyukozo-3-fosfat",
+      "Glyukozo-1.6-difosfat"
+    ]
+  },
+  {
+    "Number": 291,
+    "Text": "Glyukozadan glikogen sintez bolishida ishtirok etuvchi fermentlarning 4 guruxini korsating:",
+    "Answers": [
+      "Geksokinaza",
+      "Glyukozo-1-fosfaturidiltransferaza",
+      "Fosfoglyukomutaza",
+      "Glikogensintetaza"
+    ],
+    "Options": [
+      "Fosforilaza",
+      "Nukleoziddifosfatkinaza",
+      "Pirofosfataza",
+      "Maltaza"
+    ]
+  },
+  {
+    "Number": 292,
+    "Text": "Jigarda adrenalin tasirida glikogen tarkibidan fosforilitik yol bilan glyukoza qoldigining ajralib chikishini taminlovchi 4 gurux fermentlarni korsating:",
+    "Answers": [
+      "Adenilatsiklaza",
+      "Proteinkinaza",
+      "Fosforilaza kinazasi",
+      "Fosforilaza"
+    ],
+    "Options": [
+      "ATFaza",
+      "Geksokinaza",
+      "Glyukokinaza",
+      "Glikogensintetaza"
+    ]
+  },
+  {
+    "Number": 293,
+    "Text": "Glyukozaning toqimalarda parchalanishining uch xil yolini korsating:",
+    "Answers": [
+      "Aerob yoli",
+      "Pentozofosfat yoli",
+      "Anaerob yol"
+    ],
+    "Options": [
+      "Oksidlanish yoli",
+      "Qaytarilish yoli",
+      "Bevosita yol"
+    ]
+  },
+  {
+    "Number": 294,
+    "Text": "Glyukozaning aerob parchalanishida oraliq metabolit bolmish 3 ta makroergik birikmani korsating:",
+    "Answers": [
+      "Asetil-KoA",
+      "Fosfoenolpiruvat",
+      "1.3 bifosfoglitserat"
+    ],
+    "Options": [
+      "Glyukoza 1-fosfat",
+      "Fruktoza 6-fosfat",
+      "Glitserol 3 fosfat"
+    ]
+  },
+  {
+    "Number": 295,
+    "Text": "Anaerob glikolizning uchta kalit fermentini korsating:",
+    "Answers": [
+      "geksokinaza",
+      "fosfofruktokinaza",
+      "piruvatkinaza"
+    ],
+    "Options": [
+      "triozofosfatizomeraza",
+      "glitseraldegidfosfatdegidrogenaza",
+      "fosforilaza"
+    ]
+  },
+  {
+    "Number": 296,
+    "Text": "Glyukoza anayrob parchalanishining birinchi bosqichida glitseraldegid-3-fosfat xosil bolgunga qadar ishtirok etuvchi boshkariluvchi bolmagan 3 fermentni korsating:",
+    "Answers": [
+      "Glyukozo-6-fosfatizomeraza",
+      "Aldolaza",
+      "Triozofosfaizomeraza"
+    ],
+    "Options": [
+      "Geksokinaza",
+      "Fosfofruktokinaza",
+      "Piruvatkinaza"
+    ]
+  },
+  {
+    "Number": 297,
+    "Text": "Anayrob glikoliz ikkinchi boskichida laktat xosil bolgunga kadar xosil boladigan 5ta oraliq metabolitni korsating:",
+    "Answers": [
+      "1,3 bisfosfoglitserat",
+      "3 fosfoglitserat",
+      "2-fosfoglitserat",
+      "fosfoenolpiruvat",
+      "piruvat"
+    ],
+    "Options": [
+      "glyukozo-1-fosfat",
+      "fruktozo-1-fosfat",
+      "glyukozo- 6-fosfat",
+      "fruktozo-6-fosfat",
+      "dioksiasetonfosfat"
+    ]
+  },
+  {
+    "Number": 298,
+    "Text": "Glikolizning 3 kalit fermentlari:",
+    "Answers": [
+      "geksokinaza",
+      "fosfofruktokinaza",
+      "piruvatkinaza"
+    ],
+    "Options": [
+      "triozofosfatizomeraza",
+      "glitseraldegidizomeraza",
+      "fosforilaza"
+    ]
+  },
+  {
+    "Number": 299,
+    "Text": "Galaktozaning toqimalarda glyukozo-6-fosfatga aylanguncha zarur bolgan uch gurux fermentni korsating:",
+    "Answers": [
+      "Geksoza-1-fosfaturidiltransferaza",
+      "Galaktokinaza",
+      "UDF-Glyukoza-pirofosforilaza"
+    ],
+    "Options": [
+      "Piruvatkinaza",
+      "Fosfoglyukomutaza",
+      "Laktatdegidrogenaza"
+    ]
+  },
+  {
+    "Number": 300,
+    "Text": "Fruktoza almashinuvida qatnashuvchi fermentlarni korsating:",
+    "Answers": [
+      "fruktokinaza",
+      "fruktoza-1-fosfataldolaza",
+      "glitseraldegidkinaza"
+    ],
+    "Options": [
+      "glyukokinaza",
+      "galaktokinaza",
+      "glikogensintetaza"
+    ]
+  },
+  {
+    "Number": 301,
+    "Text": "Glyukozaning toqimalarda bevosita oksidlanish jarayonining uch xil nomlanishini korsating:",
+    "Answers": [
+      "Bevosita oksidlanish",
+      "Pentozofosfat yoli",
+      "Apotomik yol"
+    ],
+    "Options": [
+      "Glikoliz",
+      "Aerob oksidlanish",
+      "Anaerob oksidlanish"
+    ]
+  },
+  {
+    "Number": 302,
+    "Text": "Galaktozemiya ferment yetishmovchiligi bilan bogliq:",
+    "Answers": [
+      "Galaktozo-1-fosfaturidiltransferaza(geksozo-1-fosfaturidil-transferaza)"
+    ],
+    "Options": [
+      "Pirutkinaza",
+      "Piruvatkinaza",
+      "Saxaroza",
+      "Glyukokinaza",
+      "Geksokinaza"
+    ]
+  },
+  {
+    "Number": 303,
+    "Text": "Gemolitik anemiya nima defitsiti bilan boglik",
+    "Answers": [
+      "Glyukozo-6-fosfatdegidrogenaza"
+    ],
+    "Options": [
+      "Glikogensintetaza",
+      "Glikogenfosforilaza",
+      "Fruktokinaza",
+      "Gekso-1-fosfaturidiltransferaza"
+    ]
+  },
+  {
+    "Number": 304,
+    "Text": "Odam va xayvon organizmida uchraydigan va uzlashtiriladigan uch monosaxaridni korsating:",
+    "Answers": [
+      "Galaktoza",
+      "Glyukoza",
+      "Fruktoza"
+    ],
+    "Options": [
+      "Mannoza",
+      "Ksiluloza",
+      "Ribuloza"
+    ]
+  },
+  {
+    "Number": 305,
+    "Text": "Aminokislotalarning oksidlanish yoli bilan dezaminlanishini taminlovchi 3 xil fermentni korsating:",
+    "Answers": [
+      "D-aminokislotalar oksidazasi",
+      "L-aminokislotalar oksidazasi",
+      "glutamatdegidrogenaza"
+    ],
+    "Options": [
+      "aspartataminotransferaza",
+      "karboksipeptidaza",
+      "alaninaminotransferaza"
+    ]
+  },
+  {
+    "Number": 306,
+    "Text": "Piridoksalfosfat kofermentlik funksiya bajaruvchi 2 aminokislotalar parchalanish reaksiyalari:",
+    "Answers": [
+      "transaminlanish",
+      "dekarboksillanish"
+    ],
+    "Options": [
+      "dezaminlanish",
+      "glutation parchalanishi"
+    ]
+  },
+  {
+    "Number": 307,
+    "Text": "Godak bola aqliy va jismoniy rivojlanishdan orqada qolmoqda, sudorgilar kuzatilib, siydik bilan kop miqdorda fenilpiruvat va fenillaktat ajralmoqda. Sizning taxminiy tashxisingiz:",
+    "Answers": [
+      "fenilketonuriya"
+    ],
+    "Options": [
+      "Xartnup kasalligi",
+      "parkinsonizm",
+      "mastotsitoz",
+      "karsinoid sindrom"
+    ]
+  },
+  {
+    "Number": 308,
+    "Text": "Fenilketonuriyaga xos 4 belgini korsating:",
+    "Answers": [
+      "fenilalaninning tirozinga aylanishi buziladi",
+      "bolaning aqliy rivoji keskin sekinlashadi",
+      "siydikda kop miqdorda fenilasetilglutamin chiqishi",
+      "Siydikda kop miqdorda fenilpiruvat ajrashi"
+    ],
+    "Options": [
+      "siydikda sisteni kop chiqadi",
+      "siydikda kop miqdorda lizin chiqadi",
+      "siydikda kop mikdor arginin chiqadi",
+      "siydikda ornitin ajralishi ortadi"
+    ]
+  },
+  {
+    "Number": 309,
+    "Text": "Tugma albinizmning 4 belgisini korsating:",
+    "Answers": [
+      "teri, soch, koz tur qavatida melanin bolmasligi",
+      "melanotsitlarda tirozinazaning bolmasligi",
+      "dioksifenilalanin sintezining buzilishi",
+      "fenilasetilglutaminni siydikda kop ajralishi"
+    ],
+    "Options": [
+      "siydikda gomogentezin kislota miqdorining ortishi",
+      "fenilpiruvatning siydik orqali kop ajralishi",
+      "kuchli proteinuriya",
+      "dofaxrom sintezining buzilishi"
+    ]
+  },
+  {
+    "Number": 310,
+    "Text": "Jigarda adrenalin va noradrenalin katabolizmiga olib keluvchi 3 turdagi reaksiyalarni korsating:",
+    "Answers": [
+      "monoaminooksidazalar tasirida dezaminlanish",
+      "gidroksil guruxini metillanishi",
+      "glyukuron va sulfat kislotalari bilan konyugatsiyalanish"
+    ],
+    "Options": [
+      "monoaminoksidazalar tasirida dekarboksillanish",
+      "glutamin kislobasi bilan konyugatsiyalanish",
+      "karboksil guruxini transaminlanishi"
+    ]
+  },
+  {
+    "Number": 311,
+    "Text": "Aminokislotalar dekarboksillanishining 4 xilini korsating:",
+    "Answers": [
+      "alfa-dekarboksillanishi",
+      "omega-dekarboksillanishi",
+      "transaminlanish bilan bogliq bolgan dekarboksillanishi",
+      "molekulalar kondensatsiyasi bilan bogliq bolgan"
+    ],
+    "Options": [
+      "dezaminlanish bilan bogliq bolmagan dekarboksillanishi",
+      "dezaminlanish bilan bogliq bolgan dekarboksillanish",
+      "betta-dekarboksillanish",
+      "gamma-dekarboksillanish"
+    ]
+  },
+  {
+    "Number": 312,
+    "Text": "Aromatik aminokislotalar dekarboksilazasi tasirida triptofan izomerlari va dioksifenillanindan xosil boluvchi biogen aminlarning 3  vakilini korsating:",
+    "Answers": [
+      "triptamin",
+      "dofamin",
+      "serotonin"
+    ],
+    "Options": [
+      "tiramin",
+      "gistamin",
+      "feniletilamin"
+    ]
+  },
+  {
+    "Number": 313,
+    "Text": "Gistamin fiziologik tasirining 5 tomonini korsating:",
+    "Answers": [
+      "qon tomirlarini kengaytiradi",
+      "kapillyarlar otkazuvchanligini oshiradi",
+      "bosh miya ichida bosimni orttiradi, boshni ogritadi",
+      "oshqozonda xlorid kislota sintezini orttiradi",
+      "organizmni desensibilizatsiya qiladi"
+    ],
+    "Options": [
+      "qon bosimini oshiradi",
+      "kapillyarlar otkazuvchanligini pasaytiradi",
+      "oshkozon NSL sintezini buzadi",
+      "allergiya chaqirmaydi",
+      "silliq mushaklarni qisqartiradi"
+    ]
+  },
+  {
+    "Number": 314,
+    "Text": "Serotonin fiziologik tasirining 5 tomonini korsating:",
+    "Answers": [
+      "qon tomirlarini toraytiradi",
+      "bronxial astmani qozgaydi",
+      "ichak peristaltikasini kuchaytiradi",
+      "antidiuretik tasir etadi",
+      "diurezni kamaytiradi"
+    ],
+    "Options": [
+      "qon bosimini pasaytiradi",
+      "opka mushaklarini boshashtiradi",
+      "ichakni atoniya qiladi",
+      "qon tomir mushaklarini boshaytiradi",
+      "oshqozonda NSL sintezini oshiradi"
+    ]
+  },
+  {
+    "Number": 315,
+    "Text": "Katexolaminlarning 3 ta vakilini korsating:",
+    "Answers": [
+      "dofamin",
+      "noradrenalin",
+      "adrenalin"
+    ],
+    "Options": [
+      "gamma-aminomoy kislota",
+      "kadaverin",
+      "putressin"
+    ]
+  },
+  {
+    "Number": 316,
+    "Text": "Biogen aminlar zararsizlantirilishining uch yolini korsating:",
+    "Answers": [
+      "jigarda konyugatsiya yoli bilan",
+      "dezaminlanish yoli",
+      "metillanish yoli bilan"
+    ],
+    "Options": [
+      "gidroksillanish yoli",
+      "transaminlanish yoli bilan",
+      "karboksillanish yoli bilan"
+    ]
+  },
+  {
+    "Number": 317,
+    "Text": "Ammiakning organizmda xosil boladigan 3 yolini korsating.",
+    "Answers": [
+      "aminokislotalar dezaminlanishi",
+      "nukleotidlar dezaminlanishi",
+      "biogen aminlar dezaminlanishi"
+    ],
+    "Options": [
+      "aminokislotalar transaminlanishi",
+      "aminokislotalar dekarboksillanishi",
+      "aminokislotalar reaminlanishi"
+    ]
+  },
+  {
+    "Number": 318,
+    "Text": "Ammiak zararsizlantirilishining 4 xil yolini korsating:",
+    "Answers": [
+      "asparagin, glutamin sinteziga sarflash",
+      "qayta reaminlanish jarayoniga sarflash",
+      "mochevina sinteziga sarflanishi",
+      "ammoniy tuzlarining xosil bolishi"
+    ],
+    "Options": [
+      "uglevodlar sinteziga sarflash yoli",
+      "lipidlar sinteziga sarflash",
+      "gem sinteziga sarflash",
+      "nukleotidlar sinteziga sarflash"
+    ]
+  },
+  {
+    "Number": 319,
+    "Text": "Siydikchil sintezi ornitin xalqasiga mansub 5 fermentni korsating:",
+    "Answers": [
+      "karbamoilfosfatsintetaza",
+      "ornitin-karbamoiltransferaza",
+      "argininosuksinatliaza",
+      "argininosuksinat sintetaza",
+      "arginaza"
+    ],
+    "Options": [
+      "argininsintetaza",
+      "fumaraza",
+      "ornitinsintetaza",
+      "karboksipeptidaza",
+      "transaminaza"
+    ]
+  },
+  {
+    "Number": 320,
+    "Text": "Jigarda glikogenni gidrolizlovchi ferment",
+    "Answers": [
+      "gamma-amilaza"
+    ],
+    "Options": [
+      "dipeptitaza",
+      "laktaza",
+      "saxaraza"
+    ]
+  },
+  {
+    "Number": 321,
+    "Text": "B12 nomlaridan birini korsating.",
+    "Answers": [
+      "коbаlаmin"
+    ],
+    "Options": [
+      "timin",
+      "ribоflаvin",
+      "lеsitin"
+    ]
+  },
+  {
+    "Number": 322,
+    "Text": "C vitamin nomlaridan biri",
+    "Answers": [
+      "askorbin kislota"
+    ],
+    "Options": [
+      "lеsitin",
+      "biоtin",
+      "rutin"
+    ]
+  },
+  {
+    "Number": 323,
+    "Text": "P vitamin nomalri danbiri",
+    "Answers": [
+      "otkazuvchi vitamin"
+    ],
+    "Options": [
+      "sitrullin",
+      "prоlin",
+      "flаvin"
+    ]
+  },
+  {
+    "Number": 324,
+    "Text": "Vitaminsimon moddalarga misol",
+    "Answers": [
+      "inоzit"
+    ],
+    "Options": [
+      "rutin",
+      "mеtiоnin",
+      "ribоflаvin"
+    ]
+  },
+  {
+    "Number": 325,
+    "Text": "Biologik antivvitaminlardan birini korsating.",
+    "Answers": [
+      "аsкаrbаt окsidаzа"
+    ],
+    "Options": [
+      "lеsitin",
+      "gistаmin",
+      "sitrin"
+    ]
+  },
+  {
+    "Number": 326,
+    "Text": "Avitaminoz Hni yuzaga keltiruvchi sabablardan biri",
+    "Answers": [
+      "sulfanilamid preparatlarning kop vaqt qollash"
+    ],
+    "Options": [
+      "kop vaqt antibiotiklarning yoqligi",
+      "kop miqdordagi oqsilli ovqatlanish",
+      "kop miqdordagi uglevodli ovqatlanish"
+    ]
+  },
+  {
+    "Number": 327,
+    "Text": "Folat kislotasining tuzilish birliklaridan biri",
+    "Answers": [
+      "glutаmin кislоtа"
+    ],
+    "Options": [
+      "аspаrаgin",
+      "niкоtin кislоtа",
+      "аspаrtаt"
+    ]
+  },
+  {
+    "Number": 328,
+    "Text": "Osh qozon ichak traktida yoglarni xazmlovchi ferment",
+    "Answers": [
+      "Esteraza"
+    ],
+    "Options": [
+      "glikozidaza",
+      "ekzopeptiddaza",
+      "endopeptidaza"
+    ]
+  },
+  {
+    "Number": 329,
+    "Text": "Ichakda yoglarning xazmlanishi va sorilishi uchun eng muxim modda",
+    "Answers": [
+      "ot kislota"
+    ],
+    "Options": [
+      "xlorid-anion",
+      "ichakli pazasi",
+      "lipoproteinli paza"
+    ]
+  },
+  {
+    "Number": 330,
+    "Text": "D vitamin nomlaridan biri",
+    "Answers": [
+      "аntirахitik"
+    ],
+    "Options": [
+      "lеsitin",
+      "ubiхinоn",
+      "tокоfеrоl"
+    ]
+  },
+  {
+    "Number": 331,
+    "Text": "D vitaminiga taalluqli moddalar guruhi",
+    "Answers": [
+      "хоlеkаlsifеrоl"
+    ],
+    "Options": [
+      "lеsitin",
+      "ergоstеrin",
+      "1,25-diокsiхоlat"
+    ]
+  },
+  {
+    "Number": 332,
+    "Text": "K vitamin turlaridan biri",
+    "Answers": [
+      "vitаmin К2"
+    ],
+    "Options": [
+      "rеtinоl",
+      "vitаmin К4",
+      "dikumаrоl"
+    ]
+  },
+  {
+    "Number": 333,
+    "Text": "Odam uchun ovqatning asosiy tarkibiy qismlaridan biri",
+    "Answers": [
+      "oqsillar"
+    ],
+    "Options": [
+      "хоlеstеrin",
+      "fоsfоlipidlar",
+      "gliкоlipidlar"
+    ]
+  },
+  {
+    "Number": 334,
+    "Text": "Organizmdagi moddalar almashinuvi boshqarilish darajalaridan biri",
+    "Answers": [
+      "gоrmоnlar bilan"
+    ],
+    "Options": [
+      "аntivitаminlar bilan",
+      "vitаminlar bilan",
+      "коfеrmеntlar bilan"
+    ]
+  },
+  {
+    "Number": 335,
+    "Text": "Qonda kaltsiy va fosfationlarini idora etadi:",
+    "Answers": [
+      "paratgormon"
+    ],
+    "Options": [
+      "osishgormoni",
+      "adrenalin",
+      "aldosteron"
+    ]
+  },
+  {
+    "Number": 336,
+    "Text": "Paratgormon stimullaydi (kuchaytiradi):",
+    "Answers": [
+      "vitamin D ni uning fao laqshila –almashinuv shakliga otkazadi"
+    ],
+    "Options": [
+      "ichak peristaltikasini kucaytirib yxshilaydi",
+      "tripsinogenni aktivlanishini",
+      "pankreatikli pazani aktivlanishini"
+    ]
+  },
+  {
+    "Number": 337,
+    "Text": "Vitamin D ning qaysi shakli faol bolib xizmat qiladi:",
+    "Answers": [
+      "1,25-dioksixolekaltsiferol"
+    ],
+    "Options": [
+      "25-oksixolekaltsiferol",
+      "1-oksikaltsiferol",
+      "Xolesterol"
+    ]
+  },
+  {
+    "Number": 338,
+    "Text": "Organizmda elektrolitlar balansini bir meyorda ushlab turish uchun kerak:",
+    "Answers": [
+      "aldosterone"
+    ],
+    "Options": [
+      "xolesterin",
+      "glyukogon",
+      "testosterone"
+    ]
+  },
+  {
+    "Number": 339,
+    "Text": "Gipertireozda kuchayadi:",
+    "Answers": [
+      "biologic oksidlanish va issiqlik ajralishi"
+    ],
+    "Options": [
+      "keton tanachalarining sintezi",
+      "lipogenez va liponeogenez",
+      "glyukoneogenez"
+    ]
+  },
+  {
+    "Number": 340,
+    "Text": "Kaltsitonin stimullaydi:",
+    "Answers": [
+      "siydik bilan fosfatlar vaCa ekskretsiyasini"
+    ],
+    "Options": [
+      "Na va K ekskretsiyasini",
+      "ingichka ichakda Sa sorilishini",
+      "gepatotsitlarda yoglarni jamgarilishini"
+    ]
+  },
+  {
+    "Number": 341,
+    "Text": "Qandli diabetda ortadi:",
+    "Answers": [
+      "berilgan barcha javoblar togri"
+    ],
+    "Options": [
+      "yog toqimasida lipoliz",
+      "yog kislotalarini oksidlanishi",
+      "qonda glukoza miqdori"
+    ]
+  },
+  {
+    "Number": 342,
+    "Text": "Eritmada gemoglobin borligini quyidagi reaktsiya yordamida aniqlash mumkin:",
+    "Answers": [
+      "Benzidinprobasi"
+    ],
+    "Options": [
+      "Pauli",
+      "Adam kevich reaksiyasi",
+      "Feling"
+    ]
+  },
+  {
+    "Number": 343,
+    "Text": "Gidrolazalar qanday reaksiyalarni katalizlaydilar.",
+    "Answers": [
+      "Molekulalarni suv yordamida parchalash"
+    ],
+    "Options": [
+      "Qosh bogli guruhlani biriktirish",
+      "Molekulalar aro atom va radikal guruhlar tashilishi",
+      "Oksidlanish-qaytarilish"
+    ]
+  },
+  {
+    "Number": 344,
+    "Text": "Liazalar qanday reaksiyalarni katalizlaydilar:",
+    "Answers": [
+      "Qosh bogli guruhlarni biriktiradilar"
+    ],
+    "Options": [
+      "Oksidlanish-qaytarilish",
+      "Molekulalar aro atom va radikal guruhlar tashilishi",
+      "Molekulalarni suv yordamida parchalash"
+    ]
+  },
+  {
+    "Number": 345,
+    "Text": "Ligazalar qanday reaksiyalarni katalizlaydilar :",
+    "Answers": [
+      "ATF sarfi bilan yangi bog hosil qilish"
+    ],
+    "Options": [
+      "Guruhlarni tashish",
+      "Ichki molekulyar boglarni parchalash",
+      "Qosh bogli guruhlarni biriktirish"
+    ]
+  },
+  {
+    "Number": 346,
+    "Text": "Murakkab ferment tarkibidagi oqsil bolmagan har qanday qismi qanday nomlanadi:",
+    "Answers": [
+      "Kofaktor"
+    ],
+    "Options": [
+      "Peptidguruh",
+      "Apoferment",
+      "Oligoferment"
+    ]
+  },
+  {
+    "Number": 347,
+    "Text": "Qaysi nukleotidlar odatda RNK tarkibiga kiradi",
+    "Answers": [
+      "UMF"
+    ],
+    "Options": [
+      "TMF",
+      "dUMF",
+      "ATF"
+    ]
+  },
+  {
+    "Number": 348,
+    "Text": "Steroid tabiatli garmonlar:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Oksitotsin",
+      "Insulin",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 349,
+    "Text": "Peptid gormonlarning retseptorlari joylashadi :",
+    "Answers": [
+      "Hujayra membranasi tashqi yuzasida"
+    ],
+    "Options": [
+      "Hujayra sitoplazmasida",
+      "Ribosomalarda",
+      "Mikrosomada"
+    ]
+  },
+  {
+    "Number": 350,
+    "Text": "Peptid garmonlar tasirida ikkilamchi yordamchilar:",
+    "Answers": [
+      "Kalsiy ionlari"
+    ],
+    "Options": [
+      "Proteinkinaza",
+      "sTMF",
+      "Triglitserid"
+    ]
+  },
+  {
+    "Number": 351,
+    "Text": "Peptid garmonlar tasirida ikkilamchi yordamchilar:",
+    "Answers": [
+      "Inozitoltrifosfat"
+    ],
+    "Options": [
+      "AMF",
+      "Fosfoenolpiruvat",
+      "Adenilatsiklaza"
+    ]
+  },
+  {
+    "Number": 352,
+    "Text": "Qalqonsimon bezda hosil boluvchi garmon:",
+    "Answers": [
+      "Tiroksin"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Androsteron",
+      "Adrenalin"
+    ]
+  },
+  {
+    "Number": 353,
+    "Text": "Xolesterinni eruvchan xolatga otkazuvchi asosiy otkislotani korsating:",
+    "Answers": [
+      "xenodezoksi xolat"
+    ],
+    "Options": [
+      "xolat",
+      "dezoksi xolat",
+      "lito xolat"
+    ]
+  },
+  {
+    "Number": 354,
+    "Text": "Qonzardobida albumin miqdori teng:",
+    "Answers": [
+      "40-50 g/l"
+    ],
+    "Options": [
+      "2-4 g|l",
+      "5-10 g/l",
+      "10-20 g/l"
+    ]
+  },
+  {
+    "Number": 355,
+    "Text": "Organizmda qonbosimi, xarorat, nafas olish va buyrak koptokchalarida filtratsiyani boshqaruvchi biogenaminni korsating:",
+    "Answers": [
+      "serotonin"
+    ],
+    "Options": [
+      "tiramin",
+      "triptamin",
+      "etilamin"
+    ]
+  },
+  {
+    "Number": 356,
+    "Text": "Allergik reaktsiyalar rivojlanishida qatnashuvchi biogenaminni korsating:",
+    "Answers": [
+      "gistamin"
+    ],
+    "Options": [
+      "tiramin",
+      "triptamin",
+      "dofamin"
+    ]
+  },
+  {
+    "Number": 357,
+    "Text": "Ot кislоtаlаrning lipidlаrni hаzmlаnishidаgi аhаmiyatini кorsаting",
+    "Answers": [
+      "pаnкrеаtiкli pаzаni fаоllаydi"
+    ],
+    "Options": [
+      "tripsinni fаоllаydi",
+      "lipаzаsintеzni кuchаytirаdi",
+      "оshкоzоndа yog хаzmlаnishini yaхshilаydi"
+    ]
+  },
+  {
+    "Number": 358,
+    "Text": "Yoglаr ichакdа toliq hаzmlаngаndа qаndаy mоddа hоsil bolаdi",
+    "Answers": [
+      "glisеrin"
+    ],
+    "Options": [
+      "хilоmiкrоnlаr",
+      "ot кislоtаlаr",
+      "fоsfоlipidlаr"
+    ]
+  },
+  {
+    "Number": 359,
+    "Text": "Jigar glikogenini safarbarlanishida shalola mexanizmida ishtirok etuvchi fermentni korsating:",
+    "Answers": [
+      "protein kinaza"
+    ],
+    "Options": [
+      "Difosforilaza",
+      "a-amilaza",
+      "laktaza"
+    ]
+  },
+  {
+    "Number": 360,
+    "Text": "Glyukokortikoidlarni vakilini korsating:",
+    "Answers": [
+      "kortikosteron"
+    ],
+    "Options": [
+      "glukoza-1-fosfat",
+      "insulin",
+      "glyukagon"
+    ]
+  },
+  {
+    "Number": 361,
+    "Text": "Jigarda kechuvchi detoksikatsiya jarayonini korsating:",
+    "Answers": [
+      "zararli moddalardan befarq moddalar sintezi"
+    ],
+    "Options": [
+      "biogenaminlar sintezi",
+      "sikli kamino kislotalarning dekarb oksillanish",
+      "dezaminirlanish"
+    ]
+  },
+  {
+    "Number": 362,
+    "Text": "Bemorda ichqotish aniqlandi. Ichak faoliyatini yaxshilash uchun qaysi uglevod tavsiya etiladi",
+    "Answers": [
+      "kletchatka"
+    ],
+    "Options": [
+      "riboza",
+      "laktoza",
+      "saxaroza"
+    ]
+  },
+  {
+    "Number": 363,
+    "Text": "Bemorda ochlikda xotira pasayishi kuzatildi. Unga shu zaxoti nima beriladi",
+    "Answers": [
+      "glyukoza"
+    ],
+    "Options": [
+      "albumin",
+      "eritropoetin",
+      "vitamin D"
+    ]
+  },
+  {
+    "Number": 364,
+    "Text": "Ot kislotalari tarkibida xolesterolning oksidlanishi qaysi organda sodir boladi",
+    "Answers": [
+      "jigar"
+    ],
+    "Options": [
+      "buyrak",
+      "miya",
+      "opka"
+    ]
+  },
+  {
+    "Number": 365,
+    "Text": "Jigarda ot kislotalari qaysi moddadan xosil boladi",
+    "Answers": [
+      "xolesterin"
+    ],
+    "Options": [
+      "fosfolipid",
+      "atsetoatsetat",
+      "letsitin"
+    ]
+  },
+  {
+    "Number": 366,
+    "Text": "Xolesterinni organism uchun axamiyati",
+    "Answers": [
+      "steroid gormonlar ot mishdoshi xisoblanadi"
+    ],
+    "Options": [
+      "peptidgormonlar otmishdoshi xisoblanadi",
+      "yoglarni emulgirlaydi",
+      "endogen suv manbai xisoblanadi"
+    ]
+  },
+  {
+    "Number": 367,
+    "Text": "Bemor qorongida korishi pasayganidan shikoyat qilgan. Qaysi vitaminning yetishmovchiligi",
+    "Answers": [
+      "vitamin A"
+    ],
+    "Options": [
+      "vitamin S",
+      "vitamin B1",
+      "vitamin K"
+    ]
+  },
+  {
+    "Number": 368,
+    "Text": "Gemoglobin qanday buffer sistemalar hosil qiladi:",
+    "Answers": [
+      "hhb/KHb, hhbO2/KHbO2"
+    ],
+    "Options": [
+      "oqsil va fosfat",
+      "bikarbonat",
+      "bikarbonatlar va fosfat"
+    ]
+  },
+  {
+    "Number": 369,
+    "Text": "Tibbiyotda diagnostic maqsadida keng qollanadigan transaminazalarni korsating:",
+    "Answers": [
+      "alAT-asAT"
+    ],
+    "Options": [
+      "giAT-serAT",
+      "gisAT-lizAT",
+      "tirAT-triAT"
+    ]
+  },
+  {
+    "Number": 370,
+    "Text": "Moddalar almashinuvida jigar markaziy orinni egallaydi, chunki unga quyidagi funktsiyalar xos:",
+    "Answers": [
+      "xamma javoblar togri"
+    ],
+    "Options": [
+      "secretor va ekskretor",
+      "plastic va depolovchi",
+      "regulyator-gomeostatik"
+    ]
+  },
+  {
+    "Number": 371,
+    "Text": "Jigarda bilirubinni zararsizlantirilishi quyidagi ferment ishtirokida kechadi:",
+    "Answers": [
+      "UDF-glyukuroniltransferazalar"
+    ],
+    "Options": [
+      "glitsintransferalar",
+      "metiltransferazalar",
+      "glutamintransferazalar"
+    ]
+  },
+  {
+    "Number": 372,
+    "Text": "Gemolitik sariqlikda qon da oshadi:",
+    "Answers": [
+      "bilvosita bilirubin"
+    ],
+    "Options": [
+      "insulin",
+      "ot pigmentalar",
+      "xolesterin"
+    ]
+  },
+  {
+    "Number": 373,
+    "Text": "Qonzardobida albumin miqdori teng:",
+    "Answers": [
+      "40-50 g/l"
+    ],
+    "Options": [
+      "2-4 g|l",
+      "5-10 g/l",
+      "10-20 g/l"
+    ]
+  },
+  {
+    "Number": 374,
+    "Text": "Organizmda qonbosimi, xarorat, nafas olish va buyrak koptokchalarida filtratsiyani boshqaruvchi biogenaminni korsating:",
+    "Answers": [
+      "serotonin"
+    ],
+    "Options": [
+      "tiramin",
+      "triptamin",
+      "etilamin"
+    ]
+  },
+  {
+    "Number": 375,
+    "Text": "Allergik reaktsiyalar rivojlanishida qatnashuvchi biogenaminni korsating:",
+    "Answers": [
+      "gistamin"
+    ],
+    "Options": [
+      "tiramin",
+      "triptamin",
+      "dofamin"
+    ]
+  },
+  {
+    "Number": 376,
+    "Text": "Ot кislоtаlаrning lipidlаrni hаzmlаnishidаgi аhаmiyatini кorsаting",
+    "Answers": [
+      "pаnкrеаtiкli pаzаni fаоllаydi"
+    ],
+    "Options": [
+      "tripsinni fаоllаYdi",
+      "lipаzаsintеzni кuchаytirаdi",
+      "оshкоzоndа yog хаzmlаnishini yaхshilаydi"
+    ]
+  },
+  {
+    "Number": 377,
+    "Text": "Jigar glikogenini safarbarlanishida shalola mexanizmida ishtirok etuvchi fermentni korsating:",
+    "Answers": [
+      "protein kinaza"
+    ],
+    "Options": [
+      "Difosforilaza",
+      "a-amilaza",
+      "laktaza"
+    ]
+  },
+  {
+    "Number": 378,
+    "Text": "Jigarda kechuvchi detoksikatsiya jarayonini korsating:",
+    "Answers": [
+      "zararli moddalardan befarq moddalar sintezi"
+    ],
+    "Options": [
+      "biogenaminlar sintezi",
+      "sikli kamino kislotalarning dekarb oksillanish",
+      "dezaminirlanish"
+    ]
+  },
+  {
+    "Number": 379,
+    "Text": "Ot kislotalari tarkibida xolesterolning oksidlanishi qaysi organda sodir boladi",
+    "Answers": [
+      "jigar"
+    ],
+    "Options": [
+      "buyrak",
+      "miya",
+      "opka"
+    ]
+  },
+  {
+    "Number": 380,
+    "Text": "Jigarda ot kislotalari qaysi moddadan xosil boladi",
+    "Answers": [
+      "xolesterin"
+    ],
+    "Options": [
+      "fosfolipid",
+      "atsetoatsetat",
+      "letsitin"
+    ]
+  },
+  {
+    "Number": 381,
+    "Text": "Xolesterinni organism uchun axamiyati",
+    "Answers": [
+      "steroid gormonlar ot mishdoshi xisoblanadi"
+    ],
+    "Options": [
+      "peptidgormonlar otmishdoshi xisoblanadi",
+      "yoglarni emulgirlaydi",
+      "endogen suv manbai xisoblanadi"
+    ]
+  },
+  {
+    "Number": 382,
+    "Text": "Bemor qorongida korishi pasayganidan shikoyat qilgan. Qaysi vitaminning yetishmovchiligi",
+    "Answers": [
+      "vitamin A"
+    ],
+    "Options": [
+      "vitamin S",
+      "vitamin B1",
+      "vitamin K"
+    ]
+  },
+  {
+    "Number": 383,
+    "Text": "Gemoglobin qanday buffer sistemalar hosil qiladi:",
+    "Answers": [
+      "hhb/KHb, hhbO2/KHbO2"
+    ],
+    "Options": [
+      "oqsil va fosfat",
+      "bikarbonat",
+      "bikarbonatlar va fosfat"
+    ]
+  },
+  {
+    "Number": 384,
+    "Text": "Tibbiyotda diagnostic maqsadida keng qollanadigan transaminazalarni korsating:",
+    "Answers": [
+      "alAT-asAT"
+    ],
+    "Options": [
+      "giAT-serAT",
+      "gisAT-lizAT",
+      "tirAT-triAT"
+    ]
+  },
+  {
+    "Number": 385,
+    "Text": "Moddalar almashinuvida jigar markaziy orinni egallaydi, chunki unga quyidagi funktsiyalar xos:",
+    "Answers": [
+      "xamma javoblar togri"
+    ],
+    "Options": [
+      "secretor va ekskretor",
+      "plastic va depolovchi",
+      "regulyator-gomeostatik"
+    ]
+  },
+  {
+    "Number": 386,
+    "Text": "Jigarda bilirubinni zararsizlantirilishi quyidagi ferment ishtirokida kechadi:",
+    "Answers": [
+      "UDF-glyukuroniltransferazalar"
+    ],
+    "Options": [
+      "glitsintransferalar",
+      "metiltransferazalar",
+      "glutamintransferazalar"
+    ]
+  },
+  {
+    "Number": 387,
+    "Text": "Gemolitik sariqlikda qon da oshadi:",
+    "Answers": [
+      "bilvosita bilirubin"
+    ],
+    "Options": [
+      "insulin",
+      "ot pigmentalar",
+      "xolesterin"
+    ]
+  },
+  {
+    "Number": 388,
+    "Text": "DNK va RNK birlamchi tuzilishi qanday bog bilan taminlangan :",
+    "Answers": [
+      "Fosfodiefir"
+    ],
+    "Options": [
+      "Glikozid",
+      "Peptid",
+      "Gidrofob"
+    ]
+  },
+  {
+    "Number": 389,
+    "Text": "Hujayralarda mavjud RNK turi",
+    "Answers": [
+      "tRNA"
+    ],
+    "Options": [
+      "nRNK",
+      "dRNK",
+      "pRNK"
+    ]
+  },
+  {
+    "Number": 390,
+    "Text": "Oqsil biosintezi joyiga DNKdagi genetik axborotning otkazilishini taminlaydi:",
+    "Answers": [
+      "mRNK"
+    ],
+    "Options": [
+      "DNK-polimeraza",
+      "tRNK",
+      "rRNK"
+    ]
+  },
+  {
+    "Number": 391,
+    "Text": "Dezoksiribonukleoprotenning to liq gidrolizida nima hosil boladi:",
+    "Answers": [
+      "Purin asoslari"
+    ],
+    "Options": [
+      "Nukleozid",
+      "Riboza",
+      "Peptidlar"
+    ]
+  },
+  {
+    "Number": 392,
+    "Text": "Mikrosomal oksidlanish oksidlanishning qaysi tipiga tegishli:",
+    "Answers": [
+      "Monooksigenaz"
+    ],
+    "Options": [
+      "Dioksigenaz",
+      "Oxidaz",
+      "Degidrogenaz"
+    ]
+  },
+  {
+    "Number": 393,
+    "Text": "Jigarda protrombin sintezida qatnashuvchi vitaminni korsating:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "B1"
+    ]
+  },
+  {
+    "Number": 394,
+    "Text": "Organizmdagi qaysi sistema moddalar almashinuvini boshqarilishini taminlaydi",
+    "Answers": [
+      "endokrin"
+    ],
+    "Options": [
+      "limfatik",
+      "ayiruv",
+      "nafas olish"
+    ]
+  },
+  {
+    "Number": 395,
+    "Text": "Xolesterin mahsulotlari qatoriga kiruvchi gormonlarni korsating",
+    "Answers": [
+      "kortizol"
+    ],
+    "Options": [
+      "adrenalin",
+      "insulin",
+      "kalsitonin"
+    ]
+  },
+  {
+    "Number": 396,
+    "Text": "Jigarda glikogen zaxirasi qanchaga yetadi:",
+    "Answers": [
+      "6%"
+    ],
+    "Options": [
+      "10%",
+      "1%",
+      "3%"
+    ]
+  },
+  {
+    "Number": 397,
+    "Text": "Qaysi uglevodlar struktura vazifasini bajaradi",
+    "Answers": [
+      "Glikozaminoglikanlar"
+    ],
+    "Options": [
+      "Glikogen",
+      "Fruktoza",
+      "Maltoza"
+    ]
+  },
+  {
+    "Number": 398,
+    "Text": "Jigarda galaktozaning fosforillanishida hosil boladi:",
+    "Answers": [
+      "Galaktoza -1-fosfat"
+    ],
+    "Options": [
+      "Glyukoza -6-fosfat",
+      "Glyukoza -1-fosfat",
+      "UDF-galaktoza"
+    ]
+  },
+  {
+    "Number": 399,
+    "Text": "Eritrositlar tarkibi v a tuzilishi xossasini korsating.",
+    "Answers": [
+      "eritrоsitlar qonning 44% ini tashkil qiladi"
+    ],
+    "Options": [
+      "mioglabin tutadi",
+      "eritrositlarning 5% ini gemoglabin tashkil qiladi",
+      "yadro va mitoxondriyaga ega"
+    ]
+  },
+  {
+    "Number": 400,
+    "Text": "Ferritinga xos xususiyatni korsating",
+    "Answers": [
+      "toqimada temir zahirasi hisoblanadi"
+    ],
+    "Options": [
+      "bitta polipeptid zanjirdan iborat",
+      "gliкоprоtеid",
+      "lipоprоtеid"
+    ]
+  },
+  {
+    "Number": 401,
+    "Text": "Ferritinga boy organni aniqlang.",
+    "Answers": [
+      "Jigar"
+    ],
+    "Options": [
+      "opka",
+      "buyrak",
+      "miya"
+    ]
+  },
+  {
+    "Number": 402,
+    "Text": "Eritrosit tarkibida mavjud bolmagan organoidni aniqlang",
+    "Answers": [
+      "yadrо"
+    ],
+    "Options": [
+      "biоmеmbrаna",
+      "gеmоglоbin",
+      "sitоplаzmа"
+    ]
+  },
+  {
+    "Number": 403,
+    "Text": "Eritrositlardagi biokimyoviy jarayonlarda qatnashadigan fermentlar guruhini korsating.",
+    "Answers": [
+      "oqsil biosintezida qatnashuvchi fermentlar"
+    ],
+    "Options": [
+      "aerob glikoliz fermentlari",
+      "lipidlar sintezlovchi fermentlar",
+      "glukoneogenez fеrmеntlari"
+    ]
+  },
+  {
+    "Number": 404,
+    "Text": "Tiroksin garmoni sintezlanadi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Oshqozonosti bezida",
+      "Qalqon oldi bezi",
+      "Buyrak usti bezi postloq qismida"
+    ]
+  },
+  {
+    "Number": 405,
+    "Text": "Tirok sin etishmovchiligida kattalarda rivojlanadigan kasallik:",
+    "Answers": [
+      "Miksidema"
+    ],
+    "Options": [
+      "Greyvs kasalligi",
+      "Kretinizm",
+      "Feoxromositoma"
+    ]
+  },
+  {
+    "Number": 406,
+    "Text": "Tiroksinning ortiqcha sekretsiyasida kuzatiladi:",
+    "Answers": [
+      "Qozgaluvchanlik, asabiylashish"
+    ],
+    "Options": [
+      "tana massasining ortishi",
+      "Suyaklar deformatsiyasi",
+      "Qonda xolesterin oshishi"
+    ]
+  },
+  {
+    "Number": 407,
+    "Text": "Androgenlarga kira di:",
+    "Answers": [
+      "Testosteron"
+    ],
+    "Options": [
+      "Prolaktinlar",
+      "Antidiuretik garmon",
+      "Aldosteron"
+    ]
+  },
+  {
+    "Number": 408,
+    "Text": "sAMF ning hujayradagi roli:",
+    "Answers": [
+      "Proteinkinaza A ni aktivlashtiradi"
+    ],
+    "Options": [
+      "ATF ga aylanadi",
+      "Adenilatsiklazani aktivlaydi",
+      "Vitamin A ning otmishdoshi"
+    ]
+  },
+  {
+    "Number": 409,
+    "Text": "Organizmda adrenalinning hosil bolish joyi:",
+    "Answers": [
+      "Buyrak usti bezining miya moddasi"
+    ],
+    "Options": [
+      "Qalqon oldi bezi",
+      "Langergans orolchalarining a hujayralarida",
+      "Buyrak usti bezining postloq moddasida"
+    ]
+  },
+  {
+    "Number": 410,
+    "Text": "Adrenalin kimyoviy tabiati boyicha:",
+    "Answers": [
+      "Tirozin aminokislotasi hosilasi"
+    ],
+    "Options": [
+      "Triptofan aminokislotasi hosilasi",
+      "Oqsil",
+      "Steroid gormon"
+    ]
+  },
+  {
+    "Number": 411,
+    "Text": "Adrenalin uch un nishon toqima :",
+    "Answers": [
+      "Yurak-tomir tizimi"
+    ],
+    "Options": [
+      "Buyrak usti bezining miya qismi",
+      "Biriktiruvchi toqima",
+      "Pankryas bezi"
+    ]
+  },
+  {
+    "Number": 412,
+    "Text": "Vitamin E ning biologik tasiri quyidagi jarayonlarda kuzatiladi:",
+    "Answers": [
+      "antioksidant sifatida xujayra membranalarini stabillaydi"
+    ],
+    "Options": [
+      "uglevodlarning aerob parchalanishida",
+      "qon yaratishda",
+      "togay toqimasining suyak toqimasiga almashinishida"
+    ]
+  },
+  {
+    "Number": 413,
+    "Text": "Bemor antibiotiklar istemol qilgandan song burnidan qon ketdi,Askorutin preparati yordam bermaydi. Bu qaysi gipovitaminozga xos:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "H"
+    ]
+  },
+  {
+    "Number": 414,
+    "Text": "Bolada bosh suyagi ning liqildoq moddalarning bitmasligi, tishlar rivojlanishining orqada qolishi kuzatiladi. Ushbu qaysi gipovitaminoz:",
+    "Answers": [
+      "xolekaltsiferol"
+    ],
+    "Options": [
+      "nikotinamid",
+      "askorbin kislotasi",
+      "retinol"
+    ]
+  },
+  {
+    "Number": 415,
+    "Text": "Quyidagi koferment tarkibida nikotinamid ozining kofermentlik funktsiyasini namoyon qiladi:",
+    "Answers": [
+      "NADF"
+    ],
+    "Options": [
+      "TGFK",
+      "tiamindifosfat",
+      "FAD"
+    ]
+  },
+  {
+    "Number": 416,
+    "Text": "Qon plazmasi oddiy oqsil fraksiyalaridan birini korsating",
+    "Answers": [
+      "аlьbuminlar"
+    ],
+    "Options": [
+      "immunоglоbulinlar",
+      "prоtrоmbin",
+      "fibrinоgеn"
+    ]
+  },
+  {
+    "Number": 417,
+    "Text": "Protrombin ni aktivlovchi tashqi omillardan biri.",
+    "Answers": [
+      "Ca++ioni"
+    ],
+    "Options": [
+      "каllекrin",
+      "XII-fакtоr",
+      "XI-fакtоr"
+    ]
+  },
+  {
+    "Number": 418,
+    "Text": "Ichki qon ivishi ning oziga xos momentlaridan biri.",
+    "Answers": [
+      "barcha kerakli omillar qonda mavjud"
+    ],
+    "Options": [
+      "Ca+2 iоnlari",
+      "toqima tromboplastini jarayonda ishtirok etishi",
+      "qon ivishi sezilarli sekin boradi"
+    ]
+  },
+  {
+    "Number": 419,
+    "Text": "Tashqi qon ivishiga xos bosqichni korsating.",
+    "Answers": [
+      "toqima tromboplastini bilan VII omolning aktivlanishi"
+    ],
+    "Options": [
+      "I fакtоrning X fакtоr bilan aktivlanishi",
+      "X fакtоrning II fакtоr bilan aktivlanishi",
+      "VII fакtоrning XII fакtоr bilan aktivlanishi"
+    ]
+  },
+  {
+    "Number": 420,
+    "Text": "Gemoglabin A tuzilishini tashkil qiluvchi moddalardan birini korsating.",
+    "Answers": [
+      "tortta temir atomi"
+    ],
+    "Options": [
+      "bitta a zanjir",
+      "bitta b zanjir",
+      "ikki molekula gem"
+    ]
+  },
+  {
+    "Number": 421,
+    "Text": "Kreatin sintezida qatnashuv chi organni korsating.",
+    "Answers": [
+      "buyrak"
+    ],
+    "Options": [
+      "oshqozon",
+      "yurak",
+      "miya"
+    ]
+  },
+  {
+    "Number": 422,
+    "Text": "Gepatitda qaysi fermentning qonda miqdori ortadi",
+    "Answers": [
+      "Alanine aminotransferaza"
+    ],
+    "Options": [
+      "tripsin",
+      "qon zardobi amilazasi",
+      "keratin fosfokinaza"
+    ]
+  },
+  {
+    "Number": 423,
+    "Text": "Mushak toqimasining asosiy oqsillaridan biri",
+    "Answers": [
+      "Sаrкоplаzmаtiк"
+    ],
+    "Options": [
+      "miкrоfibrillyar",
+      "endoplazmatik tor",
+      "eruvchi oqsillar"
+    ]
+  },
+  {
+    "Number": 424,
+    "Text": "Funksiyasiga bogliq ravishda troponinning uchta subbirligidan birini korsating.",
+    "Answers": [
+      "ingi birlovchi"
+    ],
+    "Options": [
+      "miоzin",
+      "акtin",
+      "trоpоmiоzin"
+    ]
+  },
+  {
+    "Number": 425,
+    "Text": "Mushak qisqarishidagi kimyoviy jarayonlarda qatnashuvchi ekstraktiv moddalardan biri",
+    "Answers": [
+      "кrеаtin"
+    ],
+    "Options": [
+      "lеsitin",
+      "mom",
+      "аminокislоtalar"
+    ]
+  },
+  {
+    "Number": 426,
+    "Text": "Mushak toqimasidagi oqsil bolmagan azot saqlovchi purinli ekstraktiv moddalardan biri",
+    "Answers": [
+      "АTF"
+    ],
+    "Options": [
+      "GTF",
+      "АКF",
+      "UTF"
+    ]
+  },
+  {
+    "Number": 427,
+    "Text": "Mushak toqimasidagi oqsil bolmagan azot saqlovchi pirimidinli ekstraktiv moddalardan biri",
+    "Answers": [
+      "STF"
+    ],
+    "Options": [
+      "АКF",
+      "АTF",
+      "АDF"
+    ]
+  },
+  {
+    "Number": 428,
+    "Text": "Mushak toqimasi uchun energiya manbai",
+    "Answers": [
+      "аdеnilаtкinаz rеакsiyasi"
+    ],
+    "Options": [
+      "gliкоnеоgеnеz",
+      "miкrоsоmаl oksidlanish",
+      "dекаrbокsillanish"
+    ]
+  },
+  {
+    "Number": 429,
+    "Text": "Ichakka ot kislotaning yetarli kelmasligidan qaysi jarayon buziladi",
+    "Answers": [
+      "ichaklarda yoglarning xazmlanishi va sorilishi"
+    ],
+    "Options": [
+      "linol va linolen kislotalar yetishmasligi",
+      "yogda eruvchi vitaminlar giper vitaminozi",
+      "almashinmaydigan aminokislotalar yetishmasligi"
+    ]
+  },
+  {
+    "Number": 430,
+    "Text": "Oshqozon shirasida pH normasi",
+    "Answers": [
+      "1,5- 2,0"
+    ],
+    "Options": [
+      "5,5- 6,8",
+      "3,0- 5,0",
+      "8,8- 9,0"
+    ]
+  },
+  {
+    "Number": 431,
+    "Text": "Oshqozon shirasining noorganik komponenti",
+    "Answers": [
+      "xlorid kislota"
+    ],
+    "Options": [
+      "ammoniy sul`fat",
+      "vodorod peroksidi",
+      "sulfat kislota"
+    ]
+  },
+  {
+    "Number": 432,
+    "Text": "Oqsillar chirishi nima",
+    "Answers": [
+      "yogon ichak mikroflorasi tasirida aminokislotalarning parchalanishi"
+    ],
+    "Options": [
+      "toqima oksid azasi tasirida oksidlanish",
+      "ichak fermentlari tasirida amino kislotalar dekarb oksillanishi",
+      "toqima reduktazasi tasirida qaytarilish"
+    ]
+  },
+  {
+    "Number": 433,
+    "Text": "Oqsillar chirishi jarayonida yogon ichakda tirozindan nima xosil boladi",
+    "Answers": [
+      "krezol, fenol"
+    ],
+    "Options": [
+      "benzol, indol",
+      "metilmerkaptan",
+      "putrestsin, kadaverin"
+    ]
+  },
+  {
+    "Number": 434,
+    "Text": "Albuminlar chokmaga tushadi:",
+    "Answers": [
+      "Ammoniysulfatning toyingan eritmasida"
+    ],
+    "Options": [
+      "Ammoniy sulfatning yarim toyingan eritmasida",
+      "Natriyxloridning toyingan eritmasida",
+      "Natriyxloridning yarim toyingan eritmasida"
+    ]
+  },
+  {
+    "Number": 435,
+    "Text": "Folyare aksiyasi usuli prinsipi oz ichiga oladi:",
+    "Answers": [
+      "Qorgoshin sulfide chokmasining shakllanishi"
+    ],
+    "Options": [
+      "Rueman kompleksi hosil bolishi",
+      "Aromati kamino kislotalarni trolanishi",
+      "Misionlari bilan kompleks shakllanishi"
+    ]
+  },
+  {
+    "Number": 436,
+    "Text": "Biuret reaksiyasi natijasida oqsillarda aniqlandi:",
+    "Answers": [
+      "Peptid bog"
+    ],
+    "Options": [
+      "Aromati kamino kislotalar",
+      "Musbat zaryadli aminokislatalar amino guruhi",
+      "Oltin gugurt saqlovchi aminokislotalar"
+    ]
+  },
+  {
+    "Number": 437,
+    "Text": "Qaysi aminokislatalarni Folya reaksiyasi yordamida oqsil tarkibida toppish mumkin",
+    "Answers": [
+      "Sistein"
+    ],
+    "Options": [
+      "Tireonin",
+      "Alanin",
+      "Serin"
+    ]
+  },
+  {
+    "Number": 438,
+    "Text": "Murakkab fermentlarning oqsil bilan mustahkam boglanadigan qismi qanday nomlanadi",
+    "Answers": [
+      "Prostetik guruh"
+    ],
+    "Options": [
+      "Xoloferment",
+      "Proferment",
+      "Apoferment"
+    ]
+  },
+  {
+    "Number": 439,
+    "Text": "Murakkab fermentlarning oqsil qismi qanday nomlanadi",
+    "Answers": [
+      "Apoferment"
+    ],
+    "Options": [
+      "xoloferment",
+      "Koferment",
+      "Kofaktor"
+    ]
+  },
+  {
+    "Number": 440,
+    "Text": "Kopchilik fermentlarning maksimal faolligi qanday PH muhitda paydo boladi",
+    "Answers": [
+      "6,0 – 8,0"
+    ],
+    "Options": [
+      "-  1,5 -2,0",
+      "8,0 -9,0",
+      "Faqat 7,0 da"
+    ]
+  },
+  {
+    "Number": 441,
+    "Text": "Bemorda antibiotiklar qabul qilingandan song burundan qon oqish kuzatildi. Bu qaysi gipovitaminoz:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "H"
+    ]
+  },
+  {
+    "Number": 442,
+    "Text": "Bolada kallada liqildoqning bekilmaganligi, tishlarning kech chiqishi, yomon uxlashi va ishtahasizligi. Bunda nima etishmayapti:",
+    "Answers": [
+      "xolekaltsiferol"
+    ],
+    "Options": [
+      "nikotinamid",
+      "askorbin kislotasi",
+      "retinol"
+    ]
+  },
+  {
+    "Number": 443,
+    "Text": "Oqsil sintezini initsirlovchi kompleksiga kiruvchi qismini korsating:",
+    "Answers": [
+      "ribosomaning kichik sub birligi"
+    ],
+    "Options": [
+      "informatsion RNK 3uchi",
+      "barcha transport RNKlar",
+      "elongatsiyaning oqsil omillari"
+    ]
+  },
+  {
+    "Number": 444,
+    "Text": "DNK replikatsiyasi uchun asosiy sharti:",
+    "Answers": [
+      "replikatsiya fermentlari mavjudligi"
+    ],
+    "Options": [
+      "dezoksiribonukleotid monofosfatlari",
+      "ribosomalar",
+      "informatsion RNK"
+    ]
+  },
+  {
+    "Number": 445,
+    "Text": "Eukariotlarda transkriptonning asosiykismi:",
+    "Answers": [
+      "terminator"
+    ],
+    "Options": [
+      "praymer",
+      "operator",
+      "antikodon"
+    ]
+  },
+  {
+    "Number": 446,
+    "Text": "Biologiyada asosiy qonuniyati boyicha axborotni otkazish:",
+    "Answers": [
+      "iRNKdan oqsilga"
+    ],
+    "Options": [
+      "oqsildan DNK ga",
+      "DNKdan xromosomga",
+      "oqsildan RNKga"
+    ]
+  },
+  {
+    "Number": 447,
+    "Text": "Karbon suvlar almashinuvini boshqarishda ishtirok etadigan gormonni korsating:",
+    "Answers": [
+      "insulin"
+    ],
+    "Options": [
+      "testosteron",
+      "vazopresin",
+      "oksitotsin"
+    ]
+  },
+  {
+    "Number": 448,
+    "Text": "Qaysi gruppalar ortasida peptid bogi xosil boladi",
+    "Answers": [
+      "NH2 va COOH"
+    ],
+    "Options": [
+      "SH va NH2",
+      "COOHva SH",
+      "CH3 va SH"
+    ]
+  },
+  {
+    "Number": 449,
+    "Text": "Qaysi gruppalar ortasida disulfide bogi xosil boladi",
+    "Answers": [
+      "SH va SH"
+    ],
+    "Options": [
+      "COOH va SH",
+      "SH va NH2",
+      "CH3 va SH"
+    ]
+  },
+  {
+    "Number": 450,
+    "Text": "Birlamchi struktarada qanday bog uchraydi",
+    "Answers": [
+      "Peptid bogI"
+    ],
+    "Options": [
+      "Ionli bog",
+      "Disul`fid bogi",
+      "Vodorod bogi"
+    ]
+  },
+  {
+    "Number": 451,
+    "Text": "Proteinlar bu:",
+    "Answers": [
+      "oddiy oqsil"
+    ],
+    "Options": [
+      "murakkab oqsil",
+      "peptid",
+      "oddiy lipid"
+    ]
+  },
+  {
+    "Number": 452,
+    "Text": "Proteidga mansub oqsil:",
+    "Answers": [
+      "Kazein"
+    ],
+    "Options": [
+      "Glitserin",
+      "Al`bumin",
+      "Giston"
+    ]
+  },
+  {
+    "Number": 453,
+    "Text": "Vitaminlar almashinuviga bogliq kasallik",
+    "Answers": [
+      "аvitаminоz"
+    ],
+    "Options": [
+      "Yоdizm",
+      "gigаntizm",
+      "tirеоtокsiкоz"
+    ]
+  },
+  {
+    "Number": 454,
+    "Text": "Gipoyoki avitaminozlarning endogen sabablaridanbiri",
+    "Answers": [
+      "homiladorlik M"
+    ],
+    "Options": [
+      "opka kasalliklari",
+      "yurak-qontomir kasalliklari",
+      "endokrin kasalliklar"
+    ]
+  },
+  {
+    "Number": 455,
+    "Text": "Yogda eruvchi vitaminlardan biri",
+    "Answers": [
+      "К"
+    ],
+    "Options": [
+      "С",
+      "B1",
+      "B2"
+    ]
+  },
+  {
+    "Number": 456,
+    "Text": "Oksireduktazalar kofermenti tarkibiga kiruvchi vitamin",
+    "Answers": [
+      "B2"
+    ],
+    "Options": [
+      "В15",
+      "В3",
+      "С"
+    ]
+  },
+  {
+    "Number": 457,
+    "Text": "A guruh vitaminlaridan biri",
+    "Answers": [
+      "nеоvitаmin А"
+    ],
+    "Options": [
+      "D",
+      "А3",
+      "А4"
+    ]
+  },
+  {
+    "Number": 458,
+    "Text": "Avitaminoz A da rivojlanadigan koz kasalliklaridan biri",
+    "Answers": [
+      "shab korlik"
+    ],
+    "Options": [
+      "аngiоpаtiya",
+      "yaqindan korish",
+      "dеrmаtit"
+    ]
+  },
+  {
+    "Number": 459,
+    "Text": "A vitaminining asosiy manbalaridan biri",
+    "Answers": [
+      "sut mahsulotlari"
+    ],
+    "Options": [
+      "qoragat",
+      "karam",
+      "mevalar"
+    ]
+  },
+  {
+    "Number": 460,
+    "Text": "Glyukozaning hujayra membranasi orqali otkazuvchanligini kamaytiruvchi garmon :",
+    "Answers": [
+      "Glyukokortikoidlar"
+    ],
+    "Options": [
+      "Insulin",
+      "Glyukagon",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 461,
+    "Text": "Glyukagon hosil bo ladi:",
+    "Answers": [
+      "Langergans orolchalarining a-hujayralarida"
+    ],
+    "Options": [
+      "Buyrak usti bezining postloq moddasida",
+      "Buyrak usti bezining magiz moddasida",
+      "Langergans orolchalarining b -hujayralarida"
+    ]
+  },
+  {
+    "Number": 462,
+    "Text": "Qonda glyukozaning normal miqdori:",
+    "Answers": [
+      "3.3 -6,4 mmol / l"
+    ],
+    "Options": [
+      "1,5 -2,5 mmol / l",
+      "4,0 -8,0 mmol / l",
+      "7,5 -12,5 mmol / l"
+    ]
+  },
+  {
+    "Number": 463,
+    "Text": "Giperglikemiya kuzatiladi:",
+    "Answers": [
+      "Feoxromositomada"
+    ],
+    "Options": [
+      "Ochlikda",
+      "Qandsiz diabetda",
+      "Addison kasalligida"
+    ]
+  },
+  {
+    "Number": 464,
+    "Text": "Gomopolisaxaridni bel gilan:",
+    "Answers": [
+      "dekstrin"
+    ],
+    "Options": [
+      "geparin",
+      "dermatansulfat",
+      "gialuron kislotasi"
+    ]
+  },
+  {
+    "Number": 465,
+    "Text": "Uglevodlarning eng asosiy funktsiyasini korsating:",
+    "Answers": [
+      "energetik"
+    ],
+    "Options": [
+      "qisqarish",
+      "qurilish",
+      "himoya"
+    ]
+  },
+  {
+    "Number": 466,
+    "Text": "Makroelementlarga kiradi:",
+    "Answers": [
+      "Kalsiy"
+    ],
+    "Options": [
+      "xlor",
+      "Selen",
+      "Yod"
+    ]
+  },
+  {
+    "Number": 467,
+    "Text": "Mikro elementlarga kiradi:",
+    "Answers": [
+      "Rux"
+    ],
+    "Options": [
+      "Xlor",
+      "Kalay",
+      "Fosfor"
+    ]
+  },
+  {
+    "Number": 468,
+    "Text": "Vitamin P P inson toqimalarida nimadan sintezlanishi mumkin:",
+    "Answers": [
+      "Triptofan"
+    ],
+    "Options": [
+      "Glukuron kislota",
+      "Araxidon kislota",
+      "Tirozin"
+    ]
+  },
+  {
+    "Number": 469,
+    "Text": "Organizmda vitamin B1 etishmaganda kuzatiladi:",
+    "Answers": [
+      "Polinevrit"
+    ],
+    "Options": [
+      "Follikulyar giperkeratoz",
+      "Megaloblastik anemiya",
+      "Milklar qonashi"
+    ]
+  },
+  {
+    "Number": 470,
+    "Text": "Oqsillarning birlamchi strukturasi -bu aminokislotalarni ketma-ket quyidagi bog bilan boglanishi:",
+    "Answers": [
+      "peptid bogi"
+    ],
+    "Options": [
+      "disulfid bogi",
+      "murakkab efir bogi",
+      "vodorod bogi"
+    ]
+  },
+  {
+    "Number": 471,
+    "Text": "Steroid tabiatli garmon:",
+    "Answers": [
+      "Estradiol"
+    ],
+    "Options": [
+      "Insulin",
+      "Oksitotsin",
+      "Tiroksin"
+    ]
+  },
+  {
+    "Number": 472,
+    "Text": "Qalqonsimon bezda hosil boluvchi garmon:",
+    "Answers": [
+      "Tiroksin"
+    ],
+    "Options": [
+      "Aldosteron",
+      "Androsteron",
+      "Adrenalin"
+    ]
+  },
+  {
+    "Number": 473,
+    "Text": "Tiroksin garmoni sintezlanadi:",
+    "Answers": [
+      "Qalqonsimon bezda"
+    ],
+    "Options": [
+      "Oshqozonosti bezida",
+      "Qalqon oldi bezi",
+      "Buyrak usti bezi postloq qismida"
+    ]
+  },
+  {
+    "Number": 474,
+    "Text": "Kretinizmda kuzatiladi:",
+    "Answers": [
+      "Aqliy va jismoniy rivojlanishdan orqada qolish"
+    ],
+    "Options": [
+      "Kozlar chaqchayishi",
+      "Buqoq",
+      "Giperglikemiya"
+    ]
+  },
+  {
+    "Number": 475,
+    "Text": "Glikogenozlar -bu :",
+    "Answers": [
+      "Glikogen parchalanishini buzilishi"
+    ],
+    "Options": [
+      "Glyukoza sintezi buzilishi",
+      "Glyukoza sorilishini buzilishi",
+      "Insulin sintezi buzilishi"
+    ]
+  },
+  {
+    "Number": 476,
+    "Text": "Glikogenozning I tipida qaysi ferment aktivligi yoqoladi :",
+    "Answers": [
+      "Glyukoza-6-fosfataz"
+    ],
+    "Options": [
+      "Fosforilaza",
+      "Geksokinaza",
+      "Glikogensintetaza"
+    ]
+  },
+  {
+    "Number": 477,
+    "Text": "Organizmda glikogenning biologik roli:",
+    "Answers": [
+      "Glyukoza deposi"
+    ],
+    "Options": [
+      "Antikoagulyant hisoblanadi",
+      "Ksenobiotiklar zarasizlantirishda qatnashadi",
+      "Insulin sekretsiyasini stimullaydi"
+    ]
+  },
+  {
+    "Number": 478,
+    "Text": "Qay si hujayralarda GLUT-1 glyukozaning hujayralarga otkazilishida  muhim hisoblanadi:",
+    "Answers": [
+      "Miya"
+    ],
+    "Options": [
+      "Jigar",
+      "Muskul",
+      "Yurak"
+    ]
+  },
+  {
+    "Number": 479,
+    "Text": "Glikoliz aktivatori:",
+    "Answers": [
+      "Insulin"
+    ],
+    "Options": [
+      "Asetil-KoA",
+      "Glyukagon",
+      "Piruvat"
+    ]
+  },
+  {
+    "Number": 480,
+    "Text": "Androgenlarga kira di:",
+    "Answers": [
+      "Testosteron"
+    ],
+    "Options": [
+      "Prolaktinlar",
+      "Antidiuretik garmon",
+      "Aldosteron"
+    ]
+  },
+  {
+    "Number": 481,
+    "Text": "sAMF ning hujayradagi roli:",
+    "Answers": [
+      "Proteinkinaza A ni aktivlashtiradi"
+    ],
+    "Options": [
+      "ATF ga aylanadi",
+      "Adenilatsiklazani aktivlaydi",
+      "Vitamin A ning otmishdoshi"
+    ]
+  },
+  {
+    "Number": 482,
+    "Text": "Organizmda adrenalinning hosil bolish joyi:",
+    "Answers": [
+      "Buyrak usti bezining miya moddasi"
+    ],
+    "Options": [
+      "Qalqon oldi bezi",
+      "Langergans orolchalarining a hujayralarida",
+      "Buyrak usti bezining postloq moddasida"
+    ]
+  },
+  {
+    "Number": 483,
+    "Text": "Adrenalin kimyoviy tabiati boyicha:",
+    "Answers": [
+      "Tirozin aminokislotasi hosilasi"
+    ],
+    "Options": [
+      "Triptofan aminokislotasi hosilasi",
+      "Oqsil",
+      "Steroid gormon"
+    ]
+  },
+  {
+    "Number": 484,
+    "Text": "Adrenalin uchun nishon toqima :",
+    "Answers": [
+      "Yurak-tomir tizimi"
+    ],
+    "Options": [
+      "Buyrak usti bezining miya qismi",
+      "Biriktiruvchi toqima",
+      "Pankryas bezi"
+    ]
+  },
+  {
+    "Number": 485,
+    "Text": "Vitamin E ning biologik tasiri quyidagi jarayonlarda kuzatiladi:",
+    "Answers": [
+      "antioksidant sifatida xujayra membranalarini stabillaydi"
+    ],
+    "Options": [
+      "uglevodlarning aerob parchalanishida",
+      "qon yaratishda",
+      "togay toqimasining suyak toqimasiga almashinishida"
+    ]
+  },
+  {
+    "Number": 486,
+    "Text": "Bemor antibiotiklar istemol qilgandan song burnidan qon ketdi,Askorutin preparati yordam bermaydi. Bu qaysi gipovitaminozga xos:",
+    "Answers": [
+      "K"
+    ],
+    "Options": [
+      "E",
+      "B12",
+      "H"
+    ]
+  },
+  {
+    "Number": 487,
+    "Text": "Bolada bosh suyagi ning liqildoq moddalarning bitmasligi, tishlar",
+    "Answers": [
+      "xolekaltsiferol"
+    ],
+    "Options": [
+      "nikotinamid",
+      "askorbin kislotasi",
+      "retinol"
+    ]
+  },
+  {
+    "Number": 488,
+    "Text": "Quyidagi koferment tarkibida nikotinamid ozining kofermentlik funktsiyasini namoyon qiladi:",
+    "Answers": [
+      "NADF"
+    ],
+    "Options": [
+      "TGFK",
+      "tiamindifosfat",
+      "FAD"
+    ]
+  },
+  {
+    "Number": 489,
+    "Text": "Piridinli fermentlar tuzilishiga kora:",
+    "Answers": [
+      "NAD va NADF kofermentlari bilan ikki komponentli"
+    ],
+    "Options": [
+      "FMN va FAD kofermentlari bilan ikki komponentli",
+      "koferment A bilan ikki komponentli",
+      "gem kofermenti bilan ikki komponentli"
+    ]
+  },
+  {
+    "Number": 490,
+    "Text": "Toyinmagan yog kislotalarga kiradi",
+    "Answers": [
+      "olein",
+      "arahidon"
+    ],
+    "Options": [
+      "palmitin",
+      "stearin"
+    ]
+  },
+  {
+    "Number": 491,
+    "Text": "Steroidlarga kiradi",
+    "Answers": [
+      "Esteron",
+      "testosterone"
+    ],
+    "Options": [
+      "Tokoferol",
+      "Menahinon"
+    ]
+  },
+  {
+    "Number": 492,
+    "Text": "G-oqsillari qaysi gormonlar vositachisi",
+    "Answers": [
+      "adrenalin",
+      "glyu"
+    ],
+    "Options": [
+      "triiodotironin",
+      "gidrokortizon"
+    ]
+  },
+  {
+    "Number": 493,
+    "Text": "Laktoza gidrolizida xosil boladi",
+    "Answers": [
+      "galaktoza",
+      "glyukoza"
+    ],
+    "Options": [
+      "fruktoza",
+      "saxaroza"
+    ]
+  },
+  {
+    "Number": 494,
+    "Text": "Glikolizni allosterik boshqaruvchilari",
+    "Answers": [
+      "AMF",
+      "ATF",
+      "sitrat"
+    ],
+    "Options": [
+      "fruktoza-6-fosfat",
+      "piruvat",
+      "laktat"
+    ]
+  },
+  {
+    "Number": 495,
+    "Text": "Substratli fosforillanish boladi",
+    "Answers": [
+      "glikolizda",
+      "glikogenolizda",
+      "STK"
+    ],
+    "Options": [
+      "glyueogenezda",
+      "pentozfosfat yolida"
+    ]
+  },
+  {
+    "Number": 496,
+    "Text": "Saharozning gidrolizida hosil bodi",
+    "Answers": [
+      "fruktoza",
+      "glyukoza"
+    ],
+    "Options": [
+      "galaktoza",
+      "mannozla"
+    ]
+  },
+  {
+    "Number": 497,
+    "Text": "Оrganizmda glyukoza hosil bolishi mumkin",
+    "Answers": [
+      "piruvatdan",
+      "glitserindan",
+      "laktatdan"
+    ],
+    "Options": [
+      "Asetil-KoA dan",
+      "leutsindan",
+      "glytamindan"
+    ]
+  },
+  {
+    "Number": 498,
+    "Text": "Glyukozadan glikogen hosil bolish jarayonining fermentlari",
+    "Answers": [
+      "glikogenli sintaza",
+      "gexokinaza",
+      "fosfoglucomutaz"
+    ],
+    "Options": [
+      "amilaza",
+      "fosforilaz",
+      "aldolaza"
+    ]
+  },
+  {
+    "Number": 499,
+    "Text": "Mushak toqimasida glyukoliz miqdori ……… qoshilishi bilan kamayadi",
+    "Answers": [
+      "ATP",
+      "sitrat"
+    ],
+    "Options": [
+      "ADP",
+      "AMF"
+    ]
+  },
+  {
+    "Number": 500,
+    "Text": "Pirovatning birinchi bosqichida hosil boladi",
+    "Answers": [
+      "laktat",
+      "oxaloasetat",
+      "asetil-KoA"
+    ],
+    "Options": [
+      "sitrat",
+      "glitserin",
+      "malat"
+    ]
+  },
+  {
+    "Number": 501,
+    "Text": "Jigar va mushaklarda mavjud fermentlar",
+    "Answers": [
+      "geksokinaza",
+      "glyukokinaza"
+    ],
+    "Options": [
+      "glyukoza-6-fosfataza",
+      "fruktoza-1,6-bisfosfataza"
+    ]
+  },
+  {
+    "Number": 502,
+    "Text": "Insulin etishmasligida koatiladi",
+    "Answers": [
+      "giperglikemiy",
+      "glyukozuriya",
+      "ketonemiya"
+    ],
+    "Options": [
+      "proteinuriya",
+      "anuriya",
+      "gipoglikemiya"
+    ]
+  },
+  {
+    "Number": 503,
+    "Text": "Makroergik birikmalar",
+    "Answers": [
+      "asetil-KoA",
+      "suksinil-KoA",
+      "1,3-bisfosfogliserat"
+    ],
+    "Options": [
+      "3-fosfogliserat",
+      "3-fosfogliserol aldegid",
+      "#-ketoglutarat"
+    ]
+  },
+  {
+    "Number": 504,
+    "Text": "Disaxaridlar",
+    "Answers": [
+      "laktoza",
+      "Maltoza",
+      "saxaroza"
+    ],
+    "Options": [
+      "fruktoza",
+      "kraxmal",
+      "piruvat"
+    ]
+  },
+  {
+    "Number": 505,
+    "Text": "Uglerod atomlari orqali glikogen molekulasiga boglangan glyukoza qoldiqlaridir#",
+    "Answers": [
+      "1 - 4",
+      "1 - 6"
+    ],
+    "Options": [
+      "1 - 2",
+      "1 - 5"
+    ]
+  },
+  {
+    "Number": 506,
+    "Text": "Ammiakninig zararsizlashtirishda qaysi aminokislotalar qatnashadi",
+    "Answers": [
+      "asparagin kislota",
+      "glutamin kislota"
+    ],
+    "Options": [
+      "gistidin",
+      "alanin"
+    ]
+  },
+  {
+    "Number": 507,
+    "Text": "Kreatin sintezida ishtirok etadi",
+    "Answers": [
+      "arginin",
+      "metionin",
+      "glitsin"
+    ],
+    "Options": [
+      "leytsin",
+      "serin",
+      "prolin"
+    ]
+  },
+  {
+    "Number": 508,
+    "Text": "Aminokislotalarning transaminirlanish jarayoni",
+    "Answers": [
+      "pirodoksalfosfat ishtirokida amalga oshadi",
+      "almashinalidigan aminokislotalar xosil bolishini taminlaydi"
+    ],
+    "Options": [
+      "biogen aminlarning sintezlanishini taminlaydi",
+      "ammiak xosil bolishi bilan boladi"
+    ]
+  },
+  {
+    "Number": 509,
+    "Text": "Ornitin siklida ishtirok etadi",
+    "Answers": [
+      "Sitrullin",
+      "arginin"
+    ],
+    "Options": [
+      "lizin",
+      "alanin"
+    ]
+  },
+  {
+    "Number": 510,
+    "Text": "Pirodoksalfosfat (PF) - … kofermenti",
+    "Answers": [
+      "alaninaminotransferaza",
+      "aspartateaminotransferaza"
+    ],
+    "Options": [
+      "amilaza",
+      "monoaminooksidaza"
+    ]
+  },
+  {
+    "Number": 511,
+    "Text": "Pirodoksalfosfat (PF) - … kofermenti",
+    "Answers": [
+      "alaninaminotransferaza",
+      "aspartateaminotransferaza"
+    ],
+    "Options": [
+      "amilaza",
+      "monoaminooksidaza"
+    ]
+  },
+  {
+    "Number": 512,
+    "Text": "Ichakda fenilalaninning chirishi natijasida nima xosil boladi",
+    "Answers": [
+      "Fenol",
+      "krezol"
+    ],
+    "Options": [
+      "indol",
+      "lizin"
+    ]
+  },
+  {
+    "Number": 513,
+    "Text": "Aminokislotalarning dezamnirlanishi kofermenti",
+    "Answers": [
+      "НАД+:",
+      "ФАД",
+      "ФМН"
+    ],
+    "Options": [
+      "ТПФ",
+      "КоА",
+      "ПФ"
+    ]
+  },
+  {
+    "Number": 514,
+    "Text": "Monooksigenazalar …………………………..   sintezida ishtirok etadi",
+    "Answers": [
+      "dioksifenilalanin",
+      "noradrenalin",
+      "tirozin"
+    ],
+    "Options": [
+      "asparagin",
+      "glutamin",
+      "keratin"
+    ]
+  },
+  {
+    "Number": 515,
+    "Text": "Tirozindan xosil boluvchi birikmalar",
+    "Answers": [
+      "adrenalin",
+      "noradrenalin",
+      "dofamin"
+    ],
+    "Options": [
+      "#-aminomoy kislota",
+      "fenilalanin",
+      "atseton"
+    ]
+  },
+  {
+    "Number": 516,
+    "Text": "Dioksifeniletilamin (dofamin) bu",
+    "Answers": [
+      "biogen amin",
+      "noradrenalin sintezida qatnashadi"
+    ],
+    "Options": [
+      "tomirlarni kengaytiradi",
+      "triptofandan xosil boladi"
+    ]
+  },
+  {
+    "Number": 517,
+    "Text": "Oqsilning biologic qiymati qanday aniqlanadi",
+    "Answers": [
+      "aminikislotalar tarkibi",
+      "hazm qilish sistemasida hazm bolishi bilan",
+      "almashinmaydigan aminokislotalar borligi bilan"
+    ],
+    "Options": [
+      "oqsil zaryadi bilan",
+      "oqsilning molekulyar massasi bilan",
+      "oqsilning molekulasini legantga borligi bilan"
+    ]
+  },
+  {
+    "Number": 518,
+    "Text": "Krebs sikli va siydikchil xosil boda ishtirok etadigan fermaentlar",
+    "Answers": [
+      "arginaza",
+      "karbomoilfosfatsintetaza"
+    ],
+    "Options": [
+      "kreatinkinaza",
+      "ureaza"
+    ]
+  },
+  {
+    "Number": 519,
+    "Text": "Metionin nima sintezida ishtirok etadi",
+    "Answers": [
+      "adrenalin",
+      "sistein",
+      "fosfatidilxolin"
+    ],
+    "Options": [
+      "mochevina",
+      "arginin",
+      "ornitin"
+    ]
+  },
+  {
+    "Number": 520,
+    "Text": "Podagra bilan kasallanganlarni allopurinol (ksantinoksidaza ingibitori) bilan davolash nimani chaqirishi mumkin",
+    "Answers": [
+      "siydik kislotaning siydikda kamayishi",
+      "qonda gipoksantinning miqdorini kamayishi",
+      "qonda ksantinning oshishi"
+    ],
+    "Options": [
+      "purin nukleotidlarni sintezlanishi tezligi pasayishi",
+      "siydikda siydikchilning kamayishi",
+      "siydikda oqsilning kamayishi"
+    ]
+  },
+  {
+    "Number": 521,
+    "Text": "Siydik kislota xosil bolishi mumkin bolgan moddalar",
+    "Answers": [
+      "guanozin",
+      "ksantin"
+    ],
+    "Options": [
+      "uridin",
+      "gipoksantin"
+    ]
+  },
+  {
+    "Number": 522,
+    "Text": "Quyidagi glykozaminoglylanlar farqlanadi",
+    "Answers": [
+      "Xondroitin-4-sulfat va xondroitin-6-sulfat",
+      "Dermatan",
+      "Keratansulfat I va II",
+      "Geparen sulfat va geparin",
+      "Gialuron kislota"
+    ],
+    "Options": [
+      "Dermatan sulfati va desmozin",
+      "Gialuron kislota va mannoza",
+      "Xondroitin-4-sulfat va fukoza",
+      "Keratan sulfati I va galaktozamin",
+      "Geparan sulfati va asetilxolin"
+    ]
+  },
+  {
+    "Number": 523,
+    "Text": "Biriktiruvchi toqimalardagi kollagenozlarni ozgarishida koatiladi.",
+    "Answers": [
+      "Revmatizm va romatoid artrit",
+      "Tizimli qizil volchanka va tizimli sklerodermiya",
+      "Dermatomiozit va tugunli periartrit"
+    ],
+    "Options": [
+      "Rematizm va perikardit",
+      "Sistema skleroderma va vaskulit",
+      "Tugunli periartrit va glossit"
+    ]
+  },
+  {
+    "Number": 524,
+    "Text": "Glitserofosfolipidlarning 3 xilini korsating",
+    "Answers": [
+      "letsitin",
+      "kefalin",
+      "fosfatidilserin"
+    ],
+    "Options": [
+      "gangliozid",
+      "sfingomiyelin",
+      "serebrozid"
+    ]
+  },
+  {
+    "Number": 525,
+    "Text": "Sfingolipidozlarning 4 xilini korsating:",
+    "Answers": [
+      "Goshe kasalligi",
+      "Tey-Saks kasalligi",
+      "Fabri kasalligi",
+      "Faber kasalligi"
+    ],
+    "Options": [
+      "Xere kasalligi",
+      "Giris kasalligi",
+      "Kоri kasalligi",
+      "Pompe kasalligi"
+    ]
+  },
+  {
+    "Number": 526,
+    "Text": "Lipoproteinlarning sintezlanadigan 3 xil joyini korsating:",
+    "Answers": [
+      "XM, 3JPL – enterotsitlarda",
+      "3JPL, 3YOL – gepatotsitlarda",
+      "3PL, 3YOL -  qon plazmasida"
+    ],
+    "Options": [
+      "XM, 3JPL - gepatotsitlarda",
+      "3JPL, 3YOL, XM - enterotsitlarda",
+      "barchasi qon  plazmasida"
+    ]
+  },
+  {
+    "Number": 527,
+    "Text": "Xolesterin sintezining 3 boskichini korsating",
+    "Answers": [
+      "atsetil KoA dan – mevolanat",
+      "mevolanatdan –skvalen",
+      "skvalendan – xolesterin"
+    ],
+    "Options": [
+      "beta-oksibutiratdan betta-oksi-beta-metilglutaril",
+      "betta-oksi-beta-metilglutarildan 5-fosfomevolanat",
+      "jinsiy gormonlardan xolesterin"
+    ]
+  },
+  {
+    "Number": 528,
+    "Text": "Xolesterinning 2 ta vazifasini korsating",
+    "Answers": [
+      "membrananing lipid komponenti",
+      "boshqa steroidlarning otmishdoshi"
+    ],
+    "Options": [
+      "membrananing asosi kurilish materiali",
+      "membrana orkali steroidlar utishini taminlaydigan kanallar xosil kiladi"
+    ]
+  },
+  {
+    "Number": 529,
+    "Text": "Yog kislotalar sintetazasining 2 xil xususiyati:",
+    "Answers": [
+      "Multiferment bulib, 6 fermentdan iborat",
+      "Fermentlar atsiltashuvchi oksil bilan boglangan"
+    ],
+    "Options": [
+      "domen 1da 3ta, domen 2da 4ta, domen 3da 1ta fermenti bor",
+      "M-domenda ATO, Р- domenda poleduktaza, N domenda LDG, AsAT fermentlar bor"
+    ]
+  },
+  {
+    "Number": 530,
+    "Text": "Xilomikronlarning kimyoviy tarkibini korsating",
+    "Answers": [
+      "7% fosfolipid",
+      "8% xolesterin",
+      "80%dan kop triglitserid"
+    ],
+    "Options": [
+      "2% oqsil",
+      "5% oqsil",
+      "7% xolesterin"
+    ]
+  },
+  {
+    "Number": 531,
+    "Text": "Organizmdagi yoglarning deposi xisoblangan 3 azoni korsating",
+    "Answers": [
+      "teri osti yog qavati",
+      "charvi",
+      "buyrak atrofidagi yog qavati"
+    ],
+    "Options": [
+      "talok",
+      "buyrak",
+      "qon tomirlari"
+    ]
+  },
+  {
+    "Number": 532,
+    "Text": "Yog depolaridan yoglarni mobilizatsiya qiluvchi gormonlarni korsating",
+    "Answers": [
+      "adrenalin",
+      "noradrenalin"
+    ],
+    "Options": [
+      "somatostatin",
+      "kalsiferol"
+    ]
+  },
+  {
+    "Number": 533,
+    "Text": "Organizmda xolesterindan xosil boladigan moddalarni korsating",
+    "Answers": [
+      "ot kislotalari",
+      "vitamin D",
+      "steroid gormonlar"
+    ],
+    "Options": [
+      "tiroksin",
+      "glyukagon",
+      "fermentlar"
+    ]
+  },
+  {
+    "Number": 534,
+    "Text": "Xolesterinni  organizmdan chikarish yollari",
+    "Answers": [
+      "ot kislotalari xolida",
+      "koprostеринl",
+      "teri epiteliyasi tushganda"
+    ],
+    "Options": [
+      "nafas chikarganda",
+      "organizmdan chikarilmaydi",
+      "buyrak orkali"
+    ]
+  },
+  {
+    "Number": 535,
+    "Text": "Organizmda xolesterin sintezlanadigan asosiy joylar",
+    "Answers": [
+      "jigar",
+      "ingichka ichak devori",
+      "teri"
+    ],
+    "Options": [
+      "biriktiruvchi tokima",
+      "eritrotsitlar",
+      "suyak tokimasi"
+    ]
+  },
+  {
+    "Number": 536,
+    "Text": "Organizmda sintezlanmaydigan kop tuyinmagan yog kislotalari",
+    "Answers": [
+      "linol",
+      "linolen",
+      "araxidon"
+    ],
+    "Options": [
+      "nervon",
+      "efir",
+      "olein"
+    ]
+  },
+  {
+    "Number": 537,
+    "Text": "Sfingolipidlarga kiradi",
+    "Answers": [
+      "sfingomiyelin",
+      "serebrozid",
+      "gangliozid"
+    ],
+    "Options": [
+      "plazmalogen",
+      "kardiolipin",
+      "letsitin"
+    ]
+  },
+  {
+    "Number": 538,
+    "Text": "Toq ot kislotalariga kiradi",
+    "Answers": [
+      "xolat kislota",
+      "dezoksixolat kislota",
+      "xenodezoksixolat kislota"
+    ],
+    "Options": [
+      "glikoxolat kislota",
+      "taurodezoksixolat kislota",
+      "glikoxenodezoksixolat kislota"
+    ]
+  },
+  {
+    "Number": 539,
+    "Text": "Triglitseridlar parchalanishida katnashadi",
+    "Answers": [
+      "triglitseridlipaza",
+      "monoglitseridlipaza",
+      "diglitseridlipaza"
+    ],
+    "Options": [
+      "fosfolipaza",
+      "lipoproteidlipaza",
+      "transferaza"
+    ]
+  },
+  {
+    "Number": 540,
+    "Text": "Yog kislotalarning faollanishi va ularning sitozoldan mitoxondriyaga otishida qatnashadi",
+    "Answers": [
+      "atsil-KoA-sintetaza",
+      "karnitinatsetiltransferaza",
+      "karnitinpalmitoiltransferaza"
+    ],
+    "Options": [
+      "atsilkarnitindegidrogenaza",
+      "karnitinatsetiltiolaza",
+      "karnitinatsilliaza"
+    ]
+  },
+  {
+    "Number": 541,
+    "Text": "Yog kislotalarning #-oksidlanishda qatnashadi",
+    "Answers": [
+      "atsil-KoA degidrogenaza",
+      "yenoil-KoA gidrataza",
+      "oksiatsil-KoA degidrogenaza"
+    ],
+    "Options": [
+      "atsiltransferaza",
+      "atsilliaza",
+      "oksiatsilgidrataza"
+    ]
+  },
+  {
+    "Number": 542,
+    "Text": "Yog kislotalarning yog toqimasidan mobilizatsiya qilinishi kuchayadi quyidagilar tasirida",
+    "Answers": [
+      "glukagon",
+      "tiroksin"
+    ],
+    "Options": [
+      "insulin",
+      "boshqarilmaydi",
+      "prostaglandinlar"
+    ]
+  },
+  {
+    "Number": 543,
+    "Text": "Yog kislotalarning yog tokimasidan mobilizatsiya kilinishi kuchayadi",
+    "Answers": [
+      "stressda",
+      "fizik ish bajarganda",
+      "och kolganda"
+    ],
+    "Options": [
+      "gepatitda",
+      "yurak infarktida",
+      "nefritda"
+    ]
+  },
+  {
+    "Number": 544,
+    "Text": "Xolesterin sintezining birinchi boskichida katnashuvchi fermentlar",
+    "Answers": [
+      "atsetil-KoA atsetiltransferaza",
+      "OMG-reduktaza",
+      "OMG-sintaza"
+    ],
+    "Options": [
+      "tiolaza",
+      "yenolaza",
+      "betta-oksiatsilsintaza"
+    ]
+  },
+  {
+    "Number": 545,
+    "Text": "STG va AKTG yog kislotalarning yog tokimasidan mobilizatsiyasini kuchaytiradi, chunki",
+    "Answers": [
+      "adenilatsiklaza sintezini kuchaytiradi",
+      "gormonga boglik lipaza sintezini kuchaytiradi"
+    ],
+    "Options": [
+      "katexolaminlar tasirini pasaytiradi",
+      "tiroksin sinteziga tasir etadi"
+    ]
+  },
+  {
+    "Number": 546,
+    "Text": "Yog kislotalarning #-oksidlanishida  ishtirok etuvchi fermentlarni 4 guruxini korsating",
+    "Answers": [
+      "atsetil-KoA-degidrogenaza",
+      "yenol-KoA-degidrogenaza",
+      "betta-oksiatsil-degidrogenaza",
+      "atsetil-KoA-atsiltransferaza (tiolaza)"
+    ],
+    "Options": [
+      "propinil-KoA-karboksilaza",
+      "metilmalonil-KoA-mutaza",
+      "metilmalonilepimeraza",
+      "suksinatdegidrogenaza"
+    ]
+  },
+  {
+    "Number": 547,
+    "Text": "Yog kislotalarning sintezida asosiy manba bolib katnashuvchi glyukoza metabolizmining asosiy moddalari va joyini korsating",
+    "Answers": [
+      "NADFN2",
+      "Atsetil-KoA",
+      "jigar"
+    ],
+    "Options": [
+      "glitserin",
+      "atseto-atsetil-KoA",
+      "yog toqimasi"
+    ]
+  },
+  {
+    "Number": 548,
+    "Text": "Lipoliz jarayonini faollantiradigan gormon va lipoliz jarayonidagi kalit fermentlarni korsating",
+    "Answers": [
+      "triglitseridlipaza",
+      "adrenalin",
+      "glyukagon",
+      "noradrenalin"
+    ],
+    "Options": [
+      "tridiglitseridlipaaza",
+      "STG",
+      "Insulin",
+      "TTG"
+    ]
+  },
+  {
+    "Number": 549,
+    "Text": "Yog kislotalar aktivlanishida ishtirok etuvchi moddalarni 3 xilini korsating",
+    "Answers": [
+      "Koenzim A",
+      "Atsil-KoA-sintetaza"
+    ],
+    "Options": [
+      "Atseto-atsetil sintetaza",
+      "Malonil-KoA +ATF",
+      "Karnitin-atsiltransferaza"
+    ]
+  },
+  {
+    "Number": 550,
+    "Text": "Neytral yoglarning 3 xilini korsating",
+    "Answers": [
+      "Monoglitseridlar",
+      "Diglitseridlar",
+      "Triglitseridlar"
+    ],
+    "Options": [
+      "Fosfolipidlar",
+      "Glikolipidlvr",
+      "Xolesterin"
+    ]
+  },
+  {
+    "Number": 551,
+    "Text": "Tuyinganligi bilan farqlanuvchi 3 gurux yog kislotalarni korsating",
+    "Answers": [
+      "Toyingan kislotalar",
+      "Bir  toyinmagan",
+      "Kup toyinmagan"
+    ],
+    "Options": [
+      "Sfingolipidlar",
+      "Plazmalogenlar",
+      "Fosfolipidlar"
+    ]
+  },
+  {
+    "Number": 552,
+    "Text": "Tabiiy mumlarning 3 xilini korsating",
+    "Answers": [
+      "Asal ari mumi",
+      "Yung mumi",
+      "Spermatset"
+    ],
+    "Options": [
+      "Sfingiolipidlar",
+      "Xolesteridlar",
+      "Meristin"
+    ]
+  },
+  {
+    "Number": 553,
+    "Text": "Sfingolipidlarning 3 turini korsating",
+    "Answers": [
+      "Sfingomiyelinlar",
+      "Serebrozidlar",
+      "Gangliozidlar"
+    ],
+    "Options": [
+      "Fosfolipidlar",
+      "Steridlar",
+      "Mumlar"
+    ]
+  },
+  {
+    "Number": 554,
+    "Text": "Xolesterinning 3 asosiy tarkibiy komponentlarini korsating",
+    "Answers": [
+      "Gidroksil gurux kislota koldigi",
+      "Siklopentanopergidrofenantren xalkasi",
+      "Alifatik yon zanjiri"
+    ],
+    "Options": [
+      "Pentozalar",
+      "Karboksil gurux",
+      "Uglevod qildigi"
+    ]
+  },
+  {
+    "Number": 555,
+    "Text": "Lipidlar axamiyatining 4 tomonini korsating",
+    "Answers": [
+      "Energetik",
+      "Plastik",
+      "Organizm tana xaroratini saйlashda katnashadi",
+      "A ,D, E, K vitaminlar bilan taminlaydi"
+    ],
+    "Options": [
+      "Gormonal funksiya",
+      "Ajratish funksiya",
+      "Vitamin C manbai",
+      "Katalitik funksiya"
+    ]
+  },
+  {
+    "Number": 556,
+    "Text": "Tarkibida glitsin tutuvchi ot kislotalarning 3 vakilini korsating",
+    "Answers": [
+      "Glikoxolat",
+      "Glikodezoksixolat",
+      "Glikoxenodezoksixolat"
+    ],
+    "Options": [
+      "Xolat",
+      "Tauroxolat",
+      "Xenodezoksixolat"
+    ]
+  },
+  {
+    "Number": 557,
+    "Text": "Ot kislotalarning  lipidlarni  xazmlanishi va sorilishidagi axamiyatini korsating",
+    "Answers": [
+      "Pankreatik lipazani faollaydi",
+      "Yoglarni emulsiyalaydi",
+      "Xazmlangan yog maxsulotlar sorilishini taminlaydi"
+    ],
+    "Options": [
+      "Tripsinni faollaydi",
+      "Lipaza sintezini kuchaytiradi",
+      "Oshqozonda yog xazmlanishini yaxshilaydi"
+    ]
+  },
+  {
+    "Number": 558,
+    "Text": "Yoglar ichakda toliq xazmlanganda qanday 3 xil moddalarga parchalanishini  korsating",
+    "Answers": [
+      "Glitserin",
+      "Yog kislotalar",
+      "Monoglitseridlar"
+    ],
+    "Options": [
+      "Xilomikronlar",
+      "Fosfolipidlar",
+      "Mumlar"
+    ]
+  },
+  {
+    "Number": 559,
+    "Text": "Ichakda fosfolipidlar  xazmlanishini  taminlovchi 4 xil fosfolipazalarni korsating",
+    "Answers": [
+      "Fosfolipaza A",
+      "Fosfolipaza A2",
+      "Fosfolipaza C",
+      "Fosfolipaza D"
+    ],
+    "Options": [
+      "Fosfolipaza V",
+      "Fosfolipaza K",
+      "Fosfolipaza E",
+      "Fosfolipaza G"
+    ]
+  },
+  {
+    "Number": 560,
+    "Text": "Ichak devorida xosil boluvchi xilomikronlar tarkibidagi moddalarning asosiy 4 xilini korsating",
+    "Answers": [
+      "Oksil",
+      "Triglitseridlar",
+      "Fosfolipidlar",
+      "Xolesterin"
+    ],
+    "Options": [
+      "Uglevodlar",
+      "Sfingomiyelinlar",
+      "Glikolipid",
+      "Gangliozidlar"
+    ]
+  },
+  {
+    "Number": 561,
+    "Text": "Xilomikron triglitseridlari gidrolizlanadigan asosiy 3 ta tokimani korsating",
+    "Answers": [
+      "Gepatotsitlar sirtida",
+      "Gepatotsitlar ichida",
+      "Adipotsitlar kapillyarlari endoteliysi sirtida"
+    ],
+    "Options": [
+      "Buyraklarda",
+      "Taloqda",
+      "Opkada"
+    ]
+  },
+  {
+    "Number": 562,
+    "Text": "Staynberg \"Lipolitik shalola\" mexanizmida ishtirok  etuvchi  3  xil fermentni korsating",
+    "Answers": [
+      "Adenilatsiklaza",
+      "triglitseridlipaza",
+      "Proteinkinaza"
+    ],
+    "Options": [
+      "Fosfodiesteraza",
+      "Yenolaza",
+      "Liporoteidlipaza"
+    ]
+  },
+  {
+    "Number": 563,
+    "Text": "Yoglarni toqimada parchalanishidagi asosiy 4 ta bosqichni korsating",
+    "Answers": [
+      "Birinchi degidrogenlanish bosqichi",
+      "Gidratatsiya boskichi",
+      "Ikkinchi degidrogenlanish boskichi",
+      "Tiolaza reaksiyasi"
+    ],
+    "Options": [
+      "Atsetil-KoA sintezi",
+      "Karnitinning parchalanishi",
+      "Atsil-karnitinni sintezi",
+      "Yog kislotaning mitoxondriyaga otishi"
+    ]
+  },
+  {
+    "Number": 564,
+    "Text": "Yog kislotalari  betta- oksidlanganda  xosil  buluvchi 4 xil oraliq substratlarni korsating",
+    "Answers": [
+      "Atsil- KoA",
+      "Yenoil- KoA",
+      "betta- oksiatsil- KoA",
+      "betta- ketoatsil- KoA"
+    ],
+    "Options": [
+      "Malonil- KoA",
+      "Suksinil- KoA",
+      "Atseton",
+      "betta- oksibutirat"
+    ]
+  },
+  {
+    "Number": 565,
+    "Text": "Keton tanachalariga mansub 3 moddani korsating",
+    "Answers": [
+      "Atsetoatsetat",
+      "betta- oksi moy kislota",
+      "Atseton"
+    ],
+    "Options": [
+      "Benzol",
+      "Krezol",
+      "Indol"
+    ]
+  },
+  {
+    "Number": 566,
+    "Text": "Malonil- APB va atsetil- APBdan moy kislota sintezlanish jarayenida  xosil buladigan oraliq substratlardan 4 tasini korsating",
+    "Answers": [
+      "Atsetoatsetil-  ATO",
+      "betta- oksibutiril-  ATO",
+      "Krotonil-  ATO",
+      "Butiril-  ATO"
+    ],
+    "Options": [
+      "Malonil- KoA",
+      "Atsetil- KoA",
+      "ATO - SH",
+      "NADF- N"
+    ]
+  },
+  {
+    "Number": 567,
+    "Text": "STG va AKTG yog kislotalarning yog toqimasidan mobilizatsiyasini kuchaytiradi, chunki:",
+    "Answers": [
+      "adenilatsiklaza sintezini kuchaytiradi",
+      "gormonga boglik lipaza sintezini kuchaytiradi"
+    ],
+    "Options": [
+      "katexolaminlar tasirining juda kop pasaytiradi",
+      "tiroksin sinteziga tasir etadi"
+    ]
+  },
+  {
+    "Number": 568,
+    "Text": "Yog kislotalarning faollanishi va ularning sitozoldan mitoxondriyaga otishida katnashadi:",
+    "Answers": [
+      "atsil- KoA- sintetaza",
+      "karnitinatsetiltransferaza",
+      "karnitinpalmitoiltransferaza"
+    ],
+    "Options": [
+      "Atsetilkarnininatsiltiolaza",
+      "karnitinatsilliaza",
+      "atsilkarnitindegidrogenaza"
+    ]
+  },
+  {
+    "Number": 569,
+    "Text": "Malonil-  ATO va atsetil-  ATO dan moy kislota sintezlanish jarayonida xosil boladigan oraliq substratlardan 4tasini korsating:",
+    "Answers": [
+      "Atsetoatsetil",
+      "Beta- oksibutiril-  ATO",
+      "Krotonil- APB",
+      "Butiril- APB"
+    ],
+    "Options": [
+      "Atsetil- KoA",
+      "ATO - SH",
+      "Malonil- KoA",
+      "NADF- N"
+    ]
+  },
+  {
+    "Number": 570,
+    "Text": "Yog kislota sintezining atsetoatsetil APB xosil bolguncha bosqichida ishtirok etuvchi 3 ta fermentni korsating:",
+    "Answers": [
+      "Atsetil- KoA APB transferaza",
+      "Malonil- KoA- APB transferaza",
+      "Atsetoatsetil- APB sintetaza"
+    ],
+    "Options": [
+      "Atsetoatsetil APB- reduktaza",
+      "beta- oksi butiril APB- degidrotaza",
+      "Krotonil- APB reduktaza"
+    ]
+  },
+  {
+    "Number": 571,
+    "Text": "Ketonemiya va ketonuriyaga xos asosiy xastaliklar:",
+    "Answers": [
+      "kandli diabet",
+      "ochlik"
+    ],
+    "Options": [
+      "ateroskleroz",
+      "gepatit"
+    ]
+  },
+  {
+    "Number": 572,
+    "Text": "Keton tanachalariga mansub 3 moddani korsating:",
+    "Answers": [
+      "Atsetoatsetat",
+      "Beta- oksi moy kislota",
+      "Atseton"
+    ],
+    "Options": [
+      "Benzol",
+      "Krezol",
+      "Indol"
+    ]
+  },
+  {
+    "Number": 573,
+    "Text": "Zichligi bilan farklanuvchi qon lipoprteidlarning 4 xilini korsating:",
+    "Answers": [
+      "Xilomikronlar",
+      "ZJPL",
+      "ZPL",
+      "ZYL"
+    ],
+    "Options": [
+      "Glikolipidlar",
+      "Fosfatidilxolin",
+      "Xolesterin",
+      "Lipidlar"
+    ]
+  },
+  {
+    "Number": 574,
+    "Text": "Elektroforetik xarakatchanligiga kora farqlanuvchi 4 xil lipoproteidlarni korsating:",
+    "Answers": [
+      "Xilomikronlar",
+      "Alfa- lipoproteidlar",
+      "Beta- lipoproteidlar",
+      "Pre- betta- lipoproteidlar"
+    ],
+    "Options": [
+      "Glikolipidlar",
+      "Sigma- lipoproteidlar",
+      "Xolesterin",
+      "Gamma- lipoproteidlar"
+    ]
+  },
+  {
+    "Number": 575,
+    "Text": "Lipoproteinlarning sintezlanadigan 3 xil joyini korsating:",
+    "Answers": [
+      "XM, 3JPL – enterotsitlarda",
+      "3PL, 3YOL -  plazmasida",
+      "3JPL, 3YOL – gepatotsitlarda"
+    ],
+    "Options": [
+      "barchasi  plazmasida",
+      "XM, 3JPL - gepatotsitlarda",
+      "3JPL, 3YOL, XM - enterotsitlarda"
+    ]
+  },
+  {
+    "Number": 576,
+    "Text": "Yoglarning xazmlanishi va sorilishida ot kislotalarining rolini korsating.",
+    "Answers": [
+      "ichakka tushgan yoglarni emulsiya kiladi",
+      "pankreatik lipazani faollashtiradi",
+      "yog kislotalar va monoglitseridlar sorilishida"
+    ],
+    "Options": [
+      "oksillar xazmlanishiga tasir kursatadi",
+      "pepsinni faollashtiradi",
+      "uglevodlarning ichakda sorilishini taminlaydi"
+    ]
+  },
+  {
+    "Number": 577,
+    "Text": "Nafas olish zanjiridagi 5 sitoxromlar vakilini korsating:",
+    "Answers": [
+      "v",
+      "s1",
+      "a",
+      "a3",
+      "s3"
+    ],
+    "Options": [
+      "s",
+      "d",
+      "s",
+      "b",
+      "a5"
+    ]
+  },
+  {
+    "Number": 578,
+    "Text": "Piruvatning oksidlanib dekarboksillanishini boshqaruvchi multifermentlarga talluqli 5ta kofermentni korsating:",
+    "Answers": [
+      "TPF",
+      "Lipoat",
+      "Koenzim-A",
+      "FAD",
+      "NAD"
+    ],
+    "Options": [
+      "Glutation-N",
+      "TGFK",
+      "FMN",
+      "Koenzim-O",
+      "UDF"
+    ]
+  },
+  {
+    "Number": 579,
+    "Text": "Piruvatdegidrogenaza kompleksiga murakkab birikkan 3 kofermentni korsating:",
+    "Answers": [
+      "TPF",
+      "lipoamid",
+      "FAD"
+    ],
+    "Options": [
+      "katalaza",
+      "ubixinon",
+      "sitoxrom"
+    ]
+  },
+  {
+    "Number": 580,
+    "Text": "1 Molekula asetil-KoA ni Krebs xalkasida oksidlanishi natijasida necha molekula ATF xosil boladi:",
+    "Answers": [
+      "12"
+    ],
+    "Options": [
+      "15",
+      "38",
+      "19"
+    ]
+  },
+  {
+    "Number": 581,
+    "Text": "Krebs xalkasining qaysi reaksiyasida substratli fosforillanish kuzatiladi:",
+    "Answers": [
+      "suksinil-KoA ____ suksinat"
+    ],
+    "Options": [
+      "#-ketoglutarat ____ suksinil-KoA",
+      "oksaloasetat ____ sitrat",
+      "suksinat ____ fumarat"
+    ]
+  },
+  {
+    "Number": 582,
+    "Text": "Uch asosiy gurux uglevodlarni korsating:",
+    "Answers": [
+      "Monosaxaridlar",
+      "Oligosaxaridlar",
+      "Polisaxaridlar"
+    ],
+    "Options": [
+      "Geterosaxaridlar",
+      "Glikoproteidlar",
+      "Gomosaxaridlar"
+    ]
+  },
+  {
+    "Number": 583,
+    "Text": "Odam va xayvon organizmida uchraydigan va uzlashtiriladigan uch monosaxaridni korsating:",
+    "Answers": [
+      "Galaktoza",
+      "Glyukoza",
+      "Fruktoza"
+    ],
+    "Options": [
+      "Mannoza",
+      "Ksiluloza",
+      "Ribuloza"
+    ]
+  },
+  {
+    "Number": 584,
+    "Text": "Tabiatda keng tarkalgan va ichak devorida saxaraza, maltaza, laktaza tasirida xazmlanuvchi disaxaridlar 3 vakilini korsating:",
+    "Answers": [
+      "Saxaroza",
+      "Maltoza",
+      "Laktoza"
+    ],
+    "Options": [
+      "Ksiluloza",
+      "Rafinoza",
+      "Glyukoza"
+    ]
+  },
+  {
+    "Number": 585,
+    "Text": "Monomeri glyukozadan tashkil topgan polisaxaridlar uch vakilini korsating:",
+    "Answers": [
+      "Kraxmal",
+      "Glikogen",
+      "sellyoloza"
+    ],
+    "Options": [
+      "Keratansulfatlar",
+      "Geparin",
+      "Mukopolisaxaridlar"
+    ]
+  },
+  {
+    "Number": 586,
+    "Text": "Kraxmal va glikogenni xazm yollarida maltozagacha parchalovchi uch gurux fermentlarni korsating:",
+    "Answers": [
+      "alfa-amilaza",
+      "amilo-1.6-glyukozidaza",
+      "oligo-1.6-glyukozidaza (terminal dekstrinaza)"
+    ],
+    "Options": [
+      "sigma-amilaza",
+      "delta-amilaza",
+      "laktaza"
+    ]
+  },
+  {
+    "Number": 587,
+    "Text": "Disaxaridlarni ichak devorida xazmlovchi fermentlarning uch xilini korsating:",
+    "Answers": [
+      "maltaza",
+      "saxaraza",
+      "laktaza"
+    ],
+    "Options": [
+      "alfa-amilaza",
+      "betta-amilaza",
+      "gamma-amilaza"
+    ]
+  },
+  {
+    "Number": 588,
+    "Text": "Glyukozadan glikogen sintezi jarayonida xosil boluvchi oraliq metabolitlar uch vakilini korsating:",
+    "Answers": [
+      "Glyukoza-6-fosfat",
+      "Glyukozo-1-fosfat",
+      "Uridindifosfoglyukoza"
+    ],
+    "Options": [
+      "Fruktoza-6-fosfat",
+      "Glyukozo-3-fosfat",
+      "Glyukozo-1.6-difosfat"
+    ]
+  },
+  {
+    "Number": 589,
+    "Text": "Glyukozadan glikogen sintez bolishida ishtirok etuvchi fermentlarning 4 guruxini korsating:",
+    "Answers": [
+      "Geksokinaza",
+      "Glyukozo-1-fosfaturidiltransferaza",
+      "Fosfoglyukomutaza",
+      "Glikogensintetaza"
+    ],
+    "Options": [
+      "Fosforilaza",
+      "Nukleoziddifosfatkinaza",
+      "Pirofosfataza",
+      "Maltaza"
+    ]
+  },
+  {
+    "Number": 590,
+    "Text": "Jigarda adrenalin tasirida glikogen tarkibidan fosforilitik yol bilan glyukoza qoldigining ajralib chikishini taminlovchi 4 gurux fermentlarni korsating:",
+    "Answers": [
+      "Adenilatsiklaza",
+      "Proteinkinaza",
+      "Fosforilaza kinazasi",
+      "Fosforilaza"
+    ],
+    "Options": [
+      "ATFaza",
+      "Geksokinaza",
+      "Glyukokinaza",
+      "Glikogensintetaza"
+    ]
+  },
+  {
+    "Number": 591,
+    "Text": "Glyukozaning toqimalarda parchalanishining uch xil yolini korsating:",
+    "Answers": [
+      "Aerob yoli",
+      "Pentozofosfat yoli",
+      "Anaerob yol"
+    ],
+    "Options": [
+      "Oksidlanish yoli",
+      "Qaytarilish yoli",
+      "Bevosita yol"
+    ]
+  },
+  {
+    "Number": 592,
+    "Text": "Glyukozaning aerob parchalanishida oraliq metabolit bolmish 3 ta makroergik birikmani korsating:",
+    "Answers": [
+      "Asetil-KoA",
+      "Fosfoenolpiruvat",
+      "1.3 bifosfoglitserat"
+    ],
+    "Options": [
+      "Glyukoza 1-fosfat",
+      "Fruktoza 6-fosfat",
+      "Glitserol 3 fosfat"
+    ]
+  },
+  {
+    "Number": 593,
+    "Text": "Anaerob glikolizning uchta kalit fermentini korsating:",
+    "Answers": [
+      "geksokinaza",
+      "fosfofruktokinaza",
+      "piruvatkinaza"
+    ],
+    "Options": [
+      "triozofosfatizomeraza",
+      "glitseraldegidfosfatdegidrogenaza",
+      "fosforilaza"
+    ]
+  },
+  {
+    "Number": 594,
+    "Text": "Glyukoza anayrob parchalanishining birinchi bosqichida glitseraldegid-3-fosfat xosil bolgunga qadar ishtirok etuvchi boshkariluvchi bolmagan 3 fermentni korsating:",
+    "Answers": [
+      "Glyukozo-6-fosfatizomeraza",
+      "Aldolaza",
+      "Triozofosfaizomeraza"
+    ],
+    "Options": [
+      "Geksokinaza",
+      "Fosfofruktokinaza",
+      "Piruvatkinaza"
+    ]
+  },
+  {
+    "Number": 595,
+    "Text": "Anayrob glikoliz ikkinchi boskichida laktat xosil bolgunga kadar xosil boladigan 5ta oraliq metabolitni korsating:",
+    "Answers": [
+      "1,3 bisfosfoglitserat",
+      "3 fosfoglitserat",
+      "2-fosfoglitserat",
+      "fosfoenolpiruvat",
+      "piruvat"
+    ],
+    "Options": [
+      "glyukozo-1-fosfat",
+      "fruktozo-1-fosfat",
+      "glyukozo- 6-fosfat",
+      "fruktozo-6-fosfat",
+      "dioksiasetonfosfat"
+    ]
+  },
+  {
+    "Number": 596,
+    "Text": "Glikolizning 3 kalit fermentlari:",
+    "Answers": [
+      "geksokinaza",
+      "fosfofruktokinaza",
+      "piruvatkinaza"
+    ],
+    "Options": [
+      "triozofosfatizomeraza",
+      "glitseraldegidizomeraza",
+      "fosforilaza"
+    ]
+  },
+  {
+    "Number": 597,
+    "Text": "Galaktozaning toqimalarda glyukozo-6-fosfatga aylanguncha zarur bolgan uch gurux fermentni korsating:",
+    "Answers": [
+      "Geksoza-1-fosfaturidiltransferaza",
+      "Galaktokinaza",
+      "UDF-Glyukoza-pirofosforilaza"
+    ],
+    "Options": [
+      "Piruvatkinaza",
+      "Fosfoglyukomutaza",
+      "Laktatdegidrogenaza"
+    ]
+  },
+  {
+    "Number": 598,
+    "Text": "Fruktoza almashinuvida qatnashuvchi fermentlarni korsating:",
+    "Answers": [
+      "fruktokinaza",
+      "fruktoza-1-fosfataldolaza",
+      "glitseraldegidkinaza"
+    ],
+    "Options": [
+      "glyukokinaza",
+      "galaktokinaza",
+      "glikogensintetaza"
+    ]
+  },
+  {
+    "Number": 599,
+    "Text": "Glyukozaning toqimalarda bevosita oksidlanish jarayonining uch xil nomlanishini korsating:",
+    "Answers": [
+      "Bevosita oksidlanish",
+      "Pentozofosfat yoli",
+      "Apotomik yol"
+    ],
+    "Options": [
+      "Glikoliz",
+      "Aerob oksidlanish",
+      "Anaerob oksidlanish"
+    ]
+  },
+  {
+    "Number": 600,
+    "Text": "Galaktozemiya ferment yetishmovchiligi bilan bogliq:",
+    "Answers": [
+      "Galaktozo-1-fosfaturidiltransferaza(geksozo-1-fosfaturidil-transferaza)"
+    ],
+    "Options": [
+      "Pirutkinaza",
+      "Piruvatkinaza",
+      "Saxaroza",
+      "Glyukokinaza",
+      "Geksokinaza"
+    ]
+  },
+  {
+    "Number": 601,
+    "Text": "Gemolitik anemiya nima defitsiti bilan boglik#",
+    "Answers": [
+      "Glyukozo-6-fosfatdegidrogenaza"
+    ],
+    "Options": [
+      "Glikogensintetaza",
+      "Glikogenfosforilaza",
+      "Fruktokinaza",
+      "Gekso-1-fosfaturidiltransferaza"
+    ]
+  },
+  {
+    "Number": 602,
+    "Text": "Odam va xayvon organizmida uchraydigan va uzlashtiriladigan uch monosaxaridni korsating:",
+    "Answers": [
+      "Galaktoza",
+      "Glyukoza",
+      "Fruktoza"
+    ],
+    "Options": [
+      "Mannoza",
+      "Ksiluloza",
+      "Ribuloza"
+    ]
+  },
+  {
+    "Number": 603,
+    "Text": "Aminokislotalarning oksidlanish yoli bilan dezaminlanishini taminlovchi 3 xil fermentni korsating:",
+    "Answers": [
+      "D-aminokislotalar oksidazasi",
+      "L-aminokislotalar oksidazasi",
+      "glutamatdegidrogenaza"
+    ],
+    "Options": [
+      "aspartataminotransferaza",
+      "karboksipeptidaza",
+      "alaninaminotransferaza"
+    ]
+  },
+  {
+    "Number": 604,
+    "Text": "Piridoksalfosfat kofermentlik funksiya bajaruvchi 2 aminokislotalar parchalanish reaksiyalari:",
+    "Answers": [
+      "transaminlanish",
+      "dekarboksillanish"
+    ],
+    "Options": [
+      "dezaminlanish",
+      "glutation parchalanishi"
+    ]
+  },
+  {
+    "Number": 605,
+    "Text": "Godak bola aqliy va jismoniy rivojlanishdan orqada qolmoqda, sudorgilar kuzatilib, siydik bilan kop miqdorda fenilpiruvat va fenillaktat ajralmoqda.",
+    "Answers": [
+      "fenilketonuriya"
+    ],
+    "Options": [
+      "Xartnup kasalligi",
+      "parkinsonizm",
+      "mastotsitoz",
+      "karsinoid sindrom"
+    ]
+  },
+  {
+    "Number": 606,
+    "Text": "Fenilketonuriyaga xos 4 belgini korsating:",
+    "Answers": [
+      "fenilalaninning tirozinga aylanishi buziladi",
+      "bolaning aqliy rivoji keskin sekinlashadi",
+      "siydikda kop miqdorda fenilasetilglutamin chiqishi",
+      "Siydikda kop miqdorda fenilpiruvat ajrashi"
+    ],
+    "Options": [
+      "siydikda sisteni kop chiqadi",
+      "siydikda kop miqdorda lizin chiqadi",
+      "siydikda kop mikdor arginin chiqadi",
+      "siydikda ornitin ajralishi ortadi"
+    ]
+  },
+  {
+    "Number": 607,
+    "Text": "Tugma albinizmning 4 belgisini korsating:",
+    "Answers": [
+      "teri, soch, koz tur qavatida melanin bolmasligi",
+      "melanotsitlarda tirozinazaning bolmasligi",
+      "dioksifenilalanin sintezining buzilishi",
+      "fenilasetilglutaminni siydikda kop ajralishi"
+    ],
+    "Options": [
+      "siydikda gomogentezin kislota miqdorining ortishi",
+      "fenilpiruvatning siydik orqali kop ajralishi",
+      "kuchli proteinuriya",
+      "dofaxrom sintezining buzilishi"
+    ]
+  },
+  {
+    "Number": 608,
+    "Text": "Jigarda adrenalin va noradrenalin katabolizmiga olib keluvchi 3 turdagi reaksiyalarni korsating:",
+    "Answers": [
+      "monoaminooksidazalar tasirida dezaminlanish",
+      "gidroksil guruxini metillanishi",
+      "glyukuron va sulfat kislotalari bilan konyugatsiyalanish"
+    ],
+    "Options": [
+      "monoaminoksidazalar tasirida dekarboksillanish",
+      "glutamin kislobasi bilan konyugatsiyalanish",
+      "karboksil guruxini transaminlanishi"
+    ]
+  },
+  {
+    "Number": 609,
+    "Text": "Aminokislotalar dekarboksillanishining 4 xilini korsating:",
+    "Answers": [
+      "alfa-dekarboksillanishi",
+      "omega-dekarboksillanishi",
+      "transaminlanish bilan bogliq bolgan dekarboksillanishi",
+      "molekulalar kondensatsiyasi bilan bogliq bolgan"
+    ],
+    "Options": [
+      "dezaminlanish bilan bogliq bolmagan dekarboksillanishi",
+      "dezaminlanish bilan bogliq bolgan dekarboksillanish",
+      "betta-dekarboksillanish",
+      "gamma-dekarboksillanish"
+    ]
+  },
+  {
+    "Number": 610,
+    "Text": "Aromatik aminokislotalar dekarboksilazasi tasirida triptofan izomerlari va dioksifenillanindan xosil boluvchi biogen aminlarning 3  vakilini korsating:",
+    "Answers": [
+      "triptamin",
+      "dofamin",
+      "serotonin"
+    ],
+    "Options": [
+      "tiramin",
+      "gistamin",
+      "feniletilamin"
+    ]
+  },
+  {
+    "Number": 611,
+    "Text": "Gistamin fiziologik tasirining 5 tomonini korsating:",
+    "Answers": [
+      "qon tomirlarini kengaytiradi",
+      "kapillyarlar otkazuvchanligini oshiradi",
+      "bosh miya ichida bosimni orttiradi, boshni ogritadi",
+      "oshqozonda xlorid kislota sintezini orttiradi",
+      "organizmni desensibilizatsiya qiladi"
+    ],
+    "Options": [
+      "qon bosimini oshiradi",
+      "kapillyarlar otkazuvchanligini pasaytiradi",
+      "oshkozon NSL sintezini buzadi",
+      "allergiya chaqirmaydi",
+      "silliq mushaklarni qisqartiradi"
+    ]
+  },
+  {
+    "Number": 612,
+    "Text": "Serotonin fiziologik tasirining 5 tomonini korsating:",
+    "Answers": [
+      "qon tomirlarini toraytiradi",
+      "bronxial astmani qozgaydi",
+      "ichak peristaltikasini kuchaytiradi",
+      "antidiuretik tasir etadi",
+      "diurezni kamaytiradi"
+    ],
+    "Options": [
+      "qon bosimini pasaytiradi",
+      "opka mushaklarini boshashtiradi",
+      "ichakni atoniya qiladi",
+      "qon tomir mushaklarini boshaytiradi",
+      "oshqozonda NSL sintezini oshiradi"
+    ]
+  },
+  {
+    "Number": 613,
+    "Text": "Katexolaminlarning 3 ta vakilini korsating:",
+    "Answers": [
+      "dofamin",
+      "noradrenalin",
+      "adrenalin"
+    ],
+    "Options": [
+      "gamma-aminomoy kislota",
+      "kadaverin",
+      "putressin"
+    ]
+  },
+  {
+    "Number": 614,
+    "Text": "Biogen aminlar zararsizlantirilishining uch yolini korsating:",
+    "Answers": [
+      "jigarda konyugatsiya yoli bilan",
+      "dezaminlanish yoli",
+      "metillanish yoli bilan"
+    ],
+    "Options": [
+      "gidroksillanish yoli",
+      "transaminlanish yoli bilan",
+      "karboksillanish yoli bilan"
+    ]
+  },
+  {
+    "Number": 615,
+    "Text": "Ammiakning organizmda xosil boladigan 3 yolini korsating.",
+    "Answers": [
+      "aminokislotalar dezaminlanishi",
+      "nukleotidlar dezaminlanishi",
+      "biogen aminlar dezaminlanishi"
+    ],
+    "Options": [
+      "aminokislotalar transaminlanishi",
+      "aminokislotalar dekarboksillanishi",
+      "aminokislotalar reaminlanishi"
+    ]
+  },
+  {
+    "Number": 616,
+    "Text": "Ammiak zararsizlantirilishining 4 xil yolini korsating:",
+    "Answers": [
+      "asparagin, glutamin sinteziga sarflash",
+      "qayta reaminlanish jarayoniga sarflash",
+      "mochevina sinteziga sarflanishi",
+      "ammoniy tuzlarining xosil bolishi"
+    ],
+    "Options": [
+      "uglevodlar sinteziga sarflash yoli",
+      "lipidlar sinteziga sarflash",
+      "gem sinteziga sarflash",
+      "nukleotidlar sinteziga sarflash"
+    ]
+  },
+  {
+    "Number": 617,
+    "Text": "Siydikchil sintezi ornitin xalqasiga mansub 5 fermentni korsating:",
+    "Answers": [
+      "karbamoilfosfatsintetaza",
+      "ornitin-karbamoiltransferaza",
+      "argininosuksinatliaza",
+      "argininosuksinat sintetaza",
+      "arginaza"
+    ],
+    "Options": [
+      "argininsintetaza",
+      "fumaraza",
+      "ornitinsintetaza",
+      "karboksipeptidaza",
+      "transaminaza"
+    ]
+  },
+  {
+    "Number": 618,
+    "Text": "Kreatin sintezida qatnashuvchi 3 azoni korsating:",
+    "Answers": [
+      "buyrak",
+      "jigar",
+      "muskul"
+    ],
+    "Options": [
+      "yurak",
+      "miya",
+      "buyrak usti bezi"
+    ]
+  },
+  {
+    "Number": 619,
+    "Text": "Kreatin sintezida qatnashuvchi 3 aminokislotani korsating:",
+    "Answers": [
+      "glitsin",
+      "arginin",
+      "metionin"
+    ],
+    "Options": [
+      "alanin",
+      "glutamin",
+      "asparagin"
+    ]
+  }
+]
